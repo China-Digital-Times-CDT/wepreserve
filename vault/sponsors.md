@@ -1,0 +1,24 @@
+---
+id: brr1zrug1jl02gi80d1dv8c
+title: Sponsors
+desc: ''
+updated: 1648539430020
+created: 1648539430020
+---
+
+
+## Donation
+
+Please use cryptocurrency to support this project. We encourage you to convert fiat currencies(HKD, USD, etc.) into cryptocurrency before you send to this project.
+
+The donations will be used fully to this preservation project, to maintain its longevity, including but not limited to:
+
+- infrastructure and to pay for the hosting servers
+- development and maintenance costs
+- data collection cost from the participants
+
+
+## Helps from Global Organizations
+
+;[![Fusing between CDT and BKHK](./assets/CDT-backuphk.png)]
+
