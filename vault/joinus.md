@@ -2,7 +2,7 @@
 id: vzihkvznemcaaef2br0s1co
 title: Join Us
 desc: ''
-updated: 1648539279659
+updated: 1649833665765
 created: 1648539279659
 ---
 
@@ -13,3 +13,5 @@ We need volunteers to help us to build a better digital society, and first of al
 - Understand the risks participating such project
 - Knows how to protect your identity with secure communication tools(e.g. Signal), and anonymity tools(e.g. Tor)
 - Familiar with engineering tools(e.g. Git, Docker, etc.)
+
+## This is to show some changes made by M on 13 April 2022 at 15:07
