@@ -5,18 +5,25 @@ desc: ''
 updated: 1648525691085
 created: 1648525691085
 ---
-# Welcome to BHKO
 
-Backup Hong Kong Online(BHKO) is a community project to preserve those disappearing online web sites during 2020~ and on. It's anonymous and open source, with the support from a lot of online users. 
+[![Great Extinction](./assets/extinctions.jpeg)](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/) (_Courtesy: Hong Kong Freepress, 2021_)
+
+Backup Hong Kong Online(BHKO) is a community project to preserve those disappearing online web sites since 2019~ and on. It's anonymous and open source, with the support from a lot of online users. 
 
 
-## Quick Status
+## Goals
+- To preserve as much information as possible before its disappearance during Hong Kong's great transition
+- To illustrate a viable method that everyone can use to help preserve online heritage with no pains
+- To demonstrate global collaborations to save local digital heritages with best practices
 
-We have finished and/or are working on the following sites:
 
-- [Hong Kong Citizen News](https://www.hkcnews.com) (100%)
-- [Stand News](https://link.dendron.so/6b24) (100%)
-- [InMedia](https://www.inmediahk.net) (ongoing)
-- [Hong Kong Free Press](https://hongkongfp.com) (ongoing)
-- [Hong Kong Journalists Association](https://www.hkja.org.hk)
+## Quick Facts
+
+We are working on over dozens of [[websites or online causes | sites]] in Hong Kong in the past two decades which has been forced to shutdown or at the brink of disappearing:
+
+Examples:
+- [[sites.appledaily]] (Extincted)
+- [[sites.inmediahk]] (Risky)
+
+
 

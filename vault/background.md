@@ -10,7 +10,6 @@ Since 2020, Hong Kong has been imposed a National Security Law by the central go
 
 The idea was from a common concern mounted from a series of crackdowns in Hong Kong and disappearance of many media outlets, as well Non-governmental organizations. The list is growing longer and longer with no time to respond by civil society, especially on how to preserve their legacy content and valuable history documents, whether in digital or traditional formats. 
 
-[![Great Extinction](./assets/extinctions.jpeg)](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/) (The list was compiled by Hong Kong FreePress which itself may not last long as well )
 
 A team of digital activists are working on an new initiative, collaborating with this project, to develop some open tools to preserve these historical cluster of content, and set up an example and model to be used by any similar social/political environment. 
 

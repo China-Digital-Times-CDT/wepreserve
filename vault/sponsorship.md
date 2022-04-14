@@ -1,6 +1,6 @@
 ---
 id: brr1zrug1jl02gi80d1dv8c
-title: Sponsors
+title: Sponsorship
 desc: ''
 updated: 1648539430020
 created: 1648539430020
@@ -20,5 +20,8 @@ The donations will be used fully to this preservation project, to maintain its l
 
 ## Helps from Global Organizations
 
-;[![Fusing between CDT and BKHK](./assets/CDT-backuphk.png)]
-
+- Filecoin Foundation
+- Starling Lab
+- China Digital Times
+- Wikimedia Foundation
+- Internet Archive 
