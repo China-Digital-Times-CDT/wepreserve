@@ -2,11 +2,13 @@
 id: fzfda8r3h330gsr6wg5db9w
 title: Background
 desc: ''
-updated: 1648526223736
+updated: 1650029522181
 created: 1648526223736
 ---
 
-Since 2020, Hong Kong has been imposed a National Security Law by the central government, given the strong backslash from the local and international community. 
+Since 2020, Hong Kong has been imposed a National Security Law by the central government, given the strong backslash from the local and international communities. 
+
+After NSL was put into practice, the civil society has suffered huge losses by not only losing key activists but also their projects and public information channels. 
 
 The idea was from a common concern mounted from a series of crackdowns in Hong Kong and disappearance of many media outlets, as well Non-governmental organizations. The list is growing longer and longer with no time to respond by civil society, especially on how to preserve their legacy content and valuable history documents, whether in digital or traditional formats. 
 
