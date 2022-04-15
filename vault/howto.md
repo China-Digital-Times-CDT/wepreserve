@@ -2,7 +2,7 @@
 id: iu6nr9qel896bjhbckfl05d
 title: Howto
 desc: ''
-updated: 1648539827519
+updated: 1649912178447
 created: 1648539827519
 ---
 
@@ -17,9 +17,9 @@ created: 1648539827519
 
 ## Replay the Sites
 
-Download the artifact file,normall in the format of .wacz, then put into a local folder(Alert: the file could be a huge one up to xx GB). 
+Download the artifact file,normal in the format of .wacz, then put into a local folder(Alert: the file could be a huge one up to xx GB). 
 
-Once it downloaded, you can use the following link to replay the sites: https://replayweb.page/ 
+Once it downloaded, you can use the following link to replay the sites: https://replayweb.page/. E.g.  
 
 
 
