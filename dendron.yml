@@ -86,8 +86,8 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: Backup Hong Kong Online
+        description: Using community driven backup services to backup Hong Kong's extincting web heritages
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub

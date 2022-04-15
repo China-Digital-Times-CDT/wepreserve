@@ -2,7 +2,7 @@
 id: pfy4h1nwep9age7eg0u8xe1
 title: Backup Hong Kong Online
 desc: ''
-updated: 1648525691085
+updated: 1650017800424
 created: 1648525691085
 ---
 
@@ -23,7 +23,7 @@ We are working on over dozens of [[websites or online causes | sites]] in Hong K
 
 Examples:
 - [[sites.appledaily]] (Extincted)
-- [[sites.inmediahk]] (Risky)
+- [[sites.inmediahk]] (In Danger)
 
 
 
