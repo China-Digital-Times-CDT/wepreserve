@@ -84,7 +84,7 @@ publishing:
     siteHierarchies:
         - root
     writeStubs: false
-    siteRootDir: root
+    siteRootDir: docs
     seo:
         title: Backup Hong Kong Online
         description: Using community driven backup services to backup Hong Kong's extincting web heritages
