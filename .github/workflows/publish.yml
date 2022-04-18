@@ -1,10 +1,15 @@
-name: Build Dendron Static Site
+name: Dendron site build
 
 on:
-  workflow_dispatch: # Enables on-demand/manual triggering
   push:
     branches:
+    - master
     - main
+  pull_request:
+    branches:
+    - master
+    - main
+    - dev
 
 jobs:
   build:
@@ -15,38 +20,15 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Restore Node modules cache
-      uses: actions/cache@v2
-      id: node-modules-cache
-      with:
-        path: |
-          node_modules
-          .next/*
-          !.next/.next/cache
-          !.next/.env.*
-        key: ${{ runner.os }}-dendronv2-${{ hashFiles('**/yarn.lock', '**/package-lock.json') }}
-
-    - name: Install dependencies
+    - name: Install npm dependencies
       run: yarn
 
-    - name: Restore Next cache
-      uses: actions/cache@v2
-      with:
-        path: .next/.next/cache
-        # Generate a new cache whenever packages or source files change.
-        key: ${{ runner.os }}-nextjs-${{ hashFiles('.next/yarn.lock', '.next/package-lock.json') }}-${{ hashFiles('.next/**.[jt]s', '.next/**.[jt]sx') }}
+    - name: Print version
+      run: yarn dendron-cli -- --version
 
-    - name: Initialize or pull nextjs template
-      run: "(test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git pull && yarn && cd ..) || (echo 'init dendron next' && yarn dendron publish init)"
-
-    - name: Export notes
-      run: yarn dendron publish export --target github --yes
-
-    - name: Deploy site
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: pages
-        publish_dir: docs/
-        force_orphan: true
-        #cname: example.com
+    - name: Build Next.js site
+      run: |
+        echo 'init Dendron Next' && npx dendron publish init
+        echo 'install deps...' && cd .next && yarn && cd ..
+        echo 'version check...' && npx dendron --version
+        echo 'build and export...' && npx dendron publish export
