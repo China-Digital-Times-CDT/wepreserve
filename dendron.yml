@@ -74,7 +74,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    siteUrl: https://china-digital-times-cdt.github.io/wepreserve/
+    siteUrl: https://china-digital-times-cdt.github.io/
     assetsPrefix: /wepreserve
     enableFMTitle: true
     enableNoteTitleForLink: true
