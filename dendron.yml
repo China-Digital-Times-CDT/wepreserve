@@ -75,6 +75,7 @@ preview:
     automaticallyShowPreview: false
 publishing:
     siteUrl: https://china-digital-times-cdt.github.io/wepreserve/
+    assetsPrefix: /wepreserve
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
