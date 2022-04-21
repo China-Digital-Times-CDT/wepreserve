@@ -79,7 +79,7 @@ publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
-    logoPath: vault/assets/savehkonline.gif
+    logoPath: vault/assets/savehkonline_wbg.gif
     enableKatex: true
     copyAssets: true
     siteHierarchies:
