@@ -2,7 +2,7 @@
 id: fzfda8r3h330gsr6wg5db9w
 title: Background
 desc: ''
-updated: 1650029522181
+updated: 1650530141790
 created: 1648526223736
 ---
 
@@ -15,6 +15,6 @@ The idea was from a common concern mounted from a series of crackdowns in Hong K
 
 A team of digital activists are working on an new initiative, collaborating with this project, to develop some open tools to preserve these historical cluster of content, and set up an example and model to be used by any similar social/political environment. 
 
-The goal of this initiative, dubbed as Backup Hong Kong Online(BHKO) as such, is to collect the extinct content from those organizations and create an online archive at the beginning, then technologies will be used to keep the content last for a visible duration(10 years and on), and eventually shared and safeguarded by public crowd. 
+The goal of this initiative, dubbed as Save Hong Kong Online(SHKO) as such, is to collect the extinct content from those organizations and create an online archive at the beginning, then technologies will be used to keep the content last for a visible duration(10 years and on), and eventually shared and safeguarded by public crowd. 
 
 The extending goal of the project is to make such a preservation a common model by open-source all the details(except the participant's private information). Hence it can be reused by other similar projects. 
