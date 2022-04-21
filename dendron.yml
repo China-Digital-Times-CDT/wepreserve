@@ -87,7 +87,7 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Backup Hong Kong Online
+        title: Save Hong Kong Online
         description: Using community driven backup services to backup Hong Kong's extincting web heritages
     github:
         enableEditLink: true
