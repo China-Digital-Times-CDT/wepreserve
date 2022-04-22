@@ -1,8 +1,8 @@
 ---
 id: lu2l12dvswb0hkg33eojaxb
-title: Appledaily
+title: Apple Daily 蘋果日報
 desc: ''
-updated: 1650595395108
+updated: 1650595499151
 created: 1648613477814
 ---
 
@@ -18,5 +18,5 @@ _(Screenshot of Apple Daily Frontpage,  Courtesy: coconuts.co)_
 
 
 ## Archives
-- [On Internet Archive](https://web.archive.org/web/*/https://hk.appledaily.com/)
+- [Apple Daily On Internet Archive](https://web.archive.org/web/*/https://hk.appledaily.com/)
 
