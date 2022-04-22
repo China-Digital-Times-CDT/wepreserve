@@ -79,7 +79,7 @@ publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
-    logoPath: vault/assets/shko_yellow_grey.gif
+    logoPath: vault/assets/shko_green_grey.gif
     enableKatex: true
     copyAssets: true
     siteHierarchies:
