@@ -1,6 +1,6 @@
 ---
 id: 07g154bwuvdu1anxzudmd3m
-title: Hkctu
+title: Hong Kong Confederation of Trade Unions
 desc: ''
 updated: 1650856516334
 created: 1650856225456
