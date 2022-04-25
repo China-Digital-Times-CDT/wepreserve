@@ -10,3 +10,6 @@ created: 1650600081534
 
 The General Union of Hong Kong Speech Therapists was founded on 29 November 2019 with a mission to advocate justice, unite professionals in the trade, promote communication and defend rights. In July 2021, four of the union's former members, Lai Man-ling, Melody Yeung, Sidney Ng, Samuel Chan and Marco Fong were arrested by national security police. They were accused of publishing and distributing three children's books, _Guardians of the Sheep Village_, _12 Warriors of the Sheep Village_, and _Dustman of the Sheep Village_, to “bring into hatred or contempt or to excite disaffection” against the Hong Kong government and “the administration of justice in Hong Kong” .
 On 13 October 2021, the government of the HKSAR revoked the registration of the union. (URL: https://www.guhkst.org/)
+
+A screenshot of the website as of 25 April 2022:
+![image](https://user-images.githubusercontent.com/103475460/165094567-d5196f18-3cf1-4faf-89b7-a28f807c93d8.png)
