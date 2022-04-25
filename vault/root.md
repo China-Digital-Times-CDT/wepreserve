@@ -1,14 +1,15 @@
 ---
 id: pfy4h1nwep9age7eg0u8xe1
-title: Backup Hong Kong Online
+title: SHKO(Save Hong Kong Online)
 desc: ''
-updated: 1650017800424
+updated: 1650595097963
 created: 1648525691085
 ---
 
-[![Great Extinction](./assets/extinctions.jpeg)](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/) (_Courtesy: Hong Kong Freepress, 2021_)
+[![Great Extinction](./assets/extinctions.jpeg)](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/) 
+(_Courtesy: Hong Kong Freepress, 2021_)
 
-Backup Hong Kong Online(BHKO) is a community project to preserve those disappearing online web sites since 2019~ and on. It's anonymous and open source, with the support from a lot of online users. 
+SHKO (Save Hong Kong Online) is a community project to preserve those disappearing online web sites since 2019~ and on. It's anonymous and open source, with the support from a lot of online users. 
 
 
 ## Goals

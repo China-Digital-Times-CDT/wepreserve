@@ -2,10 +2,14 @@
 id: brr1zrug1jl02gi80d1dv8c
 title: Sponsorship
 desc: ''
-updated: 1648539430020
+updated: 1650534123024
 created: 1648539430020
 ---
 
+
+## Sharing
+
+Your simplest donation is to share this web site to your friends and social circles to let them know about the project and how much you care about the heritages. 
 
 ## Donation
 

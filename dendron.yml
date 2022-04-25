@@ -79,7 +79,7 @@ publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
-    enablePrettyRefs: true
+    logoPath: vault/assets/shko_green_grey.gif
     enableKatex: true
     copyAssets: true
     siteHierarchies:
@@ -87,13 +87,14 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Backup Hong Kong Online
+        title: Save Hong Kong Online
         description: Using community driven backup services to backup Hong Kong's extincting web heritages
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
+        editRepository: 'https://github.com/China-Digital-Times-CDT/wepreserve'
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false

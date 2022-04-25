@@ -1,8 +1,8 @@
 ---
 id: jriy4sb0p5rbt5wxyulvonx
-title: Inmediahk
+title: Inmediahk 獨立媒體
 desc: ''
-updated: 1650358113341
+updated: 1650596877597
 created: 1648712022165
 ---
 
@@ -11,21 +11,20 @@ created: 1648712022165
 
 Founded in 2004, Hong Kong In-media is an independent news & media platform for democratic and social movement. The platform centres on a wide range of social, political and cultural issues of Hong Kong.
 
+Official site: https://www.inmediahk.net/
+
+![Inmedia HK Frontpage](./assets/frontpage_inmedia.png)
 
 
-## Artifacts 
 
-A single file compressed from the whole site as a snapshot from the specific date(time). The file is in a popular compression format called WACZ. 
+## Archives 
 
-- Latest(2022-3-10): [2022-3-10.wacz](https://bafybeieldyl7quzpuqldxbs7ib7th43bkjhcx3vl4b3gvdbkn57mzzpneq.ipfs.dweb.link/fixtures/inmediahk-03_30_2022.wacz)
-- Previous: 
-    - 2022-2-10:
-    - 2022-1-09:
+- WACZ([[howto]]):
+    - Latest(2022-3-10): [2022-3-10.wacz](https://bafybeieldyl7quzpuqldxbs7ib7th43bkjhcx3vl4b3gvdbkn57mzzpneq.ipfs.dweb.link/fixtures/inmediahk-03_30_2022.wacz)
+    - Previous: 
+        - 2022-2-10:
+        - 2022-1-09:
 
-## How to playback
+- Internet Archive:
+    - https://web.archive.org/web/*/https://www.inmediahk.net/
 
-- Download the artifact above(caution: it's a large file)
-- Open ReplayWeb (https://replayweb.page)
-- Select the file you downloaded to view the whole site
-
-More details about web archive playback, please check out how-to page. 
