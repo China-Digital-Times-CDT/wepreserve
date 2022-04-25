@@ -2,7 +2,7 @@
 id: jriy4sb0p5rbt5wxyulvonx
 title: Inmediahk 獨立媒體
 desc: ''
-updated: 1650596877597
+updated: 1650600756413
 created: 1648712022165
 ---
 
@@ -19,7 +19,7 @@ Official site: https://www.inmediahk.net/
 
 ## Archives 
 
-- WACZ([[howto]]):
+- Web3 ([[howto]]):
     - Latest(2022-3-10): [2022-3-10.wacz](https://bafybeieldyl7quzpuqldxbs7ib7th43bkjhcx3vl4b3gvdbkn57mzzpneq.ipfs.dweb.link/fixtures/inmediahk-03_30_2022.wacz)
     - Previous: 
         - 2022-2-10:
