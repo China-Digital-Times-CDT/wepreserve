@@ -2,7 +2,7 @@
 id: pfy4h1nwep9age7eg0u8xe1
 title: SHKO(Save Hong Kong Online)
 desc: ''
-updated: 1650793968484
+updated: 1650897535809
 created: 1648525691085
 ---
 
@@ -20,7 +20,7 @@ SHKO (Save Hong Kong Online) is a community project to preserve those disappeari
 
 ## Quick Facts
 
-We are working on over dozens of [[websites or online causes | sites]] in Hong Kong in the past two decades which has been forced to shutdown or at the brink of disappearing:
+We are working on over dozens of [[websites or online causes | sites]] in Hong Kong in the past two decades which has been forced to shutdown or at the brink of disappearing. We'd welcome anyone help [[contribute | howto]] to the content and/or [[sponsor | sponsorship]] our program to sustain it together. 
 
 Examples:
 - [[sites.appledaily]] (Extincted)
