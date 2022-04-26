@@ -2,7 +2,7 @@
 id: mox9iceolv8vwqnait2j2ga
 title: Glory To Hong Kong(Song)
 desc: ''
-updated: 1650947346334
+updated: 1650948530577
 created: 1650946728735
 ---
 
@@ -60,8 +60,7 @@ Glory be to thee Hong Kong
 
 ## Official Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=y7yRDOLCy4Y" title="Glory To Hong Kong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7yRDOLCy4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Derived Editions/Performances
 
