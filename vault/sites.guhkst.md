@@ -2,7 +2,7 @@
 id: p9yv8nnjdb90urz9yk1i7f4
 title: Guhkst
 desc: ''
-updated: 1650854910122
+updated: 1650858626893
 created: 1650600081534
 ---
 ​香港言語治療師總工會（職工會登記編號：1357）於2019年11月29日刊憲正式成立。工會宗旨為「捍衛公義、團結業界、促進溝通、爭取權益」。根據傳媒報道，工會擁有約二百名成員，佔該行業專業人員總數的六分之一。2021年7月，工會5名成員，包括黎雯齡（25歲）、楊逸意（27歲）、伍巧怡（28歲）、陳源森（25歲）及方梓皓（26歲）涉嫌串謀刊印、發佈、分發、展示或複製煽動刊物罪被捕。所涉刊物包括《羊村守衛者》、《羊村十二勇士》和《羊村清道夫》。2021年10月13日，香港政府撤銷該工會之登記。
@@ -13,3 +13,10 @@ On 13 October 2021, the government of the HKSAR revoked the registration of the 
 
 A screenshot of the website as of 25 April 2022:
 ![image](https://user-images.githubusercontent.com/103475460/165094567-d5196f18-3cf1-4faf-89b7-a28f807c93d8.png)
+
+## Archives
+
+- Web3:
+    - Sheep Village Series(1-3): https://bafybeicntq4lzhytql7ey2y2tc4uu6ptyh7oy56bxpxcvxqkdh62uegip4.ipfs.dweb.link/fixtures
+
+- Relevant page: https://web.archive.org/web/20210722233229/https://www.guhkst.org/publication
