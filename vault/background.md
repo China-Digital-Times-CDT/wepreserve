@@ -2,7 +2,7 @@
 id: fzfda8r3h330gsr6wg5db9w
 title: Background
 desc: ''
-updated: 1650936496313
+updated: 1650937817967
 created: 1648526223736
 ---
 
@@ -22,5 +22,5 @@ The extending goal of the project is to make such a preservation a common model 
 
 ## references
 
-- https://hongkongfp.com/2022/04/25/breaking-hong-kongs-human-rights-press-awards-cancelled/ 
-- 
+- [Free media in Hong Kong almost completely dismantled](https://www.theguardian.com/world/2022/apr/26/free-media-in-hong-kong-almost-completely-dismantled-report?CMP=twt_a-world_b-gdnworld)
+- [Hong Kong’s Human Rights Press Awards cancelled, citing legal risks](https://hongkongfp.com/2022/04/25/breaking-hong-kongs-human-rights-press-awards-cancelled/) 
