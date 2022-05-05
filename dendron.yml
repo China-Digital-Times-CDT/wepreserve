@@ -64,6 +64,7 @@ workspace:
     enableEditorDecorations: true
     maxPreviewsCached: 10
     maxNoteLength: 204800
+    enableFullHierarchyNoteTitle: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -79,7 +80,7 @@ publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
-    logoPath: vault/assets/shko_green_grey.gif
+    logoPath: vault/assets/yellow_black_logo.png
     enableKatex: true
     copyAssets: true
     siteHierarchies:
@@ -88,13 +89,15 @@ publishing:
     siteRootDir: docs
     seo:
         title: Save Hong Kong Online
-        description: Using community driven backup services to backup Hong Kong's extincting web heritages
+        description: >-
+            Using community driven backup services to backup Hong Kong's
+            extincting web heritages
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
-        editRepository: 'https://github.com/China-Digital-Times-CDT/wepreserve'
+        editRepository: https://github.com/China-Digital-Times-CDT/wepreserve
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
@@ -104,3 +107,4 @@ publishing:
         action: useVault
         payload:
             - vault
+    enablePrettyRefs: true

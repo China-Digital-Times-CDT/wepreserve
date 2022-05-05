@@ -2,7 +2,7 @@
 id: fzfda8r3h330gsr6wg5db9w
 title: Background
 desc: ''
-updated: 1650937817967
+updated: 1651716036641
 created: 1648526223736
 ---
 
@@ -24,3 +24,4 @@ The extending goal of the project is to make such a preservation a common model 
 
 - [Free media in Hong Kong almost completely dismantled](https://www.theguardian.com/world/2022/apr/26/free-media-in-hong-kong-almost-completely-dismantled-report?CMP=twt_a-world_b-gdnworld)
 - [Hong Kong’s Human Rights Press Awards cancelled, citing legal risks](https://hongkongfp.com/2022/04/25/breaking-hong-kongs-human-rights-press-awards-cancelled/) 
+- [World Press Freedom Day: Hong Kong nosedives in press freedom ranking – below Cambodia, Somalia, Sri Lanka](https://web.archive.org/web/20220505015738/https://hongkongfp.com/2022/05/03/world-press-freedom-day-hong-kong-nosedives-in-press-freedom-ranking-below-cambodia-somalia-sri-lanka/)
