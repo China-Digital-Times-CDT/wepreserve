@@ -12,3 +12,6 @@ DB Channel was created by Frankie Fung and Nilk Wu during the Anti-Extradition L
 
 Reference:
 https://hongkongfp.com/2021/11/05/online-media-outlet-db-channel-shuts-operations-in-hong-kong-as-detained-co-founder-awaits-national-security-trial/
+
+A screenshot of the homepage as of 10 January 2021:
+![image](https://user-images.githubusercontent.com/103475460/169372969-f8b8fc57-c4bd-44d0-bd0a-9348f15e50ba.png)
