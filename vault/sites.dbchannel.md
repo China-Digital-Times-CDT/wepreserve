@@ -1,0 +1,14 @@
+---
+id: l2hz0s2kfs3g3qh8ri5wd3s
+title: DB Channel
+desc: ''
+updated: 1652984306339
+created: 1652983791387
+---
+
+加山傳播 (DB Channel) 是一個香港網上媒體，由馮達浚與胡戩在香港逃犯條例爭議期間創辦。該媒體於2021年11月宣佈停運。(URL: http://dbchannel.hk/)
+
+DB Channel was created by Frankie Fung and Nilk Wu during the Anti-Extradition Law Amendment Bill (Anti-ELAB) movement. It shut down operations in November 2021. (URL: http://dbchannel.hk/)
+
+Reference:
+https://hongkongfp.com/2021/11/05/online-media-outlet-db-channel-shuts-operations-in-hong-kong-as-detained-co-founder-awaits-national-security-trial/
