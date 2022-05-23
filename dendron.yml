@@ -75,8 +75,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    siteUrl: https://china-digital-times-cdt.github.io/
-    assetsPrefix: /wepreserve
+    siteUrl: https://savehkonline.org
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
