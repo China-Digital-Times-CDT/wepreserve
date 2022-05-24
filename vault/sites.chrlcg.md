@@ -1,8 +1,8 @@
 ---
 id: 4epei9e5j4sgn73mf9w5ls8
-title: China Human Rights Lawyers Concern Group
+title: CHRLCG|中國維權律師關注組
 desc: ''
-updated: 1650872663658
+updated: 1653363399348
 created: 1650872408073
 ---
 

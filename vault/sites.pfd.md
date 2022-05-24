@@ -1,8 +1,8 @@
 ---
 id: w5wg2ellnfu8xoypazboy3y
-title: Power for Democracy
+title: Power for Democracy|民主動力
 desc: ''
-updated: 1651469900800
+updated: 1653363203048
 created: 1651469710638
 ---
 

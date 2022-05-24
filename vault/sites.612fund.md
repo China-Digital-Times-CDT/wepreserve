@@ -1,8 +1,8 @@
 ---
 id: dufdw69x0qmd2b3w7d672p4
-title: 612fund
+title: 612 Fund|612基金會
 desc: ''
-updated: 1650983411714
+updated: 1653362423093
 created: 1650983002698
 ---
 

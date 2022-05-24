@@ -1,8 +1,8 @@
 ---
 id: 07g154bwuvdu1anxzudmd3m
-title: Hong Kong Confederation of Trade Unions
+title: HKCTU|職工盟
 desc: ''
-updated: 1650856516334
+updated: 1653362983790
 created: 1650856225456
 ---
 

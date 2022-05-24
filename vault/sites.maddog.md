@@ -1,8 +1,8 @@
 ---
 id: 5jxtpag0ht7jn6ka3i6f5uw
-title: Mad Dog Daily
+title: Mad Dog Daily|癲狗日報
 desc: ''
-updated: 1652983836857
+updated: 1653363162981
 created: 1652983251466
 ---
 

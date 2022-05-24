@@ -1,8 +1,8 @@
 ---
 id: xi0xgzxzuadptets68dbs31
-title: The Foreign Correspondents' Club, Hong Kong
+title: FCC|香港外國記者會
 desc: ''
-updated: 1651468130083
+updated: 1653363438043
 created: 1651464452993
 ---
 
@@ -12,3 +12,6 @@ The Club was founded in Chongqing in 1943 and moved to Hong Kong from Shanghai, 
 
 Reference:
 https://hongkongfp.com/2022/05/01/why-the-days-of-hong-kongs-foreign-correspondents-club-may-be-numbered/
+
+A screenshot as of 24 May 2022:
+![image](https://user-images.githubusercontent.com/103475460/169946992-02a2d251-9560-4bb5-9af1-d7c93418e589.png)

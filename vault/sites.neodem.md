@@ -1,8 +1,8 @@
 ---
 id: 7xcamxt1pxg1hi6mao29io0
-title: Neo Democrats
+title: Neo Democrats|新同盟
 desc: ''
-updated: 1652205428956
+updated: 1653363191398
 created: 1652205295199
 ---
 
