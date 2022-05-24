@@ -1,8 +1,8 @@
 ---
 id: dv1gn8savw4m93s4qrh96jh
-title: League of Social Democrats
+title: LSD|社民連
 desc: ''
-updated: 1652204282073
+updated: 1653363149862
 created: 1652203938749
 ---
 

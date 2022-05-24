@@ -1,8 +1,8 @@
 ---
 id: jsb32bx2qu1fdhdbrsoef47
-title: Hong Kong Pastors Network
+title: Hong Kong Pastors Network|香港基督教教牧聯署籌委會
 desc: ''
-updated: 1652204895741
+updated: 1653363055087
 created: 1652204394822
 ---
 

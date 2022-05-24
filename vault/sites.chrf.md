@@ -1,8 +1,8 @@
 ---
 id: sjhjzts9jlz2dyz2vc03f9x
-title: Civil Human Rights Front
+title: CHRF|民陣
 desc: ''
-updated: 1651470072104
+updated: 1653362492165
 created: 1651469999989
 ---
 
