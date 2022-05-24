@@ -2,7 +2,7 @@
 id: lu2l12dvswb0hkg33eojaxb
 title: Apple Daily|蘋果日報
 desc: ''
-updated: 1653362428786
+updated: 1653381605910
 created: 1648613477814
 ---
 
@@ -18,7 +18,10 @@ _(Screenshot of Apple Daily Frontpage,  Courtesy: coconuts.co)_
 
 
 ## Archives
-- [Apple Daily On Internet Archive](https://web.archive.org/web/*/https://hk.appledaily.com/)
+(State: Completed)
 
+- [昔日蘋果 by Collection.News Project ](https://collection.news/appledaily)
 
-- [By Collection.News Project](https://collection.news/thestandnews)
+- [.WACZ(via Collection.News)](https://bafybeiheijm254aewd5hmcucyzqwidvsh52dtufwr3d7exkdfaikygrbqi.ipfs.dweb.link/fixtures/appledaily-05_23_2020.wacz)   ([[howto.replay]])
+
+- [Internet Archive](https://web.archive.org/web/*/https://hk.appledaily.com/)

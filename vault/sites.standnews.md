@@ -2,7 +2,7 @@
 id: q6ovd682gm79nej500y0bv3
 title: Stand News|立場新聞
 desc: ''
-updated: 1653363264481
+updated: 1653381636332
 created: 1650505108657
 ---
 
@@ -22,6 +22,9 @@ https://web.archive.org/web/*/https://www.thestandnews.com
 
 ## Archives
 
+- [昔日立場 by Collection.News Project](https://collection.news/thestandnews)
+
+- [.WACZ(via Collection.News)](https://bafybeibxk2iqd4sdf2ey5djddiro3oohlceet5xe7fxxioaspbbi7adwbi.ipfs.dweb.link/fixtures/standnews-05_12_2022.wacz)   ([[howto.replay]])
+
 - [Internet Archive on The StandNews](https://web.archive.org/web/*/http://www.thestandnews.com/)
-- [By Collection.News Project](https://collection.news/thestandnews)
 

@@ -2,7 +2,7 @@
 id: 5jxtpag0ht7jn6ka3i6f5uw
 title: Mad Dog Daily|癲狗日報
 desc: ''
-updated: 1653363162981
+updated: 1653380998947
 created: 1652983251466
 ---
 
@@ -12,3 +12,9 @@ Mad Dog Daily was founded by former member of the Legislative Council of Hong Ko
 
 A screenshot as of 15 December 2019:
 ![image](https://user-images.githubusercontent.com/103475460/169372678-decbd6fb-d812-45e7-88d5-36eaeab2ed85.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.maddog.myradio.hk/)

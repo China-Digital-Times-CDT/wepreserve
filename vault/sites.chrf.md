@@ -2,7 +2,7 @@
 id: sjhjzts9jlz2dyz2vc03f9x
 title: CHRF|民陣
 desc: ''
-updated: 1653362492165
+updated: 1653378760200
 created: 1651469999989
 ---
 
@@ -12,3 +12,9 @@ The Civil Human Rights Front (CHRF) was an organisation that focused on the issu
 
 A screenshot of the website as of 5 May 2021:
 ![image](https://user-images.githubusercontent.com/103475460/166191025-232993b5-2fa4-44b1-8c03-cc929e90e6e7.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.civilhrfront.org/)

@@ -2,7 +2,7 @@
 id: fa4wnbx592ldn2ymb87u7hd
 title: HKPORI|香港民研
 desc: ''
-updated: 1653363358479
+updated: 1653381309452
 created: 1648712062179
 ---
 
@@ -17,9 +17,7 @@ Ended:
 
 ## Archives
 
-- Web3 
-  - https://bafybeiae2dbmpdo5ulcll3ksx5dlqbyw2qbmuewvtqma653nlocz5gf4ay.ipfs.dweb.link/fixtures/pori-04_25_2022.wacz
-  - (25/04/2022, [[howto.replay#reply-wacz-files]]]])
+- [.WACZ as of 25/04/2022](https://bafybeiae2dbmpdo5ulcll3ksx5dlqbyw2qbmuewvtqma653nlocz5gf4ay.ipfs.dweb.link/fixtures/pori-04_25_2022.wacz) ([[howto.replay#reply-wacz-files]])
 
-- Wayback Machine
-  - https://web.archive.org/web/*/https://www.pori.hk/ 
+- [Wayback Machine](https://web.archive.org/web/*/https://www.pori.hk/ 
+)

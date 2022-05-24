@@ -2,7 +2,7 @@
 id: 07g154bwuvdu1anxzudmd3m
 title: HKCTU|職工盟
 desc: ''
-updated: 1653362983790
+updated: 1653380183245
 created: 1650856225456
 ---
 
@@ -12,3 +12,9 @@ The Hong Kong Confederation of Trade Unions (HKCTU) is a defunct trade union org
 
 A screenshot of the website as of 10 July 2021:
 ![image](https://user-images.githubusercontent.com/103475460/165096448-5c0b894b-2043-459c-9cfd-b923871dbcaa.png)
+
+
+## Archives
+(States: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/20190708095757/https://www.hkctu.org.hk/)

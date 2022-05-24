@@ -2,7 +2,7 @@
 id: m98mt34rcyn6x0myu4xudjn
 title: PTA|進師盟
 desc: ''
-updated: 1653363257803
+updated: 1653381368954
 created: 1650984892847
 ---
 
@@ -12,3 +12,11 @@ The Progressive Teachers' Alliance (PTA) was a teachers' organisation in Hong Ko
 
 A screenshot of the website as of 21 May 2018:
 ![image](https://user-images.githubusercontent.com/103475460/165335323-dd50459b-df44-4ca6-9c46-775024939c8f.png)
+
+
+## Archives
+(State: Incomplete)
+
+
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.proteachers.org.hk/)

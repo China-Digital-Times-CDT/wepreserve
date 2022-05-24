@@ -2,7 +2,7 @@
 id: p9ulgzlzkmoaa7fn4oav20n
 title: ATD|真普選聯盟
 desc: ''
-updated: 1653363414189
+updated: 1653378716597
 created: 1650983610967
 ---
 
@@ -12,3 +12,9 @@ The Alliance for True Democracy was a coalition of the pan-democrats to fight fo
 
 A screenshot of the website as of 23 January 2021
 ![image](https://user-images.githubusercontent.com/103475460/165333922-0b4e32e2-da55-4756-8a20-fe8ac49defab.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Waybackmachine](https://web.archive.org/web/*/http://www.atd.hk/)

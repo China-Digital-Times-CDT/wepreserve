@@ -2,7 +2,7 @@
 id: d7ltxj7z3rf6yljcyg114ny
 title: HKPTU|教協
 desc: ''
-updated: 1653363082153
+updated: 1653380515524
 created: 1650883836482
 ---
 
@@ -12,3 +12,9 @@ The Hong Kong Professional Teachers' Union (HKPTU) is a union of teachers from u
 
 A screenshot of the website as of 18 July 2021:
 ![image](https://user-images.githubusercontent.com/103475460/165096934-7a4f42d9-cd43-4aff-b177-8098c183636d.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.hkptu.org/)

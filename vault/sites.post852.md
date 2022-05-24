@@ -2,7 +2,7 @@
 id: 33ntwiqahd4qwoaeecdn9af
 title: Post 852|852郵報
 desc: ''
-updated: 1653363237210
+updated: 1653381329475
 created: 1650468180922
 ---
 
@@ -12,3 +12,9 @@ Post 852 was founded in 2013 by Yuen Yiu Ching, former deputy chief editor of Ho
 
 A screenshot of the website as of 3 February 2021:
 ![image](https://user-images.githubusercontent.com/103475460/165334630-b22b0991-93e6-4532-b80e-3d6d4c614101.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.post852.com/)
