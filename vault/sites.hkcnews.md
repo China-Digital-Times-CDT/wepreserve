@@ -2,7 +2,7 @@
 id: bv9b47vi18jr87xi5uiy48g
 title: Citizen News|眾新聞
 desc: ''
-updated: 1653362889975
+updated: 1653380099124
 created: 1650505467317
 ---
 
@@ -10,3 +10,9 @@ created: 1650505467317
 
 
 Citizen News or CitizenNews (Chinese: 眾新聞) was an online news website based in Hong Kong. The platform was launched on 1 January 2017 and shut down on 4 January 2022 amid a government crackdown on news media. (URL: https://www.hkcnews.com/)
+
+
+## Archives
+(State: Ongoing)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.hkcnews.com/)

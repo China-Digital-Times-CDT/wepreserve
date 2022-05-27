@@ -2,7 +2,7 @@
 id: xi0xgzxzuadptets68dbs31
 title: FCC|香港外國記者會
 desc: ''
-updated: 1653363438043
+updated: 1653380225558
 created: 1651464452993
 ---
 
@@ -15,3 +15,9 @@ https://hongkongfp.com/2022/05/01/why-the-days-of-hong-kongs-foreign-corresponde
 
 A screenshot as of 24 May 2022:
 ![image](https://user-images.githubusercontent.com/103475460/169946992-02a2d251-9560-4bb5-9af1-d7c93418e589.png)
+
+
+## Archives
+(State: In Progress)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.fcchk.org/)

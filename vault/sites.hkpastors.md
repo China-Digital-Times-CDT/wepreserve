@@ -2,7 +2,7 @@
 id: jsb32bx2qu1fdhdbrsoef47
 title: Hong Kong Pastors Network|香港基督教教牧聯署籌委會
 desc: ''
-updated: 1653363055087
+updated: 1653380433023
 created: 1652204394822
 ---
 
@@ -12,3 +12,10 @@ In May 2019, the Hong Kong SAR Government proposed the Extradiction Law Amendmen
 
 A screenshot as of 24 May 2022:
 ![image](https://user-images.githubusercontent.com/103475460/169947289-3aaaa59b-d1db-41fc-8616-624ee5189cb1.png)
+
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.hkpastors.net/)

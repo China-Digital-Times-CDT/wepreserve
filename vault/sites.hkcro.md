@@ -2,7 +2,7 @@
 id: brqstsp1v6lnf1n0rm4ase0
 title: HKCRO|民權觀察
 desc: ''
-updated: 1653362964698
+updated: 1653380047130
 created: 1650984367213
 ---
 
@@ -12,3 +12,9 @@ Civil Rights Observer is a civil society organisation formed after the Umbrella 
 
 A screenshot of the website as of 29 May 2020:
 ![image](https://user-images.githubusercontent.com/103475460/165333407-acbd2c43-cf43-43c9-963b-ea36ee27d54f.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.hkcro.org/)

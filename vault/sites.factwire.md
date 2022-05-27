@@ -2,7 +2,7 @@
 id: 5iom2ypahedhsabpx592itb
 title: Factwire|傳真社
 desc: ''
-updated: 1653362577296
+updated: 1653380237973
 created: 1650474501518
 ---
 
@@ -12,3 +12,10 @@ FactWire is an investigative news agency headquartered in Kowloon, Hong Kong. 3,
 
 A screenshot of the website as of 25 April 2022:
 ![image](https://user-images.githubusercontent.com/103475460/165094356-ba7e0e95-da2e-456f-b7b8-9c7d287287ba.png)
+
+
+## Archives
+(State: In Progress)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.factwire.org/en/)
+- [.WaCZ](TBD)

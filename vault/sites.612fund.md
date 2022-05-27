@@ -2,7 +2,7 @@
 id: dufdw69x0qmd2b3w7d672p4
 title: 612 Fund|612基金會
 desc: ''
-updated: 1653362423093
+updated: 1653378529019
 created: 1650983002698
 ---
 
@@ -12,3 +12,10 @@ Established on 15th June, 2019, the Fund aims to provide humanitarian and releva
 
 A screenshot as of 26 April 2022:
 ![image](https://user-images.githubusercontent.com/103475460/165332748-5ca37d4c-a981-4d24-af7e-b759475df397.png)
+
+
+## Archives
+(State: Incomplete)
+
+- Internet Archive:
+    - [Waybackmachine](https://web.archive.org/web/*/http://www.612fund.hk/)

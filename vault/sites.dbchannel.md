@@ -2,7 +2,7 @@
 id: l2hz0s2kfs3g3qh8ri5wd3s
 title: DB Channel|加山傳播
 desc: ''
-updated: 1653362560402
+updated: 1653378883845
 created: 1652983791387
 ---
 
@@ -15,3 +15,9 @@ https://hongkongfp.com/2021/11/05/online-media-outlet-db-channel-shuts-operation
 
 A screenshot of the homepage as of 10 January 2021:
 ![image](https://user-images.githubusercontent.com/103475460/169372969-f8b8fc57-c4bd-44d0-bd0a-9348f15e50ba.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://dbchannel.hk/)

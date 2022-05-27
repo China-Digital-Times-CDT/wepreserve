@@ -2,7 +2,7 @@
 id: ju72vzz4n18y533d8cr0xe3
 title: HKSWGU|社總
 desc: ''
-updated: 1653363119452
+updated: 1653380550039
 created: 1652981636129
 ---
 
@@ -13,3 +13,9 @@ Hong Kong Social Workers' General Union (HKSWGU) is a trade union for the social
 
 A screenshot as of 20 May 2021
 ![image](https://user-images.githubusercontent.com/103475460/169373151-d6ff4924-5a0d-4d6e-aa1a-1d07f0b45fd1.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/https://www.hkswgu.org.hk/)

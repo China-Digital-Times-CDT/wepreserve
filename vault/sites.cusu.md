@@ -2,7 +2,7 @@
 id: sodcv3bncb45c0k22bnejp4
 title: CUSU|香港中文大學學生會
 desc: ''
-updated: 1653362542619
+updated: 1653378841354
 created: 1650855169489
 ---
 
@@ -12,3 +12,9 @@ The Student Union of The Chinese University of Hong Kong is a student union that
 
 A screenshot of the Facebook Page of the union as of 25 April 2022:
 ![image](https://user-images.githubusercontent.com/103475460/165094085-8b83b943-e884-49e0-9382-d1533a05f9de.png)
+
+
+## Archives
+(State: Incomplete)
+
+- [Wayback Machine](https://web.archive.org/web/*/https://www.facebook.com/CUHK.SU)

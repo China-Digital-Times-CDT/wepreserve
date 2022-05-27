@@ -2,7 +2,7 @@
 id: dv1gn8savw4m93s4qrh96jh
 title: LSD|社民連
 desc: ''
-updated: 1653363149862
+updated: 1653380982077
 created: 1652203938749
 ---
 
@@ -15,3 +15,9 @@ https://hongkongfp.com/2022/05/08/in-pictures-hong-kong-pro-democracy-group-call
 
 A screenshot of the website as of 24 May 2022:
 ![image](https://user-images.githubusercontent.com/103475460/169947129-fe8a5ced-2388-4cb7-9707-6a5ce58cfa68.png)
+
+
+## Archives
+(State: In Progress)
+
+- [Wayback Machine](https://web.archive.org/web/*/http://www.lsd.org.hk/)
