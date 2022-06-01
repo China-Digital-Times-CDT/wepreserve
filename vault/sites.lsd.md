@@ -2,7 +2,7 @@
 id: dv1gn8savw4m93s4qrh96jh
 title: LSD|社民連
 desc: ''
-updated: 1653380982077
+updated: 1654055114688
 created: 1652203938749
 ---
 
@@ -20,4 +20,5 @@ A screenshot of the website as of 24 May 2022:
 ## Archives
 (State: In Progress)
 
+- [.WACZ as of 2022-05-24](https://bafybeid5536v3l6j7rkcksn2zamke2dpqojr7fzlr5ryrrniff36w6ncfm.ipfs.dweb.link/fixtures/lsd-05_24_2022.wacz)
 - [Wayback Machine](https://web.archive.org/web/*/http://www.lsd.org.hk/)
