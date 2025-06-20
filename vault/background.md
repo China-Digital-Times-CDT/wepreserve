@@ -6,18 +6,17 @@ updated: 1651716036641
 created: 1648526223736
 ---
 
-Since 2020, Hong Kong has been imposed a National Security Law by the central government, given the strong backslash from the local and international communities. 
+Since 2020, Hong Kong has been subject to the National Security Law imposed by the central government, sparking strong backlash from both local and international communities.
 
-After NSL was put into practice, the civil society has suffered huge losses by not only losing key activists but also their projects and public information channels. 
+In the wake of the law’s implementation, civil society in Hong Kong has suffered devastating setbacks—not only through the arrest or exile of key activists, but also through the dismantling of their projects and the loss of public information channels.
 
-The idea of SHKO was from a common concern mounted from a series of crackdowns in Hong Kong and disappearance of many media outlets, as well Non-governmental organizations. The list of dangerous projects is growing longer and longer with no time to respond by civil society, especially on how to preserve their legacy content and valuable history documents, whether in digital or traditional formats. 
+The idea for SHKO emerged from a shared concern over a series of crackdowns in Hong Kong, including the disappearance of independent media outlets and the forced shutdown of numerous non-governmental organizations. With the list of endangered projects growing rapidly, civil society has had little time or capacity to respond—particularly in preserving the legacy content and historical records, whether digital or physical, of these suppressed entities.
 
+In response, a group of digital activists has launched a new initiative in collaboration with this project. Their mission is to build open-source tools that can preserve these clusters of historically significant content and establish a replicable model for use in similar politically sensitive environments.
 
-A team of digital activists are working on an new initiative, collaborating with this project, to develop some open tools to preserve these historical cluster of content, and set up an example and model to be used by any similar social/political environment. 
+The immediate goal is to collect and archive at-risk content from affected organizations, creating a publicly accessible online archive. Long-term, the project aims to ensure this content remains available for at least a decade or more, safeguarded through decentralized and crowd-supported means.
 
-The goal of this initiative is to collect the extinct content from those organizations and create an online archive at the beginning, then technologies will be used to keep the content last for a visible duration(10 years and on), and eventually shared and safeguarded by public crowd. 
-
-The extending goal of the project is to make such a preservation a common model by open-source all the details(except the participant's private information). Hence it can be reused by other similar projects. 
+Ultimately, the project seeks to establish a preservation model that is open, transparent, and reusable. All tools and methodologies—excluding any private participant information—will be open-sourced, enabling others around the world to adopt and adapt the framework for their own preservation efforts.
 
 
 ## references
