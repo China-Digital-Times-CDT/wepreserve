@@ -32,7 +32,7 @@ jobs:
       run: yarn dendron-cli -- --version
       
     - name: Restore Next cache
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: .next/.next/cache
         # Generate a new cache whenever packages or source files change.
