@@ -2,13 +2,13 @@
 id: pwcmtdnnjno9hu8dqc1m0o7
 title: Webb
 desc: ''
-updated: 1751325016801
+updated: 1751325776196
 created: 1751321669226
 ---
 Webb-site.com is a Hong Kong-based financial news and information website, founded by David Webb in 1998. It provides independent analysis of Hong Kong's financial markets, companies, and government policies. The site is known for its critical stance on corporate governance issues and its advocacy for shareholder rights.
 https://webb-site.com
 
-![Webb-site logo](./assets/webb.png)
+![Webb-site logo](/assets/webb.png)
 
 David Webb 所創立的財經網站 Webb-site，自 1998 年起成為香港企業治理和股市透明度的重要監察平台。他多年來追蹤並揭露香港上市公司董事、高管及顧問的資料，致力於促進資訊公開與小股東權益。他以其精密的數據庫與嚴謹的調查報導，揭示如「謎網」等企業之間的資本運作關係，並長期關注關聯交易、隱藏貸款及股權稀釋等問題。他拒絕盲目相信市場或監管機構，強調投資人應自己做功課、獨立思考。
 
