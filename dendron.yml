@@ -107,3 +107,6 @@ publishing:
         payload:
             - vault
     enablePrettyRefs: true
+    theme:
+      customStyles:
+        - vault/assets/custom.css

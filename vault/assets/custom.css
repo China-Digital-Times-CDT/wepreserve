@@ -1,0 +1,8 @@
+svg[aria-hidden="true"] {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 32px;
+  max-height: 32px;
+}
