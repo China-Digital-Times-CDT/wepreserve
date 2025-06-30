@@ -46,7 +46,7 @@ jobs:
 
     - name: Remove SVG link icons from generated HTML
       run: |
-        find notes/ -type f -name '*.html' -exec perl -0777 -i -pe 's#<svg aria-hidden="true" viewBox="0 0 16 16">.*?<use xlink:href="#svg-link"></use>.*?</svg>##gs' {} +
+        find docs/ -type f -name '*.html' -exec perl -0777 -i -pe 's#<svg aria-hidden="true" viewBox="0 0 16 16">.*?<use xlink:href="#svg-link"></use>.*?</svg>##gs' {} +
 
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
