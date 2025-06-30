@@ -44,6 +44,10 @@ jobs:
     - name: Export notes
       run: yarn dendron publish export --target github --yes
 
+    - name: Remove SVG link icons from vault pages
+      run: |
+        find vault/ -type f -name '*.md' -exec sed -i '/<svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"><\/use><\/svg>/d' {} +
+
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
       with:
