@@ -2,7 +2,7 @@
 id: lu2l12dvswb0hkg33eojaxb
 title: Apple Daily|蘋果日報
 desc: ''
-updated: 1653381605910
+updated: 1751378023722
 created: 1648613477814
 ---
 
@@ -13,7 +13,7 @@ On 23 June 2021, the newspaper said it would close "in view of staff members' sa
 《蘋果日報》（英語：Apple Daily）是香港上市公司壹傳媒旗下的繁體中文報紙，由黎智英於1995年創立，是香港的主要中文報章。蘋果日報於2021年由於林鄭月娥政府以《中華人民共和國香港特別行政區維護國家安全法》拘捕多名高層並被凍結《蘋果日報》的資金，造成資金斷裂，被迫停刊。
 
 
-![Apple Daily Frontpage](./assets/frontpage_appledaily.jpg)
+![Apple Daily Frontpage](/assets/frontpage_appledaily.jpg)
 _(Screenshot of Apple Daily Frontpage,  Courtesy: coconuts.co)_
 
 

@@ -2,7 +2,7 @@
 id: jriy4sb0p5rbt5wxyulvonx
 title: Inmediahk|獨立媒體
 desc: ''
-updated: 1653380830692
+updated: 1751378042493
 created: 1648712022165
 ---
 
@@ -13,7 +13,7 @@ Founded in 2004, Hong Kong In-media is an independent news & media platform for 
 
 Official site: https://www.inmediahk.net/
 
-![Inmedia HK Frontpage](./assets/frontpage_inmedia.png)
+![Inmedia HK Frontpage](/assets/frontpage_inmedia.png)
 
 
 
