@@ -46,7 +46,9 @@ jobs:
 
     - name: Remove SVG link icons from generated HTML
       run: |
-        find docs/ -type f -name '*.html' -exec perl -0777 -i -pe 's#<svg aria-hidden="true" viewBox="0 0 16 16"( class="[^"]*")?>.*?<use xlink:href="#svg-link"></use>.*?</svg>##gs' {} +
+        find docs/ -type f -name '*.html' -exec perl -0777 -i -pe 's#<a[^>]*class="anchor-heading"[^>]*href="[^"]*">\s*<svg aria-hidden="true" viewBox="0 0 16 16"( class="[^"]*")?>.*?<use xlink:href="#svg-link"></use>.*?</svg>\s*</a>##gs' {} +
+        find docs/ -type f -name '*.html' -exec perl -0777 -i -pe 's#<a[^>]*class="anchor-heading"[^>]*href="[^"]*">\s*<svg aria-hidden="true" viewBox="0 0 16 16">.*?<use xlink:href="#svg-link"></use>.*?</svg>\s*</a>##gs' {} +
+
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
       with:
