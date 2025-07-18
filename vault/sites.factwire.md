@@ -2,7 +2,7 @@
 id: 5iom2ypahedhsabpx592itb
 title: Factwire|傳真社
 desc: ''
-updated: 1654854196337
+updated: 1752856018466
 created: 1650474501518
 ---
 
@@ -21,4 +21,4 @@ A screenshot of the website as of 25 April 2022:
 (State: Done)
 
 - [Wayback Machine](https://web.archive.org/web/*/http://www.factwire.org/en/)
-- [.WACZ](https://bafybeiekykvuyix2fvxangdmpkevk2rvsnu23u7ypfcc3oxwmblxvushg4.ipfs.dweb.link/factwire.wacz)
+- [.WACZ](https://bafybeiekykvuyix2fvxangdmpkevk2rvsnu23u7ypfcc3oxwmblxvushg4.ipfs.dweb.link/factwire.wacz) --> [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2Ffactwire.wacz#view=pages&url=https%3A%2F%2Fwww.factwire.org%2F&ts=20220610085507)
