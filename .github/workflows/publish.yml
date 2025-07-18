@@ -50,7 +50,7 @@ jobs:
 
     - name: Hide SVG anchor links with CSS
       run: |
-        find docs/ -type f -name '*.html' -exec perl -0777 -i -pe 's#(<head>)#$1<style>a[aria-label="Anchor"] svg { display: none !important; }</style>#gs;' {} +
+        find docs/ -type f -name '*.html' -exec perl -0777 -i -pe 's#(<head>)#$1<style>.anchor-heading { display: none !important; }</style>#gs;' {} +
 
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
