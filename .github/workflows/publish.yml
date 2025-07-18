@@ -5,6 +5,10 @@ on:
     branches:
     - main 
 
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -44,9 +48,9 @@ jobs:
     - name: Export notes
       run: yarn dendron publish export --target github --yes
 
-    - name: Remove all SVG elements from generated HTML
+    - name: Hide SVG anchor links with CSS
       run: |
-        find docs/ -type f -name '*.html' -exec perl -0777 -i -pe 's#<svg[\s\S]*?</svg>##gs;' {} +
+        find docs/ -type f -name '*.html' -exec perl -0777 -i -pe 's#(<head>)#$1<style>a[aria-label="Anchor"] svg { display: none !important; }</style>#gs;' {} +
 
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
