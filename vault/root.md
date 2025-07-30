@@ -9,7 +9,11 @@ created: 1648525691085
 [![Great Extinction](/assets/extinctions.jpeg)](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/) 
 > (_Courtesy: Hong Kong Freepress, 2021_)
 
-SHKO (Save Hong Kong Online) is a community project to preserve those disappearing online web sites since 2019 and in a wake of [[the vast disappearing of civil society and independent media | background]]. It's anonymous and open source, with the support from a lot of online users. 
+SHKO (Save Hong Kong Online) is a community-driven project dedicated to preserving the rapidly disappearing websites and online resources of Hong Kong’s civil society and independent media since 2019. In response to the sweeping shutdowns caused by political changes in Hong Kong, we aim to safeguard digital heritage before it vanishes. This project is anonymous, open source, and supported by a global network of contributors.
+
+While most sites in our archive were forced offline due to Hong Kong’s political deterioration, it’s important to note that [[RFA Cantonese|sites.rfa_cantonese]] is the only site here closed not because of Hong Kong’s situation, but due to internal political decisions in the United States.
+
+Explore our full list of preserved sites and archives on the [[collections|Collections page]].
 
 
 ## Goals
