@@ -2,7 +2,7 @@
 id: pfy4h1nwep9age7eg0u8xe1
 title: SHKO(Save Hong Kong Online)
 desc: ''
-updated: 1753904100967
+updated: 1753904326387
 created: 1648525691085
 ---
 
@@ -19,7 +19,6 @@ Explore our full list of preserved sites and archives on the [Collections page](
 - To preserve as much information as possible before its disappearance during Hong Kong's great transition
 - To illustrate a viable method that everyone can use to help preserve online heritage with no pains
 - To demonstrate global collaborations to save local digital heritages with best practices
-
 
 ## Quick Facts
 
