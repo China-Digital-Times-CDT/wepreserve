@@ -13,7 +13,7 @@ SHKO (Save Hong Kong Online) is a community-driven project dedicated to preservi
 
 While most sites in our archive were forced offline due to Hong Kong’s political deterioration, it’s important to note that [[RFA Cantonese|sites.rfa_cantonese]] is the only site here closed not because of Hong Kong’s situation, but due to internal political decisions in the United States.
 
-Explore our full list of preserved sites and archives on the [[collections|Collections page]].   
+Explore our full list of preserved sites and archives on the [[Collections page|/notes/wx39zljncctue32jn06u29u/]].   
 
 
 ## Goals
