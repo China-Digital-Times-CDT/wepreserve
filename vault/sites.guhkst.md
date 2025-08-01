@@ -2,7 +2,7 @@
 id: p9yv8nnjdb90urz9yk1i7f4
 title: GUHKST|​香港言語治療師總工會
 desc: ''
-updated: 1653380002165
+updated: 1754086265542
 created: 1650600081534
 ---
 ​香港言語治療師總工會（職工會登記編號：1357）於2019年11月29日刊憲正式成立。工會宗旨為「捍衛公義、團結業界、促進溝通、爭取權益」。根據傳媒報道，工會擁有約二百名成員，佔該行業專業人員總數的六分之一。2021年7月，工會5名成員，包括黎雯齡（25歲）、楊逸意（27歲）、伍巧怡（28歲）、陳源森（25歲）及方梓皓（26歲）涉嫌串謀刊印、發佈、分發、展示或複製煽動刊物罪被捕。所涉刊物包括《羊村守衛者》、《羊村十二勇士》和《羊村清道夫》。2021年10月13日，香港政府撤銷該工會之登記。
@@ -17,7 +17,8 @@ A screenshot of the website as of 25 April 2022:
 ## Archives
 (State: Completed)
 
-- [.WACZ](https://bafybeicntq4lzhytql7ey2y2tc4uu6ptyh7oy56bxpxcvxqkdh62uegip4.ipfs.dweb.link/fixtures/guhkst-04_22_2022.wacz) ([[howto.replay]])
+- [.WACZ Replay](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2Fguhkst-04_22_2022.wacz#view=pages&url=https%3A%2F%2Fwww.guhkst.org%2F&ts=20220422034405) 
+- Comic books: [《羊村守衛者》(The Guardians of Sheep Village)](https://storage.googleapis.com/web-archives/archives/%E7%BE%8A%E6%9D%91%E5%AE%88%E8%A1%9B%E8%80%85.pdf)、[《羊村十二勇士》(The 12 Heroes of Sheep Village)](https://storage.googleapis.com/web-archives/archives/%E7%BE%8A%E6%9D%91%E5%8D%81%E4%BA%8C%E5%8B%87%E5%A3%AB.pdf)和[《羊村清道夫》(Dustman of Sheep Village)](https://storage.googleapis.com/web-archives/archives/%E7%BE%8A%E6%9D%91%E6%B8%85%E9%81%93%E5%A4%AB.pdf)
     
 - [Wayback Machine](https://web.archive.org/web/20210722233229/https://www.guhkst.org/publication)
 
