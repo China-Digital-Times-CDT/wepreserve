@@ -2,7 +2,7 @@
 id: daj3thyxdkia5ggqbj2dk0e
 title: RFA Cantonese|自由亞洲電台粵語組
 desc: ''
-updated: 1751377651294
+updated: 1754088030751
 created: 1751376939188
 ---
 
@@ -13,5 +13,5 @@ The Cantonese Service of Radio Free Asia (RFA) was established in May 1998 to pr
 ![rfa_cantonese_homepage](/assets/rfa_cantonese.png)
 
 ## Archives
-- [WACZ Archive](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2Fac24bcdb.wacz#view=pages&url=https%3A%2F%2Fwww.rfa.org%2Fcantonese%2F&ts=20250718134430) 
+- [WACZ Replay](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2F996daaf7.wacz#view=pages&url=https%3A%2F%2Fwww.rfa.org%2Fcantonese&ts=20250801222443) 
 - [Archive of RFA Cantonese](https://web.archive.org/web/*/https://www.rfa.org/cantonese/)
