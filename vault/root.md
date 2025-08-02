@@ -2,12 +2,12 @@
 id: pfy4h1nwep9age7eg0u8xe1
 title: SHKO(Save Hong Kong Online)
 desc: ''
-updated: 1754084603417
+updated: 1754149906369
 created: 1648525691085
 ---
 
 [![Great Extinction](/assets/extinctions.jpeg)](/notes/wx39zljncctue32jn06u29u/) 
-> (_Courtesy: ![Hong Kong Freepress](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/), 2021_) 
+> (_Courtesy: [Hong Kong Freepress](https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-hong-kongs-pro-democracy-forces-crumbled/), 2021_) 
 
 SHKO (Save Hong Kong Online) is a community-driven project dedicated to preserving the rapidly disappearing websites and online resources of Hong Kong’s civil society and independent media since 2019. In response to the sweeping shutdowns caused by political changes in Hong Kong, we aim to safeguard digital heritage before it vanishes. This project is anonymous, open source, and supported by a global network of contributors.
 
