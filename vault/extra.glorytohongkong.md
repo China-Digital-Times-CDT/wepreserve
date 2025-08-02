@@ -2,7 +2,7 @@
 id: mox9iceolv8vwqnait2j2ga
 title: Glory To Hong Kong(Song)
 desc: ''
-updated: 1650948530577
+updated: 1754150551384
 created: 1650946728735
 ---
 
@@ -65,3 +65,4 @@ Glory be to thee Hong Kong
 ## Derived Editions/Performances
 
 - [《願榮光歸香港》 中樂合奏及合唱團版 MV](https://www.youtube.com/watch?v=VHOZuIO5G2s)
+- Over 40+ derivatives and performances on [Twitter/X](https://web.archive.org/web/20220424133622/https://twitter.com/isaac/status/1172173947850280962)
