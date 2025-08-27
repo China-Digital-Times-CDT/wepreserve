@@ -16,5 +16,5 @@ The Hong Kong Harbor Protection Society (香港海港保護會) was dedicated to
 - https://www.harbourprotection.org/en/ (offline)
 
 ## Archive
-- [Replay this site (WACZ)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2Ff364853e.wacz#view=pages&url=https%3A%2F%2Fwww.harbourprotection.org%2Fen%2F&ts=20250801211817)
+- [Replay this site (WACZ)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Ff364853e.wacz#view=pages&url=https%3A%2F%2Fwww.harbourprotection.org%2Fen%2F&ts=20250801211817)
 

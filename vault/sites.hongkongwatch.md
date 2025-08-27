@@ -15,6 +15,6 @@ Status: On
 ## Archives
 (State: Completed)
 
-- [.WaCZ as of 03-05-2022](https://bafybeihkns3ujyn3cvhy46yzfirvgsdtpl6bcte75qfwkzgccd7lyaxdee.ipfs.dweb.link/fixtures/hkwatch-05_03_2022.wacz) -> [Replay](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2F72de847d.wacz#view=pages&url=https%3A%2F%2Fwww.hongkongwatch.org%2F&ts=20250802190923)
+- [.WaCZ as of 03-05-2022](https://bafybeihkns3ujyn3cvhy46yzfirvgsdtpl6bcte75qfwkzgccd7lyaxdee.ipfs.dweb.link/fixtures/hkwatch-05_03_2022.wacz) -> [Replay](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2F72de847d.wacz#view=pages&url=https%3A%2F%2Fwww.hongkongwatch.org%2F&ts=20250802190923)
 - [Wayback Machine](https://web.archive.org/web/*/http://www.hongkongwatch.org/)
 

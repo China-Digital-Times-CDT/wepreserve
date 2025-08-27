@@ -50,5 +50,5 @@ URL: https://8964museum.com/ (https://www.8964museum.com/ doesn't work)
 
 ## Archives
 
-- [.WaCZ as of 04-05-2022](https://bafybeiaosxoqskh4oueocv5zyv6dilabqwnidwjmsbeqrvhjvjk7mjrl54.ipfs.dweb.link/fixtures/8964museum-05_04_2022.wacz) -> [Replay)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2F8964museum-05_04_2022.wacz#view=pages&url=https%3A%2F%2F8964museum.com%2F&ts=20220504141122)
+- [.WaCZ as of 04-05-2022](https://bafybeiaosxoqskh4oueocv5zyv6dilabqwnidwjmsbeqrvhjvjk7mjrl54.ipfs.dweb.link/fixtures/8964museum-05_04_2022.wacz) -> [Replay)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2F8964museum-05_04_2022.wacz#view=pages&url=https%3A%2F%2F8964museum.com%2F&ts=20220504141122)
 - [Wayback Machine](https://web.archive.org/web/*/http://8964museum.com/)

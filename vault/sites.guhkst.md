@@ -17,8 +17,8 @@ A screenshot of the website as of 25 April 2022:
 ## Archives
 (State: Completed)
 
-- [.WACZ Replay](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2Fguhkst-04_22_2022.wacz#view=pages&url=https%3A%2F%2Fwww.guhkst.org%2F&ts=20220422034405) 
-- Comic books: [《羊村守衛者》(The Guardians of Sheep Village)](https://storage.googleapis.com/web-archives/archives/%E7%BE%8A%E6%9D%91%E5%AE%88%E8%A1%9B%E8%80%85.pdf)、[《羊村十二勇士》(The 12 Heroes of Sheep Village)](https://storage.googleapis.com/web-archives/archives/%E7%BE%8A%E6%9D%91%E5%8D%81%E4%BA%8C%E5%8B%87%E5%A3%AB.pdf)和[《羊村清道夫》(Dustman of Sheep Village)](https://storage.googleapis.com/web-archives/archives/%E7%BE%8A%E6%9D%91%E6%B8%85%E9%81%93%E5%A4%AB.pdf)
+- [.WACZ Replay](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fguhkst-04_22_2022.wacz#view=pages&url=https%3A%2F%2Fwww.guhkst.org%2F&ts=20220422034405) 
+Comic books: [《羊村守衛者》(The Guardians of Sheep Village)](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E5%AE%88%E8%A1%9B%E8%80%85.pdf)、[《羊村十二勇士》(The 12 Heroes of Sheep Village)](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E5%8D%81%E4%BA%8C%E5%8B%87%E5%A3%AB.pdf)和[《羊村清道夫》(Dustman of Sheep Village)](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E6%B8%85%E9%81%93%E5%A4%AB.pdf)
     
 - [Wayback Machine](https://web.archive.org/web/20210722233229/https://www.guhkst.org/publication)
 

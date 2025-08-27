@@ -18,6 +18,6 @@ David Webb 所創立的財經網站 Webb-site，自 1998 年起成為香港企�
 
 ## Archives
 - [Owner's Archive](https://drive.google.com/drive/folders/13mzAvvufXC3QmH8OvMVx2juUi7qdnVLL)
-- [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archives%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
+- [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
 - [Wayback Machine](https://web.archive.org/web/*/https://webb-site.com/)
 
