@@ -45,6 +45,16 @@ jobs:
     - name: Initialize or pull nextjs template
       run: "(test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git clean -f && git pull && yarn && cd ..) || (echo 'init dendron next' && yarn dendron publish init)"
 
+    - name: Apply template overrides (hide anchor icons)
+      run: |
+        cat >> .next/styles/scss/content.scss <<'EOF'
+
+// SHKO override: hide heading anchor icons (svg sprite not shipped).
+.main-content .anchor-heading {
+  display: none !important;
+}
+EOF
+
     - name: Export notes
       run: yarn dendron publish export --target github --yes
 
