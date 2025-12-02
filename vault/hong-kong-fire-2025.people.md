@@ -2,7 +2,7 @@
 id: y0btw9fndm8l2h5q7se3kxr
 title: Hong Kong Fire 2025 People
 desc: Key individuals and groups connected to the Wang Fuk Court fire.
-updated: 1764709574587
+updated: 1764709468605
 created: 1764698071435
 ---
 
@@ -12,6 +12,8 @@ Parent: [[hong-kong-fire-2025]]
 - 156 confirmed dead; 29 remain unidentified. Many were elderly residents trapped in upper floors.
 - Approximately 30 individuals remain unaccounted while registries are reconciled.
 - One firefighter died during the response.
+- 79 injured, including 12 firefighters (counts may evolve during identification).
+- Seven Indonesian domestic workers confirmed dead; 79 missing per consulate reporting.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
 
 ## Responders
@@ -25,6 +27,18 @@ Parent: [[hong-kong-fire-2025]]
 - Chris Tang — Secretary for Security; warned about alleged online misinformation and signaled police action [RFI](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%BD%93%E5%B1%80%E4%B8%A5%E6%89%93%E7%BD%91%E7%BB%9C-%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF-%E4%B8%A4%E5%A4%A9%E6%8D%95%E4%B8%89%E4%BA%BA%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%8B%9B%E6%A0%87%E5%8F%97%E5%85%B3%E6%B3%A8-%E4%BA%B2%E4%B8%AD%E5%A4%A7%E5%85%9A%E6%B0%91%E5%BB%BA%E8%81%94%E6%80%A5%E5%88%87%E5%89%B2?utm_medium=social&utm_campaign=threads&utm_source=shorty&utm_slink=rfi.my%2FCEOr).
 - Eric Chan — Chief Secretary; stated that seven of 20 netting samples failed safety standards, suggesting cost-cutting (NBC/AP).
 - Xinyan Huang — PolyU associate professor (Building Environment and Energy Engineering); issued Nov 30 clarification on Channel 4 interview: bamboo scaffolding role needs systematic study, rapid-spread remark lacked investigation, mainland fire-engine claim incorrect; highlights need for cautious public commentary. [PolyU statement](https://www.polyu.edu.hk/beee/news-and-events/news/2025/20251130-clarification-on-remarks-regarding-the-tai-po-wang-fuk-court-fire/)
+- Alice Mak — Secretary for Home and Youth Affairs; announced relief payments of HK$200,000 per fatality and HK$50,000 per affected household (CNN).
+- Chris Sun — Secretary for Labour and Welfare; noted 16 inspections since 2024 and coordination with Indonesian/Philippine consulates for affected domestic workers (CNN).
+- Takaichi Sanae — Prime Minister of Japan; issued condolences on Nov 27, expressing sadness over the loss and sympathies to affected families (NHK).
+- Lai Ching-te — President of Taiwan; issued condolences on Nov 27, citing 55 dead and 200+ missing at that time (Focus Taiwan).
+- Cheng Li-wun — KMT chair; posted condolences on social media (Focus Taiwan).
+- King Charles III — Issued condolences on Nov 28, commending responders and community solidarity (Royal Household).
+- International solidarities — Grenfell United (UK fire survivor group) and multiple consulates issued condolences and solidarity statements [HKFP](https://hongkongfp.com/2025/11/28/you-are-not-alone-countries-officials-grenfell-victims-express-condolences-over-tai-po-fire-tragedy/).
+- Esmaeil Baqaei — Iran Foreign Ministry spokesperson; issued condolences citing 128 dead and nearly 200 missing at that time (Tehran Times).
+- Harvey Rouse — EU Office to Hong Kong and Macao; issued condolences and solidarity on Nov 27 (EEAS).
+- Lee Jae-myung — President of South Korea; issued condolences on Nov 28, praising rescue workers and posting in multiple languages (Korea JoongAng Daily).
+- Türkiye Foreign Ministry — Issued condolences on Nov 27, noting 83 deaths and dozens injured at that time (TRT World).
+- King Salman & Crown Prince Mohammed bin Salman — Issued condolences to Xi Jinping on Nov 29 (Arab News).
 
 ## Investigations and Arrests
 - 15 people arrested on suspicion of manslaughter after police found substandard scaffolding netting allegedly swapped to bypass inspections.
@@ -32,6 +46,7 @@ Parent: [[hong-kong-fire-2025]]
 - Eight individuals, including project managers and subcontractors, arrested in an ICAC probe connected to the renovation project.
 - ICAC arrests include 11 people (directors and an engineering consultant) from a construction company linked to the renovation project (NBC/AP).
 - Eileen Chung — Police superintendent; said investigators believe responsible parties were grossly negligent and that failed mesh/foam contributed to spread [Reuters graphic](https://www.reuters.com/graphics/HONGKONG-FIRE/SPREAD/mopabqnzqva/).
+- Additional ICAC arrests (Nov 28): two consultancy directors, two project managers, three scaffolding subcontractors, and an intermediary tied to renovation works (CNN).
 
 ## Civic Response and Detentions
 - Miles Kwan — 24-year-old student reportedly arrested for "seditious intent" after distributing accountability leaflets; linked petition gained >10,000 signatures before removal.
@@ -40,5 +55,8 @@ Parent: [[hong-kong-fire-2025]]
 - Volunteer surnamed Li — Reportedly arrested alongside Kwan and Cheung over accountability messages [RFI](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%BD%93%E5%B1%80%E4%B8%A5%E6%89%93%E7%BD%91%E7%BB%9C-%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF-%E4%B8%A4%E5%A4%A9%E6%8D%95%E4%B8%89%E4%BA%BA%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%8B%9B%E6%A0%87%E5%8F%97%E5%85%B3%E6%B3%A8-%E4%BA%B2%E4%B8%AD%E5%A4%A7%E5%85%9A%E6%B0%91%E5%BB%BA%E8%81%94%E6%80%A5%E5%88%87%E5%89%B2?utm_medium=social&utm_campaign=threads&utm_source=shorty&utm_slink=rfi.my%2FCEOr).
 - Wong Bik-kiu — Pro-Beijing DAB member and advisor to the owners' corporation; linked in reports to renovation tender meetings; party publicly distances itself pending any findings [RFI](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%BD%93%E5%B1%80%E4%B8%A5%E6%89%93%E7%BD%91%E7%BB%9C-%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF-%E4%B8%A4%E5%A4%A9%E6%8D%95%E4%B8%89%E4%BA%BA%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%8B%9B%E6%A0%87%E5%8F%97%E5%85%B3%E6%B3%A8-%E4%BA%B2%E4%B8%AD%E5%A4%A7%E5%85%9A%E6%B0%91%E5%BB%BA%E8%81%94%E6%80%A5%E5%88%87%E5%89%B2?utm_medium=social&utm_campaign=threads&utm_source=shorty&utm_slink=rfi.my%2FCEOr).
 
+## Cultural Responses and Aid
+- Mnet Asian Music Awards (Kai Tak) — Held under “Support Hong Kong”; Chow Yun-Fat and host Kim Hye-soo led a moment of silence; attendees wore black. Donations included HK$1M from G-Dragon plus support from SM, Hybe, JYP, Ive, Stray Kids, and others; Michelle Yeoh canceled appearance; a “KPop Demon Hunters” performance was dropped for tone sensitivity [Korea Herald](https://www.koreaherald.com/article/10626450).
+
 ## Whistleblowers
-- Jason Poon (Pan Zhuohong) — Contractor and chairman of China Inspection (中科監察); previously exposed Shatin-Central Line defects. Reportedly filmed and emailed Fire Services leadership multiple times (e.g., 2024-05-17) warning of non-compliant scaffolding netting at Wang Fuk Court; says no action was taken. [Warning video](https://www.facebook.com/JasonPoonHongKong/videos/1589328408575284/?vh=e&fs=e&mibextid=wwXIfr&rdid=CejPpFlbwxgf5749#).
+- Jason Poon (Pan Zhuohong) — Contractor and chairman of China Inspection (中科監察); previously exposed Shatin-Central Line defects. Reportedly filmed and emailed Fire Services leadership multiple times (e.g., 2024-05-17) warning of non-compliant scaffolding netting at Wang Fuk Court; says no action was taken. [Warning video](https://www.facebook.com/JasonPoonHongKong/videos/1589328408575284/?vh=e&fs=e&mibextid=wwXIfr&rdid=CejPpFlbwxgf5749#). Worked with residents who complained to the Labor Department about flammable netting and foam boards in Sep 2024; officials cited contractor certificates after 16 inspections and some notices/prosecutions but allowed works to continue [NYT](https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire-officials-warned.html).
