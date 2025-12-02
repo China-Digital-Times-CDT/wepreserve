@@ -15,6 +15,7 @@ Parent: [[hong-kong-fire-2025]]
 - 79 injured, including 12 firefighters (counts may evolve during identification).
 - Seven Indonesian domestic workers confirmed dead; 79 missing per consulate reporting.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
+- Bai Shui Lin — 66-year-old resident who warned neighbors and helped at least three families escape before dying in the blaze; identified via ID card; husband Yip Ka-kui recounted their final call as smoke overtook their flat ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
 
 ## Responders
 - Andy Yeung — Director of Fire Services; confirmed firefighter casualty and frontline conditions.

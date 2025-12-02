@@ -18,6 +18,8 @@ Photo: Mak Yenting/RFI.
 - Alarms: Post-fire inspections found alarms non-functional across all eight towers; some residents say alarms switched off during works (CNN/BBC).
 - Spread origin: Initial outbreak on lower exterior of Wang Cheong House; spread to Wang Tai, Wang Shing, Wang Yan; Wang Chi largely spared (Guardian/Reuters).
 - Temperature and access: Interior temps reported above 500C; falling scaffolding and debris hindered rescues (CNN/Reuters/AP).
+- Resident account: Survivor Yip Ka-kui described hearing bamboo poles “explode” and mesh igniting before foam-sealed windows trapped his wife Bai Shui Lin, who died after warning neighbors ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
+- Policy responses: Mainland authorities ordered a nationwide inspection of high-rises—especially under renovation with bamboo/wood scaffolding and non-flame-retardant nets—while Hong Kong said 7 of 20 netting samples failed and signaled a gradual shift toward metal scaffolding without blaming bamboo alone ([WSJ](https://www.wsj.com/world/china/hong-kongs-response-to-deadly-fire-is-squeezed-by-chinas-firm-hand-ea01b5a2)).
 
 ## Tender Irregularities and Oversight Gaps
 - Mandatory Building Inspection Scheme (MBIS): The Wang Fuk Court renovation was commissioned under the 2012 MBIS; after the 2023 tender the price jumped from an estimated HK$140m to HK$330m (RFI).
