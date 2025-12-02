@@ -2,7 +2,7 @@
 id: 9e5b0uhf2vl7gk4rj1tzp3x
 title: Hong Kong Fire 2025
 desc: ''
-updated: 1764709989019
+updated: 1764710128089
 created: 1764696585495
 ---
 
@@ -22,6 +22,7 @@ Officials say the rapid spread of the fire was exacerbated by highly flammable p
 - Impact: At least 156 fatalities; 29 remain unidentified; about 30 people still unaccounted; injuries reported at 79 including 12 firefighters; one firefighter (age 37) confirmed dead
 - Scale: Fire spread across seven of eight high-rise buildings (all but Wang Chi House); >800 firefighters and paramedics deployed, with 200 fire trucks and 100 ambulances dispatched early
 - Contributing factors: Highly flammable polystyrene and substandard scaffolding netting used in renovations blocked windows and escape routes; windows in elevator lobbies reportedly sealed with foam boards; netting allegedly swapped to bypass inspections; fire alarms later found non-functional across all towers (some residents say alarms were switched off during works)
+- Tender and oversight concerns: Under the Mandatory Building Inspection Scheme, the renovation price reportedly jumped from HK$140m to HK$330m; residents alleged bid-rigging, triad-linked interference at owners’ meetings, and unanswered complaints about flammable mesh/foam that sealed windows; disqualified pro-democracy district councillors who tried to help were expelled (RFI).
 - Investigations: 15 arrests for manslaughter tied to alleged gross negligence; ICAC probe with eight arrests linked to the renovation project; officials say seven of 20 netting samples failed safety standards (NBC/AP)
 - Governance response: Chief Executive John Lee announced an independent judge-led committee (non-statutory) to review the incident and recommend reforms to the building renovation system; government sources say statutory powers will be replaced by administrative directives to supply evidence
 - Notable responder casualties: Two St. John Ambulance female members (Ren Ting and Ren Juan) confirmed dead; one firefighter also confirmed dead; 12 firefighters reported injured
@@ -62,5 +63,6 @@ By December 2, police reported 15 total manslaughter arrests after discovering e
 - Korea JoongAng Daily: [President Lee Jae-myung condolences](https://koreajoongangdaily.joins.com/news/2025-11-28/national/socialAffairs/President-Lee-extends-his-condolences-following-the-deadly-Hong-Kong-fire/2465702)
 - TRT World: [Türkiye Foreign Ministry condolences](https://www.trtworld.com/article/f3e85385415c)
 - Korea Herald: [MAMA tribute and donations](https://www.koreaherald.com/article/10626450)
+- GitHub archive: [Tai Po Wang Fuk Court Fire Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)
 
 Community leaders have expressed outrage over the incident, demanding accountability and a thorough investigation into the safety practices of construction companies in Hong Kong. Public anger is mounting, with protests calling for an independent investigation into the causes of the fire and the systemic issues within the construction industry. Authorities have also accused "anti-China forces" of exploiting the tragedy for political gain, further complicating the narrative surrounding the event.
