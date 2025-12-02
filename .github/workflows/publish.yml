@@ -56,6 +56,9 @@ jobs:
 
     - name: Export notes
       run: yarn dendron publish export --target github --yes
+      
+    - name: Auto-expand sidebar (post-export patch)
+      run: yarn run patch:sidebar
 
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3

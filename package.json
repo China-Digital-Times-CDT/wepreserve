@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.90.0"
+  },
+  "scripts": {
+    "patch:sidebar": "node scripts/expand-sidebar.js"
   }
 }

@@ -15,6 +15,8 @@ While most sites in our archive were forced offline due to Hong Kong’s politic
 
 Explore our full list of preserved sites and archives on the [Collections page](/notes/wx39zljncctue32jn06u29u/).
 
+Recent work: documenting the [[hong-kong-fire-2025|Hong Kong Fire 2025]] tragedy at Wang Fuk Court (156 dead, ongoing probes into flammable mesh/foam, bid-rigging, and a judge-led review), including activism, timeline, and investigation subpages.
+
 ## Goals
 - To preserve as much information as possible before its disappearance during Hong Kong's great transition
 - To illustrate a viable method that everyone can use to help preserve online heritage with no pains
@@ -27,6 +29,5 @@ We are working on over dozens of [[websites or online causes | sites]] in Hong K
 Examples:
 - [[sites.appledaily]] (Extincted)
 - [[sites.inmediahk]] (In Danger)
-
 
 

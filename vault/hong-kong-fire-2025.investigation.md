@@ -15,7 +15,7 @@ Photo: Mak Yenting/RFI.
 ## Findings and Evidence
 - Scaffolding netting: Police collected 20 samples across Wang Tai, Wang Do, Wang Yan, Wang Chi; 7 failed flammability tests, with harder-to-reach samples more likely to fail, raising mixing/switching suspicions (NBC/AP, RTHK). ICAC says contractors bought ~2,300 rolls of non-compliant mesh at HK$54/roll after typhoon damage, then 115 rolls of compliant mesh at HK$100/roll installed at scaffold bases to pass spot checks (news.gov.hk).
 - Foam/polystyrene: Panels sealed windows (incl. elevator lobbies), accelerating spread; melted at >500C and blew out windows (Reuters/CNN).
-- Alarms: Post-fire inspections found alarms non-functional across all eight towers; some residents say alarms switched off during works (CNN/BBC).
+- Alarms: Post-fire inspections found alarms non-functional across all eight towers; some residents say alarms switched off during works (CNN/BBC). A Wang Cheong resident’s door-cam footage shows no alarm and smoke engulfing the corridor within 8 minutes (2:52–3:00 p.m.) before he fled by elevator ([HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60299887/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-9%E5%88%86%E9%90%98%E7%85%99%E6%94%BB%E5%AE%8F%E6%98%8C%E9%96%A3%E8%B5%B0%E5%BB%8A-%E4%BD%8F%E6%88%B6%E6%90%AD%F0%A8%8B%A2%E9%80%83-%E7%8C%B6%E8%B1%AB3%E5%88%86%E9%90%98%E6%88%96%E7%84%A1%E5%91%BD)).
 - Spread origin: Initial outbreak on lower exterior of Wang Cheong House; spread to Wang Tai, Wang Shing, Wang Yan; Wang Chi largely spared (Guardian/Reuters).
 - Temperature and access: Interior temps reported above 500C; falling scaffolding and debris hindered rescues (CNN/Reuters/AP).
 - Resident account: Survivor Yip Ka-kui described hearing bamboo poles “explode” and mesh igniting before foam-sealed windows trapped his wife Bai Shui Lin, who died after warning neighbors ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
@@ -32,6 +32,7 @@ Photo: Mak Yenting/RFI.
 - ICAC: Probe arrested 8 linked to renovation project (directors, project managers, subcontractors, intermediary); total 12 arrests reported including consultants, contractors, scaffolding heads (news.gov.hk).
 - Materials: Police and officials allege flammable mesh/foam used; some netting initially certified compliant; ongoing verification of actual materials used on-site.
 - Non-statutory review: Chief Executive John Lee announced a judge-led committee (non-statutory), pledging administrative directives for evidence access; statutory Independent Commission of Inquiry was rejected despite civic calls (RFI).
+- Contractor fallout: Hung Ngai Architects Ltd. (宏毅建築師) — consultant on Wang Fuk Court and other estates — reportedly announced an immediate suspension/termination of all business after ICAC arrests; owners’ groups at Aberdeen Centre Phase 1 and On Kay Court voted to end their Hung Ngai contracts (on.cc).
 
 ## Open Questions
 - Certification vs. installed materials: extent of material swapping; chain of custody for mesh/foam procurement.
