@@ -48,12 +48,11 @@ jobs:
     - name: Apply template overrides (hide anchor icons)
       run: |
         cat >> .next/styles/scss/content.scss <<'EOF'
-
-// SHKO override: hide heading anchor icons (svg sprite not shipped).
-.main-content .anchor-heading {
-  display: none !important;
-}
-EOF
+        // SHKO override: hide heading anchor icons (svg sprite not shipped).
+        .main-content .anchor-heading {
+          display: none !important;
+        }
+        EOF
 
     - name: Export notes
       run: yarn dendron publish export --target github --yes
