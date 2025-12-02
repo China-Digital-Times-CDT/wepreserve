@@ -2,7 +2,7 @@
 id: y0btw9fndm8l2h5q7se3kxr
 title: Hong Kong Fire 2025 People
 desc: Key individuals and groups connected to the Wang Fuk Court fire.
-updated: 1764699501062
+updated: 1764709574587
 created: 1764698071435
 ---
 
@@ -16,7 +16,7 @@ Parent: [[hong-kong-fire-2025]]
 
 ## Responders
 - Andy Yeung — Director of Fire Services; confirmed firefighter casualty and frontline conditions.
-- >800 firefighters and paramedics involved in suppression, rescues, and medical care.
+- >800 firefighters and paramedics involved in suppression, rescues, and medical care; 200 fire trucks and 100 ambulances deployed early (Guardian).
 - St. John Ambulance — Two female members (Ren Ting and Ren Juan) died in the incident; a condolence site set up at Island HQ.
 
 ## Officials and Leadership
@@ -31,6 +31,7 @@ Parent: [[hong-kong-fire-2025]]
 - Three of the above were early arrests from the renovation contractor tied to alleged gross negligence.
 - Eight individuals, including project managers and subcontractors, arrested in an ICAC probe connected to the renovation project.
 - ICAC arrests include 11 people (directors and an engineering consultant) from a construction company linked to the renovation project (NBC/AP).
+- Eileen Chung — Police superintendent; said investigators believe responsible parties were grossly negligent and that failed mesh/foam contributed to spread [Reuters graphic](https://www.reuters.com/graphics/HONGKONG-FIRE/SPREAD/mopabqnzqva/).
 
 ## Civic Response and Detentions
 - Miles Kwan — 24-year-old student reportedly arrested for "seditious intent" after distributing accountability leaflets; linked petition gained >10,000 signatures before removal.

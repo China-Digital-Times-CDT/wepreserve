@@ -2,7 +2,7 @@
 id: wm9v6z1k5rx4nqlu8g03b2t
 title: Hong Kong Fire 2025 Timeline
 desc: Sequence of reported events and follow-on actions for the Wang Fuk Court fire.
-updated: 1764699501062
+updated: 1764709574587
 created: 1764698071435
 ---
 
@@ -11,10 +11,11 @@ Parent: [[hong-kong-fire-2025]]
 > Entries mix chronological moments with later investigative updates to keep the storyline coherent.
 
 - **2024-05-17** Contractor and whistleblower Jason Poon (Pan Zhuohong) reports use of non-compliant scaffolding netting at Wang Fuk Court, recording videos and sending multiple emails to the Fire Services Director; concerns reportedly not acted on.
-- **2025-11-26 ~3:00 p.m.** Fire reported at Wang Fuk Court, Tai Po; alarm escalated to level 5 as flames spread across seven high-rise blocks.
+- **2025-11-26 ~2:52-3:00 p.m.** Fire reported at Wang Fuk Court, Tai Po; alarm escalated to level 5 as flames spread across seven high-rise blocks. Initial outbreak on external scaffolding of Wang Cheong House before spreading to Wang Tai, Wang Shing, and later Wang Yan; by ~7:30 p.m., seven of eight towers were burning, with only Wang Chi House largely spared [Guardian](https://www.theguardian.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court) [Reuters graphic](https://www.reuters.com/graphics/HONGKONG-FIRE/SPREAD/mopabqnzqva/).
 - **Shortly after outbreak** Over 800 firefighters and paramedics mobilized; evacuations and stairwell rescues begin amid heavy smoke.
 - **During response** One firefighter dies and several others are treated for heat exhaustion; reports note many elderly residents trapped inside.
 - **Same day** Officials cite highly flammable polystyrene used in renovation works as a factor that blocked windows and accelerated the spread.
+- **2025-11-27** Officials report bamboo scaffolding and construction netting helped fire spread; foam panels blew out windows. Rescue hampered by debris/heat; hundreds evacuated; 200 fire trucks and 100 ambulances deployed; some shelters opened with 900+ residents; HK$300m fund announced; no fire alarms reported in any tower. Reuters scrollytelling details ~2,000 apartments housing ~4,600 residents, all towers scaffolded with green mesh; foam boards sealed elevator-lobby windows; investigators flag flammable mesh/foam and bamboo scaffolding [Guardian](https://www.theguardian.com/news/2025/nov/27/how-hong-kong-fire-unfolded-apartment-block-blaze-wang-court) [Reuters graphic](https://www.reuters.com/graphics/HONGKONG-FIRE/SPREAD/mopabqnzqva/).
 - **Early investigation phase** At least 151 deaths confirmed; authorities report ~279 people uncontactable while registries are reconciled.
 - **Subsequent days** Three men from the renovation contractor arrested on suspicion of manslaughter tied to alleged gross negligence.
 - **Parallel probe** ICAC opens corruption inquiry into the renovation project, leading to eight arrests including project managers and subcontractors.
