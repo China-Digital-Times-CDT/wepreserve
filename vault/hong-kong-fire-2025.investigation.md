@@ -21,6 +21,10 @@ Photo: Mak Yenting/RFI.
 - Resident account: Survivor Yip Ka-kui described hearing bamboo poles “explode” and mesh igniting before foam-sealed windows trapped his wife Bai Shui Lin, who died after warning neighbors ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
 - Policy responses: Mainland authorities ordered a nationwide inspection of high-rises—especially under renovation with bamboo/wood scaffolding and non-flame-retardant nets—while Hong Kong said 7 of 20 netting samples failed and signaled a gradual shift toward metal scaffolding without blaming bamboo alone ([WSJ](https://www.wsj.com/world/china/hong-kongs-response-to-deadly-fire-is-squeezed-by-chinas-firm-hand-ea01b5a2)).
 
+## Insurance and Liability
+- Taiping Hong Kong (insurer for Wang Fuk Court renovation and estate policies) paid a first batch of nine home-insurance claims totaling HK$5.372m on Dec 1; the estate’s property insurance carries a reported HK$20b sum insured with third-party liability cover up to HK$200m per incident, backed by reinsurance partners including Qianhai Re, China Re P&C, and Taiping Re ([Sina](https://finance.sina.com.cn/roll/2025-12-02/doc-infzmppc0220721.shtml)).
+- Coverage in place includes construction all-risk, employees’ compensation, owners’ corporation third-party liability, property all-risk/public liability, and some household/helper policies; industry estimates expect payouts to approach policy limits, with reinsurers sharing the exposure (Sina).
+
 ## Tender Irregularities and Oversight Gaps
 - Mandatory Building Inspection Scheme (MBIS): The Wang Fuk Court renovation was commissioned under the 2012 MBIS; after the 2023 tender the price jumped from an estimated HK$140m to HK$330m (RFI).
 - Alleged bid-rigging and interference: Residents reported suspected triad-linked individuals blocking dissenting owners from meetings; a new owners’ corporation replaced the old one in Sep 2024 after the contract was already signed (RFI).
@@ -33,6 +37,7 @@ Photo: Mak Yenting/RFI.
 - Materials: Police and officials allege flammable mesh/foam used; some netting initially certified compliant; ongoing verification of actual materials used on-site.
 - Non-statutory review: Chief Executive John Lee announced a judge-led committee (non-statutory), pledging administrative directives for evidence access; statutory Independent Commission of Inquiry was rejected despite civic calls (RFI).
 - Contractor fallout: Hung Ngai Architects Ltd. (宏毅建築師) — consultant on Wang Fuk Court and other estates — reportedly announced an immediate suspension/termination of all business after ICAC arrests; owners’ groups at Aberdeen Centre Phase 1 and On Kay Court voted to end their Hung Ngai contracts (on.cc).
+- Parallel estate alarm: At Ngon Kei Court (Ngon Kei Yuen) on Dec 1, contractor Wai Lei Construction flame-tested scaffold-net samples from multiple floors; some ignited instantly. Consultant Hung Ngai (same as Wang Fuk Court) attributed it to glue drips, but residents called for replacing the consultant despite HK$150m repair costs; management blocked additional media sampling and called police ([HKEJ](https://www.hkej.com/instantnews/current/article/4260928/%E5%AE%89%E5%9F%BA%E8%8B%91%E5%A4%A7%E7%B6%AD%E4%BF%AE+%E6%89%BF%E5%BB%BA%E5%95%86%E9%BB%9E%E7%87%83%E6%A3%9A%E7%B6%B2%E9%83%A8%E5%88%86%E6%9C%AA%E8%83%BD%E9%80%9A%E9%81%8E%E6%B8%AC%E8%A9%A6)).
 
 ## Open Questions
 - Certification vs. installed materials: extent of material swapping; chain of custody for mesh/foam procurement.
