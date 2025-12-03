@@ -28,6 +28,7 @@ Parent: [[hong-kong-fire-2025]]
 - Relief funds: Government-led assistance fund totals ~HK$2.3B (HK$2B donations + HK$300m seed); disbursements include HK$200k condolence and HK$50k funeral per fatality, plus HK$50k living allowance per affected household. As of latest: 21 condolence cases and 104 living-allowance cases processed (Now News).
 - MAMA ceremony (Nov 29): “Support Hong Kong” theme, moment of silence led by Chow Yun-Fat/Kim Hye-soo; donations including HK$1M from G-Dragon; contributions from SM, Hybe, JYP, Ive, Stray Kids; some acts canceled for tone sensitivity (Korea Herald).
 - Additional international condolences and solidarity statements from governments, consulates, Grenfell United, and diaspora groups (HKFP/EEAS/NHK/Focus Taiwan/TRT/Arab News/Korea JoongAng).
+- Donation tracking: Community project “Taipo Big Donations Watcher” tracks >HK$100k public pledges; as of Dec 2 it lists 328 donors and HK$2,827,628,500 pledged ([GitHub](https://github.com/immartian/Taipo-Big-Donations-Watcher.github.io)).
 - Community archiving: GitHub repo collecting timelines, media, technical analyses, and support info for the fire; led by Hailey Cheng and team; open contributions welcomed, contactable in English/German ([Fire Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)).
 
 ## Community Support
