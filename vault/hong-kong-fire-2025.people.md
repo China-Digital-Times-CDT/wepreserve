@@ -9,10 +9,8 @@ created: 1764698071435
 Parent: [[hong-kong-fire-2025]]
 
 ## Victims and Residents
-- 156 confirmed dead; 29 remain unidentified. Many were elderly residents trapped in upper floors.
-- Approximately 30 individuals remain unaccounted while registries are reconciled.
-- One firefighter died during the response.
-- 79 injured, including 12 firefighters (counts may evolve during identification).
+- 156 confirmed dead as of Dec 2; 29 remain unidentified and ~30 unaccounted while registries are reconciled ([[hong-kong-fire-2025.timeline]]). Many were elderly residents trapped in upper floors.
+- One firefighter died during the response; 79 injured, including 12 firefighters (counts may evolve during identification).
 - Seven Indonesian domestic workers confirmed dead; 79 missing per consulate reporting.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
 - Bai Shui Lin — 66-year-old resident who warned neighbors and helped at least three families escape before dying in the blaze; identified via ID card; husband Yip Ka-kui recounted their final call as smoke overtook their flat ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
@@ -23,7 +21,7 @@ Parent: [[hong-kong-fire-2025]]
 - >800 firefighters and paramedics involved in suppression, rescues, and medical care; 200 fire trucks and 100 ambulances deployed early (Guardian).
 - St. John Ambulance — Two female members (Ren Ting and Ren Juan) died in the incident; a condolence site set up at Island HQ.
 
-## Officials and Leadership
+## Officials and Decision-makers
 - Xi Jinping — Called for an "all-out effort" to contain the fire and reduce casualties.
 - John Lee — Chief Executive of Hong Kong; emphasized rescuing remaining trapped residents as top priority and later announced a judge-led independent committee (non-statutory) to review the incident and reform renovation oversight, pledging administrative directives to supply evidence quickly [Tweet](https://x.com/haileyhmt/status/1995860431177449729?s=46).
 - Chris Tang — Secretary for Security; warned about alleged online misinformation and signaled police action [RFI](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%BD%93%E5%B1%80%E4%B8%A5%E6%89%93%E7%BD%91%E7%BB%9C-%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF-%E4%B8%A4%E5%A4%A9%E6%8D%95%E4%B8%89%E4%BA%BA%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%8B%9B%E6%A0%87%E5%8F%97%E5%85%B3%E6%B3%A8-%E4%BA%B2%E4%B8%AD%E5%A4%A7%E5%85%9A%E6%B0%91%E5%BB%BA%E8%81%94%E6%80%A5%E5%88%87%E5%89%B2?utm_medium=social&utm_campaign=threads&utm_source=shorty&utm_slink=rfi.my%2FCEOr).
@@ -42,16 +40,14 @@ Parent: [[hong-kong-fire-2025]]
 - Türkiye Foreign Ministry — Issued condolences on Nov 27, noting 83 deaths and dozens injured at that time (TRT World).
 - King Salman & Crown Prince Mohammed bin Salman — Issued condolences to Xi Jinping on Nov 29 (Arab News).
 
-## Investigations and Arrests
-- 15 people arrested on suspicion of manslaughter after police found substandard scaffolding netting allegedly swapped to bypass inspections.
-- Three of the above were early arrests from the renovation contractor tied to alleged gross negligence.
-- Eight individuals, including project managers and subcontractors, arrested in an ICAC probe connected to the renovation project.
-- ICAC arrests include 11 people (directors and an engineering consultant) from a construction company linked to the renovation project (NBC/AP).
+## Investigations and Enforcement
+- 15 people arrested on suspicion of manslaughter after police found substandard scaffolding netting allegedly swapped to bypass inspections; three early arrests were from the renovation contractor tied to alleged gross negligence ([[hong-kong-fire-2025.investigation]]).
+- Eight individuals, including project managers and subcontractors, arrested in an ICAC probe connected to the renovation project; reports also note 11 total arrests including directors and an engineering consultant (NBC/AP).
 - Eileen Chung — Police superintendent; said investigators believe responsible parties were grossly negligent and that failed mesh/foam contributed to spread [Reuters graphic](https://www.reuters.com/graphics/HONGKONG-FIRE/SPREAD/mopabqnzqva/).
 - Additional ICAC arrests (Nov 28): two consultancy directors, two project managers, three scaffolding subcontractors, and an intermediary tied to renovation works (CNN).
 
 ## Civic Response and Detentions
-- Miles Kwan — 24-year-old student reportedly arrested for "seditious intent" after distributing accountability leaflets; linked petition gained >10,000 signatures before removal.
+- Miles Kwan — 24-year-old student reportedly arrested for "seditious intent" after distributing accountability leaflets; linked petition gained >10,000 signatures before removal ([[hong-kong-fire-2025.activism]]).
 - Kenneth Cheung — Former district councillor reportedly taken by police; later said he was released on bail.
 - Residents and mourners, including individuals leaving notes at the estate, reported detentions; local media noted removal of condolence messages in public areas.
 - Volunteer surnamed Li — Reportedly arrested alongside Kwan and Cheung over accountability messages [RFI](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%BD%93%E5%B1%80%E4%B8%A5%E6%89%93%E7%BD%91%E7%BB%9C-%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF-%E4%B8%A4%E5%A4%A9%E6%8D%95%E4%B8%89%E4%BA%BA%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%8B%9B%E6%A0%87%E5%8F%97%E5%85%B3%E6%B3%A8-%E4%BA%B2%E4%B8%AD%E5%A4%A7%E5%85%9A%E6%B0%91%E5%BB%BA%E8%81%94%E6%80%A5%E5%88%87%E5%89%B2?utm_medium=social&utm_campaign=threads&utm_source=shorty&utm_slink=rfi.my%2FCEOr).
