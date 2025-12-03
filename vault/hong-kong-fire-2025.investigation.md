@@ -2,7 +2,7 @@
 id: 2d1bqgsxku4o5my9c3t7hvl
 title: Hong Kong Fire 2025 Investigation
 desc: Key findings, arrests, and oversight actions following the Wang Fuk Court blaze.
-updated: 1764771032690
+updated: 1764778945363
 created: 1764709856652
 ---
 
@@ -35,6 +35,7 @@ Photo: Mak Yenting/RFI.
 - Alleged bid-rigging and interference: Residents reported suspected triad-linked individuals blocking dissenting owners from meetings; a new owners’ corporation replaced the old one in Sep 2024 after the contract was already signed (RFI).
 - Property management role: Bloomberg reports ISS A/S shares fell up to 11% on Dec 2 after SCMP noted its unit EastPoint Properties acted as Wang Fuk Court property manager. ISS says it only handled administrative tendering for the Incorporated Owners via an e-tender platform, made no recommendations, and welcomes the judge-led independent committee ([Bloomberg](https://www.bloomberg.com/news/articles/2025-12-02/iss-shares-plunge-after-hong-kong-launches-apartment-fire-probe)).
 - URA scoring controversy: HKEJ says contractor Hong Yip Construction Engineering (宏業建築工程有限公司) received a 100/100 “project management” rating under the Urban Renewal Authority’s Building Rehab Company Registration Scheme. URA admits the display could mislead the public into thinking it is an overall contractor grade rather than a system-integrity check; the scheme also did not require declarations of site-safety convictions. URA plans to revise the audit scope/methods/display and to review its “招標妥” tender-support service to ensure consultant technical scoring is based on verifiable data and to reduce corruption/bid-rigging risks ([HKEJ](https://www.hkej.com/instantnews/article?id=4264192)).
+- ICAC complaints and scope concerns: Residents told i-Cable they tipped ICAC before the contract was signed but were asked for evidence and saw no probe until after the fire; a July 2024 owners’ briefing featured a lawyer warning owners they would bear legal liability if a leadership change voided the contract, discouraging a halt. The contractor reportedly runs repairs at 11 estates; other estates paused work and removed scaffold netting after the blaze while consultants demanded proof of flame-retardant materials and stricter site no-smoking enforcement ([i-Cable](https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/415811/%E4%B8%80%E7%B7%9A%E6%90%9C%E6%9F%A5-%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E8%83%8C%E5%BE%8C-%E4%B8%89%E7%96%91%E9%BB%9E%E6%83%B9%E9%97%9C%E6%B3%A8-%E5%B1%85%E6%B0%91)).
 - Complaints ignored: During works, residents complained to multiple departments about flammable mesh and foam sealing windows but “got nowhere”; disqualified pro-democracy district councillors who tried to assist were expelled for lacking official status (RFI).
 - Historical context: FactWire’s 2017 database (3,000 bids across 220 estates) highlighted systemic bid-rigging patterns in building maintenance—low consultant fees, market concentration, irregular pricing—mirroring current suspicions [FactWire](https://www.dotdotnews.com/a/202512/01/AP692d69ede4b0c32d4f618e05.html).
 
