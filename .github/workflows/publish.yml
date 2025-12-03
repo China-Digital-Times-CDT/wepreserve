@@ -54,7 +54,7 @@ jobs:
         }
         EOF
     - name: Apply template overrides (expand sidebar tree)
-      run: cp scripts/overrides/DendronTreeMenu.tsx .next/components/DendronTreeMenu.tsx
+      run: cp "$GITHUB_WORKSPACE/scripts/overrides/DendronTreeMenu.tsx" .next/components/DendronTreeMenu.tsx
 
     - name: Export notes
       run: yarn dendron publish export --target github --yes
