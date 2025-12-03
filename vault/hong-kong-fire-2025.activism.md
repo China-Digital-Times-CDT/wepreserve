@@ -15,6 +15,7 @@ Parent: [[hong-kong-fire-2025]]
 - WSJ described thousands gathering on Dec 1 to lay flowers and donate supplies; ad-hoc relief booths were later replaced by police command tents as authorities formalized the site ([WSJ](https://www.wsj.com/world/china/hong-kongs-response-to-deadly-fire-is-squeezed-by-chinas-firm-hand-ea01b5a2)).
 - “頭七” memorial (Dec 2): Kowloon Funeral Parlour opened East Hall for three days (from Nov 30) to let the public mourn; projection screen displayed e-condolences, including calls for “公義” and “徹查真相.” Hundreds—students in uniform, nearby office workers—queued through lunch to lay flowers; sobbing and paper-offering folding reported despite weekday timing (local reports).
 - Diaspora vigil (Dec 5): Hong Kongers in Britain (HKB) plan a London memorial 6–8:30 p.m. at 1 Coral Street, SE1 with altar, Lennon Wall, silent area; expected 200–300 attendees; organizers call for an open, transparent inquiry (Points Media).
+- Diaspora vigil (Dec 6): Toronto/North York memorial 4:30–5:30 p.m. at North York Memorial Community Hall, 5110 Yonge St, with doors open from 4:00 for flowers; Lennon Wall and petition signing for an independent inquiry remain open afterward (Hong Kong-Canada Association via A1 Chinese Radio).
 - Diaspora vigil (Dec 7): Community notice for a New York prayer service at Transfiguration Church, 29 Mott Street, 4:00 p.m.; clergy to lead benediction with hymn singing from 3:00 p.m.; open invitation to mourn Wang Fuk Court victims.
 
 ## Accountability and Detentions

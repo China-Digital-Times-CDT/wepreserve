@@ -40,6 +40,10 @@ Parent: [[hong-kong-fire-2025]]
 - Türkiye Foreign Ministry — Issued condolences on Nov 27, noting 83 deaths and dozens injured at that time (TRT World).
 - King Salman & Crown Prince Mohammed bin Salman — Issued condolences to Xi Jinping on Nov 29 (Arab News).
 
+## Experts and Analysts
+- José Luis Torero — UCL civil/environmental engineering head and Grenfell Tower inquiry expert; says Wang Fuk Court’s vertical spread and smoke overrunning escape routes resemble Grenfell, points to combustible foam/polystyrene and channel-flow between closely spaced towers as likely drivers over bamboo, and calls for a Grenfell-level technical probe into materials, compartmentation, spacing, and smoke-path failure ([Yahoo/信報](https://hk.finance.yahoo.com/news/%E8%8B%B1%E7%81%AB%E7%81%BD%E8%AA%BF%E6%9F%A5%E5%B0%88%E5%AE%B6-%E5%88%B6%E5%BA%A6%E5%A4%B1%E6%95%88%E7%8C%9B%E6%96%BC%E7%81%AB-2017%E5%80%AB%E6%95%A6%E4%BD%8F%E5%AE%85%E5%A4%A7%E5%BB%88%E7%87%92%E9%80%9A%E9%A0%82-%E8%88%87%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%B8%E4%BC%BC-184700834.html)).
+- Per Hansen — Nordnet investment economist; warned ISS A/S could face a costly, lengthy probe and short-seller pressure after its property-management role surfaced; ISS shares fell up to 11% on Dec 2 despite being up >50% over the past year ([Bloomberg](https://www.bloomberg.com/news/articles/2025-12-02/iss-shares-plunge-after-hong-kong-launches-apartment-fire-probe)).
+
 ## Investigations and Enforcement
 - 15 people arrested on suspicion of manslaughter after police found substandard scaffolding netting allegedly swapped to bypass inspections; three early arrests were from the renovation contractor tied to alleged gross negligence ([[hong-kong-fire-2025.investigation]]).
 - Eight individuals, including project managers and subcontractors, arrested in an ICAC probe connected to the renovation project; reports also note 11 total arrests including directors and an engineering consultant (NBC/AP).
