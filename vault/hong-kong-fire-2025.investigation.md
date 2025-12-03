@@ -20,6 +20,9 @@ Photo: Mak Yenting/RFI.
 - Temperature and access: Interior temps reported above 500C; falling scaffolding and debris hindered rescues (CNN/Reuters/AP).
 - Resident account: Survivor Yip Ka-kui described hearing bamboo poles “explode” and mesh igniting before foam-sealed windows trapped his wife Bai Shui Lin, who died after warning neighbors ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
 - Policy responses: Mainland authorities ordered a nationwide inspection of high-rises—especially under renovation with bamboo/wood scaffolding and non-flame-retardant nets—while Hong Kong said 7 of 20 netting samples failed and signaled a gradual shift toward metal scaffolding without blaming bamboo alone ([WSJ](https://www.wsj.com/world/china/hong-kongs-response-to-deadly-fire-is-squeezed-by-chinas-firm-hand-ea01b5a2)).
+- Scene documentation: On Nov 30 the Disaster Victim Identification Unit entered the towers to map interiors and recover remains; widely shared photos show flats reduced to ash with exposed rebar, blackened walls, and charred fixtures, highlighting the scale of destruction across seven of eight blocks ([The Standard](https://www.thestandard.com.hk/hong-kong-news/article/318169/)).
+
+![Burned interior at Wang Fuk Court showing collapsed plaster, ash-covered floors, and charred fixtures — DVIU survey photo.](/assets/burnt_house_hkpf.jpg)
 
 ## Insurance and Liability
 - Taiping Hong Kong (insurer for Wang Fuk Court renovation and estate policies) paid a first batch of nine home-insurance claims totaling HK$5.372m on Dec 1; the estate’s property insurance carries a reported HK$20b sum insured with third-party liability cover up to HK$200m per incident, backed by reinsurance partners including Qianhai Re, China Re P&C, and Taiping Re ([Sina](https://finance.sina.com.cn/roll/2025-12-02/doc-infzmppc0220721.shtml)).

@@ -13,6 +13,9 @@ Parent: [[hong-kong-fire-2025]]
 - On-site memorials and note removals reported; residents continued placing messages nearby.
 - Mourners at Wang Fuk Court displayed placards reading “要检讨嘅唔系竹棚 而系个制度” (“Review the system, not the bamboo”), rejecting attempts to blame bamboo scaffolding for the spread (RFI).
 - WSJ described thousands gathering on Dec 1 to lay flowers and donate supplies; ad-hoc relief booths were later replaced by police command tents as authorities formalized the site ([WSJ](https://www.wsj.com/world/china/hong-kongs-response-to-deadly-fire-is-squeezed-by-chinas-firm-hand-ea01b5a2)).
+- “頭七” memorial (Dec 2): Kowloon Funeral Parlour opened East Hall for three days (from Nov 30) to let the public mourn; projection screen displayed e-condolences, including calls for “公義” and “徹查真相.” Hundreds—students in uniform, nearby office workers—queued through lunch to lay flowers; sobbing and paper-offering folding reported despite weekday timing (local reports).
+- Diaspora vigil (Dec 5): Hong Kongers in Britain (HKB) plan a London memorial 6–8:30 p.m. at 1 Coral Street, SE1 with altar, Lennon Wall, silent area; expected 200–300 attendees; organizers call for an open, transparent inquiry (Points Media).
+- Diaspora vigil (Dec 7): Community notice for a New York prayer service at Transfiguration Church, 29 Mott Street, 4:00 p.m.; clergy to lead benediction with hymn singing from 3:00 p.m.; open invitation to mourn Wang Fuk Court victims.
 
 ## Accountability Actions
 - Petitions/leaflets: Arrests of student Miles Kwan (petition >10k signatures), former district councillor Kenneth Cheung, and volunteer surnamed Li over accountability leaflets/messages (RFI/HKFP).
