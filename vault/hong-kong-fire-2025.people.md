@@ -2,7 +2,7 @@
 id: y0btw9fndm8l2h5q7se3kxr
 title: Hong Kong Fire 2025 People
 desc: Key individuals and groups connected to the Wang Fuk Court fire.
-updated: 1764709468605
+updated: 1764797020000
 created: 1764698071435
 ---
 
@@ -61,4 +61,4 @@ Parent: [[hong-kong-fire-2025]]
 - Mnet Asian Music Awards (Kai Tak) — Held under “Support Hong Kong”; Chow Yun-Fat and host Kim Hye-soo led a moment of silence; attendees wore black. Donations included HK$1M from G-Dragon plus support from SM, Hybe, JYP, Ive, Stray Kids, and others; Michelle Yeoh canceled appearance; a “KPop Demon Hunters” performance was dropped for tone sensitivity [Korea Herald](https://www.koreaherald.com/article/10626450).
 
 ## Whistleblowers
-- Jason Poon (Pan Zhuohong) — Contractor and chairman of China Inspection (中科監察); previously exposed Shatin-Central Line defects. Reportedly filmed and emailed Fire Services leadership multiple times (e.g., 2024-05-17) warning of non-compliant scaffolding netting at Wang Fuk Court; says no action was taken. [Warning video](https://www.facebook.com/JasonPoonHongKong/videos/1589328408575284/?vh=e&fs=e&mibextid=wwXIfr&rdid=CejPpFlbwxgf5749#). Worked with residents who complained to the Labor Department about flammable netting and foam boards in Sep 2024; officials cited contractor certificates after 16 inspections and some notices/prosecutions but allowed works to continue [NYT](https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire-officials-warned.html).
+- 潘焯鴻 (Jason Poon / Pan Zhuohong) — Contractor and chairman of China Inspection (中科監察); previously exposed Shatin-Central Line defects. Reportedly filmed and emailed Fire Services leadership multiple times (e.g., 2024-05-17) warning of non-compliant scaffolding netting at Wang Fuk Court; says no action was taken. [Warning video](https://www.facebook.com/JasonPoonHongKong/videos/1589328408575284/?vh=e&fs=e&mibextid=wwXIfr&rdid=CejPpFlbwxgf5749#). Worked with residents who complained to the Labor Department about flammable netting and foam boards in Sep 2024; officials cited contractor certificates after 16 inspections and some notices/prosecutions but allowed works to continue [NYT](https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire-officials-warned.html).
