@@ -2,7 +2,7 @@
 id: rwt4p2z6dba0fmk8s1u3yhe
 title: Hong Kong Fire 2025 Activism
 desc: Community response, solidarity, and civic actions after the Wang Fuk Court blaze.
-updated: 1764778177069
+updated: 1764794787514
 created: 1764709856652
 ---
 
@@ -17,6 +17,8 @@ Parent: [[hong-kong-fire-2025]]
 - Diaspora vigil (Dec 5): Hong Kongers in Britain (HKB) plan a London memorial 6–8:30 p.m. at 1 Coral Street, SE1 with altar, Lennon Wall, silent area; expected 200–300 attendees; organizers call for an open, transparent inquiry (Points Media).
 - Diaspora vigil (Dec 6): Toronto/North York memorial 4:30–5:30 p.m. at North York Memorial Community Hall, 5110 Yonge St, with doors open from 4:00 for flowers; Lennon Wall and petition signing for an independent inquiry remain open afterward (Hong Kong-Canada Association via A1 Chinese Radio).
 - Diaspora vigil (Dec 7): Community notice for a New York prayer service at Transfiguration Church, 29 Mott Street, 4:00 p.m.; clergy to lead benediction with hymn singing from 3:00 p.m.; open invitation to mourn Wang Fuk Court victims.
+- Diaspora vigil (Dec 6, Taipei): Taiwan-based Hongkongers plan a memorial at Liberty Square/CKS Memorial Hall archway (No. 21, Zhongshan South Rd, Zhongzheng Dist., Taipei), 7:00–9:00 p.m.; flowers encouraged and message cards provided; languages: Cantonese/Mandarin/English (community call).
+- Diaspora vigil (Dec 6, Auckland): Ellen Melville Centre, 2 Freyberg Place, 4:00–5:30 p.m.; black/neutral attire and flowers encouraged; includes vigil, Lennon Wall, and petition (community call).
 
 ## Accountability and Detentions
 - Petitions/leaflets: Arrests of student Miles Kwan (petition >10k signatures), former district councillor Kenneth Cheung, and volunteer surnamed Li over accountability leaflets/messages (RFI/HKFP).
@@ -24,6 +26,7 @@ Parent: [[hong-kong-fire-2025]]
 - Volunteer clampdown: ABC reported volunteers and NGOs distributing food and support were told to leave the site on Dec 1, reflecting official concern over gatherings; its “One fire, two systems” piece links the petition arrest and aid withdrawal to Beijing’s red lines on grief and accountability ([ABC](https://www.abc.net.au/news/2025-12-02/tai-po-fire-hong-kong-mainland-grief-red-lines/106087732)).
 - Election context: Government said Dec 7 LegCo campaign activities would pause while authorities address the fire; activists’ online petition echoed 2019 protest demands, and rights groups warned the National Security Law chills discussion of the disaster (WSJ).
 - Civil society presser (Dec 2) on high-rise repair policy canceled less than four hours before start after organizer Law Shing-lai (ADPL) met National Security police; HKFP reports solicitor and former ADPL chair Bruce Liu was taken in by the national security department ahead of the event. The agenda included resident support, an inquiry demand, potential bid-rigging/substandard materials, and regulator roles; slated speakers included ADPL’s Kwok Wai-shing and Jay Li plus town planner/former Democratic Party member Stanley Ng ([InMediaHK](https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%B0%91%E9%96%93%E8%A8%98%E8%80%85%E6%9C%83%E5%8F%96%E6%B6%88-%E5%BB%96%E6%88%90%E5%88%A9%E8%A2%AB%E5%9C%8B%E5%AE%89%E8%99%95%E9%82%80%E6%9C%83%E9%9D%A2%EF%BC%9A%E5%B7%B2%E7%B0%BD%E4%BF%9D%E5%AF%86%E5%8D%94%E8%AD%B0%E4%B8%8D%E8%83%BD%E9%80%8F%E9%9C%B2?utm_source=dable) [HKFP](https://hongkongfp.com/2025/12/02/hong-kong-solicitor-taken-in-by-nat-sec-police-as-civic-press-event-on-deadly-tai-po-blaze-axed/)).
+- Campus censorship: Baptist University Students’ Union posted mourning posters on Dec 2 reading “沉痛哀悼宏福苑大火死者 / WE ARE HONGKONGERS / 懇請政府從善如流 回應公眾需求 公義得到伸張”; by the next day the university cordoned off the SU board and Democracy Wall with barriers, blocking access to the posters and sparking online criticism that even seeking truth is being curtailed ([Threads](https://www.threads.com/@kong.news/post/DRzA_zAEs3a)).
 - Owners’ committee accountability: DAB-linked advisor Wong Bik-kiu vows police/ICAC reports over alleged misconduct and safety risks; highlights man-made disaster framing and calls for full accountability (DotDotNews/HK01).
 - Public commentary on accountability: Threads posts highlight lack of official resignations after ~200 dead/missing and cite AFP question to John Lee (“Can you tell us why you deserve to keep your job?”) ([Threads](https://www.threads.com/@kaminghk/post/DRxEWgCj7mz?xmt=AQF0Y8QlE4EeoRWNRx0-ZokkHaRfuw3I-2LSifPZ25bpOQ)).
 

@@ -2,7 +2,7 @@
 id: wm9v6z1k5rx4nqlu8g03b2t
 title: Hong Kong Fire 2025 Timeline
 desc: Sequence of reported events and follow-on actions for the Wang Fuk Court fire.
-updated: 1764778945363
+updated: 1764793980643
 created: 1764698071435
 ---
 
@@ -62,6 +62,7 @@ Parent: [[hong-kong-fire-2025]]
 - **2025-12-03** SCMP investigation: internal documents show Wang Fuk Court’s renovation budget rose from HK$152m (Sep 2023 analysis) to HK$336m after the priciest option was chosen; experts call the sector “rotten,” citing bid-rigging/collusion and urging an overhaul alongside the judge-led probe ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3334964/whole-market-rotten-hong-kong-fire-exposes-greedy-building-renovation-business)).
 - **2025-12-03** Threads/X accounts of activist/repo maintainer Hailey Cheng (aka 金冬菇), who co-founded the GitHub “Hong Kong Fire Documentary,” are removed; her phone goes offline. Supporters fear she was taken for questioning over alleged “seditious” information ([Threads](https://www.threads.com/@bravedogdog/post/DRxuZY8DOEH?xmt=AQF0lSY3idOhbSWh9l93EEyPuDBCKVB3sWO-7wYF0_7GxA)).
 - **2025-12-03** Police complete searches of all seven burned towers, recover three additional bodies, and raise the death toll to 159 (140 identified, 19 pending ID); 31 remain unaccounted. Injury tally stays at 79 with 42 discharged and 37 hospitalized (4 critical, 9 serious, 24 stable). Ten foreign domestic workers are confirmed dead (9 Indonesian, 1 Filipino) and five injured. Building distribution: Wang Tai 82 deaths, Wang Cheong 70, Wang Sun 3, Wang Do 2, Wang Shing 1; none in Wang Yan/Wang Kin/Wang Chi; one victim not yet tied to a block, likely Wang Cheong/Tai ([UDN](https://money.udn.com/money/story/5603/9179960) [DotDotNews](https://www.dotdotnews.com/a/202512/03/AP693009b4e4b0c32d4f61dda7.html)).
+- **2025-12-03** SPCA says firefighters found 364 animals; 294 survived, 70 died, and 173 remain missing; total affected animals estimated above 537, including fish, pet crabs, and cats ([RTHK](https://news.rthk.hk/rthk/ch/component/k2/1834467-20251203.htm)).
 - **2025-12-05 (planned)** UK diaspora vigil: Hong Kongers in Britain (HKB) will hold a London memorial 6–8:30 p.m. at 1 Coral Street, SE1 with altar, Lennon Wall, and silent area; organizers expect 200–300 attendees and urge an open, transparent inquiry (Points Media).
 - **2025-12-06 (planned)** Toronto/North York memorial 4:30–5:30 p.m. at North York Memorial Community Hall, 5110 Yonge St; doors open 4:00 for flowers; Lennon Wall and petition for independent inquiry stay open afterward (HK-Canada Association via A1 Chinese Radio).
 - **2025-12-07 (planned)** New York prayer service: Community announcement for a memorial/benediction at Transfiguration Church, 29 Mott Street at 4:00 p.m. with hymns from 3:00 p.m.; open invitation to mourn Wang Fuk Court victims.
