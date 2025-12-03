@@ -2,7 +2,7 @@
 id: 9e5b0uhf2vl7gk4rj1tzp3x
 title: Hong Kong Fire 2025
 desc: ''
-updated: 1764710128089
+updated: 1764771216036
 created: 1764696585495
 ---
 
@@ -20,10 +20,10 @@ Officials say the rapid spread of the fire was exacerbated by highly flammable p
 
 ## Key Facts
 - **Location/Date**: Wang Fuk Court, Tai Po; ~2,000 apartments with ~4,600 residents (c.40% aged 65+ per 2021 census); fire reported Nov 26, 2025 (~2:51 p.m.), escalated to level 5.
-- **Casualties (as of Dec 2)**: At least 156 dead (29 unidentified), ~30 unaccounted; 79 injured incl. 12 firefighters; one firefighter (age 37) confirmed dead; 235 foreign domestic workers worked at the estate with 10 confirmed dead and 30 missing (TVBS).
+- **Casualties (as of Dec 3)**: 159 dead (140 identified, 19 pending ID); 31 unaccounted; 79 injured (42 discharged, 37 still hospitalized—4 critical, 9 serious, 24 stable); one firefighter (age 37) confirmed dead; among 235 foreign domestic workers, 10 dead (9 Indonesian, 1 Filipino) and 5 injured (UDN/Ming Pao/TVBS).
 - **Response scale**: Fire spread across seven of eight towers (all but Wang Chi House); >800 firefighters/paramedics; 200 fire trucks and 100 ambulances dispatched early.
 - **Materials and system failures**: Highly flammable polystyrene and substandard scaffolding netting blocked windows/escape routes; elevator-lobby windows reportedly sealed with foam boards; netting allegedly swapped to bypass inspections; alarms found non-functional across all towers (some residents say alarms were switched off during works).
-- **Tender and oversight concerns**: MBIS renovation price reportedly jumped from HK$140m to HK$330m; residents alleged bid-rigging, triad-linked interference at owners’ meetings, and ignored complaints about flammable mesh/foam; disqualified pro-democracy district councillors who tried to help were expelled (RFI).
+- **Tender and oversight concerns**: MBIS renovation price reportedly jumped from HK$140m to HK$330m; residents alleged bid-rigging, triad-linked interference at owners’ meetings, and ignored complaints about flammable mesh/foam; disqualified pro-democracy district councillors who tried to help were expelled (RFI). HKEJ reports the contractor Hong Yip Construction Engineering (宏業建築工程有限公司) received a 100/100 “project management” score in the Urban Renewal Authority’s Building Rehab Company Registration Scheme; URA admits the score display could mislead the public about overall contractor quality, notes the scheme did not require disclosure of site-safety convictions, and will revise audit scope/methods/display and review its “招標妥” tender-support service to validate technical scoring ([HKEJ](https://www.hkej.com/instantnews/article?id=4264192)).
 - **Investigations**: 15 manslaughter arrests tied to alleged gross negligence; ICAC probe with eight arrests linked to the renovation project; officials say seven of 20 netting samples failed safety standards (NBC/AP).
 - **Governance response**: Chief Executive John Lee announced a judge-led independent committee (non-statutory) to review the incident and recommend renovation-system reforms; government sources say statutory powers will be replaced by administrative directives to supply evidence.
 - **Human stories**: Survivor Yip Ka-kui described bamboo “exploding” and mesh igniting as foam-sealed windows trapped his wife Bai Shui Lin, who died after warning neighbors; their sons survived ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)). HKSKH social worker Chan Mo-ning says some families cannot visually ID remains and may wait months for DNA results ([am730](https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E8%81%96%E5%85%AC%E6%9C%83-%E7%84%A1%E6%B3%95%E8%BE%A8%E8%AA%8D%E9%81%BA%E9%AB%94%E6%88%96%E9%9C%80%E6%95%B8%E6%9C%88%E9%A9%97dna-%E5%AE%B6%E5%B1%AC%E9%99%B7%E5%BE%AC%E5%BE%A8/624057)).

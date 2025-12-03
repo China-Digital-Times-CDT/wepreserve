@@ -2,7 +2,7 @@
 id: 2d1bqgsxku4o5my9c3t7hvl
 title: Hong Kong Fire 2025 Investigation
 desc: Key findings, arrests, and oversight actions following the Wang Fuk Court blaze.
-updated: 1764712458998
+updated: 1764771032690
 created: 1764709856652
 ---
 
@@ -34,6 +34,7 @@ Photo: Mak Yenting/RFI.
 - Budget escalation: SCMP reports internal documents showing Wang Fuk Court’s budget rising from HK$152m (Sep 2023 analysis) to HK$336m after adopting the most expensive option, including full mosaic removal/repaving and added drainage/fire upgrades; experts call the renovation sector “rotten” with bid-rigging/collusion and urge an overhaul ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3334964/whole-market-rotten-hong-kong-fire-exposes-greedy-building-renovation-business)).
 - Alleged bid-rigging and interference: Residents reported suspected triad-linked individuals blocking dissenting owners from meetings; a new owners’ corporation replaced the old one in Sep 2024 after the contract was already signed (RFI).
 - Property management role: Bloomberg reports ISS A/S shares fell up to 11% on Dec 2 after SCMP noted its unit EastPoint Properties acted as Wang Fuk Court property manager. ISS says it only handled administrative tendering for the Incorporated Owners via an e-tender platform, made no recommendations, and welcomes the judge-led independent committee ([Bloomberg](https://www.bloomberg.com/news/articles/2025-12-02/iss-shares-plunge-after-hong-kong-launches-apartment-fire-probe)).
+- URA scoring controversy: HKEJ says contractor Hong Yip Construction Engineering (宏業建築工程有限公司) received a 100/100 “project management” rating under the Urban Renewal Authority’s Building Rehab Company Registration Scheme. URA admits the display could mislead the public into thinking it is an overall contractor grade rather than a system-integrity check; the scheme also did not require declarations of site-safety convictions. URA plans to revise the audit scope/methods/display and to review its “招標妥” tender-support service to ensure consultant technical scoring is based on verifiable data and to reduce corruption/bid-rigging risks ([HKEJ](https://www.hkej.com/instantnews/article?id=4264192)).
 - Complaints ignored: During works, residents complained to multiple departments about flammable mesh and foam sealing windows but “got nowhere”; disqualified pro-democracy district councillors who tried to assist were expelled for lacking official status (RFI).
 - Historical context: FactWire’s 2017 database (3,000 bids across 220 estates) highlighted systemic bid-rigging patterns in building maintenance—low consultant fees, market concentration, irregular pricing—mirroring current suspicions [FactWire](https://www.dotdotnews.com/a/202512/01/AP692d69ede4b0c32d4f618e05.html).
 
