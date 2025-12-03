@@ -69,5 +69,6 @@ By December 2, police reported 15 total manslaughter arrests after discovering e
 - TRT World: [Türkiye Foreign Ministry condolences](https://www.trtworld.com/article/f3e85385415c)
 - Korea Herald: [MAMA tribute and donations](https://www.koreaherald.com/article/10626450)
 - GitHub archive: [Tai Po Wang Fuk Court Fire Documentary](https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary)
+- BBC visual explainer: [How the Hong Kong fire spread](https://www.bbc.co.uk/news/resources/idt-c9792622-43e7-4b04-8374-2771dce4fcd1)
 
 Community leaders have expressed outrage over the incident, demanding accountability and a thorough investigation into the safety practices of construction companies in Hong Kong. Public anger is mounting, with protests calling for an independent investigation into the causes of the fire and the systemic issues within the construction industry. Authorities have also accused "anti-China forces" of exploiting the tragedy for political gain, further complicating the narrative surrounding the event.
