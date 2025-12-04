@@ -9,9 +9,9 @@ created: 1764698071435
 Parent: [[hong-kong-fire-2025]]
 
 ## Victims and Residents
-- 156 confirmed dead as of Dec 2; 29 remain unidentified and ~30 unaccounted while registries are reconciled ([[hong-kong-fire-2025.timeline]]). Many were elderly residents trapped in upper floors.
-- One firefighter died during the response; 79 injured, including 12 firefighters (counts may evolve during identification).
-- Seven Indonesian domestic workers confirmed dead; 79 missing per consulate reporting.
+- 159 confirmed dead (140 identified, 19 pending ID) and 31 unaccounted as of Dec 3; many were elderly residents trapped in upper floors ([[hong-kong-fire-2025.timeline]]).
+- One firefighter died during the response; 79 injured (4 critical, 9 serious, 24 stable), including firefighters; counts may evolve during identification.
+- Ten foreign domestic workers (9 Indonesian, 1 Filipino) confirmed dead and five injured; ongoing reconciliation for the unaccounted.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
 - Bai Shui Lin — 66-year-old resident who warned neighbors and helped at least three families escape before dying in the blaze; identified via ID card; husband Yip Ka-kui recounted their final call as smoke overtook their flat ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
 - Families awaiting DNA ID — HKSKH social worker Chan Mo-ning says some relatives cannot visually identify remains and may wait months for DNA confirmation, deepening anxiety ([am730](https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E8%81%96%E5%85%AC%E6%9C%83-%E7%84%A1%E6%B3%95%E8%BE%A8%E8%AA%8D%E9%81%BA%E9%AB%94%E6%88%96%E9%9C%80%E6%95%B8%E6%9C%88%E9%A9%97dna-%E5%AE%B6%E5%B1%AC%E9%99%B7%E5%BE%AC%E5%BE%A8/624057)).
