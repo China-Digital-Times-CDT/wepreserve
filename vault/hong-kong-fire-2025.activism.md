@@ -2,7 +2,7 @@
 id: rwt4p2z6dba0fmk8s1u3yhe
 title: Hong Kong Fire 2025 Activism
 desc: Community response, solidarity, and civic actions after the Wang Fuk Court blaze.
-updated: 1764794787514
+updated: 1764802545714
 created: 1764709856652
 ---
 
@@ -37,6 +37,7 @@ Parent: [[hong-kong-fire-2025]]
 - Disappearances/online takedowns: Threads/X accounts of Hailey Cheng (a.k.a. 金冬菇, founder of the GitHub “Hong Kong Fire Documentary” project) were removed early Dec 3; her phone unreachable, prompting fears she was taken for questioning over “seditious” information ([Threads](https://www.threads.com/@bravedogdog/post/DRxuZY8DOEH?xmt=AQF0lSY3idOhbSWh9l93EEyPuDBCKVB3sWO-7wYF0_7GxA)).
 - Narrative contest: Global Voices op-ed (Dec 2) says the fire was man-made—rooted in MBIS tender/oversight failures and ignored complaints—and urges an independent inquiry; criticizes scapegoating bamboo and notes student arrest over a petition and pulled Ta Kung Pao bid-rigging reports as evidence of suppression ([Global Voices](https://globalvoices.org/2025/12/02/critics-say-hong-kong-fire-was-due-to-negligence-not-scaffolding/)).
 - International media framing: AP (Dec 2) describes a “tip of an iceberg,” highlighting 7 of 20 net samples failing, alleged cost-cutting net swaps, alarms not sounding, suspension of 28 other projects, and national-security arrests of petition organizers amid concerns of systemic bid-rigging and weak oversight ([AP](https://apnews.com/article/hong-wang-china-dissent-fire-construction-ff953aec2bc0201b0e3255805a241fc1)).
+- Freedoms and suppression: Foreign Policy column argues the fire confirms Hong Kong’s political culture now mirrors the mainland—civil society aid dismantled, petitioners arrested, independent inquiries impossible under NSL—contrasting Grenfell’s scrutiny with Hong Kong’s repression and warning disasters risk being buried in official narratives ([Foreign Policy](https://foreignpolicy.com/2025/12/02/hong-kong-apartment-fire-china-political-freedoms/)).
 
 ## Donations and Aid
 - Relief funds (as of Dec 2): Government-led assistance fund totals ~HK$2.3B (HK$2B donations + HK$300m seed); disbursements include HK$200k condolence and HK$50k funeral per fatality, plus HK$50k living allowance per affected household. As of latest: 21 condolence cases and 104 living-allowance cases processed (Now News).
