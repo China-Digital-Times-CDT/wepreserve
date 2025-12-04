@@ -2,7 +2,7 @@
 id: 2d1bqgsxku4o5my9c3t7hvl
 title: Hong Kong Fire 2025 Investigation
 desc: Key findings, arrests, and oversight actions following the Wang Fuk Court blaze.
-updated: 1764802545714
+updated: 1764804300000
 created: 1764709856652
 ---
 
@@ -40,6 +40,7 @@ Photo: Mak Yenting/RFI.
 - ICAC complaints and scope concerns: Residents told i-Cable they tipped ICAC before the contract was signed but were asked for evidence and saw no probe until after the fire; a July 2024 owners’ briefing featured a lawyer warning owners they would bear legal liability if a leadership change voided the contract, discouraging a halt. The contractor reportedly runs repairs at 11 estates; other estates paused work and removed scaffold netting after the blaze while consultants demanded proof of flame-retardant materials and stricter site no-smoking enforcement ([i-Cable](https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/415811/%E4%B8%80%E7%B7%9A%E6%90%9C%E6%9F%A5-%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E8%83%8C%E5%BE%8C-%E4%B8%89%E7%96%91%E9%BB%9E%E6%83%B9%E9%97%9C%E6%B3%A8-%E5%B1%85%E6%B0%91)).
 - Complaints ignored: During works, residents complained to multiple departments about flammable mesh and foam sealing windows but “got nowhere”; disqualified pro-democracy district councillors who tried to assist were expelled for lacking official status (RFI).
 - Historical context: FactWire’s 2017 database (3,000 bids across 220 estates) highlighted systemic bid-rigging patterns in building maintenance—low consultant fees, market concentration, irregular pricing—mirroring current suspicions [FactWire](https://www.dotdotnews.com/a/202512/01/AP692d69ede4b0c32d4f618e05.html).
+- Demands for action: [[hong-kong-fire-2025.people#whistleblowers|潘焯鴻 (Jason Poon)]] posted on Nov 26 urging immediate net inspections at other estates (e.g., Sui Wo, On Kay), evacuation/rehousing of ~3,000 households, criminal probes into fake netting documents, accountability for regulators, an Independent Commission of Inquiry, and travel bans/detentions for key IO members/contractors to prevent evidence flight ([Facebook](https://www.facebook.com/JasonPoonHongKong/posts/%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%B8%85%E5%96%AE-1-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E5%B7%B2%E7%B6%93%E7%84%A1%E5%8A%9B%E6%8C%BD%E6%87%89%E5%8B%95%E5%93%A1%E6%9B%B4%E5%A4%9A%E8%B3%87%E6%BA%90%E9%98%BB%E6%AD%A2%E7%AC%AC%E4%BA%8C%E5%80%8B%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%BD%E9%9B%A3%E7%99%BC%E7%94%9F%E7%A9%97%E7%A6%BE%E8%8B%91%E5%AE%89%E5%9F%BA%E8%8B%91%E7%AD%89%E7%AD%89%E7%AB%8B%E5%8D%B3%E6%AA%A2%E6%9F%A5%E6%A3%9A%E7%B6%B22-%E5%B0%873000%E6%88%B6%E8%BF%9110000%E5%90%8D%E5%8D%B3%E6%99%82%E6%B5%81%E9%9B%A2%E5%A4%B1%E6%89%80%E7%9A%84%E5%B1%85%E6%B0%91%E5%AE%89/1375966570836591/)).
 
 ## Arrests and Probes
 - Manslaughter: 15 arrested on gross negligence related to renovation works; early arrests included contractor directors/consultant; later arrests expanded to scaffolding subcontractors and intermediary.
