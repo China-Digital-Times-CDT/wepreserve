@@ -14,6 +14,7 @@ Parent: [[hong-kong-fire-2025]]
 - Ten foreign domestic workers (9 Indonesian, 1 Filipino) confirmed dead and five injured; ongoing reconciliation for the unaccounted.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
 - Bai Shui Lin — 66-year-old resident who warned neighbors and helped at least three families escape before dying in the blaze; identified via ID card; husband Yip Ka-kui recounted their final call as smoke overtook their flat ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
+- Apple Tong — illustrator and Wang Fuk Court resident who lost all art supplies when the fire spread to her block; she and her mother escaped after smelling smoke despite sealed windows and no alarm, and she reported community donations of replacement tools after sharing her story ([Artnet](https://news.artnet.com/art-world/hong-kong-fire-bamboo-culture-2723917)).
 - Families awaiting DNA ID — HKSKH social worker Chan Mo-ning says some relatives cannot visually identify remains and may wait months for DNA confirmation, deepening anxiety ([am730](https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E8%81%96%E5%85%AC%E6%9C%83-%E7%84%A1%E6%B3%95%E8%BE%A8%E8%AA%8D%E9%81%BA%E9%AB%94%E6%88%96%E9%9C%80%E6%95%B8%E6%9C%88%E9%A9%97dna-%E5%AE%B6%E5%B1%AC%E9%99%B7%E5%BE%AC%E5%BE%A8/624057)).
 
 ## Responders
