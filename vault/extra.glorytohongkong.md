@@ -62,6 +62,8 @@ Glory be to thee Hong Kong
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y7yRDOLCy4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eBVbbttGybI?si=fYMvJJ7PtaW0cw5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Derived Editions/Performances
 
 - [《願榮光歸香港》 中樂合奏及合唱團版 MV](https://www.youtube.com/watch?v=VHOZuIO5G2s)
