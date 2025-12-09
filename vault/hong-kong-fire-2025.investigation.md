@@ -1,6 +1,6 @@
 ---
 id: 2d1bqgsxku4o5my9c3t7hvl
-title: Hong Kong Fire 2025 Investigation
+title: Investigation
 desc: Key findings, arrests, and oversight actions following the Wang Fuk Court blaze.
 updated: 1764806900000
 created: 1764709856652

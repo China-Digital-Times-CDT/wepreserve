@@ -1,6 +1,6 @@
 ---
 id: 9e5b0uhf2vl7gk4rj1tzp3x
-title: Hong Kong Fire 2025
+title: "🔥 Hong Kong Fire 2025"
 desc: ''
 updated: 1764802545714
 created: 1764696585495

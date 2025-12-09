@@ -1,6 +1,6 @@
 ---
 id: y0btw9fndm8l2h5q7se3kxr
-title: Hong Kong Fire 2025 People
+title: People
 desc: Key individuals and groups connected to the Wang Fuk Court fire.
 updated: 1764797020000
 created: 1764698071435

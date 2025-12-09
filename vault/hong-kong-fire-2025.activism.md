@@ -1,6 +1,6 @@
 ---
 id: rwt4p2z6dba0fmk8s1u3yhe
-title: Hong Kong Fire 2025 Activism
+title: Activism
 desc: Community response, solidarity, and civic actions after the Wang Fuk Court blaze.
 updated: 1764802545714
 created: 1764709856652
@@ -22,6 +22,7 @@ Parent: [[hong-kong-fire-2025]]
 
 ## Accountability and Detentions
 - Petitions/leaflets: Arrests of student Miles Kwan (petition >10k signatures), former district councillor Kenneth Cheung, and volunteer surnamed Li over accountability leaflets/messages (RFI/HKFP).
+- Petition clampdown: The Diplomat reports a student arrested for sedition after handing out flyers for a four-demand petition; friends relaunched the petition offshore, hitting ~11,900 signatures by Dec 4, citing safety concerns for onshore organizers ([The Diplomat](https://thediplomat.com/2025/12/hong-kongs-grenfell-tower-moment-when-grief-became-sedition/)).
 - Protests/vigils calling for independent investigation; police/security officials warned against “misinformation.”
 - Volunteer clampdown: ABC reported volunteers and NGOs distributing food and support were told to leave the site on Dec 1, reflecting official concern over gatherings; its “One fire, two systems” piece links the petition arrest and aid withdrawal to Beijing’s red lines on grief and accountability ([ABC](https://www.abc.net.au/news/2025-12-02/tai-po-fire-hong-kong-mainland-grief-red-lines/106087732)).
 - Election context: Government said Dec 7 LegCo campaign activities would pause while authorities address the fire; activists’ online petition echoed 2019 protest demands, and rights groups warned the National Security Law chills discussion of the disaster (WSJ).
@@ -40,6 +41,7 @@ Parent: [[hong-kong-fire-2025]]
 - Government rebuttal to media: Security Secretary Chris Tang sent a letter to the Wall Street Journal criticizing its editorial on the fire as biased and “ignoring” government support measures, insisting law enforcement must act on alleged crimes and warning against “using the tragedy” (Now News, [letter coverage](https://news.now.com/home/local/player?newsId=628411)).
 - Campus clampdown update: After earlier poster removals, Hong Kong Baptist University ordered its Students’ Union to suspend operations on Dec 5, citing low representativeness, welfare gaps, and finance-rule issues; it took over the SU office, copy room, and notice boards, giving officers <48 hours to clear belongings. HKBU SU condemned the move as unilateral and baseless and said it had already been revising finance rules and planning student events ([HKBU SU statement](https://www.facebook.com/share/p/1A5Q9xMkQ4/?mibextid=wwXIfr)).
 - Disappearances/online takedowns: Threads/X accounts of Hailey Cheng (a.k.a. 金冬菇, founder of the GitHub “Hong Kong Fire Documentary” project) were removed early Dec 3; her phone unreachable, prompting fears she was taken for questioning over “seditious” information ([Threads](https://www.threads.com/@bravedogdog/post/DRxuZY8DOEH?xmt=AQF0lSY3idOhbSWh9l93EEyPuDBCKVB3sWO-7wYF0_7GxA)).
+- Self-censorship after warnings: After Dec 3 OSNS/HKSAR statements about “foreign forces,” content creators Ellie Yuen (whose explainer amassed ~5.5M views) and Hailey Cheng said on Dec 4 they would stop covering the fire and asked media not to quote them, citing “obvious reasons” and pledges to comply with government appeals ([The Diplomat](https://thediplomat.com/2025/12/hong-kongs-grenfell-tower-moment-when-grief-became-sedition/)).
 - Narrative contest: Global Voices op-ed (Dec 2) says the fire was man-made—rooted in MBIS tender/oversight failures and ignored complaints—and urges an independent inquiry; criticizes scapegoating bamboo and notes student arrest over a petition and pulled Ta Kung Pao bid-rigging reports as evidence of suppression ([Global Voices](https://globalvoices.org/2025/12/02/critics-say-hong-kong-fire-was-due-to-negligence-not-scaffolding/)).
 - International media framing: AP (Dec 2) describes a “tip of an iceberg,” highlighting 7 of 20 net samples failing, alleged cost-cutting net swaps, alarms not sounding, suspension of 28 other projects, and national-security arrests of petition organizers amid concerns of systemic bid-rigging and weak oversight ([AP](https://apnews.com/article/hong-wang-china-dissent-fire-construction-ff953aec2bc0201b0e3255805a241fc1)).
 - Freedoms and suppression: Foreign Policy column argues the fire confirms Hong Kong’s political culture now mirrors the mainland—civil society aid dismantled, petitioners arrested, independent inquiries impossible under NSL—contrasting Grenfell’s scrutiny with Hong Kong’s repression and warning disasters risk being buried in official narratives ([Foreign Policy](https://foreignpolicy.com/2025/12/02/hong-kong-apartment-fire-china-political-freedoms/)).
