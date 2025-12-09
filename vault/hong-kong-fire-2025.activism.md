@@ -8,6 +8,8 @@ created: 1764709856652
 
 Parent: [[hong-kong-fire-2025]]
 
+![Toronto vigil honoring Wang Fuk Court victims](/assets/vigil_toronto.jpg)
+
 ## Vigils and Mourning
 - Three-day citywide mourning (Nov 29–Dec 1): flags at half-mast across government sites and overseas offices; condolence books open in all 18 districts; public hotlines for casualty inquiries and mental health support (SCMP).
 - On-site memorials and note removals reported; residents continued placing messages nearby.
