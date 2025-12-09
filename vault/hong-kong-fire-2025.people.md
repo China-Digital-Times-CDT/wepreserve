@@ -9,7 +9,7 @@ created: 1764698071435
 Parent: [[hong-kong-fire-2025]]
 
 ## Victims and Residents
-- 159 confirmed dead (140 identified, 19 pending ID) and 31 unaccounted as of Dec 3; many were elderly residents trapped in upper floors ([[hong-kong-fire-2025.timeline]]).
+- 160 confirmed dead (120 identified via DNA/fingerprint testing) and 6 unaccounted as of Dec 9; many were elderly residents trapped in upper floors ([[hong-kong-fire-2025.timeline]]).
 - One firefighter died during the response; 79 injured (4 critical, 9 serious, 24 stable), including firefighters; counts may evolve during identification.
 - Ten foreign domestic workers (9 Indonesian, 1 Filipino) confirmed dead and five injured; ongoing reconciliation for the unaccounted.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
@@ -56,6 +56,7 @@ Parent: [[hong-kong-fire-2025]]
 - Kenneth Cheung — Former district councillor reportedly taken by police; later said he was released on bail.
 - Residents and mourners, including individuals leaving notes at the estate, reported detentions; local media noted removal of condolence messages in public areas.
 - Volunteer surnamed Li — Reportedly arrested alongside Kwan and Cheung over accountability messages [RFI](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%BD%93%E5%B1%80%E4%B8%A5%E6%89%93%E7%BD%91%E7%BB%9C-%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF-%E4%B8%A4%E5%A4%A9%E6%8D%95%E4%B8%89%E4%BA%BA%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%8B%9B%E6%A0%87%E5%8F%97%E5%85%B3%E6%B3%A8-%E4%BA%B2%E4%B8%AD%E5%A4%A7%E5%85%9A%E6%B0%91%E5%BB%BA%E8%81%94%E6%80%A5%E5%88%87%E5%89%B2?utm_medium=social&utm_campaign=threads&utm_source=shorty&utm_slink=rfi.my%2FCEOr).
+- Wong Kwok-ngon (pen name Wong On-yin) — 71-year-old political commentator arrested Dec 6 for allegedly disclosing national security investigation details and sedition; remanded on Dec 9 after national security judge Victor So denied bail and scheduled a Jan 20 hearing, marking the first prosecution under the new Article 88 offence ([HKFP](https://hongkongfp.com/2025/12/09/political-commentator-remanded-in-custody-after-being-charged-with-revealing-details-of-nat-sec-probe/)).
 - Wong Bik-kiu — Pro-Beijing DAB member and advisor to the owners' corporation; linked in reports to renovation tender meetings; party publicly distances itself pending any findings [RFI](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%BD%93%E5%B1%80%E4%B8%A5%E6%89%93%E7%BD%91%E7%BB%9C-%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF-%E4%B8%A4%E5%A4%A9%E6%8D%95%E4%B8%89%E4%BA%BA%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%8B%9B%E6%A0%87%E5%8F%97%E5%85%B3%E6%B3%A8-%E4%BA%B2%E4%B8%AD%E5%A4%A7%E5%85%9A%E6%B0%91%E5%BB%BA%E8%81%94%E6%80%A5%E5%88%87%E5%89%B2?utm_medium=social&utm_campaign=threads&utm_source=shorty&utm_slink=rfi.my%2FCEOr).
 
 ## Cultural Responses and Aid

@@ -12,7 +12,7 @@ Photo: Tyrone Siu/Reuters.
 
 A catastrophic fire at Wang Fuk Court in Tai Po, Hong Kong, engulfed seven of eight residential towers on November 26, 2025. Authorities cite gross negligence in renovation works as a key driver of the blaze and its rapid spread.
 
-Status snapshot (2025-12-03): 159 dead (140 identified, 19 pending ID); 31 unaccounted; 79 injured (4 critical, 9 serious, 24 stable); one firefighter confirmed dead; 10 foreign domestic workers dead and 5 injured. SPCA reports 364 animals found (294 survived, 70 died, 173 missing).
+Status snapshot (2025-12-09): 160 dead (120 identified via DNA/fingerprints); 6 unaccounted; 79 injured (4 critical, 9 serious, 24 stable); one firefighter confirmed dead; 10 foreign domestic workers dead and 5 injured. SPCA reports 364 animals found (294 survived, 70 died, 173 missing).
 
 Quick links: [Overview](#hong-kong-fire-2025), [Key Facts](#key-facts-as-of-2025-12-03), [[hong-kong-fire-2025.timeline]], [[hong-kong-fire-2025.investigation]], [[hong-kong-fire-2025.activism]], [[hong-kong-fire-2025.people]]
 
