@@ -51,6 +51,8 @@ Parent: [[hong-kong-fire-2025]]
 - Eight individuals, including project managers and subcontractors, arrested in an ICAC probe connected to the renovation project; reports also note 11 total arrests including directors and an engineering consultant (NBC/AP).
 - Eileen Chung — Police superintendent; said investigators believe responsible parties were grossly negligent and that failed mesh/foam contributed to spread [Reuters graphic](https://www.reuters.com/graphics/HONGKONG-FIRE/SPREAD/mopabqnzqva/).
 - Additional ICAC arrests (Nov 28): two consultancy directors, two project managers, three scaffolding subcontractors, and an intermediary tied to renovation works (CNN).
+- Tsui Mun-kam (徐滿柑) — Current OC chairperson; arrested by ICAC on Dec 17 ([on.cc](https://hk.on.cc/hk/bkn/cnt/news/20251217/bkn-20251217175140460-1217_00822_001.html)).
+- Tang Kwok-kuen (鄧國權) — Former OC chairperson who served on the committee since the 1st term and was chairperson for five consecutive terms (2012–Sep 6, 2024); signed the HK$330m repair contract; arrested by ICAC on Dec 17 and released from ICAC HQ around 6 p.m. that day ([on.cc](https://hk.on.cc/hk/bkn/cnt/news/20251217/bkn-20251217175140460-1217_00822_001.html)).
 
 ## Civic Response and Detentions
 - Miles Kwan — 24-year-old student reportedly arrested for "seditious intent" after distributing accountability leaflets; linked petition gained >10,000 signatures before removal ([[hong-kong-fire-2025.activism]]).
