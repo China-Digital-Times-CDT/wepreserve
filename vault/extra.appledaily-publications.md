@@ -14,7 +14,9 @@ created: 1734436200000
 
 **"The last Apple grows in Hong Kong"** - On its final day, Apple Daily printed 1 million copies (compared to its usual 80,000), and all copies sold out before dawn. The front page featured the headline "Hong Kongers bid a painful farewell in the rain" with photos of supporters gathering outside the newspaper's headquarters.
 
-<iframe src="/assets/appledaily-final/viewer.html" width="100%" height="800" frameborder="0" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);"></iframe>
+<iframe src="/assets/appledaily-final/viewer.html" width="100%" height="800" frameborder="0" loading="lazy" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);"></iframe>
+
+**[📖 Open in Full Screen](/assets/appledaily-final/viewer.html)** for the best experience
 
 **Key moments from the final edition:**
 - Farewell messages from staff and supporters
@@ -28,7 +30,9 @@ created: 1734436200000
 
 Published on **October 9, 2019**, this English-language special edition documents the Anti-Extradition Law Amendment Bill (Anti-ELAB) Movement - the largest protests in Hong Kong's history. All proceeds were donated to the 612 Humanitarian Relief Fund.
 
-<iframe src="/assets/appledaily-freedom-summer-2019/viewer.html" width="100%" height="700" frameborder="0" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);"></iframe>
+<iframe src="/assets/appledaily-freedom-summer-2019/viewer.html" width="100%" height="700" frameborder="0" loading="lazy" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);"></iframe>
+
+**[📖 Open in Full Screen](/assets/appledaily-freedom-summer-2019/viewer.html)** for the best experience
 
 **This 30-page publication features:**
 - **Declaration of Hong Kong Protesters** - The manifesto and five demands
