@@ -16,6 +16,11 @@ Parent: [[hong-kong-fire-2025]]
 
 ## Pre-2025 Context
 
+### Historical Fires
+- **1948** A warehouse fire in Hong Kong killed 176 people, the deadliest fire in the city's recorded history (SCMP via [AP](https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c)).
+- **1996** A commercial building fire in Kowloon killed 41 people ([AP](https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c)).
+
+### Wang Fuk Court Background
 - **2017** FactWire publishes a building-maintenance bidding database (~3,000 bids across 220 estates) showing widespread bid-rigging patterns—context for later Wang Fuk Court tender concerns [FactWire](https://www.dotdotnews.com/a/202512/01/AP692d69ede4b0c32d4f618e05.html).
 - **2023** After the MBIS tender is set, projected costs rise from ~HK$140m to HK$330m; residents allege bid-rigging and report suspected triad-linked figures blocking dissenting owners from meetings. A new owners' corporation replaces the old one in Sep 2024 but the contract is already signed (RFI).
 - **2024-05-17** Contractor and whistleblower Jason Poon (Pan Zhuohong) reports use of non-compliant scaffolding netting at Wang Fuk Court, recording videos and sending multiple emails to the Fire Services Director; concerns reportedly not acted on.

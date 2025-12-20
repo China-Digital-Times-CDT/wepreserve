@@ -10,7 +10,7 @@ created: 1764696585495
 
 Photo: Tyrone Siu/Reuters.
 
-A catastrophic fire at Wang Fuk Court in Tai Po, Hong Kong, engulfed seven of eight residential towers on November 26, 2025. Authorities cite gross negligence in renovation works as a key driver of the blaze and its rapid spread.
+A catastrophic fire at Wang Fuk Court in Tai Po, Hong Kong, engulfed seven of eight residential towers on November 26, 2025—the city's deadliest fire since 1948. Authorities cite gross negligence in renovation works as a key driver of the blaze and its rapid spread.
 
 Status snapshot (2025-12-19): 161 dead (one set of remains contained a married couple's DNA); all missing-person cases resolved; 79 injured; one firefighter confirmed dead; 10 foreign domestic workers dead and 5 injured. SPCA reports 364 animals found (294 survived, 70 died, 173 missing).
 
