@@ -21,7 +21,7 @@ Parent: [[hong-kong-fire-2025]]
 ## Responders
 - Ho Wai-ho (何偉豪) — Firefighter (posthumously promoted to Senior Fireman / 消防隊目), age 37, born 1987, joined Fire Services in 2016. Died Nov 26 during rescue operations at Wang Fuk Court. Described by the department as "industrious, polite and dedicated" and well respected by colleagues. Received highest honors funeral on Dec 19 at Universal Funeral Parlour; coffin draped with HKSAR flag; hearse made tribute stops at Wang Fuk Court and Shatin Fire Station before burial at Gallant Garden (浩園). Survived by parents, elder brother, younger brother, and fiancée ([AP](https://apnews.com/article/hong-kong-firefighter-funeral-fire-mourn-561860f017172a72f4b6b7fa8b59eeb8) [InMediaHK](https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E4%BD%95%E5%81%89%E8%B1%AA%E5%87%BA%E6%AE%AF-%E5%A4%A7%E6%89%B9%E5%B8%82%E6%B0%91%E8%87%B4%E6%9C%80%E5%BE%8C%E5%91%8A%E5%88%A5)).
 
-![Ho Wai-ho's funeral hearse with his portrait, December 19, 2025](assets/hero_ho.webp)
+![Ho Wai-ho's funeral hearse with his portrait, December 19, 2025](/assets/hero_ho.webp)
 *Credit: AP*
 
 - Andy Yeung (楊恩健) — Director of Fire Services; confirmed firefighter casualty and frontline conditions; led final salute to Ho Wai-ho at Shatin Fire Station on Dec 19.
