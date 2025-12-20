@@ -9,7 +9,7 @@ created: 1764698071435
 Parent: [[hong-kong-fire-2025]]
 
 ## Victims and Residents
-- 160 confirmed dead (120 identified via DNA/fingerprint testing) and 6 unaccounted as of Dec 9; many were elderly residents trapped in upper floors ([[hong-kong-fire-2025.timeline]]).
+- 161 confirmed dead (one set of remains contained a married couple's DNA) and all missing-person cases resolved as of Dec 19; many were elderly residents trapped in upper floors ([[hong-kong-fire-2025.timeline]]).
 - One firefighter died during the response; 79 injured (4 critical, 9 serious, 24 stable), including firefighters; counts may evolve during identification.
 - Ten foreign domestic workers (9 Indonesian, 1 Filipino) confirmed dead and five injured; ongoing reconciliation for the unaccounted.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
