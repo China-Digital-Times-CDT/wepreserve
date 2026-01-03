@@ -8,9 +8,7 @@ created: 1764698071435
 
 Parent: [[hong-kong-fire-2025]]
 
-> See also: [Chinese linear timeline by HK Emergency Coordination Hub](https://hong-kong-emergency-coordination-hub.github.io/Hong-Kong-Fire-Documentary/timeline/fire-linear-timeline-zh/) covering Nov 26–Dec 1 events.
-
-**Jump to:** [Pre-2025 Context](#pre-2025-context) | [The Fire (Nov 26–27)](#the-fire-nov-2627) | [Aftermath (Nov 28–30)](#aftermath-nov-2830) | [Investigations](#investigations) | [Government Response](#government-response) | [Repression & Arrests](#repression--arrests) | [International Response](#international-response) | [Diaspora Vigils](#diaspora-vigils) | [Analysis & Commentary](#analysis--commentary)
+**Jump to:** [Pre-2025 Context](#pre-2025-context) | [The Fire (Nov 26–27)](#the-fire-nov-2627) | [Aftermath (Nov 28 onward)](#aftermath-nov-28-onward) | [Investigations](#investigations) | [Government Response](#government-response) | [Repression & Arrests](#repression--arrests) | [International Response](#international-response) | [Diaspora Vigils](#diaspora-vigils) | [Analysis & Commentary](#analysis--commentary)
 
 ---
 
@@ -45,14 +43,15 @@ Parent: [[hong-kong-fire-2025]]
 
 ---
 
-## Aftermath (Nov 28–30)
+<a id="aftermath-nov-28-onward"></a>
+## Aftermath (Nov 28 onward)
 
 ### Death Toll & Recovery Operations
 
 - **2025-11-29** CNN visual timeline summarizes first 24 hours: small fire on a lower floor escalates within hours to engulf seven towers; at least 128 deaths and up to 150 missing reported at that stage; highlights blocked windows with polystyrene and other safety gaps fueling spread [CNN](https://www.cnn.com/2025/11/28/asia/visual-timeline-hong-kong-fire-intl-hnk-vis).
 - **2025-11-29–30** HKFP reports 128 dead, 79 injured (12 firefighters), 150 status unclear, and seven Indonesian helpers dead with 79 missing [HKFP](https://hongkongfp.com/2025/11/28/you-are-not-alone-countries-officials-grenfell-victims-express-condolences-over-tai-po-fire-tragedy/).
 - **2025-11-30** DVIU teams enter Wang Fuk Court to map interiors and recover remains; social posts show gutted flats with exposed rebar, collapsed plaster, and charred fixtures, underscoring that only one of eight blocks avoided major damage ([The Standard](https://www.thestandard.com.hk/hong-kong-news/article/318169/)).
-- **Early investigation phase** At least 151 deaths confirmed; authorities report ~279 people uncontactable while registries are reconciled.
+- **Late Nov 2025 (early investigation)** At least 151 deaths confirmed; authorities report ~279 people uncontactable while registries are reconciled.
 
 ### Mourning & Relief
 

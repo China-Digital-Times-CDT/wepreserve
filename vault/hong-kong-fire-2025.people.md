@@ -10,7 +10,7 @@ Parent: [[hong-kong-fire-2025]]
 
 ## Victims and Residents
 - 161 confirmed dead (one set of remains contained a married couple's DNA) and all missing-person cases resolved as of Dec 19; many were elderly residents trapped in upper floors ([[hong-kong-fire-2025.timeline]]).
-- One firefighter died during the response; 79 injured (4 critical, 9 serious, 24 stable), including firefighters; counts may evolve during identification.
+- One firefighter died during the response; 79 injured. As of Dec 3: 42 discharged and 37 hospitalized (4 critical, 9 serious, 24 stable) ([[hong-kong-fire-2025.timeline]]).
 - Ten foreign domestic workers (9 Indonesian, 1 Filipino) confirmed dead and five injured; ongoing reconciliation for the unaccounted.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
 - Bai Shui Lin — 66-year-old resident who warned neighbors and helped at least three families escape before dying in the blaze; identified via ID card; husband Yip Ka-kui recounted their final call as smoke overtook their flat ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).

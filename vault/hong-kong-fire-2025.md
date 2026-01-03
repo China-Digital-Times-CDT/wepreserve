@@ -14,7 +14,7 @@ A catastrophic fire at Wang Fuk Court in Tai Po, Hong Kong, engulfed seven of ei
 
 Status snapshot (2025-12-19): 161 dead (one set of remains contained a married couple's DNA); all missing-person cases resolved; 79 injured; one firefighter confirmed dead; 10 foreign domestic workers dead and 5 injured. SPCA reports 364 animals found (294 survived, 70 died, 173 missing).
 
-Quick links: [Overview](#hong-kong-fire-2025), [Key Facts](#key-facts-as-of-2026-01-02), [[hong-kong-fire-2025.timeline]], [[hong-kong-fire-2025.investigation]], [[hong-kong-fire-2025.activism]], [[hong-kong-fire-2025.people]]
+Quick links: [Key Facts](#key-facts-as-of-2026-01-02), [[hong-kong-fire-2025.timeline]], [[hong-kong-fire-2025.investigation]], [[hong-kong-fire-2025.activism]], [[hong-kong-fire-2025.people]]
 
 ## Key Facts (as of 2026-01-02)
 - **Impact and scale**: Fire began ~2:52 p.m. on Nov 26, 2025 at Wang Fuk Court, Tai Po (~2,000 flats/~4,600 residents; ~40% aged 65+). Seven of eight towers burned; 200 fire trucks, 100 ambulances, and >800 firefighters/paramedics deployed. Building fatalities: Wang Tai 82, Wang Cheong 70, Wang Sun 3, Wang Do 2, Wang Shing 1; none in Wang Yan/Wang Kin/Wang Chi; one victim not yet tied to a block (UDN/Ming Pao/TVBS/DotDotNews). SPCA estimates >537 animals affected; 364 found (294 survived, 70 died, 173 missing) ([RTHK](https://news.rthk.hk/rthk/ch/component/k2/1834467-20251203.htm)).
