@@ -9,6 +9,7 @@ Webb-site.com is a Hong Kong-based financial news and information website, found
 https://webb-site.com
 
 [![Webb-site logo](/assets/webb.png)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
+Replay the Webb-site at [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
 
 David Webb founded Webb-site in 1998 as an important watchdog platform for corporate governance and stock market transparency in Hong Kong. Over the years, he tracked and exposed information on directors, executives, and advisors of Hong Kong-listed companies, advocating for information disclosure and minority shareholder rights. Through his sophisticated database and rigorous investigative reporting, he revealed capital operation relationships between companies such as the "Enigma Network," and maintained a long-term focus on related-party transactions, hidden loans, and share dilution issues. He refused to blindly trust markets or regulators, emphasizing that investors should do their own homework and think independently.
 
@@ -26,7 +27,8 @@ David Webb 所創立的財經網站 Webb-site，自 1998 年起成為香港企�
 
 2026 年 1 月 13 日，David Webb 因轉移性前列腺癌在香港安詳離世，享年 60 歲。他身後留下妻子與兩名子女。
 
-![David Webb. File photo: Tommy Wang/AFP.](/assets/webb_afp.webp)
+![David Webb](/assets/webb_afp.webp)
+Photo: Tommy Wang/AFP
 
 ## Archives
 - [Owner's Archive](https://drive.google.com/drive/folders/13mzAvvufXC3QmH8OvMVx2juUi7qdnVLL)
