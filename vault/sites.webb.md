@@ -14,10 +14,15 @@ David Webb 所創立的財經網站 Webb-site，自 1998 年起成為香港企�
 
 在罹患癌症、生命進入倒數階段後，Webb 宣布將有序關閉 Webb-site.com，但作為留給公眾的最後禮物，他承諾會把網站的完整資料庫和自研數據收集工具，開放至 GitHub 公共儲存庫，供後人自由使用。他同時強調，不會授權他人延續網站的營運，避免其精神被濫用為推廣詐騙、假資訊或他所不認同的立場。這一決定展現他始終如一的原則與對香港市場秩序的承諾，也讓 Webb-site 的精神得以延續而非被異化。
 
+On January 13, 2026, David Webb [passed away peacefully in Hong Kong](https://news.rthk.hk/rthk/en/component/k2/1839713-20260113.htm) from metastatic prostate cancer at the age of 60. He is survived by his wife and two children.
+
+2026 年 1 月 13 日，David Webb 因轉移性前列腺癌在香港安詳離世，享年 60 歲。他身後留下妻子與兩名子女。
+
 
 
 ## Archives
 - [Owner's Archive](https://drive.google.com/drive/folders/13mzAvvufXC3QmH8OvMVx2juUi7qdnVLL)
+- [Database Archive](https://webbsite.0xmd.com/dbpub/)
 - [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
 - [Wayback Machine](https://web.archive.org/web/*/https://webb-site.com/)
 
