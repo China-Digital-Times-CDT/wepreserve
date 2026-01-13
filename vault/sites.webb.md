@@ -10,8 +10,6 @@ https://webb-site.com
 
 [![Webb-site logo](/assets/webb.png)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
 
-## English
-
 David Webb founded Webb-site in 1998 as an important watchdog platform for corporate governance and stock market transparency in Hong Kong. Over the years, he tracked and exposed information on directors, executives, and advisors of Hong Kong-listed companies, advocating for information disclosure and minority shareholder rights. Through his sophisticated database and rigorous investigative reporting, he revealed capital operation relationships between companies such as the "Enigma Network," and maintained a long-term focus on related-party transactions, hidden loans, and share dilution issues. He refused to blindly trust markets or regulators, emphasizing that investors should do their own homework and think independently.
 
 After being diagnosed with cancer and entering the final stage of his life, Webb announced he would orderly shut down Webb-site.com, but as a final gift to the public, he promised to release the website's complete database and self-developed data collection tools to a GitHub public repository for free use. He also emphasized that he would not authorize anyone to continue operating the website, to prevent his legacy from being misused to promote scams, misinformation, or positions he disagreed with. This decision demonstrated his consistent principles and commitment to Hong Kong's market order, allowing Webb-site's spirit to continue rather than be distorted.
@@ -19,8 +17,6 @@ After being diagnosed with cancer and entering the final stage of his life, Webb
 In October 2025, the Wall Street Journal [reported](https://www.wsj.com/opinion/david-webb-hong-kong-webb-site-china-communist-party-business-034a3718) on the challenges Webb faced in finding a home for his database. His first approach was to the University of Hong Kong, where professors supported establishing an apolitical "Webb Centre for Public Transparency" to host and expand the database. Webb and other donors were prepared to fund it entirely. However, after the formal proposal was presented to senior management in September 2020, the university declined the offer. Keith Richburg, then director of the university's Journalism and Media Studies Centre, speculated the reason was they thought it "would be troublesome" — likely due to concerns about the 2020 national-security law and the political sensitivities of maintaining such transparent databases on Hong Kong and mainland business connections.
 
 On January 13, 2026, David Webb [passed away peacefully in Hong Kong](https://news.rthk.hk/rthk/en/component/k2/1839713-20260113.htm) from metastatic prostate cancer at the age of 60. He is survived by his wife and two children.
-
-## 中文
 
 David Webb 所創立的財經網站 Webb-site，自 1998 年起成為香港企業治理和股市透明度的重要監察平台。他多年來追蹤並揭露香港上市公司董事、高管及顧問的資料，致力於促進資訊公開與小股東權益。他以其精密的數據庫與嚴謹的調查報導，揭示如「謎網」等企業之間的資本運作關係，並長期關注關聯交易、隱藏貸款及股權稀釋等問題。他拒絕盲目相信市場或監管機構，強調投資人應自己做功課、獨立思考。
 
