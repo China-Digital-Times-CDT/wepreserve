@@ -18,7 +18,7 @@ On January 13, 2026, David Webb [passed away peacefully in Hong Kong](https://ne
 
 2026 年 1 月 13 日，David Webb 因轉移性前列腺癌在香港安詳離世，享年 60 歲。他身後留下妻子與兩名子女。
 
-
+![David Webb. File photo: Tommy Wang/AFP.](/assets/webb_afp.webp)
 
 ## Archives
 - [Owner's Archive](https://drive.google.com/drive/folders/13mzAvvufXC3QmH8OvMVx2juUi7qdnVLL)
