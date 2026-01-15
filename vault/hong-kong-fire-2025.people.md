@@ -9,9 +9,9 @@ created: 1764698071435
 Parent: [[hong-kong-fire-2025]]
 
 ## Victims and Residents
-- 161 confirmed dead (one set of remains contained a married couple's DNA) and all missing-person cases resolved as of Dec 19; many were elderly residents trapped in upper floors ([[hong-kong-fire-2025.timeline]]).
-- One firefighter died during the response; 79 injured. As of Dec 3: 42 discharged and 37 hospitalized (4 critical, 9 serious, 24 stable) ([[hong-kong-fire-2025.timeline]]).
-- Ten foreign domestic workers (9 Indonesian, 1 Filipino) confirmed dead and five injured; ongoing reconciliation for the unaccounted.
+- 168 confirmed dead (58 males, 110 females; youngest 6 months old, oldest 98) as of Jan 15, 2026. All remains identified via forensic analysis (teeth and DNA); all missing-person cases resolved ([[hong-kong-fire-2025.timeline]]).
+- Victims include: firefighter Ho Wai-ho (37), 2 interior repair workers, 5 construction workers, and 10 domestic workers. 79 injured; as of Dec 3: 42 discharged and 37 hospitalized (4 critical, 9 serious, 24 stable) ([[hong-kong-fire-2025.timeline]]).
+- Ten foreign domestic workers (9 Indonesian, 1 Filipino) confirmed dead and five injured.
 - Two St. John Ambulance members — Ren Ting and Ren Juan — confirmed deceased.
 - Bai Shui Lin — 66-year-old resident who warned neighbors and helped at least three families escape before dying in the blaze; identified via ID card; husband Yip Ka-kui recounted their final call as smoke overtook their flat ([CBS News](https://www.cbsnews.com/news/hong-kong-apartment-fire-survivor-wife/)).
 - Wang Tai House family — A 15-month-old girl “Yan Yan,” her father, grandmother, and Indonesian helper “Sandy” died after a 7-hour call with relatives “Jack” and “Ali” who stayed on the line while foam-board-sealed windows, silent alarms, and heat trapped the four on 14/F; firefighters told them they could not “attack” the floor before the call went dead, and Sandy was later found near the stairwell ([The Collective HK](https://thecollectivehk.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%AE%B6%E5%B1%AC%E7%97%9B%E6%86%B6%E4%B8%83%E5%B0%8F%E6%99%82%E6%B1%82%E6%95%91%E9%80%9A%E8%A9%B1%E3%80%80%E5%A5%BD%E7%88%B8%E7%88%B8/?media_id=3786041531569256701_63468865757&media_author_id=63468865757&ranking_info_token=GCAwZDY5MDBlNjUzNTg0OTMyYTdjMTJlOTRlYjRhNDdiMiW4m6IFFdgEFoaG45MNGBMzNzg2MDQxNTMxNTY5MjU2NzAxKANuY2cA&utm_source=ig_text_feed_timeline)).
