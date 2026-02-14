@@ -228,6 +228,28 @@ Teng Biao concludes:
 
 ---
 
+### IBA: Conviction a symbol of the 'crushing' of democracy
+
+**Rebecca Root · International Bar Association · Jan 22, 2026**
+
+The IBA's Human Rights Institute (IBAHRI) called the trial "politically motivated" with the purpose to "destroy the most influential pro-democracy voice in Hong Kong under a veneer of legality."
+
+Key assessments from legal experts:
+
+- **Baroness Helena Kennedy KC** (IBAHRI Director): "Lai has now become a great totem of the crushing of democracy and the rule of law" in Hong Kong. The case "should send a shiver down the backs of those who are doing business with Hong Kong because this is not a place that is going to necessarily be protecting your business interests."
+
+- **Angela Flannery** (IBA Communications Law Committee): Anticipates that many more individuals without Lai's reputation will now be prosecuted under the NSL.
+
+- **Denny Roy** (East-West Center): "The verdict confirms that politically, Hong Kong is no longer distinguishable from China... it's a blow to hopes of democracy catching on in mainland China." The conviction "underscores the Xi-era CCP's paranoia over the subversive power of Western liberal ideas. Under these circumstances, China can do business with the West but cannot be friends with the West."
+
+- **Yao-Tai Li** (UNSW Sydney): The case has damaged public trust in the rule of law. "You can see the death of one country, two systems. I think it will gradually shift to one country, one system."
+
+The Hong Kong Bar Association defended judicial independence, stating the judiciary operates "independently, apolitically and will not be affected by any external influence."
+
+Chinese authorities criticized Western "smear" attempts: "Their threats of sanctions are doomed to be futile."
+
+---
+
 ## Related
 
 - [[sites.appledaily]] — Apple Daily main page
@@ -239,3 +261,4 @@ Teng Biao concludes:
 - [HKFP: Hong Kong journalists face 'precarious' future after Jimmy Lai jailed](https://hongkongfp.com/2026/02/10/hong-kong-journalists-face-precarious-future-after-jimmy-lai-jailed/)
 - [The Guardian: Hong Kong's once-vibrant press stays silent or celebrates Jimmy Lai's 20-year jail sentence](https://www.theguardian.com/world/2026/feb/10/jimmy-lai-jail-sentence-hong-kong-press)
 - [RCI: Jimmy Lai Sentenced to 20 Years: Does China not care about international pressure?](https://ici.radio-canada.ca/rci/en/news/2228798/jimmy-lai-sentenced-to-20-years-does-china-not-care-about-international-pressure)
+- [IBA: Jimmy Lai conviction a symbol of the 'crushing' of democracy](https://www.ibanet.org/Jimmy-Lai-conviction-a-symbol-of-the-crushing-of-democracy)
