@@ -17,6 +17,10 @@ On 23 June 2021, the newspaper said it would close "in view of staff members' sa
 _(Screenshot of Apple Daily Frontpage,  Courtesy: coconuts.co)_
 
 
+## People
+
+- [[sites.appledaily.jimmy-lai]] — Jimmy Lai (黎智英), founder, sentenced to 20 years (Feb 2026)
+
 ## Archives
 (State: Completed)
 
