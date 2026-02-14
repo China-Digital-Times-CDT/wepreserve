@@ -23,7 +23,8 @@ Parent: [[hong-kong-fire-2025]]
 - Diaspora vigil (Dec 6, Auckland): Ellen Melville Centre, 2 Freyberg Place, 4:00–5:30 p.m.; black/neutral attire and flowers encouraged; includes vigil, Lennon Wall, and petition (community call).
 
 ## Accountability and Detentions
-- Petitions/leaflets: Arrests of student Miles Kwan (petition >10k signatures), former district councillor Kenneth Cheung, and volunteer surnamed Li over accountability leaflets/messages (RFI/HKFP).
+- Petitions/leaflets: Arrests of student Miles Kwan (關靖豐, petition >10k signatures), former district councillor Kenneth Cheung, and volunteer surnamed Li over accountability leaflets/messages (RFI/HKFP).
+- CUHK expulsion (Feb 13, 2026): Miles Kwan disclosed on social media that CUHK notified him of expulsion. The university declined to comment on individual cases but stated that repeated violations or serious misconduct can result in expulsion, and students with three demerits are also expelled ([Now News](https://news.now.com/home/local/player?newsId=636762)).
 - Petition clampdown: The Diplomat reports a student arrested for sedition after handing out flyers for a four-demand petition; friends relaunched the petition offshore, hitting ~11,900 signatures by Dec 4, citing safety concerns for onshore organizers ([The Diplomat](https://thediplomat.com/2025/12/hong-kongs-grenfell-tower-moment-when-grief-became-sedition/)).
 - Protests/vigils calling for independent investigation; police/security officials warned against “misinformation.”
 - Volunteer clampdown: ABC reported volunteers and NGOs distributing food and support were told to leave the site on Dec 1, reflecting official concern over gatherings; its “One fire, two systems” piece links the petition arrest and aid withdrawal to Beijing’s red lines on grief and accountability ([ABC](https://www.abc.net.au/news/2025-12-02/tai-po-fire-hong-kong-mainland-grief-red-lines/106087732)).
