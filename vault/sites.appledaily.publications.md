@@ -6,6 +6,8 @@ updated: 1734436200000
 created: 1734436200000
 ---
 
+Parent: [[sites.appledaily]]
+
 > Apple Daily (蘋果日報) was Hong Kong's most prominent pro-democracy newspaper, founded by Jimmy Lai in 1995. On June 24, 2021, after 26 years of publication, the newspaper was forced to close following the arrest of its executives under the National Security Law. These two publications represent pivotal moments in Hong Kong's struggle for press freedom and democracy.
 
 ---

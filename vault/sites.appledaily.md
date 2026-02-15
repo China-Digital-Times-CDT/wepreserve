@@ -19,7 +19,11 @@ _(Screenshot of Apple Daily Frontpage,  Courtesy: coconuts.co)_
 
 ## People
 
-- [[sites.appledaily.jimmy-lai]] — Jimmy Lai (黎智英), founder, sentenced to 20 years (Feb 2026)
+- [[jimmy-lai]] — Jimmy Lai (黎智英), founder, sentenced to 20 years (Feb 2026)
+
+## Publications
+
+- [[sites.appledaily.publications]] — Final Edition (2021) & Freedom Summer 2019
 
 ## Archives
 (State: Completed)

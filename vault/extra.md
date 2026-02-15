@@ -10,7 +10,7 @@ There are also a lot of creative works during the anti-extradition movement in H
 
 ## Publications
 
--  [[extra.appledaily-publications]] - Apple Daily's Final Edition (2021) & Freedom Summer 2019
+-  [[sites.appledaily.publications]] - Apple Daily's Final Edition (2021) & Freedom Summer 2019
 
 ## Music
 
