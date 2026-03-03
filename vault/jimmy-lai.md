@@ -250,6 +250,22 @@ Chinese authorities criticized Western "smear" attempts: "Their threats of sanct
 
 ---
 
+### Beijing spins its narrative of history in today's Hong Kong
+
+**Victoria Jones & Jeffrey Wasserstrom · Nikkei Asia · Mar 4, 2026**
+
+The Hong Kong Museum of History now opens with a "National Security Exhibition Gallery" created to commemorate and celebrate the NSL on its fifth anniversary — where busloads of schoolchildren receive mainland-style patriotic education. The exhibit dominates a museum that before 2020 celebrated Hong Kong's distinctive past and even contained the PRC's only museum allusion to the 1989 Tiananmen protests (now removed).
+
+The authors draw a key distinction in how authoritarian states handle protest memory: **erasure** (Beijing's approach to 1989, treating the "tank man" photo as taboo) versus **spin** (Hong Kong's approach to 2019, actively reframing the narrative). The NSL exhibit features selective footage showing only crowd violence, never police violence; painstaking detail on the "necessity" of the legislation; and plaques advising visitors to report suspicious activity — "a bald self-advertisement of a surveillance state."
+
+The gallery "does not downplay or try to hide the aspects of the NSL that evoke the specter of totalitarianism to outside observers, but rather shamelessly puts these features on display." The authors note a parallel with Russia opening a museum in occupied Mariupol.
+
+A sign says the museum's pre-2020 main gallery "The Hong Kong Story" is "under renovation" — the authors call this "improbable" and predict the NSL exhibit will instead be updated to include Lai's 20-year sentence, "which, given his age and health, could well lead to him dying in jail."
+
+The sentencing of Lai alongside other political prisoners like Joshua Wong and Gwyneth Ho, combined with the absence of robust media debate about court decisions, are "telling symbols of the new reality on the ground."
+
+---
+
 ## Related
 
 - [[sites.appledaily]] — Apple Daily main page
@@ -262,3 +278,4 @@ Chinese authorities criticized Western "smear" attempts: "Their threats of sanct
 - [The Guardian: Hong Kong's once-vibrant press stays silent or celebrates Jimmy Lai's 20-year jail sentence](https://www.theguardian.com/world/2026/feb/10/jimmy-lai-jail-sentence-hong-kong-press)
 - [RCI: Jimmy Lai Sentenced to 20 Years: Does China not care about international pressure?](https://ici.radio-canada.ca/rci/en/news/2228798/jimmy-lai-sentenced-to-20-years-does-china-not-care-about-international-pressure)
 - [IBA: Jimmy Lai conviction a symbol of the 'crushing' of democracy](https://www.ibanet.org/Jimmy-Lai-conviction-a-symbol-of-the-crushing-of-democracy)
+- [Nikkei Asia: Beijing spins its narrative of history in today's Hong Kong](https://asia.nikkei.com/opinion/beijing-spins-its-narrative-of-history-in-today-s-hong-kong)
