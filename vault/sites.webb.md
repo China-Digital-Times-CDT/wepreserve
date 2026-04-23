@@ -32,6 +32,7 @@ Photo: Tommy Wang/AFP
 
 ## Archives
 - [Owner's Archive](https://drive.google.com/drive/folders/13mzAvvufXC3QmH8OvMVx2juUi7qdnVLL)
+- [Database (Updated)](https://webb-database.com)
 - [Database Archive](https://webbsite.0xmd.com/dbpub/)
 - [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
 - [Wayback Machine](https://web.archive.org/web/*/https://webb-site.com/)
