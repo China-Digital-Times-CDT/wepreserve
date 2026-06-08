@@ -71,7 +71,7 @@ The Anti-ELAB movement began in March 2019 against a proposed extradition bill t
 ## Related Resources
 
 - [[sites.appledaily]] - More about Apple Daily and its archives
-- [[extra.glorytohongkong]] - The anthem of the 2019 protests
+- [[🎵 Glory to Hong Kong|glory-to-hong-kong]] - The anthem of the 2019 protests
 - [[extra.8964]] - 8964 Museum preserving historical memory
 
 ## Downloads

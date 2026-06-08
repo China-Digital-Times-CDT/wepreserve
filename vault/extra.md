@@ -14,7 +14,7 @@ There are also a lot of creative works during the anti-extradition movement in H
 
 ## Music
 
--  [[extra.glorytohongkong]]
+-  [[🎵 Glory to Hong Kong|glory-to-hong-kong]] — now a top-level topic
 -  [[extra.underavastsky]]
 -  [[extra.sheepvillage]]
 
