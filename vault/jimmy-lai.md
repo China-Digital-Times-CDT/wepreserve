@@ -2,7 +2,7 @@
 id: jl8k2mxp4vy7nrt1qw5b3ez
 title: "⚖️ Jimmy Lai|黎智英"
 desc: Founder of Apple Daily, sentenced to 20 years in 2026
-updated: 1739577600000
+updated: 1780876800000
 created: 1739577600000
 ---
 
@@ -21,6 +21,8 @@ Jimmy Lai Chee-ying (黎智英, born 8 December 1947) is a Hong Kong media entre
 - **2021-12** Trial begins at West Kowloon Courts
 - **2024-12-19** Convicted of conspiracy to collude with foreign forces and sedition
 - **2026-02-09** Sentenced to 20 years imprisonment; six co-defendants receive 6 years 9 months to 10 years
+- **2026-02-26** Court of Appeal **quashes his separate 2022 fraud conviction** (illegal subletting of Apple Daily office space at a government-owned media park to Dico Consultants); codefendant Wong Wai-keung also cleared and the ~6-year sentence set aside, the judges ruling the lease breach did not reach the criminal threshold for fraud — a rare legal win that reduces his total prison time
+- **2026-03-05** Legal team confirms Lai **will not appeal** the national-security conviction or 20-year sentence, citing "clear and definitive instructions"; analysts suggest non-appeal may be a precondition for any diplomatic/humanitarian deal, though it guarantees nothing
 
 ### Sentences (Feb 9, 2026)
 
@@ -266,6 +268,17 @@ The sentencing of Lai alongside other political prisoners like Joshua Wong and G
 
 ---
 
+### Health concerns & US congressional pressure (Mar–May 2026)
+
+Since the sentencing, Lai's family and rights groups have escalated warnings about his health after more than five years in custody, much of it in solitary confinement. His son **Sebastien Lai** said the family had received "very distressing news" about his father's deteriorating condition, reiterating that a 20-year term for a 78-year-old is effectively a death sentence.
+
+US lawmakers pressed the issue with the White House:
+
+- **May 7, 2026** — Rep. Chris Smith and Sen. Rick Scott, joined by 105 other members of Congress (107 in total), wrote to President Trump urging him to raise Lai's case directly with Xi Jinping and seek his release on humanitarian grounds, citing his deteriorating health ([Tom Lantos Human Rights Commission](https://humanrightscommission.house.gov/DFP/Countries/China/Jimmy-Lai)).
+- **May 13, 2026** — The US Senate agreed to a resolution led by Sens. Dick Durbin and Ted Cruz urging Trump to prioritize the cases of political prisoners in China — including Lai — to push for his release and obtain "verifiable proof of life."
+
+The push followed earlier appeals from the UN, UK, EU, and rights groups for Lai's immediate release; Beijing has rejected all such calls as interference in China's internal affairs.
+
 ## Related
 
 - [[sites.appledaily]] — Apple Daily main page
@@ -279,3 +292,6 @@ The sentencing of Lai alongside other political prisoners like Joshua Wong and G
 - [RCI: Jimmy Lai Sentenced to 20 Years: Does China not care about international pressure?](https://ici.radio-canada.ca/rci/en/news/2228798/jimmy-lai-sentenced-to-20-years-does-china-not-care-about-international-pressure)
 - [IBA: Jimmy Lai conviction a symbol of the 'crushing' of democracy](https://www.ibanet.org/Jimmy-Lai-conviction-a-symbol-of-the-crushing-of-democracy)
 - [Nikkei Asia: Beijing spins its narrative of history in today's Hong Kong](https://asia.nikkei.com/opinion/beijing-spins-its-narrative-of-history-in-today-s-hong-kong)
+- [Al Jazeera: Hong Kong appeals court overturns Jimmy Lai's fraud conviction (Feb 26, 2026)](https://www.aljazeera.com/news/2026/2/26/hong-kong-appeals-court-overturns-jimmy-lais-fraud-conviction)
+- [NBC News: Jimmy Lai won't appeal national security conviction (Mar 6, 2026)](https://www.nbcnews.com/world/asia/hong-kong-jimmy-lai-will-not-appeal-national-security-conviction-rcna262058)
+- [Tom Lantos Human Rights Commission: Jimmy Lai](https://humanrightscommission.house.gov/DFP/Countries/China/Jimmy-Lai)
