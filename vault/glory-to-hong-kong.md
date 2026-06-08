@@ -28,6 +28,17 @@ As the most recognisable cultural artifact of the 2019 movement, the song became
 
 Despite removals, the song persists through mirrors, re-uploads, offline copies, and international performances — the precise pattern of dispersal-as-preservation this project documents.
 
+## Prosecutions & Arrests
+
+Even before the 2024 injunction, authorities prosecuted people for performing, sharing, or remixing the song — typically via sedition, the national-anthem law, or busking-permit rules rather than any direct ban. Documented cases:
+
+- **Lai Rifu (賴日福) — Sept 2019, mainland China**: A Guangzhou activist was detained for "picking quarrels and provoking trouble" after sharing a video that used "Glory to Hong Kong" as background music — among the earliest known prosecutions tied to the song ([Wikipedia](https://en.wikipedia.org/wiki/Glory_to_Hong_Kong)).
+- **Harmonica player at the Queen's vigil — Sept 19, 2022**: A 43-year-old man surnamed **Pang** was arrested on suspicion of sedition (colonial-era Crimes Ordinance) after playing the tune on a harmonica among mourners outside the British Consulate during Queen Elizabeth II's funeral; he was released on bail pending investigation ([CNN](https://www.cnn.com/2022/09/21/asia/hong-kong-harmonica-arrest-sedition-intl-hnk-mic/index.html)).
+- **Rugby anthem-blunder video — Nov 2022**: A 49-year-old man was arrested for sedition over social-media posts praising and sharing footage of "Glory to Hong Kong" being played instead of China's anthem at an overseas rugby match (the Incheon Asia Rugby Sevens); he was denied bail and later convicted ([SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3203609/court-convicts-hong-kong-man-sedition-over-social-media-posts-including-footage-anthem-blunder)).
+- **Chui Hoi-chun — Dec 2022 / appeal Dec 2025**: Sentenced in Dec 2022 to a training-centre order after pleading guilty to four offences, including sedition for publishing **altered lyrics** of the song and insulting the national anthem. On **Dec 18, 2025** the Court of Appeal allowed his sentence appeal and he **walked free**, having already spent more than two years on bail awaiting the hearing ([HKFP](https://hongkongfp.com/2025/12/19/hong-kong-man-convicted-on-sedition-insulting-national-anthem-charges-walks-free-after-winning-sentence-appeal/)).
+- **Cheng Wing-chun (鄭永俊) — convicted Jul 2023**: A 27-year-old photographer became the **first person tried under the 2020 National Anthem Ordinance**, convicted on Jul 5 and jailed for **three months** on Jul 20, 2023 (plus a flag-desecration charge) for a YouTube clip that replaced "March of the Volunteers" with "Glory to Hong Kong" over footage of fencer Edgar Cheung winning Olympic gold at Tokyo 2020. Magistrate Minnie Wat said he "encouraged others to commit acts damaging to national dignity" ([RFA](https://www.rfa.org/english/news/china/hk-anthem-07202023160232.html)).
+- **Li Jiexin (李傑馨), erhu busker — jailed Oct 2023 & again Aug 2024**: An elderly street musician was jailed **30 days** (Oct 25, 2023) for performing and fundraising without a permit after repeatedly playing "Glory to Hong Kong" on the **erhu** (二胡) at MTR stations and the IFC footbridge between Aug 2021 and Sep 2022; the judge characterised the conduct as "soft resistance." He was jailed a **second time** in Aug 2024 over further performances and is listed by Hong Kong Watch as a political prisoner ([HKFP](https://hongkongfp.com/2023/10/25/elderly-busker-who-played-protest-song-glory-to-hong-kong-sentenced-to-30-days-in-prison/) · [HKFP](https://hongkongfp.com/2024/08/07/elderly-busker-jailed-for-second-time-over-performing-protest-anthem-glory-to-hong-kong/)).
+
 ## Lyrics
 
 (Cantonese)
@@ -88,6 +99,10 @@ Glory be to thee Hong Kong
 ## Derived Editions/Performances
 
 - [《願榮光歸香港》 中樂合奏及合唱團版 MV](https://www.youtube.com/watch?v=VHOZuIO5G2s)
+- Piano rendition by **Ricker Choi**: [《願榮光歸香港》](https://www.youtube.com/watch?v=PBJUBT9qqmo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PBJUBT9qqmo" title="Glory to Hong Kong — performed by Ricker Choi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Over 40+ derivatives and performances on [Twitter/X](https://web.archive.org/web/20220424133622/https://twitter.com/isaac/status/1172173947850280962)
 
 ## Sources
@@ -97,3 +112,8 @@ Glory be to thee Hong Kong
 - [Al Jazeera: Hong Kong court bans protest song 'Glory to Hong Kong' (May 8, 2024)](https://www.aljazeera.com/news/2024/5/8/hong-kong-court-bans-protest-song-glory-to-hong-kong)
 - [CNN: YouTube blocks Hong Kong protest anthem after court order (May 15, 2024)](https://www.cnn.com/2024/05/15/media/youtube-glory-to-hong-kong-intl-hnk)
 - [HKFP: Distributor removes song from Spotify, Apple Music after court order (May 25, 2024)](https://hongkongfp.com/2024/05/25/glory-to-hong-kong-distributor-removes-hong-kong-protest-song-from-spotify-apple-music-after-court-order/)
+- [CNN: Police arrest man who played harmonica at Queen's vigil on suspicion of sedition (Sept 21, 2022)](https://www.cnn.com/2022/09/21/asia/hong-kong-harmonica-arrest-sedition-intl-hnk-mic/index.html)
+- [RFA: Hong Kong man jailed 3 months for insulting China's national anthem (Jul 20, 2023)](https://www.rfa.org/english/news/china/hk-anthem-07202023160232.html)
+- [HKFP: Elderly busker who played 'Glory to Hong Kong' jailed for 30 days (Oct 25, 2023)](https://hongkongfp.com/2023/10/25/elderly-busker-who-played-protest-song-glory-to-hong-kong-sentenced-to-30-days-in-prison/)
+- [HKFP: Man convicted on sedition, insulting national anthem charges walks free after winning sentence appeal (Dec 19, 2025)](https://hongkongfp.com/2025/12/19/hong-kong-man-convicted-on-sedition-insulting-national-anthem-charges-walks-free-after-winning-sentence-appeal/)
+- [Wikipedia: Glory to Hong Kong](https://en.wikipedia.org/wiki/Glory_to_Hong_Kong)
