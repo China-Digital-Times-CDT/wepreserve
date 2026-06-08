@@ -1,10 +1,12 @@
 ---
 id: 74owa8sp34nmlvdwk5io11k
-title: Sheep Village|羊村繪本
-desc: ''
-updated: 1653379807309
+title: "🐑 Sheep Village|羊村繪本"
+desc: Banned children's picture-book trilogy at the centre of a landmark sedition case
+updated: 1780876800000
 created: 1653379309446
 ---
+
+Related: [[hong-kong-fire-2025]] | [[jimmy-lai]] | [[glory-to-hong-kong]] | [[sites.guhkst]]
 
 The "Sheep Village" trilogy (羊村繪本) is a series of three children's books published by the General Union of Hong Kong Speech Therapists that became the center of a landmark sedition case. The books use allegory to depict Hong Kong's political struggles, with sheep representing Hong Kong residents and wolves representing mainland Chinese authorities.
 
