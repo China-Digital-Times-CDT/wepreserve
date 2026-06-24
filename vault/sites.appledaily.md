@@ -21,6 +21,17 @@ _(Screenshot of Apple Daily Frontpage,  Courtesy: coconuts.co)_
 
 - [[jimmy-lai]] — Jimmy Lai (黎智英), founder, sentenced to 20 years (Feb 2026)
 
+## Legacy — Five Years On (June 2026)
+
+On the fifth anniversary of the closure, former staff and readers told Nikkei Asia and Focus Taiwan that the paper's disappearance is still felt across Hong Kong's media landscape, where critical voices have narrowed and newer online outlets lack the reach and resources to fill the gap.
+
+- **Final edition (June 24, 2021)**: ~1 million copies printed — Hongkongers queued overnight — after the June 17 newsroom raid, executive arrests, and HK$18m asset freeze cut off the paper's funds. Its digital edition went offline at 23:59 on June 23.
+- **Former staff reflect**: A reporter of ~10 years (pseudonym "Michael") on the homogenised newsstands: "When you walk past a newsstand, everything looks the same. You don't even feel like reading it." Another ("Joan") on jailed colleagues: "We have the freedom to choose, but they don't — and for as long as 10 years." Reader "Lau" said sensitive cases now get scant coverage, with the media's "fourth estate" role "gradually weakened."
+- **Seven still jailed**: founder Jimmy Lai (20 years) plus six senior executives (6 years 9 months to 10 years) — see [[jimmy-lai]] for the case and sentences.
+- **Exile journalism**: former Apple Daily reporter Shirley Leung (梁嘉麗) co-founded and now edits Taiwan-based [[sites.photonmedia]], aiming to "fill the black hole of information" left by the collapse of independent Hong Kong media; [[sites.standnews|Stand News]] was forced shut later in 2021.
+
+Sources: [Nikkei Asia (Kenji Kawase, Jun 24, 2026)](https://asia.nikkei.com/spotlight/hong-kong-security-law/five-years-on-apple-daily-staffers-reflect-on-hong-kong-paper-s-demise) · [Focus Taiwan (Jun 24, 2026)](https://focustaiwan.tw/politics/202606240021)
+
 ## Publications
 
 - [[sites.appledaily.publications]] — Final Edition (2021) & Freedom Summer 2019
