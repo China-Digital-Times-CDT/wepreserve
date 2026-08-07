@@ -1,8 +1,8 @@
 ---
 id: 74owa8sp34nmlvdwk5io11k
 title: "🐑 Sheep Village|羊村繪本"
-desc: Banned children's picture-book trilogy at the centre of a landmark sedition case
-updated: 1780876800000
+desc: Banned children's picture-book trilogy at the centre of a landmark sedition case — and the wider criminalisation of books and booksellers under the NSL
+updated: 1786060800000
 created: 1653379309446
 ---
 
@@ -34,6 +34,16 @@ All five, aged between 25 and 28 at the time of arrest, were denied bail and hel
 - The General Union of Hong Kong Speech Therapists was de-registered and disbanded by the government
 - In late 2024, the High Court ordered the seizure of the defunct union's remaining assets (approximately HK$116,000) on national security grounds
 - Since 2023, individuals in Hong Kong have been arrested and sentenced to prison merely for importing or possessing copies of these books, which are now classified as "seditious publications"
+
+## Book Censorship & Criminalisation Under the NSL
+
+The Sheep Village prosecution was the opening chapter of a wider drive to criminalise books themselves. What began with the authors has widened to readers and importers and, in 2026, to the independent bookshops that stock politically sensitive titles — now pursued under the 2024 **Safeguarding National Security Ordinance** (the Article 23 law), whose "seditious publication" offences carry up to seven years' imprisonment. Hong Kong publishes **no list of banned books**: Security Secretary **Chris Tang** has called such a list "pointless," leaving shops to guess where the "red line" falls and pulling titles pre-emptively.
+
+- **2023-03** National-security police and customs arrest two men (aged 38 and 50) for merely **importing or possessing** the Sheep Village books; Kurt Leung is charged over bringing 18 copies into Hong Kong. Amnesty International calls prosecuting people for possessing a children's book "a new low for human rights" ([Amnesty](https://www.amnesty.org/en/latest/news/2023/03/hong-kong-arrests-for-possession-of-seditious-childrens-books-a-new-low-for-human-rights/)).
+- **2026-03** Police raid the independent bookshop **Book Punch**, arresting its owner and staff over allegedly seditious stock — reportedly including a **biography of [[jimmy-lai]]**, jailed for 20 years in his national-security case.
+- **2026-06** A second wave: **Hunter Bookstore** is raided and staff arrested, then bailed pending investigation.
+- **2026-07-15** In the **third round of bookshop arrests in four months**, national-security police raid **Have A Nice Stay** (a Mong Kok shop founded by former journalists) and **Greenfield Book Store**, arresting five people — two men (aged 37 and 57) and three women (aged 30–59) — on suspicion of conspiring to sell seditious publications under the national-security law ([NPR](https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books) [indoneo](https://www.indoneo.com/society/hong-kong-booksellers-article-23-raids-2026/)).
+- **2026-07-16** After the raids, Security Secretary **Chris Tang** warns booksellers to guard against national-security risks but reiterates the government will **not** publish a banned-books list. Amnesty International's Sarah Brooks says the sedition offences show the security framework is being "weaponized to silence dissenting voices and eradicate spaces for free thought" ([NPR](https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids)).
 
 ## The Three Books 
 
