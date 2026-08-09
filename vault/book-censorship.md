@@ -1,18 +1,24 @@
 ---
 id: 74owa8sp34nmlvdwk5io11k
-title: "🐑 Sheep Village|羊村繪本"
-desc: Banned children's picture-book trilogy at the centre of a landmark sedition case — and the wider criminalisation of books and booksellers under the NSL
+title: "📕 Book Censorship under the NSL"
+desc: The criminalisation of books, booksellers and publishing in Hong Kong under the National Security Law — from the Sheep Village sedition case to the 2026 bookshop raids
 updated: 1786320000000
 created: 1653379309446
 ---
 
-Related: [[hong-kong-fire-2025]] | [[jimmy-lai]] | [[glory-to-hong-kong]] | [[sites.guhkst]]
+Related: [[hong-kong-fire-2025]] | [[jimmy-lai]] | [[glory-to-hong-kong]] | [[sites.appledaily]] | [[sites.standnews]] | [[sites.hkcnews]] | [[sites.guhkst]]
+
+Hong Kong was long one of the freest publishing centres in the Chinese-speaking world — home to a combative free press and to bookshops that openly stocked titles banned across the border. Since the imposition of the **National Security Law** in June 2020 and the home-grown **Safeguarding National Security Ordinance** (the "Article 23 law") in 2024, that space has been dismantled. Media freedom fell first: [[sites.appledaily|Apple Daily]] was forced shut in June 2021 and its founder [[jimmy-lai|Jimmy Lai]] jailed for 20 years, [[sites.standnews|Stand News]] was closed in December 2021, and [[sites.hkcnews|Citizen News]] folded in January 2022. The censorship then spread from newsrooms to **books, publishers and booksellers**.
+
+This page tracks that wider criminalisation of the printed word — from the landmark **Sheep Village** case, which first turned a children's picture book into a "seditious publication," to the 2026 raids that began arresting the booksellers themselves.
+
+## Sheep Village: The Landmark Sedition Case
 
 The "Sheep Village" trilogy (羊村繪本) is a series of three children's books published by the General Union of Hong Kong Speech Therapists that became the center of a landmark sedition case. The books use allegory to depict Hong Kong's political struggles, with sheep representing Hong Kong residents and wolves representing mainland Chinese authorities.
 
 **[📚 View All Three Books in Interactive Viewer](/assets/sheep-village-viewer/viewer.html)**
 
-## The Three Books
+### The Three Books
 
 The first book, titled "Guardians of Sheep Village" (羊村守衛者), explains the 2019 pro-democracy protests that swept through Hong Kong.
 
@@ -20,7 +26,7 @@ The first book, titled "Guardians of Sheep Village" (羊村守衛者), explains 
 
 The final book in the trilogy -- "The 12 Braves of Sheep Village" (羊村十二勇士) -- is about a group of sheep who flee their village by boat because of the wolves. It references the "Hong Kong 12," a group of activists captured by the Chinese coastguard while attempting to flee to Taiwan.
 
-## Legal Case and Convictions
+### Legal Case and Convictions
 
 In July 2021, five members of the speech therapists' union were arrested and charged with "conspiracy to publish seditious publications" under a colonial-era sedition law:
 
@@ -43,9 +49,15 @@ All five, aged between 25 and 28 at the time of arrest, were denied bail and hel
 - In late 2024, the High Court ordered the seizure of the defunct union's remaining assets (approximately HK$116,000) on national security grounds
 - Since 2023, individuals in Hong Kong have been arrested and sentenced to prison merely for importing or possessing copies of these books, which are now classified as "seditious publications"
 
-## Book Censorship & Criminalisation Under the NSL
+## The Crackdown Widens: From Authors to Readers to Booksellers
 
 The Sheep Village prosecution was the opening chapter of a wider drive to criminalise books themselves. What began with the authors has widened to readers and importers and, in 2026, to the independent bookshops that stock politically sensitive titles — now pursued under the 2024 **Safeguarding National Security Ordinance** (the Article 23 law), whose "seditious publication" offences carry up to seven years' imprisonment. Hong Kong publishes **no list of banned books**: Security Secretary **Chris Tang** has called such a list "pointless," leaving shops to guess where the "red line" falls and pulling titles pre-emptively.
+
+### Purging the public libraries
+
+Even before the booksellers were targeted, the state was quietly clearing its own shelves. Within weeks of the National Security Law taking effect in July 2020, **Hong Kong Public Libraries** pulled books by pro-democracy and localist figures — among them Joshua Wong, Tanya Chan and Nathan Law — "for review" ([SCMP](https://www.scmp.com/news/hong-kong/politics/article/3091842/national-security-law-hong-libraries-pull-books-some)). After the **Audit Commission** urged the Leisure and Cultural Services Department in April 2023 to do more to keep collections compliant, the purge accelerated: local outlets counted at least **195 "political" titles** removed over two years (and 255-plus Chinese e-books over three) — from RTHK's Tiananmen documentaries and Liberal Studies textbooks to essays by ex-lawmaker Roy Kwong and travelogues by journalist Allan Au. Chief Executive **John Lee** said the city had a "**duty to identify books with 'bad ideologies',**" and the department ruled that flagged books must pass a **government review before returning** to shelves. As with the banned booksellers, the LCSD has **never published the list** of what it pulled — while inviting the public to report "objectionable content" (some 140 such reports by 2025) ([HKFP: purging](https://hongkongfp.com/2023/05/26/not-recommended-reading-the-books-hong-kong-is-purging-from-public-libraries/) · [HKFP: John Lee](https://hongkongfp.com/2023/05/18/hong-kong-has-a-duty-to-identify-books-with-bad-ideologies-leader-john-lee-says-as-political-titles-purged-from-libraries/) · [HKFP: 140 reports](https://hongkongfp.com/2025/06/25/hong-kong-public-libraries-receive-140-reports-on-objectionable-content-including-nat-sec-violations/)).
+
+### Raiding the bookshops
 
 - **2023-03** National-security police and customs arrest two men (aged 38 and 50) for merely **importing or possessing** the Sheep Village books; Kurt Leung is charged over bringing 18 copies into Hong Kong. Amnesty International calls prosecuting people for possessing a children's book "a new low for human rights" ([Amnesty](https://www.amnesty.org/en/latest/news/2023/03/hong-kong-arrests-for-possession-of-seditious-childrens-books-a-new-low-for-human-rights/)).
 - **2026-03** Police raid the independent bookshop **Book Punch**, arresting its owner and staff over allegedly seditious stock — reportedly including a **biography of [[jimmy-lai]]**, jailed for 20 years in his national-security case.
@@ -55,7 +67,7 @@ The Sheep Village prosecution was the opening chapter of a wider drive to crimin
 - **2026-07** In a textbook **Streisand effect**, the traditional-Chinese edition of Feng's book — published in Taiwan that April — **sells out within days** of the arrests. Within weeks, **three independent bookshops announce closures**: **Greenfield Book Store** (after some 50 years in business), **Have A Nice Stay** (shutting Aug 30, citing financial pressure and an "elusive red line" over which books invite prosecution), and **Elmbook** — the latter two also **barred from the Hong Kong Book Fair** ([Taipei Times](https://www.taipeitimes.com/News/editorials/archives/2026/07/22/2003861144) · [HKFP](https://hongkongfp.com/2026/08/09/explainer-hong-kongs-national-security-crackdown-month-73)).
 - **2026-08** The chilling effect spreads past the shops themselves: Taiwan's **Mainland Affairs Council** reports Hong Kong is now **screening publications imported from Taiwan**, and **logistics firms refuse to ship books** to Hong Kong bookstores under police investigation. As of Jul 1, cumulative national-security arrests stand at **409** (212 charged; 183 convicted or awaiting sentence) — **14** of them under the home-grown Article 23 law, **12** already convicted ([HKFP](https://hongkongfp.com/2026/08/09/explainer-hong-kongs-national-security-crackdown-month-73)).
 
-## 中文概述
+## 羊村繪本・中文概述
 
 羊村繪本共三冊，分別為《羊村守衛者》、《羊村十二勇士》和《羊村清道夫》。三本繪本分別描寫二零一九年反修例風波、十二港人案及2020年2月3-7日香港醫護罷工行動。警方批評繪本合理化暴力事件及違法行為荼毒下一代。支持者認為繪本只是反映事實，並不構成煽動暴力或社會仇恨。此外，外界亦擔心是次事件會削弱香港的言論自由，令港人未來難以安心創作藝術作品、政治漫畫及評論政治。
 
@@ -67,7 +79,7 @@ The Sheep Village prosecution was the opening chapter of a wider drive to crimin
 
 其後，香港言語治療師總工會被政府撤銷註冊並解散。2024年末，高等法院基於國家安全理由下令沒收已解散工會的剩餘資產約11.6萬港元。自2023年起，有香港市民僅因進口或管有這些繪本副本而被捕及判監，該等繪本現已被列為「煽動刊物」。
 
-## 詳細內容
+## 羊村繪本・詳細內容
 
 ### 《羊村守衛者》
 2020年6月，香港言語治療師總工會出版一本名為《羊村守衛者》的繪本，以2019年發生的反修例事件作背景，將中共政權描繪成狼，香港人則描繪成羊。故事內容講述有兩條村落，一條村是住了善良的羊，另一條村是住了邪惡的狼。有一天，守護羊的牧羊人突然離開了，狼村落便派了大灰狼去帶領羊群，並頒佈「狼羊規矩」，規定狼群可隨意吃掉羊，結果羊起來反抗。繪本裏列有反修例事件的時序表，以及相應故事的頁數。故事最後向讀者發問：「如果你是羊，會否勇敢繼續守衛家園？」
