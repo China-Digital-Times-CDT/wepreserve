@@ -2,7 +2,7 @@
 id: 74owa8sp34nmlvdwk5io11k
 title: "🐑 Sheep Village|羊村繪本"
 desc: Banned children's picture-book trilogy at the centre of a landmark sedition case — and the wider criminalisation of books and booksellers under the NSL
-updated: 1786060800000
+updated: 1786320000000
 created: 1653379309446
 ---
 
@@ -11,6 +11,14 @@ Related: [[hong-kong-fire-2025]] | [[jimmy-lai]] | [[glory-to-hong-kong]] | [[si
 The "Sheep Village" trilogy (羊村繪本) is a series of three children's books published by the General Union of Hong Kong Speech Therapists that became the center of a landmark sedition case. The books use allegory to depict Hong Kong's political struggles, with sheep representing Hong Kong residents and wolves representing mainland Chinese authorities.
 
 **[📚 View All Three Books in Interactive Viewer](/assets/sheep-village-viewer/viewer.html)**
+
+## The Three Books
+
+The first book, titled "Guardians of Sheep Village" (羊村守衛者), explains the 2019 pro-democracy protests that swept through Hong Kong.
+
+"Janitors of Sheep Village" (羊村清道夫), the second book, sees cleaners in the village go on strike to force out wolves who leave litter everywhere. The book's introduction explains it is a reference to Hong Kong medical workers striking in February 2020 in a bid to force the government to close the border with mainland China at the start of the coronavirus pandemic.
+
+The final book in the trilogy -- "The 12 Braves of Sheep Village" (羊村十二勇士) -- is about a group of sheep who flee their village by boat because of the wolves. It references the "Hong Kong 12," a group of activists captured by the Chinese coastguard while attempting to flee to Taiwan.
 
 ## Legal Case and Convictions
 
@@ -44,15 +52,8 @@ The Sheep Village prosecution was the opening chapter of a wider drive to crimin
 - **2026-06** A second wave: **Hunter Bookstore** is raided and staff arrested, then bailed pending investigation.
 - **2026-07-15** Amid the annual **Hong Kong Book Fair**, national-security police raid **Have A Nice Stay** (a Mong Kok shop founded in 2022 by former journalists) and **Greenfield Book Store**, arresting five people — two men (aged 37 and 57) and three women (aged 30–59), among them Have A Nice Stay co-founders **Sum Wan-wah** and **Mandy Lau** — under **Article 24** of the Safeguarding National Security Ordinance for acts and publications with "seditious intention." The operation followed a **Customs & Excise** referral over an overseas book shipment. Among the seized titles was ***Let Only Red Flowers Bloom: Identity and Belonging in Xi Jinping's China*** by **NPR correspondent Emily Feng** — a journalist Chinese state media had branded a "traitor to the nation" and denied entry to the mainland in 2022. It was the **third round of bookshop arrests in four months** ([NPR](https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books) [CPJ](https://cpj.org/2026/07/hong-kong-arrests-two-journalists-in-latest-sedition-case-targeting-independent-bookstores/) [CDT](https://chinadigitaltimes.net/2026/07/amid-hong-kong-book-fair-police-raid-two-more-independent-bookstores-arrest-five-booksellers/)).
 - **2026-07-16** After the raids, Security Secretary **Chris Tang** warns booksellers to guard against national-security risks but reiterates the government will **not** publish a banned-books list. Amnesty International's Sarah Brooks says the sedition offences show the security framework is being "weaponized to silence dissenting voices and eradicate spaces for free thought" ([NPR](https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids)).
-- **2026-07** In a textbook **Streisand effect**, the traditional-Chinese edition of Feng's book — published in Taiwan that April — **sells out within days** of the arrests. Have A Nice Stay announces it will **close on Aug 30**, citing financial pressure and an "elusive red line" over which books invite prosecution ([Taipei Times](https://www.taipeitimes.com/News/editorials/archives/2026/07/22/2003861144)).
-
-## The Three Books 
-
-The first book, titled "Guardians of Sheep Village" (羊村守衛者), explains the 2019 pro-democracy protests that swept through Hong Kong.
-
-"Janitors of Sheep Village" (羊村清道夫), the second book, sees cleaners in the village go on strike to force out wolves who leave litter everywhere. The book's introduction explains it is a reference to Hong Kong medical workers striking in February 2020 in a bid to force the government to close the border with mainland China at the start of the coronavirus pandemic.
-
-The final book in the trilogy -- "The 12 Braves of Sheep Village" (羊村十二勇士) -- is about a group of sheep who flee their village by boat because of the wolves. It references the "Hong Kong 12," a group of activists captured by the Chinese coastguard while attempting to flee to Taiwan.
+- **2026-07** In a textbook **Streisand effect**, the traditional-Chinese edition of Feng's book — published in Taiwan that April — **sells out within days** of the arrests. Within weeks, **three independent bookshops announce closures**: **Greenfield Book Store** (after some 50 years in business), **Have A Nice Stay** (shutting Aug 30, citing financial pressure and an "elusive red line" over which books invite prosecution), and **Elmbook** — the latter two also **barred from the Hong Kong Book Fair** ([Taipei Times](https://www.taipeitimes.com/News/editorials/archives/2026/07/22/2003861144) · [HKFP](https://hongkongfp.com/2026/08/09/explainer-hong-kongs-national-security-crackdown-month-73)).
+- **2026-08** The chilling effect spreads past the shops themselves: Taiwan's **Mainland Affairs Council** reports Hong Kong is now **screening publications imported from Taiwan**, and **logistics firms refuse to ship books** to Hong Kong bookstores under police investigation. As of Jul 1, cumulative national-security arrests stand at **409** (212 charged; 183 convicted or awaiting sentence) — **14** of them under the home-grown Article 23 law, **12** already convicted ([HKFP](https://hongkongfp.com/2026/08/09/explainer-hong-kongs-national-security-crackdown-month-73)).
 
 ## 中文概述
 
