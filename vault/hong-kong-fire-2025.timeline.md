@@ -2,13 +2,13 @@
 id: wm9v6z1k5rx4nqlu8g03b2t
 title: Timeline
 desc: Sequence of reported events and follow-on actions for the Wang Fuk Court fire.
-updated: 1788307200000
+updated: 1788310800000
 created: 1764698071435
 ---
 
 Parent: [[hong-kong-fire-2025]]
 
-**Jump to:** [Pre-2025 Context](#pre-2025-context) | [Timeline](#timeline) ([Phase 1 — Fire](#phase-1--the-fire-nov-2627-2025) · [2 — Recovery](#phase-2--recovery--mourning-nov-28--dec-31-2025) · [3 — Buyback](#phase-3--final-toll--the-buyback-plan-jan--feb-2026) · [4 — Inquiry](#phase-4--inquiry-hearings-belongings--charges-mar--jul-2026) · [5 — Resolution](#phase-5--resolution-aug-2026-)) | [International Response](#international-response) | [Diaspora Vigils](#diaspora-vigils) | [Analysis & Commentary](#analysis--commentary)
+**Jump to:** [Pre-2025 Context](#pre-2025-context) | [Timeline](#timeline) ([Phase 1 — Fire](#phase-1--the-fire-nov-2627-2025) · [2 — Recovery](#phase-2--recovery--mourning-nov-28--dec-31-2025) · [3 — Buyback](#phase-3--final-toll--the-buyback-plan-jan--feb-2026) · [4 — Inquiry](#phase-4--inquiry-hearings-belongings--charges-mar--jul-2026) · [5 — Winding down](#phase-5--winding-down--open-threads-aug-2026-)) | [International Response](#international-response) | [Diaspora Vigils](#diaspora-vigils) | [Analysis & Commentary](#analysis--commentary)
 
 ---
 
@@ -99,16 +99,16 @@ Parent: [[hong-kong-fire-2025]]
 | **07-16–19** | **Hearings conclude** (80 witnesses, 30 sessions, 1M+ documents): Dawes' 627-page address calls the fire **"preventable and foreseeable,"** the government's responsibility **"unshirkable"**; non-compliant nets released **27× the heat** and the fire could have **self-extinguished**. Report now due **late October 2026** ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3361047/litany-failures-blamed-hong-kongs-tai-po-fire-inquiry-concludes), [HKFP](https://hongkongfp.com/2026/07/17/tai-po-fire-govt-has-unshirkable-responsibility-over-fatal-blaze-lawyer-says-as-probe-concludes/)). Competition Commission aims to **criminalise bid-rigging** from September ([SCMP](https://www.scmp.com/news/hong-kong/politics/article/3361102/hong-kong-prepares-sweeping-reforms-following-end-tai-po-blaze-inquiry)). | First **statutory owners' meeting** held across four venues; owners reject Hop On's audit and leave frustrated ([HKFP](https://hongkongfp.com/2026/07/20/pointless-tai-po-fire-survivors-get-no-answers-at-owners-meeting-as-govt-buybacks-loom/)). | — |
 | **07-28** | — | John Lee: **90.8%** have signed letters of acceptance, **53%** the sale-and-purchase agreement; ~200 owners yet to accept before the end-August expiry ([HKFP](https://hongkongfp.com/2026/07/29/more-than-half-of-fire-hit-wang-fuk-court-homeowners-have-signed-contracts-to-sell-flats-to-govt-john-lee-says/)). | — |
 
-### Phase 5 — Resolution (Aug 2026 →)
+### Phase 5 — Winding Down & Open Threads (Aug 2026 →)
 
-*🔍 winds down to its pending report; **🏠 buyback** and **⚖️ prosecutions** dominate.*
+*🔍 awaits its final report; **🏠 buyback** (acquisition of holdouts still under way) and **⚖️ prosecutions** are both still running.*
 
 | Date | 🔍 Investigation | 🏠 Resettlement | ⚖️ Legal |
 |------|------------------|-----------------|----------|
 | **08-10** | Interdepartmental task force's **~1,142-page report**: blaze started **accidentally** from an **improperly discarded cigarette butt** on a Wang Cheong air-shaft platform; details firefighter **Ho Wai-ho**'s final movements (wrong tower, stayed to help, gear found on the 31st floor) ([HKFP](https://hongkongfp.com/2026/08/10/tai-po-fire-interim-report-details-circumstances-of-firefighter-death-finds-cigarette-butt-likely-cause/), [SCMP](https://www.scmp.com/news/hong-kong/society/article/3363336/tai-po-inquiry-sheds-more-light-final-moments-firefighter-ho-wai-ho)). | — | — |
-| **08-28 → 31** | — | Buyback deadline (**Aug 31, 5 p.m.**): **96.5%** (1,914/1,984) accept, **>75%** sign sale-and-purchase agreements. Terms ~30% above pre-fire value; combined scheme **~HK$7.8b** (HK$5b public + HK$2.8b relief). Holdouts (Betty Ho, Woo, Xiong) want on-site redevelopment; Michael Wong signals possible **compulsory-acquisition** legislation next year at the lower post-fire value ([HKFP](https://hongkongfp.com/2026/08/28/tai-po-fire-96-5-of-wang-fuk-court-homeowners-agree-to-govt-buyback-scheme-as-70-remain-undecided/), [HKFP](https://hongkongfp.com/2026/08/31/tai-po-fire-to-sell-or-not-to-sell-as-govt-deadline-looms-some-owners-still-hope-their-homes-can-rise-from-the-ashes/)). | — |
+| **08-31** | — | Buyback deadline closes (**5 p.m.**): **99.1%** (1,967/1,984) accepted — up from 96.5% days earlier — leaving **17 holdouts** who now face **compulsory acquisition** at the lower post-fire value; the government says it will pursue the remaining acquisitions "at full speed." Terms ~30% above pre-fire value; combined scheme **~HK$7.8b** (HK$5b public + HK$2.8b relief). Some holdouts (e.g. Betty Ho) wanted on-site redevelopment ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3365872/nearly-all-wang-fu-court-owners-accept-buy-out-leaving-17-holdouts-offer-ends), [HKFP](https://hongkongfp.com/2026/08/31/tai-po-fire-to-sell-or-not-to-sell-as-govt-deadline-looms-some-owners-still-hope-their-homes-can-rise-from-the-ashes/)). | — |
 | **08-31** | — | — | Fire survivor and petition organiser **Jason Kong** and wife **Rosanna Cheung** charged with **conspiracy to defraud (×2) + money laundering** over the Special 100% Loan Guarantee scheme; first arrested in May, two weeks after Kong delivered the 247-signature petition ([HKFP](https://hongkongfp.com/2026/08/31/tai-po-fire-victim-and-petition-organiser-jason-kong-and-wife-charged-with-fraud-and-money-laundering/), [SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3353674/former-wang-fuk-court-representative-and-wife-held-over-fraud-money-laundering)). |
-| **Pending** | Independent committee's **final report** due **late October 2026**. | Wang Chi House owners decide on their separate offer by **Oct 15**. | Criminal case next mention **Sep 2, 2026**. |
+| **Pending** | Independent committee's **final report** due **late October 2026**. | **17 holdouts** face compulsory acquisition — compensation likely pegged to the lower post-fire value, with legislation flagged for **2027**; Wang Chi House owners decide on their separate ~HK$1b offer by **Oct 15**. | Criminal case next mention **Sep 2, 2026**. |
 
 ---
 
