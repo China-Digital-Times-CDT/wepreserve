@@ -2,7 +2,7 @@
 id: 9p6m8bb6dis5fr37njzdlji
 title: '8964museum | 六四記憶'
 desc: ''
-updated: 1754162835302
+updated: 1788310800000
 created: 1654504481071
 ---
 
@@ -24,6 +24,10 @@ The 8964 Museum (六四記憶‧人權博物館) is an online museum dedicated t
 首次開幕，展出六個展館：時間館、空間館、人物館、香港館、文藝館、媒體館。此後，博物館將持續更新，補充現有展館內容，逐步釋出更詳細的史料，翻譯多語言版本，並將不定期因應時事與紀念日主題，開設主題特展。
 
 燭光不滅，真相永存。寸心千古，莫失莫忘。
+
+## Update — the Alliance on trial (2026)
+
+The **[[Hong Kong Alliance|sites.hka]]** (香港市民支援愛國民主運動聯合會 / 支聯會), which founded and funded this museum, was itself prosecuted under the National Security Law. On **21 August 2026**, three national-security judges at the **West Kowloon Law Courts** convicted the Alliance as an organisation together with its **chair Lee Cheuk-yan** (李卓人) and **barrister vice-chair Chow Hang-tung** (鄒幸彤) of **incitement to subversion** — finding they had spread the call to "**end one-party dictatorship**" (結束一黨專政) and likened the 2019 protests to the 1989 Tiananmen crackdown to stir hostility toward the Communist Party. Founding member and former lawmaker **Albert Ho** (何俊仁) had pleaded guilty when the trial opened in January. Lee and Chow — behind bars since **September 2021** — face up to **10 years**; at her **28 August** mitigation hearing Chow said the conviction showed that "**pursuing democracy is a crime**" ([HKFP: verdict](https://hongkongfp.com/2026/08/21/breaking-hong-kong-tiananmen-vigil-activists-convicted-under-nat-security-law-face-up-to-10-years-prison/) · [HKFP: mitigation](https://hongkongfp.com/2026/08/28/national-security-conviction-shows-pursuing-democracy-is-a-crime-tiananmen-vigil-activist-says-in-mitigation-hearing/)). The verdict drew condemnation from the UN and overseas rights groups and approval from the Hong Kong government, which hit back at "external forces" ([HKFP](https://hongkongfp.com/2026/08/24/hong-kong-hits-back-at-external-forces-after-ngos-foreign-govts-condemn-conviction-of-tiananmen-vigil-activists/)). The **8964 Museum** now operates entirely from overseas.
 
 學術委員會
 「六四記憶‧人權博物館」成立學術委員會，邀約對1989中國民運、中國民主化及社會運動歷史做過長期研究的專家學者加入，給博物館的長期策展、史料收集及研究，搭建可信的學術基礎。

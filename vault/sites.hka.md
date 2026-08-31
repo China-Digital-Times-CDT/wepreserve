@@ -2,7 +2,7 @@
 id: nkaza0o35rwokugfvcltlgz
 title: HKA|支聯會
 desc: ''
-updated: 1653362736624
+updated: 1788310800000
 created: 1650856633198
 ---
 
@@ -15,3 +15,7 @@ A screenshot of https://hka8964.wordpress.com/ as of 1 August 2021:
 
 A screenshot of the Facebook Page of the organisation as of 25 April 2022:
 ![image](https://user-images.githubusercontent.com/103475460/165095067-07cd8b2f-ccef-4273-92e2-fd279b349031.png)
+
+## Update — subversion conviction (2026)
+
+On **21 August 2026**, more than four years after its dissolution, the Alliance and two of its leaders were convicted of **incitement to subversion** under the National Security Law. Three national-security judges at the **West Kowloon Law Courts** found that chair **Lee Cheuk-yan** (李卓人), barrister vice-chair **Chow Hang-tung** (鄒幸彤) and the Alliance as an organisation had spread the call to "**end one-party dictatorship**" (結束一黨專政) and likened the 2019 protests to the 1989 Tiananmen crackdown to stir hostility toward the Communist Party. Founding member and former lawmaker **Albert Ho** (何俊仁) had pleaded guilty when the trial opened in January. Lee and Chow — behind bars since **September 2021** — face up to **10 years**; at her **28 August** mitigation hearing Chow said the conviction showed that "**pursuing democracy is a crime**." The ruling drew condemnation from the UN and overseas rights groups and approval from the Hong Kong government, which hit back at "external forces" ([HKFP: verdict](https://hongkongfp.com/2026/08/21/breaking-hong-kong-tiananmen-vigil-activists-convicted-under-nat-security-law-face-up-to-10-years-prison/) · [HKFP: mitigation](https://hongkongfp.com/2026/08/28/national-security-conviction-shows-pursuing-democracy-is-a-crime-tiananmen-vigil-activist-says-in-mitigation-hearing/) · [HKFP: reactions](https://hongkongfp.com/2026/08/24/hong-kong-hits-back-at-external-forces-after-ngos-foreign-govts-condemn-conviction-of-tiananmen-vigil-activists/)). The Alliance's [[8964 Museum|extra.8964]] continues to operate from overseas.
