@@ -2,7 +2,7 @@
 id: aqgv6hy8557vuejq41qf8o49q
 title: "🗽 Statues & Monuments|紀念雕塑"
 desc: Hong Kong's public monuments to the 1989 Tiananmen crackdown and the 2019 protests — the Pillar of Shame, the Goddess of Democracy, Lady Liberty — and how they were removed, seized, and driven abroad.
-updated: 1788310800000
+updated: 1788397200000
 created: 1788310800000
 ---
 
@@ -38,9 +38,14 @@ Hours later the same morning, **Lingnan University** took down its own Tiananmen
 
 ## Lady Liberty (香港民主女神, 2019)
 
+![Lady Liberty Hong Kong among protesters, October 2019](/assets/statues/lady-liberty-hong-kong.jpg)
+*Lady Liberty Hong Kong among protesters (Mong Kok, 4 October 2019), before it was carried up Lion Rock. Photo: Studio Incendo, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2019-10-04_Protests_in_Hong_Kong_30_(cropped).jpg).*
+
 Not every toppled statue commemorated 1989. **Lady Liberty Hong Kong** (香港民主女神) was a roughly **4-metre** figure of a **2019 protester** — gas mask, goggles and helmet, an umbrella in one hand and a black flag in the other, bearing the slogan "光復香港，時代革命" ("Liberate Hong Kong, revolution of our times"). Like the anthem [[Glory to Hong Kong|glory-to-hong-kong]], it was **crowd-designed on the LIHKG forum** and crowdfunded, then built in **August 2019**.
 
 Volunteers hauled the statue up **Lion Rock** overnight on **13 October 2019**, declaring the summit its "final resting place" ([France 24](https://www.france24.com/en/20191013-protesters-erect-lady-liberty-statue-on-hong-kong-mountain-top) · [HKFP](https://hongkongfp.com/2019/10/13/pictures-hong-kongs-lion-rock-final-resting-place-lady-liberty-democracy-statue/)). Within a day it was **toppled, splashed with red paint** by unknown assailants and then **vanished** — only the flagpole and fixings left on the peak ([HKFP](https://hongkongfp.com/2019/10/14/hong-kongs-lady-liberty-statue-vandalised-installed-atop-lion-rock/)). Replicas were later raised abroad, in Frankfurt and elsewhere.
+
+**Preserved as a file.** The statue was itself a crowd project: a public LIHKG vote chose the design and a **six-hour crowdfunder raised HK$203,933** — roughly HK$50,000 for the statue, the rest to the **612 Humanitarian Relief Fund** — with teams of about **10 designers and 30 printers** assembling it. So when the physical figure was destroyed, its makers' answer was to place it **beyond destruction**: they released **3D model files** so anyone, anywhere, can re-print it. Copies of the model circulate on [Sketchfab](https://sketchfab.com/3d-models/statue-of-liberty-hong-kong-9b07c2cebab741d5924bf757cb45a20f), [Cults3D](https://cults3d.com/en/3d-model/art/statue-of-liberty-hong-kong-freedom) and [CGTrader](https://www.cgtrader.com/3d-print-models/art/sculpture/statue-of-liberty-hong-kong-freedom), and are indexed across print-model aggregators such as [STLFinder](https://www.stlfinder.com/3dmodels/lady-liberty-hong-kong/) and [Yeggi](https://www.yeggi.com/q/lady+liberty+hong+kong/) — a monument that can be smashed but not erased. *(Mirroring the model files themselves — licences permitting — is a natural next preservation step for this archive.)*
 
 ## A coordinated erasure
 
