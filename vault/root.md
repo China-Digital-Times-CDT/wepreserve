@@ -2,7 +2,7 @@
 id: pfy4h1nwep9age7eg0u8xe1
 title: SHKO(Save Hong Kong Online)
 desc: ''
-updated: 1754149906369
+updated: 1788310800000
 created: 1648525691085
 ---
 
@@ -15,7 +15,7 @@ While most sites in our archive were forced offline due to Hong Kong’s politic
 
 Explore our full list of preserved sites and archives on the [Collections page](/notes/wx39zljncctue32jn06u29u/).
 
-Recent work: documenting the [[Hong Kong Fire 2025|hong-kong-fire-2025]] tragedy at Wang Fuk Court (168 dead, ongoing probes into flammable mesh/foam, bid-rigging, and a judge-led review), including activism, timeline, and investigation subpages; and the [[⚖️ Jimmy Lai case|jimmy-lai]] — Apple Daily founder sentenced to 20 years under the National Security Law (Feb 2026), with coverage of press freedom impact and international response; and [[🎵 Glory to Hong Kong|glory-to-hong-kong]] — the 2019 protest anthem and the 2024 court order that made it the first song banned in Hong Kong since the 1997 handover; and [[📕 Book Censorship under the NSL|book-censorship]] — how Hong Kong criminalised the printed word, from the banned Sheep Village children's-book trilogy (whose speech-therapist authors were jailed for sedition) and purged public libraries to the 2026 bookshop raids.
+Recent work: documenting the [[Hong Kong Fire 2025|hong-kong-fire-2025]] tragedy at Wang Fuk Court (168 dead, ongoing probes into flammable mesh/foam, bid-rigging, and a judge-led review), including activism, timeline, and investigation subpages; and the [[⚖️ Jimmy Lai case|jimmy-lai]] — Apple Daily founder sentenced to 20 years under the National Security Law (Feb 2026), with coverage of press freedom impact and international response; and [[🎵 Glory to Hong Kong|glory-to-hong-kong]] — the 2019 protest anthem and the 2024 court order that made it the first song banned in Hong Kong since the 1997 handover; and [[📕 Book Censorship under the NSL|book-censorship]] — how Hong Kong criminalised the printed word, from the banned Sheep Village children's-book trilogy (whose speech-therapist authors were jailed for sedition) and purged public libraries to the 2026 bookshop raids; and [[🗽 Statues & Monuments|statues]] — how Hong Kong's public monuments to Tiananmen and the 2019 protests (the Pillar of Shame, the Goddess of Democracy, Lady Liberty) were removed, seized as police evidence, and driven into exile abroad.
 
 ## Goals
 - To preserve as much information as possible before its disappearance during Hong Kong's great transition
