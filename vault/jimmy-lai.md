@@ -2,11 +2,11 @@
 id: jl8k2mxp4vy7nrt1qw5b3ez
 title: "⚖️ Jimmy Lai|黎智英"
 desc: Founder of Apple Daily, sentenced to 20 years in 2026
-updated: 1780876800000
+updated: 1789128000000
 created: 1739577600000
 ---
 
-Related: [[sites.appledaily]] | [[hong-kong-fire-2025]]
+Related: [[sites.appledaily]] | [[The Hong Kong 47|hong-kong-47]] | [[Hong Kong Alliance|sites.hka]] | [[hong-kong-fire-2025]]
 
 ![Jimmy Lai](/assets/jimmy-lai-12739.avif)
 _Jimmy Lai in an interview with AFP on June 16, 2020, at his company's premises in Hong Kong. (Getty Images / AFP / Anthony Wallace)_
