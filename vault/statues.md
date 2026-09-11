@@ -2,7 +2,7 @@
 id: aqgv6hy8557vuejq41qf8o49q
 title: "🗽 Statues & Monuments|紀念雕塑"
 desc: Hong Kong's public monuments to the 1989 Tiananmen crackdown and the 2019 protests — the Pillar of Shame, the Goddess of Democracy, Lady Liberty — and how they were removed, seized, and driven abroad.
-updated: 1788397200000
+updated: 1789128000000
 created: 1788310800000
 ---
 
@@ -21,7 +21,7 @@ The **Pillar of Shame** (國殤之柱) is an **8-metre, two-tonne** copper sculp
 
 After the [[Hong Kong Alliance|sites.hka]] disbanded in September 2021, HKU ordered the statue removed on legal-risk grounds. In the early hours of **22–23 December 2021** it was crated up behind plastic barriers and hauled into storage at the university's Kadoorie Centre; Galschiøt called the removal a "**crime against democracy**" ([Al Jazeera](https://www.aljazeera.com/news/2021/12/23/hong-kong-university-tiananmen-massacre-statue-pillar-shame) · [NBC News](https://www.nbcnews.com/news/world/tiananmen-massacre-statue-barricaded-hong-kong-university-rcna9693)). In **May 2023**, national-security police obtained a warrant and **seized the sculpture as an "exhibit"** in the Alliance's incitement-to-subversion case ([The Art Newspaper](https://www.theartnewspaper.com/2023/05/08/pillar-shame-sculpture-hong-kong-tiananmen-square-seized) · [RFA](https://www.rfa.org/english/news/china/china-danish-artist-10062023170341.html)). Galschiøt — who says he **owns** the work, having only lent it to the Alliance in 1997 — has campaigned for its return, launching an augmented-reality project to re-project it and observing that the seizure had only made the artwork "**bigger**" ([Artnet](https://news.artnet.com/art-world-archives/hong-kong-polices-seizure-tiananmen-monument-makes-artwork-bigger-2297973)).
 
-On **1 September 2026**, days after the Alliance's leaders were convicted (see [[8964 Museum|extra.8964]]), Galschiøt **wrote to the Hong Kong court** demanding the Pillar back: "I claim the sculpture … I do not consent to its confiscation, destruction, disposal, or transfer to any other person or institution" ([HKFP](https://hongkongfp.com/2026/09/01/danish-sculptor-writes-to-hong-kong-court-asking-for-return-of-tiananmen-crackdown-monument/)). **Replicas** of the Pillar now stand outside the Danish Parliament and in Berlin, Mexico, Brazil and Rome — the monument multiplying abroad as the original stays impounded.
+Days after the Alliance's leaders were convicted (see [[8964 Museum|extra.8964]]), **prosecutors asked the court to confiscate the Pillar** as an exhibit in the case — raising the prospect of its destruction. On **1 September 2026** Galschiøt **wrote to the Hong Kong court** demanding it back: "I claim the sculpture … I do not consent to its confiscation, destruction, disposal, or transfer to any other person or institution," saying he would send professional art handlers to bring it to Denmark rather than travel to Hong Kong himself ([HKFP](https://hongkongfp.com/2026/09/01/danish-sculptor-writes-to-hong-kong-court-asking-for-return-of-tiananmen-crackdown-monument/)). When the leaders were **jailed on 11 September 2026** — Chow Hang-tung 7 years 3 months, Lee Cheuk-yan 7 years, Albert Ho 5 years 2 months — the court had **still not ruled on the sculpture's fate**; it remains locked in a steel container at HKU's Kadoorie Centre, its return or destruction undecided. **Replicas** of the Pillar now stand outside the Danish Parliament and in Berlin, Mexico, Brazil and Rome — the monument multiplying abroad as the original stays impounded.
 
 ## The Goddess of Democracy (民主女神像)
 
