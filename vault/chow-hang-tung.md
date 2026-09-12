@@ -8,6 +8,9 @@ created: 1789128000000
 
 Related: [[Hong Kong Alliance|sites.hka]] | [[8964 Museum|extra.8964]] | [[The Hong Kong 47|hong-kong-47]] | [[⚖️ Jimmy Lai|jimmy-lai]]
 
+![Chow Hang-tung wearing a "never forget" headband at a June 4th commemoration](/assets/chow-hang-tung.jpg)
+*Chow Hang-tung at a June 4th commemoration, wearing a **"毋忘"** ("never forget") headband. Photo: Iris Tong / Voice of America, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tonyee_Chow_Hang-tung_(cropped).jpg).*
+
 **Chow Hang-tung** (鄒幸彤, born 24 January 1985) is a Hong Kong **barrister** and the last public leader of the [[Hong Kong Alliance|sites.hka]], the group that for three decades organised the city's **June 4th candlelight vigil** for the victims of the 1989 Tiananmen crackdown. When the vigil was banned in 2020 and the Alliance's chair and vice-chair jailed in 2021, Chow became its **convenor** and its most defiant voice — urging Hongkongers to remember June 4th on their own, and answering each prosecution from the dock rather than with silence. She has been **behind bars since September 2021**, convicted across a series of cases that together trace the dismantling of Tiananmen memory in Hong Kong.
 
 ## From geophysics to the Bar
