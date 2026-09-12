@@ -2,7 +2,7 @@
 id: 82f12j06kndkno9ujbxvau2g
 title: "🕯️ Tiananmen Vigil|維園六四燭光集會"
 desc: For thirty years Hong Kong's Victoria Park candlelight vigil was the largest June 4th commemoration on Chinese soil — until it was banned, its organisers jailed, and its site handed to a patriotic carnival. This page preserves its history and calls for its record.
-updated: 1789128000000
+updated: 1789214400000
 created: 1789128000000
 ---
 
@@ -50,6 +50,8 @@ Yet the commemoration did not die — it **scattered**. As Victoria Park fell si
 
 The vigil's disappearance is inseparable from the fate of the people who ran it. In **2026** the [[Hong Kong Alliance|sites.hka]] and its leaders were convicted and jailed for **incitement to subversion** — **[[Chow Hang-tung|faces-of-the-crackdown.chow-hang-tung]]** (7 years 3 months), **Lee Cheuk-yan** (7 years) and founding member **Albert Ho** (5 years 2 months) — the state treating three decades of peaceful remembrance as a crime against itself. The Alliance's Tiananmen relics were scattered too: its **[[Goddess of Democracy and Pillar of Shame|statues]]** were removed and seized, and its museum survives only online, from overseas (the [[8964 Museum|extra.8964]]).
 
+From prison, Chow Hang-tung has insisted the flame outlasts its keepers. In a message marking the anniversary she wrote: 「**燭光再小，也永不會滅，因為我們有彼此**」 — *"However small the candlelight, it will never go out, because we have each other"* (as reported by [加拿大國際廣播電台 RCI 中文《當維園燭光晚會不再》](https://ici.radio-canada.ca/rci/zh-hant/新闻/2283016/报道-当维园烛光晚会不再)). The diaspora has taken up the task: in cities such as Toronto, veterans of the 1989 movement and younger émigrés — some of whom attended the Victoria Park vigil only once before leaving Hong Kong — now hold their own June 4th commemorations, passing the memory on.
+
 ## Help preserve the vigil — a call for submissions
 
 The physical vigil is gone, and inside Hong Kong even remembering it now carries risk. That makes the **record** more precious. We are gathering materials to preserve the memory of the Victoria Park vigil and its diaspora successors, and we invite you to contribute:
@@ -69,3 +71,7 @@ If you have material to share, or can help preserve it, please see **[[Participa
 - [HKFP: In Pictures — police deploy armoured vehicle on Tiananmen anniversary (4 June 2025)](https://hongkongfp.com/2025/06/04/in-pictures-hong-kong-police-deploy-armoured-vehicle-in-causeway-bay-on-tiananmen-crackdown-anniversary/)
 - [HKFP: Diaspora attend Tiananmen anniversary vigils overseas amid ban (5 June 2025)](https://hongkongfp.com/2025/06/05/hong-kong-activists-diaspora-attend-tiananmen-anniversary-vigils-overseas-amid-ban-in-home-city/)
 - [RFA: No vigils — Victoria Park silent on Tiananmen anniversary (3 June 2026)](https://www.rfa.org/english/china/2026/06/03/hong-kong-victoria-park-tiananmen-square-china/)
+
+**香港中文報道 (Chinese-language coverage):**
+
+- [加拿大國際廣播電台 RCI 中文：《報道 — 當維園燭光晚會不再》（Donna Chan，2026年9月12日）](https://ici.radio-canada.ca/rci/zh-hant/新闻/2283016/报道-当维园烛光晚会不再) — 海外港人如何延續六四悼念的口述記錄
