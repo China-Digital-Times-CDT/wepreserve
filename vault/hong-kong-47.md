@@ -42,7 +42,7 @@ On **19 November 2024** the court handed down sentences ranging from **4 years 2
 | **Joshua Wong** 黃之鋒 | Demosistō co-founder, global protest face | **4 years 8 months** |
 | **Claudia Mo** 毛孟靜 | Former lawmaker and journalist | 4 years 2 months |
 
-In September 2026, **Joshua Wong** — still in prison — **pleaded guilty to a separate national-security charge** of colluding with foreign forces, exposing him to further years behind bars beyond his primary-case term ([CNN](https://www.cnn.com/2026/09/01/china/hong-kong-joshua-wong-second-national-security-charge-intl-hnk)).
+In September 2026, **[[Joshua Wong|joshua-wong]]** — still in prison — **pleaded guilty to a separate national-security charge** of colluding with foreign forces, exposing him to further years behind bars beyond his primary-case term ([CNN](https://www.cnn.com/2026/09/01/china/hong-kong-joshua-wong-second-national-security-charge-intl-hnk)).
 
 ## The appeals
 
