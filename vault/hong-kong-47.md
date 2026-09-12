@@ -6,7 +6,7 @@ updated: 1789128000000
 created: 1789128000000
 ---
 
-Related: [[⚖️ Jimmy Lai|jimmy-lai]] | [[Hong Kong Alliance|sites.hka]] | [[🎵 Glory to Hong Kong|glory-to-hong-kong]] | [[📕 Book Censorship under the NSL|book-censorship]]
+Related: [[⚖️ Jimmy Lai|faces-of-the-crackdown.jimmy-lai]] | [[Hong Kong Alliance|sites.hka]] | [[🎵 Glory to Hong Kong|glory-to-hong-kong]] | [[📕 Book Censorship under the NSL|book-censorship]]
 
 The **Hong Kong 47** (民主派初選案) is the largest single prosecution ever brought under the 2020 **National Security Law** — a case that put nearly the entire front rank of the city's opposition in the dock at once. In the winter of 2021, **47 pro-democracy figures** — former lawmakers, district councillors, unionists, a journalist, students and academics — were charged with **conspiracy to commit subversion** for organising or standing in an **unofficial primary election**. Their alleged crime was to have tried to win a majority in the Legislative Council through the ballot box. By the time the courts were done, **45 of the 47 had been convicted** and jailed for terms of up to **10 years**, in a trial held **without a jury** before judges hand-picked for national-security cases.
 
@@ -42,7 +42,7 @@ On **19 November 2024** the court handed down sentences ranging from **4 years 2
 | **Joshua Wong** 黃之鋒 | Demosistō co-founder, global protest face | **4 years 8 months** |
 | **Claudia Mo** 毛孟靜 | Former lawmaker and journalist | 4 years 2 months |
 
-In September 2026, **[[Joshua Wong|joshua-wong]]** — still in prison — **pleaded guilty to a separate national-security charge** of colluding with foreign forces, exposing him to further years behind bars beyond his primary-case term ([CNN](https://www.cnn.com/2026/09/01/china/hong-kong-joshua-wong-second-national-security-charge-intl-hnk)).
+In September 2026, **[[Joshua Wong|faces-of-the-crackdown.joshua-wong]]** — still in prison — **pleaded guilty to a separate national-security charge** of colluding with foreign forces, exposing him to further years behind bars beyond his primary-case term ([CNN](https://www.cnn.com/2026/09/01/china/hong-kong-joshua-wong-second-national-security-charge-intl-hnk)).
 
 ## The appeals
 
@@ -53,7 +53,7 @@ By early 2026, some of the shorter-sentenced defendants — credited with years 
 
 ## Why it matters
 
-The case criminalised the ordinary machinery of opposition politics — a primary, a manifesto, a plan to win seats and use them. Prosecutors did not allege violence; the "subversion" lay in the **intention to win a legislative majority and use its budget veto**. That theory, now upheld on appeal, marks how far the NSL has redrawn the limits of dissent: the same years that saw the [[Hong Kong Alliance|sites.hka]] convicted for a Tiananmen slogan, [[jimmy-lai]] jailed for his newspaper, and the city's [[bookshops raided|book-censorship]], also saw an entire pro-democracy generation — its scholars, students, unionists and reporters — imprisoned for contesting an election.
+The case criminalised the ordinary machinery of opposition politics — a primary, a manifesto, a plan to win seats and use them. Prosecutors did not allege violence; the "subversion" lay in the **intention to win a legislative majority and use its budget veto**. That theory, now upheld on appeal, marks how far the NSL has redrawn the limits of dissent: the same years that saw the [[Hong Kong Alliance|sites.hka]] convicted for a Tiananmen slogan, [[faces-of-the-crackdown.jimmy-lai]] jailed for his newspaper, and the city's [[bookshops raided|book-censorship]], also saw an entire pro-democracy generation — its scholars, students, unionists and reporters — imprisoned for contesting an election.
 
 ## Sources
 

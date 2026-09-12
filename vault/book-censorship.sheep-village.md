@@ -6,7 +6,7 @@ updated: 1786320000000
 created: 1653379309446
 ---
 
-Related: [[📕 Book Censorship under the NSL|book-censorship]] | [[jimmy-lai]] | [[glory-to-hong-kong]] | [[sites.guhkst]]
+Related: [[📕 Book Censorship under the NSL|book-censorship]] | [[faces-of-the-crackdown.jimmy-lai]] | [[glory-to-hong-kong]] | [[sites.guhkst]]
 
 The "Sheep Village" trilogy (羊村繪本) is a series of three children's books published by the General Union of Hong Kong Speech Therapists that became the center of a landmark sedition case. The books use allegory to depict Hong Kong's political struggles, with sheep representing Hong Kong residents and wolves representing mainland Chinese authorities. It was the first case in which a Hong Kong court declared a book itself a "seditious publication" — the template for the [[wider criminalisation of books and booksellers|book-censorship]] that followed.
 

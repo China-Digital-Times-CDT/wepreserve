@@ -6,10 +6,10 @@ updated: 1789214400000
 created: 1789214400000
 ---
 
-Related: [[🕯️ Tiananmen Vigil|tiananmen-vigil]] | [[⚖️ The Hong Kong 47|hong-kong-47]] | [[⚖️ Jimmy Lai|jimmy-lai]] | [[📕 Book Censorship under the NSL|book-censorship]]
+Related: [[🕯️ Tiananmen Vigil|tiananmen-vigil]] | [[⚖️ The Hong Kong 47|hong-kong-47]] | [[⚖️ Jimmy Lai|faces-of-the-crackdown.jimmy-lai]] | [[📕 Book Censorship under the NSL|book-censorship]]
 
 ![Portraits of six Hong Kong pro-democracy figures jailed or exiled under the National Security Law](/assets/faces-of-the-crackdown.jpg)
-*Six of the many. Top, l–r: **Benny Tai**, **[[Joshua Wong|joshua-wong]]**, **[[Chow Hang-tung|chow-hang-tung]]**; bottom: **Lee Cheuk-yan**, **Nathan Law**, **Agnes Chow**. Sources via Wikimedia Commons — Tai, Wong, Chow Hang-tung and Lee: Voice of America (public domain); Nathan Law: Jindřich Nosek (NoJin), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Agnes Chow: Honcques Laus (CC0). Composite: CC BY-SA 4.0.*
+*Six of the many. Top, l–r: **Benny Tai**, **[[Joshua Wong|faces-of-the-crackdown.joshua-wong]]**, **[[Chow Hang-tung|faces-of-the-crackdown.chow-hang-tung]]**; bottom: **Lee Cheuk-yan**, **Nathan Law**, **Agnes Chow**. Sources via Wikimedia Commons — Tai, Wong, Chow Hang-tung and Lee: Voice of America (public domain); Nathan Law: Jindřich Nosek (NoJin), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Agnes Chow: Honcques Laus (CC0). Composite: CC BY-SA 4.0.*
 
 Behind Hong Kong's national-security statistics are people. By mid-2026, more than **410 people had been arrested** on national-security grounds since the law took effect in June 2020, over **210 charged** and **180-plus convicted or awaiting sentence** — the publishers, students, unionists, lawmakers, journalists and clergy who made up the city's civil society. Some are serving long prison terms; others fled into exile with bounties on their heads; a few were tried and cleared. This page gathers them — a human index to the crackdown documented across this archive, linking the individuals and cases we have profiled in depth.
 
@@ -17,7 +17,7 @@ Behind Hong Kong's national-security statistics are people. By mid-2026, more th
 
 The clearest target was Hong Kong's free media (see [[Book Censorship under the NSL|book-censorship]] for the printed word).
 
-- **[[Jimmy Lai|jimmy-lai]]** (黎智英) — founder of *Apple Daily*; sentenced to **20 years** for foreign collusion and sedition, the harshest NSL term to date. Six *Apple Daily* executives were jailed for 6 years 9 months to 10 years.
+- **[[Jimmy Lai|faces-of-the-crackdown.jimmy-lai]]** (黎智英) — founder of *Apple Daily*; sentenced to **20 years** for foreign collusion and sedition, the harshest NSL term to date. Six *Apple Daily* executives were jailed for 6 years 9 months to 10 years.
 - **Chung Pui-kuen** (鍾沛權) & **Patrick Lam** (林紹桐) — editors of *Stand News*, convicted in the first **sedition** case against a Hong Kong media outlet since the handover; Chung was jailed for **21 months**.
 
 ## The Hong Kong 47
@@ -25,14 +25,14 @@ The clearest target was Hong Kong's free media (see [[Book Censorship under the 
 The largest NSL case — 45 democrats jailed for organising a 2020 opposition primary. Full account and the sentence table on the **[[The Hong Kong 47|hong-kong-47]]** page. Among them:
 
 - **Benny Tai** (戴耀廷) — legal scholar and "mastermind" of the plan: **10 years**, the longest.
-- **[[Joshua Wong|joshua-wong]]** (黃之鋒) — face of the 2014 Umbrella Movement: **4 years 8 months**, and in 2026 he pleaded guilty to a **second** collusion charge carrying up to life.
+- **[[Joshua Wong|faces-of-the-crackdown.joshua-wong]]** (黃之鋒) — face of the 2014 Umbrella Movement: **4 years 8 months**, and in 2026 he pleaded guilty to a **second** collusion charge carrying up to life.
 - **Gwyneth Ho** (何桂藍, journalist, 7 years), **Owen Chow** (鄒家成, 7 years 9 months), **Gordon Ng** (吳政亨, 7 years 3 months), **Leung Kwok-hung** "Long Hair" (梁國雄, 6 years 9 months), **Winnie Yu** (余慧明, unionist, 6 years 9 months) and dozens more.
 
 ## The Tiananmen vigil and the Alliance
 
 The leaders who kept the [[Tiananmen Vigil|tiananmen-vigil]] alive for thirty years, convicted in 2026 of inciting subversion (see [[Hong Kong Alliance|sites.hka]]):
 
-- **[[Chow Hang-tung|chow-hang-tung]]** (鄒幸彤) — barrister and vigil convenor: **7 years 3 months**.
+- **[[Chow Hang-tung|faces-of-the-crackdown.chow-hang-tung]]** (鄒幸彤) — barrister and vigil convenor: **7 years 3 months**.
 - **Lee Cheuk-yan** (李卓人) — Alliance chair and veteran unionist: **7 years**.
 - **Albert Ho** (何俊仁) — founding member and former lawmaker: **5 years 2 months**.
 
@@ -44,7 +44,7 @@ The leaders who kept the [[Tiananmen Vigil|tiananmen-vigil]] alive for thirty ye
 
 Others escaped Hong Kong before they could be jailed — only to be declared fugitives, stripped of passports, and in many cases made the subject of **HK$1 million police bounties**:
 
-- **Nathan Law** (羅冠聰, UK), **Agnes Chow** (周庭, Canada) — [[Joshua Wong|joshua-wong]]'s Demosistō co-founders.
+- **Nathan Law** (羅冠聰, UK), **Agnes Chow** (周庭, Canada) — [[Joshua Wong|faces-of-the-crackdown.joshua-wong]]'s Demosistō co-founders.
 - **Ted Hui** (許智峯, Australia), **Dennis Kwok** (郭榮鏗), **Kevin Yam** (任建峰), **Anna Kwok** (郭鳳儀), **Finn Lau** (劉祖廸), **Simon Cheng** (鄭文傑), **Frances Hui** (許穎婷) and others named on successive wanted lists — pursued for lobbying, advocacy, or organising abroad.
 
 ## Help complete this record

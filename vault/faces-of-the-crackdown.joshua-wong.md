@@ -6,7 +6,7 @@ updated: 1789128000000
 created: 1789128000000
 ---
 
-Related: [[Faces of the Crackdown|faces-of-the-crackdown]] | [[The Hong Kong 47|hong-kong-47]] | [[Hong Kong Alliance|sites.hka]] | [[Chow Hang-tung|chow-hang-tung]] | [[⚖️ Jimmy Lai|jimmy-lai]]
+Related: [[Faces of the Crackdown|faces-of-the-crackdown]] | [[The Hong Kong 47|hong-kong-47]] | [[Hong Kong Alliance|sites.hka]] | [[Chow Hang-tung|faces-of-the-crackdown.chow-hang-tung]] | [[⚖️ Jimmy Lai|faces-of-the-crackdown.jimmy-lai]]
 
 ![Joshua Wong Chi-fung, 2017](/assets/joshua-wong.jpg)
 *Joshua Wong Chi-fung in 2017. Photo: Voice of America, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joshua_Wong_Chi-fung,_2017_(cropped).jpg).*

@@ -6,7 +6,7 @@ updated: 1789128000000
 created: 1789128000000
 ---
 
-Related: [[Hong Kong Alliance|sites.hka]] | [[8964 Museum|extra.8964]] | [[Chow Hang-tung|chow-hang-tung]] | [[🗽 Statues & Monuments|statues]]
+Related: [[Hong Kong Alliance|sites.hka]] | [[8964 Museum|extra.8964]] | [[Chow Hang-tung|faces-of-the-crackdown.chow-hang-tung]] | [[🗽 Statues & Monuments|statues]]
 
 ![Tens of thousands hold candles at the 20th-anniversary June 4th vigil in Victoria Park, 2009](/assets/vigil-victoria-park-2009.jpg)
 *The 20th-anniversary vigil in Victoria Park, 4 June 2009, beneath banners reading **薪火相傳** ("passing the flame") and **六四廿年** ("June 4th, 20 years"). Photo: Kap Leung, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Victoria_Park_Hong_Kong_Tiananmen_Vigil_2009.jpg).*
@@ -33,9 +33,9 @@ The 2019 gathering, weeks before the anti-extradition-bill protests erupted, was
 
 ## The banning (2020–2021)
 
-In **2020**, for the first time in three decades, police **banned** the vigil, citing Covid-19 restrictions — days before Beijing imposed the **National Security Law** on 30 June. Thousands **defied the ban anyway**, streaming into Victoria Park to light candles; some two dozen activists — among them [[Joshua Wong|joshua-wong]] and Alliance chair **Lee Cheuk-yan** — were later prosecuted and jailed for taking part in or inciting the "unauthorised assembly."
+In **2020**, for the first time in three decades, police **banned** the vigil, citing Covid-19 restrictions — days before Beijing imposed the **National Security Law** on 30 June. Thousands **defied the ban anyway**, streaming into Victoria Park to light candles; some two dozen activists — among them [[Joshua Wong|faces-of-the-crackdown.joshua-wong]] and Alliance chair **Lee Cheuk-yan** — were later prosecuted and jailed for taking part in or inciting the "unauthorised assembly."
 
-In **2021** the ban returned, now backed by the NSL. Police **sealed off Victoria Park** behind barriers and deployed thousands of officers to keep mourners out. On the morning of 4 June, Alliance vice-chair **[[Chow Hang-tung|chow-hang-tung]]** was **arrested** for promoting the banned vigil. That September, under mounting national-security pressure, the **Alliance voted to disband**; its leaders were remanded in custody, its assets frozen, and its [[8964 Museum|extra.8964]] driven online and overseas.
+In **2021** the ban returned, now backed by the NSL. Police **sealed off Victoria Park** behind barriers and deployed thousands of officers to keep mourners out. On the morning of 4 June, Alliance vice-chair **[[Chow Hang-tung|faces-of-the-crackdown.chow-hang-tung]]** was **arrested** for promoting the banned vigil. That September, under mounting national-security pressure, the **Alliance voted to disband**; its leaders were remanded in custody, its assets frozen, and its [[8964 Museum|extra.8964]] driven online and overseas.
 
 ## Erasure (2022–)
 
@@ -48,7 +48,7 @@ Yet the commemoration did not die — it **scattered**. As Victoria Park fell si
 
 ## The keepers of the flame
 
-The vigil's disappearance is inseparable from the fate of the people who ran it. In **2026** the [[Hong Kong Alliance|sites.hka]] and its leaders were convicted and jailed for **incitement to subversion** — **[[Chow Hang-tung|chow-hang-tung]]** (7 years 3 months), **Lee Cheuk-yan** (7 years) and founding member **Albert Ho** (5 years 2 months) — the state treating three decades of peaceful remembrance as a crime against itself. The Alliance's Tiananmen relics were scattered too: its **[[Goddess of Democracy and Pillar of Shame|statues]]** were removed and seized, and its museum survives only online, from overseas (the [[8964 Museum|extra.8964]]).
+The vigil's disappearance is inseparable from the fate of the people who ran it. In **2026** the [[Hong Kong Alliance|sites.hka]] and its leaders were convicted and jailed for **incitement to subversion** — **[[Chow Hang-tung|faces-of-the-crackdown.chow-hang-tung]]** (7 years 3 months), **Lee Cheuk-yan** (7 years) and founding member **Albert Ho** (5 years 2 months) — the state treating three decades of peaceful remembrance as a crime against itself. The Alliance's Tiananmen relics were scattered too: its **[[Goddess of Democracy and Pillar of Shame|statues]]** were removed and seized, and its museum survives only online, from overseas (the [[8964 Museum|extra.8964]]).
 
 ## Help preserve the vigil — a call for submissions
 

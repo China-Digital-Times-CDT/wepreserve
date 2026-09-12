@@ -6,7 +6,7 @@ updated: 1786320000000
 created: 1650946728735
 ---
 
-Related: [[hong-kong-fire-2025]] | [[jimmy-lai]] | [[sites.appledaily.publications]]
+Related: [[hong-kong-fire-2025]] | [[faces-of-the-crackdown.jimmy-lai]] | [[sites.appledaily.publications]]
 
 > "Glory to Hong Kong" is a march that was composed and written by a musician under the pseudonym "Thomas dgx yhl", with the contribution of a group of Hongkonger netizens from the online forum LIHKG during the 2019–2020 Hong Kong protests. It was initially written in Cantonese and was eventually developed into various language versions. It has been adopted as the anthem of these protests, with some considering it the "national anthem of Hong Kong". — Wikipedia
 
