@@ -6,7 +6,7 @@ updated: 1789128000000
 created: 1739577600000
 ---
 
-Related: [[sites.appledaily]] | [[The Hong Kong 47|hong-kong-47]] | [[Hong Kong Alliance|sites.hka]] | [[hong-kong-fire-2025]]
+Related: [[sites.appledaily]] | [[Faces of the Crackdown|faces-of-the-crackdown]] | [[The Hong Kong 47|hong-kong-47]] | [[Hong Kong Alliance|sites.hka]] | [[hong-kong-fire-2025]]
 
 ![Jimmy Lai](/assets/jimmy-lai-12739.avif)
 _Jimmy Lai in an interview with AFP on June 16, 2020, at his company's premises in Hong Kong. (Getty Images / AFP / Anthony Wallace)_

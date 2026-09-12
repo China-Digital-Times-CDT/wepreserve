@@ -6,7 +6,7 @@ updated: 1789128000000
 created: 1789128000000
 ---
 
-Related: [[🕯️ Tiananmen Vigil|tiananmen-vigil]] | [[Hong Kong Alliance|sites.hka]] | [[8964 Museum|extra.8964]] | [[The Hong Kong 47|hong-kong-47]] | [[⚖️ Jimmy Lai|jimmy-lai]]
+Related: [[🕯️ Tiananmen Vigil|tiananmen-vigil]] | [[Faces of the Crackdown|faces-of-the-crackdown]] | [[Hong Kong Alliance|sites.hka]] | [[8964 Museum|extra.8964]] | [[The Hong Kong 47|hong-kong-47]] | [[⚖️ Jimmy Lai|jimmy-lai]]
 
 ![Chow Hang-tung wearing a "never forget" headband at a June 4th commemoration](/assets/chow-hang-tung.jpg)
 *Chow Hang-tung at a June 4th commemoration, wearing a **"毋忘"** ("never forget") headband. Photo: Iris Tong / Voice of America, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tonyee_Chow_Hang-tung_(cropped).jpg).*
