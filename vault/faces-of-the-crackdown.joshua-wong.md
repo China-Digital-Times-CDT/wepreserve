@@ -48,3 +48,7 @@ Wong's activism made him one of the movement's most decorated figures abroad —
 - [RFA: Imprisoned activist Joshua Wong pleads guilty to 'foreign collusion' (2 Sept 2026)](https://www.rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/)
 - [HKFP: Wong charged with conspiring to collude with foreign forces (6 June 2025)](https://hongkongfp.com/2025/06/06/breaking-jailed-hong-kong-activist-joshua-wong-charged-with-conspiring-to-collude-with-foreign-forces/)
 - [HKFP: Benny Tai, Joshua Wong among 45 jailed in the Hong Kong 47 case (19 Nov 2024)](https://hongkongfp.com/2024/11/19/breaking-hong-kong-pro-democracy-activist-benny-tai-jailed-10-years-over-subversion-in-landmark-national-security-case/)
+
+**香港中文報道 (Chinese-language HK coverage):**
+
+- [法庭線 The Witness：《黃之鋒認串謀勾結 官押後判刑》](https://thewitnesshk.com/%E5%AF%A6%E6%99%82%E6%9B%B4%E6%96%B0-%E9%BB%83%E4%B9%8B%E9%8B%92%E8%A2%AB%E6%8E%A7%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E4%BB%8A%E7%AD%94%E8%BE%AF%E5%88%A4%E5%88%91-%E9%80%BE30%E4%BA%BA%E9%80%9A/) — 法庭線本身亦為本檔案保存的對象：[[法庭線|sites.thewitness]]

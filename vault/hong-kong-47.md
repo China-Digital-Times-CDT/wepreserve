@@ -63,3 +63,7 @@ The case criminalised the ordinary machinery of opposition politics — a primar
 - [HKFP: Court rejects all 12 appeals (23 Feb 2026)](https://hongkongfp.com/2026/02/23/breaking-court-rejects-appeals-of-all-12-activists-in-landmark-hong-kong-47-national-security-case/)
 - [HKFP: 11 democrats granted leave to appeal to top court (10 Aug 2026)](https://hongkongfp.com/2026/08/10/hong-kong-47-11-jailed-democrats-granted-permission-to-appeal-to-top-court/)
 - [CNN: Joshua Wong pleads guilty to second national security charge (1 Sep 2026)](https://www.cnn.com/2026/09/01/china/hong-kong-joshua-wong-second-national-security-charge-intl-hnk)
+
+**香港中文報道 (Chinese-language HK coverage):**
+
+- [法庭線 The Witness：《47人案 — 判刑專頁》](https://thewitnesshk.com/47%E4%BA%BA%E6%A1%88-%E5%88%A4%E5%88%91%E5%B0%88%E9%A0%81/) — 法庭線本身亦為本檔案保存的對象：[[法庭線|sites.thewitness]]

@@ -45,3 +45,8 @@ As her prosecutions mounted, Chow became an internationally recognised symbol of
 - [HKFP: Tiananmen vigil activists convicted (21 Aug 2026)](https://hongkongfp.com/2026/08/21/breaking-hong-kong-tiananmen-vigil-activists-convicted-under-nat-security-law-face-up-to-10-years-prison/)
 - [RFA: Court verdict aims to erase Tiananmen memory (25 Aug 2026)](https://www.rfa.org/english/china/2026/08/25/hkaspdmc-hong-kong-china-subversion/)
 - [Al Jazeera: Hong Kong court hands stiff jail sentences to Tiananmen vigil activists (11 Sept 2026)](https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists)
+
+**香港中文報道 (Chinese-language HK coverage):**
+
+- [法庭線 The Witness：《支聯會被指煽動顛覆案 — 報道一覽》](https://thewitnesshk.com/%E6%94%AF%E8%81%AF%E6%9C%83%E8%A2%AB%E6%8C%87%E7%85%BD%E5%8B%95%E9%A1%9B%E8%A6%86%E6%A1%88-%E6%B3%95%E5%BA%AD%E7%B7%9A%E5%A0%B1%E9%81%93%E4%B8%80%E8%A6%BD/) — 法庭線本身亦為本檔案保存的對象：[[法庭線|sites.thewitness]]
+- [端傳媒：《支聯會煽顛案判刑理由速讀》](https://theinitium.com/20260911-hongkong-64-hkaspdmc-trial-sentence/)
