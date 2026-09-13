@@ -2,7 +2,7 @@
 id: 82f12j06kndkno9ujbxvau2g
 title: "🕯️ Tiananmen Vigil|維園六四燭光集會"
 desc: For thirty years Hong Kong's Victoria Park candlelight vigil was the largest June 4th commemoration on Chinese soil — until it was banned, its organisers jailed, and its site handed to a patriotic carnival. This page preserves its history and calls for its record.
-updated: 1789214400000
+updated: 1789300800000
 created: 1789128000000
 ---
 
@@ -21,15 +21,45 @@ As the 1989 democracy movement swelled in Beijing, Hong Kong — then a British 
 
 ## Thirty years of candlelight
 
-Through the 1990s and 2000s the vigil endured as the emotional centre of Hong Kong's democracy movement, its crowds swelling on landmark anniversaries. Attendance figures were always contested — organisers counting high, police low — but the scale was unmistakable:
+Through the 1990s and 2000s the vigil endured as the emotional centre of Hong Kong's democracy movement, its crowds swelling on landmark anniversaries. **Two counts exist for most years and differ sharply** — the Alliance counted people entering the park; police reported peak attendance — so this ledger sets them side by side rather than choosing between them, alongside each year's theme.
 
-- **1990** — first anniversary vigil: ~**150,000**
-- **2009** (20th anniversary): organisers **150,000**; police 62,800
-- **2012**: ~**180,000**, swelled by anger over the death of dissident Li Wangyang
-- **2014** (25th anniversary): ~**180,000**, on the eve of the Umbrella Movement
-- **2019** (30th anniversary): **180,000+** — the **last** vigil ever held in the park
+| Year | 週年 | 主題 (theme) | 大會 Organiser | 警方 Police |
+|---|---|---|--:|--:|
+| 1990 | 1st | 釋放民運人士、平反八九民運、結束一黨專政、建設民主中國 | 150,000 | 80,000 |
+| 1991 | 2nd | 釋放民運人士 | 100,000 | 60,000 |
+| 1992 | 3rd | 釋放民運人士 | 80,000 | 28,000 |
+| 1993 | 4th | 釋放民運人士 | 40,000 | 12,000 |
+| 1994 | 5th | 我會來 | 40,000 | 12,000 |
+| 1995 | 6th | 平反六四 | 35,000 | 16,000 |
+| 1996 | 7th | 跨越九七 | 45,000 | 16,000 |
+| 1997 | 8th | 戰鬥到底 | 55,000 | — |
+| 1998 | 9th | 平反六四 | 40,000 | 16,000 |
+| 1999 | 10th | 毋忘六四十周年 邁向民主新世紀 | 70,000 | — |
+| 2000 | 11th | 薪火相傳 | 45,000 | — |
+| 2001 | 12th | 教育下一代 接好民主棒 | 48,000 | — |
+| 2002 | 13th | 年青一代 齊來參與 認識歷史 毋忘六四 | 45,000 | — |
+| 2003 | 14th | 毋忘六四 反對廿三 | 50,000 | — |
+| 2004 | 15th | 平反六四 還政於民 | 82,000 | 48,000 |
+| 2005 | 16th | 以史為鑑 平反六四 | 45,000 | 22,000 |
+| 2006 | 17th | 平反六四 支持維權 | 44,000 | 19,000 |
+| 2007 | 18th | 平反六四 支持維權 | 55,000 | 27,000 |
+| 2008 | 19th | 同一世界 同一人權 同一夢想 平反六四 | 48,000 | 18,000 |
+| 2009 | 20th | 毋忘六四 繼承英烈志 薪火相傳 接好民主棒 | 150,000 | 62,800 |
+| 2010 | 21st | 平反六四 堅持到底…釋放劉曉波 支持零八憲章 | 150,000 | 113,000 |
+| 2011 | 22nd | 平反六四 革命尚未成功 建設民主 同志仍須努力 | 150,000 | 77,000 |
+| 2012 | 23rd | 毋忘六四傳真相 民主潮流不可擋 | 180,000 | 85,000 |
+| 2013 | 24th | 平反六四 永不放棄 | 150,000 | 54,000 |
+| 2014 | 25th | 平反六四 戰鬥到底 | 180,000 | 99,500 |
+| 2015 | 26th | 全民團結爭民主 平反六四一起撐 | 135,000 | 46,600 |
+| 2016 | 27th | 平反六四 停止濫捕 結束專政 力爭民主 | 125,000 | 21,800 |
+| 2017 | 28th | 平反六四 結束專政 | 110,000 | 18,000 |
+| 2018 | 29th | 悼六四 抗威權 | 115,000 | 17,000 |
+| 2019 | 30th | 人民不會忘記——平反六四！公義必勝！ | 180,000 | 37,000 |
+| 2020 | 31st | 真相・自由・生命——抗爭 | *banned* | ~20,000 † |
 
-The 2019 gathering, weeks before the anti-extradition-bill protests erupted, was among the largest ever. No one there knew it would be the final one.
+*Organiser figures count people entering the park; police figures are peak attendance. "—" = none released (police gave none for 1997 and 1999–2003). **†** 2020 was banned — the ~20,000 is a court's later estimate of the crowd that entered anyway. Compiled from the yearly table in [中文維基百科《維園六四燭光晚會》](https://zh.wikipedia.org/wiki/維園六四燭光晚會), which cites contemporaneous reports (BBC中文, RTHK, on.cc, TVB, 眾新聞, RFA); English renderings of the themes are this archive's own, except 2017's, which is the Alliance's.*
+
+The **2009 (20th)** vigil began six straight years above 150,000; the **2012, 2014 and 2019** gatherings, each near 180,000 by the organiser's count, were the largest. The 2019 gathering — the 30th anniversary, weeks before the anti-extradition-bill protests erupted — was the **last vigil ever held in the park**. No one there knew it would be the final one.
 
 ## The banning (2020–2021)
 
@@ -44,7 +74,39 @@ In **2021** the ban returned, now backed by the NSL. Police **sealed off Victori
 
 From **2022** the erasure became deliberate. The football pitches where the candles once burned were handed each June to a **pro-Beijing "Hometown Market" carnival**, filling the site with food stalls and patriotic displays on the anniversary. Heavy police patrols swept Causeway Bay; officers stopped, searched and **detained people merely for mourning** — carrying an electric candle, holding flowers, wearing a **Goddess of Democracy** T-shirt, or displaying the number **8964**. Performance artists were escorted away; the owner of a car with a "US 8964" plate shipped it abroad after harassment.
 
+Year by year, the anniversary became something to be policed rather than kept:
+
+- **2022** — the first year the site itself was sealed: the Leisure & Cultural Services Department banned the gathering and closed Victoria Park. An 80-year-old man was arrested that day, and AFP saw at least six people taken away ([AFP／Malay Mail](https://www.malaymail.com/news/world/2022/06/04/hong-kong-police-make-multiple-arrests-as-tiananmen-gatherings-banned/10678)).
+- **2023** — police detained **23 people aged 20–74** near the park, among them a woman holding flowers and an elderly man standing alone with a candle ([Al Jazeera](https://www.aljazeera.com/news/2023/6/5/dozens-arrested-in-hongkong-on-tiananmen-crackdown-anniversary)).
+- **2024** — the carnival returned for a second year; police arrested four around Causeway Bay, one under the new **Safeguarding National Security Ordinance** for "seditious intention" ([AFP／Malay Mail](https://www.malaymail.com/news/world/2024/06/05/four-arrested-in-hong-kong-on-tiananmen-anniversary-say-police/138141) · [HKFP](https://hongkongfp.com/2024/06/04/in-pictures-patriotic-carnival-takes-place-at-hong-kongs-victoria-park-on-tiananmen-crackdown-anniversary/)).
+- **2025** — police arrested two and took away ten more, aged **15–69**, including performance artist **Chan Mei-tung**, and deployed an **armoured vehicle** in Causeway Bay ([HKFP](https://hongkongfp.com/2025/06/05/2-arrested-10-taken-away-by-hong-kong-police-on-tiananmen-crackdown-anniversary/)).
+- **2026** — the food carnival occupied the park for a fourth year; ten weeks later, on 21 August, the Alliance's leaders were convicted of inciting subversion ([HKFP](https://hongkongfp.com/2026/06/04/in-pictures-activists-chant-buddhist-mantra-hold-up-yellow-flower-on-tiananmen-crackdown-anniversary/) · [Al Jazeera](https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges)).
+
 Yet the commemoration did not die — it **scattered**. As Victoria Park fell silent, June 4th vigils multiplied across the diaspora: in **2025**, more than **30 events in 20 cities** — from Taipei and London to Vancouver and Washington — kept the candles lit beyond Beijing's reach. And from behind bars, Chow Hang-tung marked each anniversary with a **hunger strike**.
+
+## The vigil in photographs
+
+A record of the vigil across its years, in freely-licensed photographs preserved in this archive.
+
+![A sea of candles fills Victoria Park at night, 2005](/assets/vigil/2005.jpg)
+*2005 (16th) — Photo: laihiu / LAI Ryanne, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2005.6.4_Hong_Kong_Event_Remembering_the_June_4th_Massacre_in_Beijing,_China_%E9%A6%99%E6%B8%AF%E7%B6%AD%E5%9C%92%E5%85%AD%E5%9B%9B%E6%99%9A%E6%9C%83.jpg).*
+
+![The vigil stage and candlelit crowd at night, 2008](/assets/vigil/2008.jpg)
+*2008 (19th) — Photo: Spacecry, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2008june4.JPG).*
+
+![A man raising a candle in the crowd, 2012](/assets/vigil/2012.jpg)
+*2012 (23rd) — Photo: Voice of America, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hong_Kong_Alliance_from_VOA.jpg).*
+
+![Stage banners reading 平反六四 戰鬥到底 above the crowd, 2014](/assets/vigil/2014.jpg)
+*2014 (25th) — Photo: Voice of America, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014_Hong_Kong_June_4th_Candlelight_Vigil_(01).jpg).*
+
+![A sea of candles across the pitches at night, 2015](/assets/vigil/2015.jpg)
+*2015 (26th) — Photo: Exploringlife, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Demonstration_on_the_26th_anniversary_of_the_1989_Tiananmen_Square_protests_held_in_Hong_Kong).*
+
+![A packed Victoria Park with candles on the 30th anniversary, 2019](/assets/vigil/2019.jpg)
+*2019 (30th) — the last vigil held in the park. Photo: だ＊ぜ, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:30th_Anniversary_Memorial_of_Tinanmen_Square_Protests_1.jpg).*
+
+More freely-licensed vigil photographs are preserved in this archive, each credited to its photographer on Wikimedia Commons: [2007](https://commons.wikimedia.org/wiki/File:Candlelight_Vigil_for_June_4_Massacre_2007_-_001.JPG) (Simon Lo, CC BY-SA 2.5), [2009](https://commons.wikimedia.org/wiki/File:20thanniversaryJune4thHKprotest_pic1.jpg) (Clarence, CC BY 2.0), [2010](https://commons.wikimedia.org/wiki/Category:Demonstration_on_the_21st_anniversary_of_the_1989_Tiananmen_Square_protests_held_in_Hong_Kong) (laihiu, CC BY 2.0), [2011](https://commons.wikimedia.org/wiki/File:22ndanniversaryJune4thHKprotest_pic1.jpg) (Melanie Ko, CC BY 2.0), [2013](https://commons.wikimedia.org/wiki/Category:Demonstration_on_the_24th_anniversary_of_the_1989_Tiananmen_Square_protests_held_in_Hong_Kong) (neverbutterfly, CC BY 2.0), and — after the ban — [2020](https://commons.wikimedia.org/wiki/Category:Demonstration_on_the_31st_anniversary_of_the_1989_Tiananmen_Square_protests_held_in_Hong_Kong) (people entering despite the ban; だ＊ぜ, CC BY-SA 4.0), [2021](https://commons.wikimedia.org/wiki/File:Euus2_(51225032153).jpg) (electronic candles in the US Consulate windows; Studio Incendo, CC BY 2.0) and [2023](https://commons.wikimedia.org/wiki/File:Candlelight_vigil_at_US_Consulate_in_Hong_Kong_marked_the_34th_anniversary_of_the_Tiananmen_Square_protest.jpg) (US Consulate General, public domain).
 
 ## The keepers of the flame
 
@@ -75,3 +137,4 @@ If you have material to share, or can help preserve it, please see **[[Participa
 **香港中文報道 (Chinese-language coverage):**
 
 - [加拿大國際廣播電台 RCI 中文：《報道 — 當維園燭光晚會不再》（Donna Chan，2026年9月12日）](https://ici.radio-canada.ca/rci/zh-hant/新闻/2283016/报道-当维园烛光晚会不再) — 海外港人如何延續六四悼念的口述記錄
+- [中文維基百科：《維園六四燭光晚會》](https://zh.wikipedia.org/wiki/維園六四燭光晚會) — 歷年集會的人數、主題與籌款簡表（引 BBC中文、RTHK、on.cc、TVB、眾新聞、RFA 等當年報道），本頁的年度數據即據此整理
