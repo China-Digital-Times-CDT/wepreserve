@@ -23,39 +23,39 @@ As the 1989 democracy movement swelled in Beijing, Hong Kong — then a British 
 
 Through the 1990s and 2000s the vigil endured as the emotional centre of Hong Kong's democracy movement, its crowds swelling on landmark anniversaries. **Two counts exist for most years and differ sharply** — the Alliance counted people entering the park; police reported peak attendance — so this ledger sets them side by side rather than choosing between them, alongside each year's theme.
 
-| Year | 週年 | 主題 (theme) | 大會 Organiser | 警方 Police |
+| Year | 週年 | 主題 · Theme | 大會 Organiser | 警方 Police |
 |---|---|---|--:|--:|
-| 1990 | 1st | 釋放民運人士、平反八九民運、結束一黨專政、建設民主中國 | 150,000 | 80,000 |
-| 1991 | 2nd | 釋放民運人士 | 100,000 | 60,000 |
-| 1992 | 3rd | 釋放民運人士 | 80,000 | 28,000 |
-| 1993 | 4th | 釋放民運人士 | 40,000 | 12,000 |
-| 1994 | 5th | 我會來 | 40,000 | 12,000 |
-| 1995 | 6th | 平反六四 | 35,000 | 16,000 |
-| 1996 | 7th | 跨越九七 | 45,000 | 16,000 |
-| 1997 | 8th | 戰鬥到底 | 55,000 | — |
-| 1998 | 9th | 平反六四 | 40,000 | 16,000 |
-| 1999 | 10th | 毋忘六四十周年 邁向民主新世紀 | 70,000 | — |
-| 2000 | 11th | 薪火相傳 | 45,000 | — |
-| 2001 | 12th | 教育下一代 接好民主棒 | 48,000 | — |
-| 2002 | 13th | 年青一代 齊來參與 認識歷史 毋忘六四 | 45,000 | — |
-| 2003 | 14th | 毋忘六四 反對廿三 | 50,000 | — |
-| 2004 | 15th | 平反六四 還政於民 | 82,000 | 48,000 |
-| 2005 | 16th | 以史為鑑 平反六四 | 45,000 | 22,000 |
-| 2006 | 17th | 平反六四 支持維權 | 44,000 | 19,000 |
-| 2007 | 18th | 平反六四 支持維權 | 55,000 | 27,000 |
-| 2008 | 19th | 同一世界 同一人權 同一夢想 平反六四 | 48,000 | 18,000 |
-| 2009 | 20th | 毋忘六四 繼承英烈志 薪火相傳 接好民主棒 | 150,000 | 62,800 |
-| 2010 | 21st | 平反六四 堅持到底…釋放劉曉波 支持零八憲章 | 150,000 | 113,000 |
-| 2011 | 22nd | 平反六四 革命尚未成功 建設民主 同志仍須努力 | 150,000 | 77,000 |
-| 2012 | 23rd | 毋忘六四傳真相 民主潮流不可擋 | 180,000 | 85,000 |
-| 2013 | 24th | 平反六四 永不放棄 | 150,000 | 54,000 |
-| 2014 | 25th | 平反六四 戰鬥到底 | 180,000 | 99,500 |
-| 2015 | 26th | 全民團結爭民主 平反六四一起撐 | 135,000 | 46,600 |
-| 2016 | 27th | 平反六四 停止濫捕 結束專政 力爭民主 | 125,000 | 21,800 |
-| 2017 | 28th | 平反六四 結束專政 | 110,000 | 18,000 |
-| 2018 | 29th | 悼六四 抗威權 | 115,000 | 17,000 |
-| 2019 | 30th | 人民不會忘記——平反六四！公義必勝！ | 180,000 | 37,000 |
-| 2020 | 31st | 真相・自由・生命——抗爭 | *banned* | ~20,000 † |
+| 1990 | 1st | 釋放民運人士、平反八九民運、結束一黨專政、建設民主中國<br>*Release the activists; vindicate the 1989 movement; end one-party rule; build a democratic China* | 150,000 | 80,000 |
+| 1991 | 2nd | 釋放民運人士<br>*Release the democracy activists* | 100,000 | 60,000 |
+| 1992 | 3rd | 釋放民運人士<br>*Release the democracy activists* | 80,000 | 28,000 |
+| 1993 | 4th | 釋放民運人士<br>*Release the democracy activists* | 40,000 | 12,000 |
+| 1994 | 5th | 我會來<br>*"I will come"* | 40,000 | 12,000 |
+| 1995 | 6th | 平反六四<br>*Vindicate June Fourth* | 35,000 | 16,000 |
+| 1996 | 7th | 跨越九七<br>*Crossing 1997* | 45,000 | 16,000 |
+| 1997 | 8th | 戰鬥到底<br>*Fight to the end* | 55,000 | — |
+| 1998 | 9th | 平反六四<br>*Vindicate June Fourth* | 40,000 | 16,000 |
+| 1999 | 10th | 毋忘六四十周年 邁向民主新世紀<br>*Never forget June Fourth at ten years; toward a democratic new century* | 70,000 | — |
+| 2000 | 11th | 薪火相傳<br>*Pass on the flame* | 45,000 | — |
+| 2001 | 12th | 教育下一代 接好民主棒<br>*Educate the next generation; take up the baton of democracy* | 48,000 | — |
+| 2002 | 13th | 年青一代 齊來參與 認識歷史 毋忘六四<br>*Young people, take part; learn the history; never forget June Fourth* | 45,000 | — |
+| 2003 | 14th | 毋忘六四 反對廿三<br>*Never forget June Fourth; oppose Article 23* | 50,000 | — |
+| 2004 | 15th | 平反六四 還政於民<br>*Vindicate June Fourth; return power to the people* | 82,000 | 48,000 |
+| 2005 | 16th | 以史為鑑 平反六四<br>*Learn from history; vindicate June Fourth* | 45,000 | 22,000 |
+| 2006 | 17th | 平反六四 支持維權<br>*Vindicate June Fourth; support rights defenders* | 44,000 | 19,000 |
+| 2007 | 18th | 平反六四 支持維權<br>*Vindicate June Fourth; support rights defenders* | 55,000 | 27,000 |
+| 2008 | 19th | 同一世界 同一人權 同一夢想 平反六四<br>*One world, one human rights, one dream; vindicate June Fourth* | 48,000 | 18,000 |
+| 2009 | 20th | 毋忘六四 繼承英烈志 薪火相傳 接好民主棒<br>*Never forget June Fourth; carry on the martyrs' will; pass on the flame; take up the baton of democracy* | 150,000 | 62,800 |
+| 2010 | 21st | 平反六四 堅持到底…釋放劉曉波 支持零八憲章<br>*Vindicate June Fourth, persist to the end; … free Liu Xiaobo, support Charter 08* | 150,000 | 113,000 |
+| 2011 | 22nd | 平反六四 革命尚未成功 建設民主 同志仍須努力<br>*Vindicate June Fourth; the revolution is not yet won, comrades must still strive to build democracy* | 150,000 | 77,000 |
+| 2012 | 23rd | 毋忘六四傳真相 民主潮流不可擋<br>*Never forget June Fourth, tell the truth; the tide of democracy cannot be stopped* | 180,000 | 85,000 |
+| 2013 | 24th | 平反六四 永不放棄<br>*Vindicate June Fourth; never give up* | 150,000 | 54,000 |
+| 2014 | 25th | 平反六四 戰鬥到底<br>*Vindicate June Fourth; fight to the end* | 180,000 | 99,500 |
+| 2015 | 26th | 全民團結爭民主 平反六四一起撐<br>*All united for democracy; stand together to vindicate June Fourth* | 135,000 | 46,600 |
+| 2016 | 27th | 平反六四 停止濫捕 結束專政 力爭民主<br>*Vindicate June Fourth; stop arbitrary arrests; end dictatorship; strive for democracy* | 125,000 | 21,800 |
+| 2017 | 28th | 平反六四 結束專政<br>*Vindicate June 4, End Dictatorial Rule* (official) | 110,000 | 18,000 |
+| 2018 | 29th | 悼六四 抗威權<br>*Mourn June Fourth; resist authoritarianism* | 115,000 | 17,000 |
+| 2019 | 30th | 人民不會忘記——平反六四！公義必勝！<br>*The people will not forget — vindicate June Fourth! Justice will prevail!* | 180,000 | 37,000 |
+| 2020 | 31st | 真相・自由・生命——抗爭<br>*Truth. Freedom. Life — resist* | *banned* | ~20,000 † |
 
 *Organiser figures count people entering the park; police figures are peak attendance. "—" = none released (police gave none for 1997 and 1999–2003). **†** 2020 was banned — the ~20,000 is a court's later estimate of the crowd that entered anyway. Compiled from the yearly table in [中文維基百科《維園六四燭光晚會》](https://zh.wikipedia.org/wiki/維園六四燭光晚會), which cites contemporaneous reports (BBC中文, RTHK, on.cc, TVB, 眾新聞, RFA); English renderings of the themes are this archive's own, except 2017's, which is the Alliance's.*
 
