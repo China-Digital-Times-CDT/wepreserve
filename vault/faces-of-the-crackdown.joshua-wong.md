@@ -2,7 +2,7 @@
 id: k96jbfw1qtqp2c3ip7njw988
 title: "⚖️ Joshua Wong|黃之鋒"
 desc: The teenage face of Hong Kong's 2014 Umbrella Movement turned serial national-security defendant — jailed in the Hong Kong 47 case and, in 2026, pleading guilty to a second charge that could mean life.
-updated: 1789128000000
+updated: 1789646400000
 created: 1789128000000
 ---
 
@@ -37,6 +37,12 @@ On **6 June 2025**, while already in prison, Wong was hit with a **fresh charge*
 
 On **2 September 2026** Wong **pleaded guilty** to the charge at the High Court. The offence carries **three to ten years**, rising to **up to life imprisonment** if the court finds it "of a grave nature" — meaning the 29-year-old, rather than walking free in 2027, could face many more years behind bars ([HKFP](https://hongkongfp.com/2026/09/02/breaking-jailed-hong-kong-pro-democracy-campaigner-joshua-wong-pleads-guilty-to-foreign-collusion-charge/) · [Al Jazeera](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case) · [RFA](https://www.rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/)). Sentencing is expected later.
 
+## Even the film is under review (2026)
+
+Wong's story reached a global audience through **_Joshua: Teenager vs. Superpower_** (2017), the 78-minute Netflix documentary by American director **Joe Piscatella** that follows his Scholarism years and features **Nathan Law** and **Agnes Chow**. Nearly a decade on, the film itself became a target. On **15 September 2026**, Hong Kong's **Security Bureau** said it was "**taking follow-up action**" over the documentary — still streamable in the city, rated 13+ — stressing that "**all films broadcast in the city must meet Hong Kong law**," including the National Security Law and the 2024 Safeguarding National Security Ordinance. Whether any act amounts to a crime, it said, "depends on the facts and circumstances of each case" and "cannot be judged in the abstract"; if violations were found, "law-enforcement agencies will act according to the law" ([Dim Sum Daily](https://www.dimsumdaily.hk/security-bureau-reviewing-netflix-film-on-joshua-wong/)).
+
+Back in 2020, as the NSL took effect, Netflix had signalled it would not "**proactively**" pull the film and would act only on a formal government takedown request ([HKFP](https://hongkongfp.com/2020/07/10/security-law-netflix-will-not-proactively-remove-joshua-wong-documentary-source/)). The review extends the city's censorship drive — already felt by its [[bookshops|book-censorship]] and the [[Tiananmen vigil|tiananmen-vigil]] — to an international streaming platform, and raised the prospect that merely hosting a film about a jailed activist could be cast as a security offence.
+
 ## Recognition
 
 Wong's activism made him one of the movement's most decorated figures abroad — *Time*'s most-influential-teens list (2014), *Fortune*'s "World's Greatest Leaders" (2015), a **2018 Nobel Peace Prize nomination**, and the co-author of *Unfree Speech: The Threat to Global Democracy and Why We Must Act, Now* (2020), with a foreword by last colonial governor **Chris Patten** and an introduction by artist **Ai Weiwei**. To Beijing he became a symbol of "foreign-backed" subversion; to his supporters, of a generation jailed for asking to choose its own government.
@@ -48,6 +54,8 @@ Wong's activism made him one of the movement's most decorated figures abroad —
 - [RFA: Imprisoned activist Joshua Wong pleads guilty to 'foreign collusion' (2 Sept 2026)](https://www.rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/)
 - [HKFP: Wong charged with conspiring to collude with foreign forces (6 June 2025)](https://hongkongfp.com/2025/06/06/breaking-jailed-hong-kong-activist-joshua-wong-charged-with-conspiring-to-collude-with-foreign-forces/)
 - [HKFP: Benny Tai, Joshua Wong among 45 jailed in the Hong Kong 47 case (19 Nov 2024)](https://hongkongfp.com/2024/11/19/breaking-hong-kong-pro-democracy-activist-benny-tai-jailed-10-years-over-subversion-in-landmark-national-security-case/)
+- [Dim Sum Daily: Security Bureau reviewing Netflix film on Joshua Wong (15 Sept 2026)](https://www.dimsumdaily.hk/security-bureau-reviewing-netflix-film-on-joshua-wong/)
+- [HKFP: Netflix will not 'proactively' remove Joshua Wong documentary (10 July 2020)](https://hongkongfp.com/2020/07/10/security-law-netflix-will-not-proactively-remove-joshua-wong-documentary-source/)
 
 **香港中文報道 (Chinese-language HK coverage):**
 
