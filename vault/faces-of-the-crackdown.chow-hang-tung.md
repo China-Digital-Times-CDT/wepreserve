@@ -2,7 +2,7 @@
 id: boy6xjxp7l4wjtdginmrkjuc
 title: "⚖️ Chow Hang-tung|鄒幸彤"
 desc: Barrister and Hong Kong Alliance vice-chair who kept the Tiananmen vigil alive after it was banned — jailed across a string of national-security and assembly cases, and in 2026 for inciting subversion.
-updated: 1789128000000
+updated: 1789732800000
 created: 1789128000000
 ---
 
@@ -36,7 +36,7 @@ Chow has **repeatedly represented herself**, turning her hearings into public st
 
 ## Recognition abroad
 
-As her prosecutions mounted, Chow became an internationally recognised symbol of Hong Kong's shrinking freedoms. In **2023** alone she was awarded the **Franco-German Prize for Human Rights and the Rule of Law**, the **CCBE Human Rights Award** from the Council of Bars and Law Societies of Europe, and South Korea's **Gwangju Prize for Human Rights** — honours accepted on her behalf while she remained in a Hong Kong jail. The UN, rights groups and several governments have repeatedly called for her release.
+As her prosecutions mounted, Chow became an internationally recognised symbol of Hong Kong's shrinking freedoms. In **2023** alone she was awarded the **Franco-German Prize for Human Rights and the Rule of Law**, the **CCBE Human Rights Award** from the Council of Bars and Law Societies of Europe, and South Korea's **Gwangju Prize for Human Rights** — honours accepted on her behalf while she remained in a Hong Kong jail. The UN, rights groups and several governments have repeatedly called for her release. In **September 2026** the **European Parliament** named her among the political prisoners it demanded be freed, in a resolution (459–12) urging EU sanctions on the Hong Kong officials responsible (see [[Hong Kong Alliance|sites.hka]]).
 
 ## Sources
 
