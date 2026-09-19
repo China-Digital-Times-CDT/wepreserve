@@ -20,6 +20,12 @@ Where this story arguably begins. **_Ten Years_** is a **speculative anthology**
 
 ## The 2019 uprising on film
 
+### Cockroach (2020)
+
+Dissident artist **Ai Weiwei**'s **93-minute** documentary — its title the slur ("**曱甴**", *gaat zaat*, cockroach) that police and pro-Beijing media hurled at protesters, reclaimed — assembles front-line footage of the 2019 movement from its peaceful marches to the **siege of Polytechnic University**. Directed by Ai from exile in Europe using material gathered on the ground, it was released internationally on video-on-demand (**Vimeo**, MUBI, Alamo) in December 2020 and, like the others here, has had no Hong Kong release. ([IMDb](https://www.imdb.com/title/tt13696108/) · [Vimeo On Demand](https://vimeo.com/ondemand/cockroach))
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJuYB6HIfrk" title="Cockroach (2020) — trailer, a film by Ai Weiwei" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Do Not Split (2020)
 
 Norwegian director **Anders Hammer**'s **35-minute** front-line short for **Field of Vision** — teargas, water cannon, the siege months — earned a **2021 Academy Award nomination** for Best Documentary Short. The nomination alone was enough for Beijing to **order mainland broadcasters not to carry the Oscars live**. Field of Vision released the film **free online**, so it remains one of the most-watched records of 2019. ([IMDb](https://www.imdb.com/title/tt11512676/))
@@ -75,6 +81,7 @@ Each title links to its IMDb page.
 | [Taking Back the Legislature 佔領立法會](https://www.imdb.com/title/tt13236520/) | 2020 | HK Documentary Filmmakers | 1 July 2019 LegCo storming | Effectively unshowable in HK |
 | [Inside the Red Brick Wall 理大圍城](https://www.imdb.com/title/tt14266320/) | 2020 | HK Documentary Filmmakers | PolyU siege, Nov 2019 | Effectively unshowable in HK |
 | [Do Not Split](https://www.imdb.com/title/tt11512676/) | 2020 | Anders Hammer | 2019 protests (Oscar-nom short) | Free online; not in HK cinemas |
+| [Cockroach](https://www.imdb.com/title/tt13696108/) | 2020 | Ai Weiwei | The 2019 protests | International VOD; not in HK |
 | [Revolution of Our Times 時代革命](https://www.imdb.com/title/tt15049118/) | 2021 | Kiwi Chow | The 2019–20 movement | Banned; never shown in HK |
 | [May You Stay Forever Young 少年](https://www.imdb.com/title/tt15743130/) | 2021 | Rex Ren, Lam Sum | 2019 protests (drama) | Denied HK release |
 | [Faceless](https://www.imdb.com/title/tt14489394/) | 2021 | Jennifer Ngo | Four anonymous protesters | International (Dogwoof) |
