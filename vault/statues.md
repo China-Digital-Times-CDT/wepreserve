@@ -2,7 +2,7 @@
 id: aqgv6hy8557vuejq41qf8o49q
 title: "🗽 Statues & Monuments|紀念雕塑"
 desc: Hong Kong's public monuments to the 1989 Tiananmen crackdown and the 2019 protests — the Pillar of Shame, the Goddess of Democracy, Lady Liberty — and how they were removed, seized, and driven abroad.
-updated: 1789128000000
+updated: 1789819200000
 created: 1788310800000
 ---
 
@@ -45,7 +45,7 @@ Not every toppled statue commemorated 1989. **Lady Liberty Hong Kong** (香港�
 
 Volunteers hauled the statue up **Lion Rock** overnight on **13 October 2019**, declaring the summit its "final resting place" ([France 24](https://www.france24.com/en/20191013-protesters-erect-lady-liberty-statue-on-hong-kong-mountain-top) · [HKFP](https://hongkongfp.com/2019/10/13/pictures-hong-kongs-lion-rock-final-resting-place-lady-liberty-democracy-statue/)). Within a day it was **toppled, splashed with red paint** by unknown assailants and then **vanished** — only the flagpole and fixings left on the peak ([HKFP](https://hongkongfp.com/2019/10/14/hong-kongs-lady-liberty-statue-vandalised-installed-atop-lion-rock/)). Replicas were later raised abroad, in Frankfurt and elsewhere.
 
-**Preserved as a file.** The statue was itself a crowd project: a public LIHKG vote chose the design and a **six-hour crowdfunder raised HK$203,933** — roughly HK$50,000 for the statue, the rest to the **612 Humanitarian Relief Fund** — with teams of about **10 designers and 30 printers** assembling it. So when the physical figure was destroyed, its makers' answer was to place it **beyond destruction**: they released the design as a **3D-printable file** so it could be re-printed anywhere.
+**Preserved as a file.** The statue was itself a crowd project: a public LIHKG vote chose the design and a **six-hour crowdfunder raised HK$203,933** — roughly HK$50,000 for the statue, the rest to the **612 Humanitarian Relief Fund** — with teams of about **10 designers and 30 printers** assembling it. So when the physical figure was destroyed, its makers' answer was to place it **beyond destruction**: they released the design as a **3D-printable file** so it could be re-printed anywhere. The files are still public — the team's original **[Thingiverse](https://www.thingiverse.com/thing:3861546)** upload (eight STL parts plus a 26 MB whole-figure model, CC BY-NC), mirrored at **[3DFinder](https://3dfinder.io/model/thingiverse/3861546-ladylibertyhongkong)**.
 
 ![Miniature 3D-printed Lady Liberty in the Te Papa collection](/assets/statues/lady-liberty-3dprint-tepapa.jpg)
 *"Lady Liberty HK holding flag" — an anonymous 2019 Wellington-made 3D print, in the national collection of the Museum of New Zealand Te Papa Tongarewa (object [1887451](https://collections.tepapa.govt.nz/object/1887451)). © LadyLibertyHK, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
