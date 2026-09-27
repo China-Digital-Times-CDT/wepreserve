@@ -2,7 +2,7 @@
 id: wm9v6z1k5rx4nqlu8g03b2t
 title: Timeline
 desc: Sequence of reported events and follow-on actions for the Wang Fuk Court fire.
-updated: 1788310800000
+updated: 1790380800000
 created: 1764698071435
 ---
 
@@ -108,6 +108,7 @@ Parent: [[hong-kong-fire-2025]]
 | **08-10** | Interdepartmental task force's **~1,142-page report**: blaze started **accidentally** from an **improperly discarded cigarette butt** on a Wang Cheong air-shaft platform; details firefighter **Ho Wai-ho**'s final movements (wrong tower, stayed to help, gear found on the 31st floor) ([HKFP](https://hongkongfp.com/2026/08/10/tai-po-fire-interim-report-details-circumstances-of-firefighter-death-finds-cigarette-butt-likely-cause/), [SCMP](https://www.scmp.com/news/hong-kong/society/article/3363336/tai-po-inquiry-sheds-more-light-final-moments-firefighter-ho-wai-ho)). | — | — |
 | **08-31** | — | Buyback deadline closes (**5 p.m.**): **99.1%** (1,967/1,984) accepted — up from 96.5% days earlier — leaving **17 holdouts** who now face **compulsory acquisition** at the lower post-fire value; the government says it will pursue the remaining acquisitions "at full speed." Terms ~30% above pre-fire value; combined scheme **~HK$7.8b** (HK$5b public + HK$2.8b relief). Some holdouts (e.g. Betty Ho) wanted on-site redevelopment ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3365872/nearly-all-wang-fu-court-owners-accept-buy-out-leaving-17-holdouts-offer-ends), [HKFP](https://hongkongfp.com/2026/08/31/tai-po-fire-to-sell-or-not-to-sell-as-govt-deadline-looms-some-owners-still-hope-their-homes-can-rise-from-the-ashes/)). | — |
 | **08-31** | — | — | Fire survivor and petition organiser **Jason Kong** and wife **Rosanna Cheung** charged with **conspiracy to defraud (×2) + money laundering** over the Special 100% Loan Guarantee scheme; first arrested in May, two weeks after Kong delivered the 247-signature petition ([HKFP](https://hongkongfp.com/2026/08/31/tai-po-fire-victim-and-petition-organiser-jason-kong-and-wife-charged-with-fraud-and-money-laundering/), [SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3353674/former-wang-fuk-court-representative-and-wife-held-over-fraud-money-laundering)). |
+| **09-26** | — | — | DAB Tai Po South councillor **Peggy Wong** (黃碧嬌) — under scrutiny over her proxy-vote collection ahead of the HK$330m renovation tender (see **03-26** and the Investigation page) — **resigns** her district-council seat, area-committee and care-team posts, **citing health**; she had already stepped down as adviser to a second estate. She denies wrongdoing ([SCMP](https://www.scmp.com/news/hong-kong/politics/article/3368905/district-councillor-peggy-wong-resigns-amid-proxy-vote-claims-after-tai-po-blaze), [Dim Sum Daily](https://www.dimsumdaily.hk/peggy-wong-resigns-as-tai-po-district-councillor-citing-health-reasons/)). |
 | **Pending** | Independent committee's **final report** due **late October 2026**. | **17 holdouts** face compulsory acquisition — compensation likely pegged to the lower post-fire value, with legislation flagged for **2027**; Wang Chi House owners decide on their separate ~HK$1b offer by **Oct 15**. | Criminal case next mention **Sep 2, 2026**. |
 
 ---
