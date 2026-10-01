@@ -6,7 +6,7 @@ updated: 1789214400000
 created: 1789214400000
 ---
 
-Related: [[🕯️ Tiananmen Vigil|tiananmen-vigil]] | [[⚖️ The Hong Kong 47|hong-kong-47]] | [[⚖️ Jimmy Lai|faces-of-the-crackdown.jimmy-lai]] | [[📕 Book Censorship under the NSL|book-censorship]]
+Related: [[🕯️ Tiananmen Vigil|tiananmen-vigil]] | [[⚖️ The Hong Kong 47|hong-kong-47]] | [[⚖️ Jimmy Lai|faces-of-the-crackdown.jimmy-lai]] | [[📕 Book Censorship under the NSL|book-censorship]] | [[📰 Press Freedom under Siege|press-freedom]]
 
 ![Portraits of six Hong Kong pro-democracy figures jailed or exiled under the National Security Law](/assets/faces-of-the-crackdown.jpg)
 *Six of the many. Top, l–r: **Benny Tai**, **[[Joshua Wong|faces-of-the-crackdown.joshua-wong]]**, **[[Chow Hang-tung|faces-of-the-crackdown.chow-hang-tung]]**; bottom: **Lee Cheuk-yan**, **Nathan Law**, **Agnes Chow**. Sources via Wikimedia Commons — Tai, Wong, Chow Hang-tung and Lee: Voice of America (public domain); Nathan Law: Jindřich Nosek (NoJin), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Agnes Chow: Honcques Laus (CC0). Composite: CC BY-SA 4.0.*

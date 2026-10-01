@@ -2,9 +2,11 @@
 id: q6ovd682gm79nej500y0bv3
 title: Stand News|立場新聞
 desc: ''
-updated: 1751378038291
+updated: 1790640000000
 created: 1650505108657
 ---
+
+Related: [[📰 Press Freedom under Siege|press-freedom]] | [[⚖️ Jimmy Lai|faces-of-the-crackdown.jimmy-lai]] | [[Apple Daily|sites.appledaily]]
 
 Stand News was a free non-profit online news website based in Hong Kong from 2014 to 2021. Founded in December 2014, it was the successor of House News. It primarily focused on social and political issues in Hong Kong, and generally took a pro-democracy editorial position.
 
