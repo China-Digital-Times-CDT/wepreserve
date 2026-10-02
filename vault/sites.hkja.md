@@ -43,6 +43,13 @@ The HKJA continues to issue statements defending reporters — in October 2026 i
 - [RSF: Imprisonment of veteran journalist Ronson Chan marks new low for press freedom in Hong Kong](https://rsf.org/en/imprisonment-veteran-journalist-ronson-chan-marks-new-low-press-freedom-hong-kong)
 - [Wikipedia: Hong Kong Journalists Association](https://en.wikipedia.org/wiki/Hong_Kong_Journalists_Association)
 
+**香港中文報道 (Chinese-language HK coverage):**
+
+- [法庭線 The Witness：《採訪期間阻差罪成判囚5日 陳朗昇上訴失敗即時服刑》](https://thewitnesshk.com/%E6%8E%A1%E8%A8%AA%E6%9C%9F%E9%96%93%E9%98%BB%E5%B7%AE%E7%BD%AA%E6%88%90%E5%88%A4%E5%9B%9A5%E6%97%A5-%E9%99%B3%E6%9C%97%E6%98%87%E4%B8%8A%E8%A8%B4%E5%A4%B1%E6%95%97%E5%8D%B3%E6%99%82%E6%9C%8D%E5%88%91/) — 法庭線本身亦為本檔案保存的對象：[[法庭線|sites.thewitness]]
+- [獨立媒體 inmediahk：《鄭嘉如私人檢控案 — 《華爾街日報》母公司否認兩罪》](https://www.inmediahk.net/node/1107503/) — [[獨立媒體|sites.inmediahk]]
+- [端傳媒：《港記協新任主席鄭嘉如被《華爾街日報》解僱，此前曾被上司要求退選》](https://theinitium.com/article/20240718-whatsnew-hongkong-hkja-chair-be-fired-by-wsj)
+- [維基百科：香港記者協會](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83)
+
 
 ## Archives
 (state: In Progress)
