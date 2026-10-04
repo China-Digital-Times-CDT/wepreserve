@@ -15,7 +15,7 @@ created: 1648613469250
 6. [[sites.hkfp]]
 7. [[sites.hkja]])
 8. [[sites.post852]]
-9. [[sites.Hkfeature]]
+9. [[sites.hkfeature]]
 10. [[sites.hongkongwatch]]
 11. [[sites.pori]]
 12. [[sites.hka]]
