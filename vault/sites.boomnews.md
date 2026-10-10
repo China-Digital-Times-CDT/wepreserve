@@ -14,6 +14,8 @@ Because an outlet that lives on a platform can vanish with a single account take
 
 ## Browse the archive
 
+**Last archived:** 1 October 2026 · *capture window 30 Sep – 1 Oct 2026*
+
 <iframe src="/assets/boomnews/replay.html" width="100%" height="720" style="border:1px solid #ccc; border-radius:6px;" title="Boom News (爆炸頭) — archived Facebook pages, replayed with ReplayWeb.page" allow="fullscreen"></iframe>
 
 *Replays entirely in your browser via [ReplayWeb.page](https://replayweb.page/); nothing is fetched from Facebook. Loading streams only the parts of the 2.6 GB archive you view, so give each page a moment.*
