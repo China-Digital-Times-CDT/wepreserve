@@ -9,8 +9,9 @@
   replay-web-page { display: block; width: 100%; height: 100vh; }
   noscript { color: #eee; font-family: system-ui, sans-serif; display: block; padding: 1rem; }
 </style>
-<!-- ReplayWeb.page embed UI (client-side replay; fetches the WACZ by HTTP range requests) -->
-<script src="https://cdn.jsdelivr.net/npm/replaywebpage/ui.js"></script>
+<!-- ReplayWeb.page embed UI, pinned (client-side replay; WACZ fetched by HTTP range requests).
+     Service worker lives in the dedicated ./replay/ path (sw.js), per webrecorder docs. -->
+<script src="https://cdn.jsdelivr.net/npm/replaywebpage@2.5.3/ui.js"></script>
 </head>
 <body>
 <noscript>This archive viewer needs JavaScript. You can also open the archive directly at
@@ -18,9 +19,7 @@
 <replay-web-page
   source="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/boomheadhk/boomheadhk-public.wacz"
   url="https://www.facebook.com/boomheadhk/"
-  embed="replay-with-info"
-  replayBase="/assets/boomnews/"
-  deepLink="true">
+  replayBase="/assets/boomnews/replay/">
 </replay-web-page>
 </body>
 </html>
