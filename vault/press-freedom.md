@@ -2,7 +2,7 @@
 id: ebwvkii7n5nl76w21b65gm5
 title: "📰 Press Freedom under Siege|新聞自由淪陷"
 desc: How Hong Kong dismantled one of Asia's freest presses in half a decade — the raids that closed Apple Daily and Stand News, the revival of a colonial sedition law, and the steady criminalisation of journalism itself.
-updated: 1790640000000
+updated: 1791676800000
 created: 1790640000000
 ---
 
@@ -35,7 +35,7 @@ The flagship of Hong Kong's post-*Apple* independent media, raided and closed on
 
 ## The newest front — criminalising the reporter (2026)
 
-On **1 October 2026**, police arrested **Tang Ho-wing** (37), who runs the online outlet **Boom News** (some **200,000 followers**), and activist **Lee Ying-chi** (58), for allegedly acting "**with seditious intent**" under the 2024 security law — an offence carrying up to **seven years**. The arrests stemmed from an **31 August 2026** gathering outside **Prince Edward MTR station**, where people were found "holding bouquets and shouting slogans" to mark the **2019 Prince Edward incident** — the night riot police stormed a train and beat passengers, an event the authorities now call a "manipulated lie." Tang had posted video from the scene.
+On **30 September 2026**, national-security police arrested **Tang Ho-wing** (鄧浩榮, 37), who runs the online outlet **Boom News** (爆炸頭; some **200,000 followers**), and former League of Social Democrats member **Lee Ying-chi** (58), for allegedly "**spreading false information**" with **seditious intent** under the 2024 security law — an offence carrying up to **seven years**; the force confirmed the arrests on **1 October**. The arrests stemmed from an **31 August 2026** gathering outside **Prince Edward MTR station**, where people were found "holding bouquets and shouting slogans" to mark the **2019 Prince Edward incident** — the night riot police stormed a train and beat passengers, an event the authorities now call a "manipulated lie." Tang had posted video from the scene. Boom News's Facebook presence is preserved in this archive as a browsable web capture — see [[Boom News|sites.boomnews]].
 
 Police said those involved were "suspected of spreading false information and attacking government with lies" to "incite hatred." The **Hong Kong Journalists Association** responded that "**reporting is not sedition**," warning that journalists now face arrest simply for covering public events; the **Committee to Protect Journalists** called it "**the latest sign of the criminalisation of journalism**" and demanded the pair's release ([HKFP](https://hongkongfp.com/2026/10/01/hong-kong-confirms-journalists-arrest-for-alleged-seditious-acts-linked-to-2019-prince-edward-mtr-incident-commemorations/)). The case marks the frontier moving from the big newsrooms to a lone operator with a phone and a following.
 
@@ -55,6 +55,7 @@ The crackdown did not only close newsrooms; it scattered them. Some were destroy
 |---|---|---|
 | **Apple Daily** 蘋果日報 | Forced shut (2021) | [[sites.appledaily]] |
 | **Stand News** 立場新聞 | Raided & shut (2021) | [[sites.standnews]] |
+| **Boom News** 爆炸頭 | Operator arrested (2026) | [[sites.boomnews]] |
 | **RFA Cantonese** 自由亞洲粵語 | HK bureau closed (2024) | [[sites.rfa_cantonese]] |
 | **inmediahk.net** 獨立媒體 | Under pressure, online | [[sites.inmediahk]] |
 | **Passion Times** 熱血時報 | Online | [[sites.passiontimes]] |
