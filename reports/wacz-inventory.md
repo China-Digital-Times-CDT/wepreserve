@@ -24,7 +24,11 @@ old archive is remote and linked from a `sites.*` page). Two backends:
 - **IPFS** — `https://<cid>.ipfs.dweb.link/fixtures/<name>.wacz`. Content-addressed;
   survives only while the pin is paid/alive. Several captures share one CID
   (bundled in a single `fixtures/` directory), so they're a handful of CAR
-  pins, not 10 independent ones.
+  pins, not 10 independent ones. **Liveness unconfirmed:** public gateways
+  (dweb.link, ipfs.io) returned `429 Too Many Requests` on every probe
+  2026-10-10 — rate-limiting, which means "can't tell", not "dead". Confirm
+  by resolving the CIDs from a local IPFS daemon or by checking the pinning
+  service account (see open questions); do not assume they're gone.
 
 All old captures are of **public sites** (news orgs, NGOs, a museum) — none
 were crawled behind a login, so unlike `boomheadhk` they need **no
@@ -43,15 +47,19 @@ cookie-stripping**: verify sha256 → copy to R2 → repoint the replay link.
 | rfa_cantonese ([[sites.rfa_cantonese]]) | GCS `996daaf7.wacz` | 1.04 GB | No | — | 🔎 |
 | webb-site ([[sites.webb]]) | GCS `ddb492c7.wacz` | 442 MB | No | — | 🔎 |
 | 8964museum ([[extra.8964]]) | GCS `8964museum-05_04_2022.wacz` **+ IPFS** `bafybeiaosx…` | 995 MB | No | — | 🔎 (already redundant) |
-| appledaily ([[sites.appledaily]]) | IPFS `bafybeiheij…` `appledaily-05_23_2020.wacz` | _probing_ | No | — | 🔎 |
-| passiontimes ([[sites.passiontimes]]) | IPFS `bafybeiheij…` `passiontime-05_23_2022.wacz` (same CID as appledaily) | _probing_ | No | — | 🔎 |
-| hkfp ([[sites.hkfp]]) | IPFS `bafybeighmf…` `hkfp-05_03_2022.wacz` | _probing_ | No | — | 🔎 |
-| inmediahk ([[sites.inmediahk]]) | IPFS `bafybeighmf…` `inmediahk-05_03_2022.wacz` (same CID as hkfp) | _probing_ | No | — | 🔎 |
-| hongkongwatch 2022 ([[sites.hongkongwatch]]) | IPFS `bafybeihkns…` `hkwatch-05_03_2022.wacz` | _probing_ | No | — | 🔎 |
-| lsd ([[sites.lsd]]) | IPFS `bafybeid553…` `lsd-05_24_2022.wacz` | _probing_ | No | — | 🔎 |
-| thewitness ([[sites.thewitness]]) | IPFS `bafybeid553…` `thewitness-05_31_2022.wacz` (same CID as lsd) | _probing_ | No | — | 🔎 |
-| pori ([[sites.pori]]) | IPFS `bafybeiae2d…` `pori-04_25_2022.wacz` | _probing_ | No | — | 🔎 |
-| standnews ([[sites.standnews]]) | IPFS `bafybeibxk2…` `standnews-05_12_2022.wacz` | _probing_ | No | — | 🔎 |
+| appledaily ([[sites.appledaily]]) | IPFS `bafybeiheij…` `appledaily-05_23_2020.wacz` | n/a ¹ | No | — | 🔎 |
+| passiontimes ([[sites.passiontimes]]) | IPFS `bafybeiheij…` `passiontime-05_23_2022.wacz` (same CID as appledaily) | n/a ¹ | No | — | 🔎 |
+| hkfp ([[sites.hkfp]]) | IPFS `bafybeighmf…` `hkfp-05_03_2022.wacz` | n/a ¹ | No | — | 🔎 |
+| inmediahk ([[sites.inmediahk]]) | IPFS `bafybeighmf…` `inmediahk-05_03_2022.wacz` (same CID as hkfp) | n/a ¹ | No | — | 🔎 |
+| hongkongwatch 2022 ([[sites.hongkongwatch]]) | IPFS `bafybeihkns…` `hkwatch-05_03_2022.wacz` | n/a ¹ | No | — | 🔎 |
+| lsd ([[sites.lsd]]) | IPFS `bafybeid553…` `lsd-05_24_2022.wacz` | n/a ¹ | No | — | 🔎 |
+| thewitness ([[sites.thewitness]]) | IPFS `bafybeid553…` `thewitness-05_31_2022.wacz` (same CID as lsd) | n/a ¹ | No | — | 🔎 |
+| pori ([[sites.pori]]) | IPFS `bafybeiae2d…` `pori-04_25_2022.wacz` | n/a ¹ | No | — | 🔎 |
+| standnews ([[sites.standnews]]) | IPFS `bafybeibxk2…` `standnews-05_12_2022.wacz` | n/a ¹ | No | — | 🔎 |
+
+¹ IPFS object size not captured: public gateways rate-limited (`429`) the
+size probe on 2026-10-10. Record each via a local IPFS daemon or the pin
+service when liveness is confirmed.
 
 Not migration targets (external services we only *link*, not host): Wayback
 Machine (`web.archive.org`) references on most `sites.*` pages — leave as-is.
