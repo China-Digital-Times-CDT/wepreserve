@@ -18,6 +18,8 @@ Because an outlet that lives on a platform can vanish with a single account take
 
 <iframe src="/assets/boomnews/replay.html" width="100%" height="720" style="border:1px solid #ccc; border-radius:6px;" title="Boom News (爆炸頭) — archived Facebook pages, replayed with ReplayWeb.page" allow="fullscreen"></iframe>
 
+**▶ [Open the archive viewer full-screen](/assets/boomnews/replay.html)** — use this if the embedded player above stays blank (some browser privacy or wallet extensions block embedded frames).
+
 *Replays entirely in your browser via [ReplayWeb.page](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fboomheadhk%2Fboomheadhk-public.wacz&url=https%3A%2F%2Fwww.facebook.com%2Fboomheadhk%2F); nothing is fetched from Facebook. Loading streams only the parts of the 2.6 GB archive you view, so give each page a moment.*
 
 **Open full-screen or jump to a section** (opens in ReplayWeb.page):
