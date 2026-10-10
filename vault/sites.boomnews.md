@@ -16,16 +16,9 @@ Because an outlet that lives on a platform can vanish with a single account take
 
 **Last archived:** 1 October 2026 · *capture window 30 Sep – 1 Oct 2026*
 
-**▶ [Open the archive viewer](/assets/boomnews/replay.html)** — launches the full-screen in-browser replay of Boom News's archived Facebook timeline, photos, videos, reels and about pages.
-
-*Replays entirely in your browser via [ReplayWeb.page](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fboomheadhk%2Fboomheadhk-public.wacz&url=https%3A%2F%2Fwww.facebook.com%2Fboomheadhk%2F); nothing is fetched from Facebook. It streams only the parts of the 2.6 GB archive you view, so give each page a moment.*
-
-<details>
-<summary>Show the player inline instead (some privacy or wallet browser extensions block embedded frames — use the full-screen link above if it stays blank).</summary>
-
 <iframe src="/assets/boomnews/replay.html" width="100%" height="720" style="border:1px solid #ccc; border-radius:6px;" title="Boom News (爆炸頭) — archived Facebook pages, replayed with ReplayWeb.page" allow="fullscreen"></iframe>
 
-</details>
+*Replays entirely in your browser via [ReplayWeb.page](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fboomheadhk%2Fboomheadhk-public.wacz&url=https%3A%2F%2Fwww.facebook.com%2Fboomheadhk%2F); nothing is fetched from Facebook. It streams only the parts of the 2.6 GB archive you view, so give each page a moment.* — **[open full-screen ↗](/assets/boomnews/replay.html)** if the player above stays blank.
 
 **Open full-screen or jump to a section** (opens in ReplayWeb.page):
 
