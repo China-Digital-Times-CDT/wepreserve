@@ -2,7 +2,7 @@
 id: ebwvkii7n5nl76w21b65gm5
 title: "📰 Press Freedom under Siege|新聞自由淪陷"
 desc: How Hong Kong dismantled one of Asia's freest presses in half a decade — the raids that closed Apple Daily and Stand News, the revival of a colonial sedition law, and the steady criminalisation of journalism itself.
-updated: 1791676800000
+updated: 1791763200000
 created: 1790640000000
 ---
 
@@ -21,7 +21,7 @@ For a generation Hong Kong had one of the **freest presses in Asia** — a noisy
 | **2022** | **Citizen News**, citing the "sword" hanging over the industry, closes pre-emptively on **4 Jan**. The **FCC** suspends its Human Rights Press Awards rather than risk breaking the law. Independent outlets shut or go quiet across the board. |
 | **2024** | Hong Kong's homegrown **Article 23** law — the **Safeguarding National Security Ordinance** (23 Mar) — raises the penalty for **sedition** from 2 years to **7** (10 with an "external force"). In the first journalist sedition convictions since 1997, two **Stand News** editors are jailed (see below). **RFA** closes its Hong Kong bureau, citing the new law. |
 | **2025** | RSF's World Press Freedom Index puts Hong Kong at **140/180**, its lowest ever score, in the "**red zone**" for the first time. |
-| **2026** | Prosecutions reach **independent online media**: an outlet operator and an activist are arrested for "**seditious acts**" over filming a public commemoration (see below). |
+| **2026** | Prosecutions reach **independent online media**: an outlet operator (**Boom News**) and an activist are arrested for "**seditious acts**" over filming a public commemoration — released on bail, no charge laid as of early October (see below). |
 
 ## The two newsrooms that were destroyed
 
@@ -37,7 +37,9 @@ The flagship of Hong Kong's post-*Apple* independent media, raided and closed on
 
 On **30 September 2026**, national-security police arrested **Tang Ho-wing** (鄧浩榮, 37), who runs the online outlet **Boom News** (爆炸頭; some **200,000 followers**), and former League of Social Democrats member **Lee Ying-chi** (58), for allegedly "**spreading false information**" with **seditious intent** under the 2024 security law — an offence carrying up to **seven years**; the force confirmed the arrests on **1 October**. The arrests stemmed from an **31 August 2026** gathering outside **Prince Edward MTR station**, where people were found "holding bouquets and shouting slogans" to mark the **2019 Prince Edward incident** — the night riot police stormed a train and beat passengers, an event the authorities now call a "manipulated lie." Tang had posted video from the scene. Boom News's Facebook presence is preserved in this archive as a browsable web capture — see [[Boom News|sites.boomnews]].
 
-Police said those involved were "suspected of spreading false information and attacking government with lies" to "incite hatred." The **Hong Kong Journalists Association** responded that "**reporting is not sedition**," warning that journalists now face arrest simply for covering public events; the **Committee to Protect Journalists** called it "**the latest sign of the criminalisation of journalism**" and demanded the pair's release ([HKFP](https://hongkongfp.com/2026/10/01/hong-kong-confirms-journalists-arrest-for-alleged-seditious-acts-linked-to-2019-prince-edward-mtr-incident-commemorations/)). The case marks the frontier moving from the big newsrooms to a lone operator with a phone and a following.
+Police said those involved were "suspected of spreading false information and attacking government with lies" to "incite hatred." The **Hong Kong Journalists Association** responded that "**reporting is not sedition**," warning that journalists now face arrest simply for covering public events; the **Committee to Protect Journalists** called it "**the latest sign of the criminalisation of journalism**" and demanded the pair's release ([HKFP](https://hongkongfp.com/2026/10/01/hong-kong-confirms-journalists-arrest-for-alleged-seditious-acts-linked-to-2019-prince-edward-mtr-incident-commemorations/)).
+
+Tang was **released on bail shortly after midnight on 2 October**, after almost two days in custody; **no charge has been laid**, and the HKJA — "deeply concerned" — demanded that police disclose exactly which of his actions broke the law. He is one of **eight people** held over the 31 August gathering — three arrested on 3 September, three more on 27–28 September, and Tang and Lee on the 30th; the earlier six were freed on bail, and police have not ruled out further arrests ([HKFP](https://hongkongfp.com/2026/10/02/independent-hk-journalist-tang-ho-wing-released-on-bail-following-sedition-arrest/)). The case marks the frontier moving from the big newsrooms to a lone operator with a phone and a following.
 
 ## The weapons
 
@@ -73,6 +75,8 @@ Hong Kong's free press is being written out of the city's own memory — newsroo
 ## Sources
 
 - [HKFP: Hong Kong confirms journalist's arrest for alleged seditious acts linked to 2019 Prince Edward MTR commemorations (1 Oct 2026)](https://hongkongfp.com/2026/10/01/hong-kong-confirms-journalists-arrest-for-alleged-seditious-acts-linked-to-2019-prince-edward-mtr-incident-commemorations/)
+- [HKFP: Independent HK journalist Tang Ho-wing released on bail following sedition arrest (2 Oct 2026)](https://hongkongfp.com/2026/10/02/independent-hk-journalist-tang-ho-wing-released-on-bail-following-sedition-arrest/)
+- [CPJ: Hong Kong journalist Tang Ho-wing arrested in latest sedition case (Sept 2026)](https://cpj.org/2026/09/hong-kong-journalist-tang-ho-wing-arrested-in-latest-sedition-case/)
 - [HKFP: Ex-editor of Stand News Chung Pui-kuen jailed for 1 year 9 months for sedition (26 Sept 2024)](https://hongkongfp.com/2024/09/26/breaking-ex-editor-of-hong-kongs-stand-news-chung-pui-kuen-jailed-for-1-year-9-months-for-sedition-in-landmark-case/)
 - [Amnesty International: Stand News journalists 'jailed for doing their job' (26 Sept 2024)](https://www.amnesty.org/en/latest/news/2024/09/hong-kong-stand-news-journalists-jailed-for-doing-their-job/)
 - [CPJ: Chung Pui-kuen](https://cpj.org/data/people/chung-pui-kuen/)
