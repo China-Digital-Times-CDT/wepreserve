@@ -93,18 +93,18 @@ Glory be to thee Hong Kong
 
 ## Official Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y7yRDOLCy4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/y7yRDOLCy4Y" title="《願榮光歸香港》(Glory to Hong Kong) — official music video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Derived Editions/Performances
 
 - [《願榮光歸香港》 中樂合奏及合唱團版 MV](https://www.youtube.com/watch?v=VHOZuIO5G2s)
 - Piano rendition by **Ricker Choi**: [《願榮光歸香港》](https://www.youtube.com/watch?v=PBJUBT9qqmo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PBJUBT9qqmo" title="Glory to Hong Kong — performed by Ricker Choi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/PBJUBT9qqmo" title="Glory to Hong Kong — performed by Ricker Choi" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Extended / looped instrumental edition (unofficial) — background music for focus, coding, or long relaxation: [《願榮光歸香港》](https://www.youtube.com/watch?v=eBVbbttGybI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eBVbbttGybI?si=fYMvJJ7PtaW0cw5Q" title="Glory to Hong Kong — extended instrumental (unofficial background-music edition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/eBVbbttGybI?si=fYMvJJ7PtaW0cw5Q" title="Glory to Hong Kong — extended instrumental (unofficial background-music edition)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Over 40+ derivatives and performances on [Twitter/X](https://web.archive.org/web/20220424133622/https://twitter.com/isaac/status/1172173947850280962)
 
