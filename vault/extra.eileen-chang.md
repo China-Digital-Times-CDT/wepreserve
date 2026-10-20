@@ -35,6 +35,16 @@ Her two cities have since met again in the headlines: **Shanghai's 2022 Covid lo
 
 *(This framing is the archive's own editorial note, not a claim about the lecture's content.)*
 
+## In her words | 她的話
+
+From the short autobiographical statement Chang wrote in **1965** for *World Authors 1950–1970* — on why, after "the final disintegration of ingrown latter-day Confucianism," Communist rule could feel familiar to many Chinese:
+
+> "To many others Communist rule is also more palatable for being a reversion to the old order, only replacing the family with the larger blood kin, the state, **incorporating nationalism, the undisputed religion of our time**."
+>
+> 「對另外許多人來說，共產黨的統治也更容易接受，因為它回到了舊秩序：只是用更大的血緣共同體——國家——取代家庭，**並吸納了民族主義，這個我們時代無可爭議的宗教**。」
+
+— Eileen Chang, autobiographical entry, *World Authors 1950–1970: A Companion Volume to Twentieth Century Authors*, ed. John Wakeman (H. W. Wilson, 1975; written 1965). Chinese rendering after 高全之's translation in 《張愛玲學》 (麥田, 2003).
+
 ## A journalist's take: Chai Jing (2026)
 
 The independent journalist **Chai Jing** (柴靜) — the former CCTV reporter whose 2015 pollution documentary *Under the Dome* (穹頂之下) drew 300 million views before censors pulled it, and who now runs one of the most-watched overseas Chinese-language current-affairs channels on YouTube — devoted an October 2026 episode to Chang and this newly surfaced recording: **「周恩來為什麼沒留住張愛玲？｜張愛玲錄音公開」** ("Why didn't Zhou Enlai keep Eileen Chang? | Eileen Chang's recording made public"). It frames Chang's 1952 departure from the mainland against the new state's wish to retain its writers, and has **drawn online debate**. The recording itself has **spread widely across the Chinese-language internet** since mid-October 2026 — full copies and clips reposted by netizens on **Weibo** and **Xiaohongshu** — though it remains a copyrighted Schlesinger holding, not an openly licensed one ([United Daily, 18 Oct 2026](https://uniteddaily.my/en/6c8f64c3-7ffa-4b18-aa6b-67463a51bc8b/%E5%BC%A0%E7%88%B1%E7%8E%B2%E7%BD%95%E8%A7%81%E6%BC%94%E8%AE%B2%E5%8E%9F%E5%A3%B0%E5%BD%95%E9%9F%B3%E5%9C%A8%E4%B8%AD%E6%96%87%E4%BA%92%E8%81%94%E7%BD%91%E7%83%AD%E4%BC%A0)).
@@ -59,6 +69,7 @@ Reproducing the **audio** or a **full transcript** needs permission we do not ye
 - Schlesinger Library, [Permissions & Copyright](https://www.radcliffe.harvard.edu/schlesinger-library/research-services/permissions-and-copyright) and [Image Use Policy](https://guides.library.harvard.edu/schlesinger/reproductions/image_use_policy).
 - Lingnan University, *Journal of Modern Literature in Chinese* — on Eileen Chang's "Chinese translation: a vehicle of cultural exchange" (1 April 1969 Radcliffe lecture) ([Lingnan Commons](https://commons.ln.edu.hk/cgi/viewcontent.cgi?article=1288&context=jmlc)).
 - [Eileen Chang — Wikipedia](https://en.wikipedia.org/wiki/Eileen_Chang) (biography; Radcliffe fellowship under married name Reyher).
+- Eileen Chang, autobiographical entry, *World Authors 1950–1970: A Companion Volume to Twentieth Century Authors*, ed. John Wakeman (H. W. Wilson, 1975; written 1965) — source of the "In her words" quotation; English original [reproduced here](https://yeduchao.wordpress.com/2015/04/08/%E5%BC%A0%E7%88%B1%E7%8E%B2%E4%B8%80%E4%B9%9D%E5%85%AD%E4%BA%94%E5%B9%B4%E8%8B%B1%E6%96%87%E8%87%AA%E4%BC%A0/); 高全之 Chinese translation in 《張愛玲學》 (麥田, 2003).
 - Chai Jing (柴靜), [「周恩來為什麼沒留住張愛玲？｜張愛玲錄音公開」](https://www.youtube.com/watch?v=Q6K95r2rdfA) (YouTube, Oct 2026) · channel [柴靜 幕後 Chai Jing](https://www.youtube.com/channel/UCOfwFtvBgExnpFAum5Lbd-g).
 - [《張愛玲罕見演講原聲錄音在中文互聯網熱傳》](https://uniteddaily.my/en/6c8f64c3-7ffa-4b18-aa6b-67463a51bc8b/%E5%BC%A0%E7%88%B1%E7%8E%B2%E7%BD%95%E8%A7%81%E6%BC%94%E8%AE%B2%E5%8E%9F%E5%A3%B0%E5%BD%95%E9%9F%B3%E5%9C%A8%E4%B8%AD%E6%96%87%E4%BA%92%E8%81%94%E7%BD%91%E7%83%AD%E4%BC%A0) — United Daily 聯合日報 (Malaysia): the recording's spread on the Chinese-language internet (Oct 2026).
 - [*In a Bronze Mirror: Eileen Chang's Life and Literature*](https://scalar.usc.edu/works/eileen-chang-exhibit/media/untitled-speech-radcliffe-institute-1969) — USC Libraries Scalar exhibit, "Untitled Speech, Radcliffe Institute, 1969" (catalogues the 1 April 1969 Radcliffe talk 中國翻譯作為文化影響的橋樑, citing Phong Chang 張鳳's essay "張愛玲在哈佛：滿是蒼涼的因緣"; notes it was "possibly delivered").
