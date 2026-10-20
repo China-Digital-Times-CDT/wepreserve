@@ -45,12 +45,21 @@ jobs:
     - name: Initialize or pull nextjs template
       run: "(test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git clean -f && git pull && yarn && cd ..) || (echo 'init dendron next' && yarn dendron publish init)"
 
-    - name: Apply template overrides (hide anchor icons)
+    - name: Apply template overrides (hide anchor icons, scrollable tables)
       run: |
         cat >> .next/styles/scss/content.scss <<'EOF'
         // SHKO override: hide heading anchor icons (svg sprite not shipped).
         .main-content .anchor-heading {
           display: none !important;
+        }
+        // SHKO override: wide markdown tables scroll inside themselves on
+        // mobile instead of pushing the whole page sideways (the template's
+        // .table-responsive wrapper is never applied to markdown tables).
+        .main-content table {
+          display: block;
+          max-width: 100%;
+          overflow-x: auto;
+          -webkit-overflow-scrolling: touch;
         }
         EOF
     - name: Apply template overrides (expand sidebar tree)
