@@ -60,8 +60,8 @@ created: 1653363788457
 
 ## Official Video
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/qu_FSptjRic" title="《海闊天空》(Under a Vast Sky) — Beyond, official music video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/qu_FSptjRic" title="《海闊天空》(Under a Vast Sky) — Beyond, official music video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## "Under a Vast Sky" - Defence of CUHK:
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/Swxhubp82ds" title="《海闊天空》(Under a Vast Sky) — Defence of CUHK (2019)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/Swxhubp82ds" title="《海闊天空》(Under a Vast Sky) — Defence of CUHK (2019)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

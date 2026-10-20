@@ -16,7 +16,7 @@ Some of the fullest records of Hong Kong's decade of dissent are not documents b
 
 Where this story arguably begins. **_Ten Years_** is a **speculative anthology** of five short films — by directors **Ng Ka-leung, Jevons Au, Chow Kwun-wai, Kwok Zune and Wong Fei-pang** — imagining Hong Kong in **2025**: Mandarin displacing Cantonese, youth "guards" policing bookshops, a self-immolation outside the British consulate. Made for about HK$500,000, it became a surprise hit — outdrawing *Star Wars* at one Yau Ma Tei cinema — and won **Best Film at the 35th Hong Kong Film Awards (2016)**. Beijing's response was a preview of what came later: mainland outlets were ordered to condemn or ignore it, and **state television did not broadcast the awards ceremony** for the first time in decades. Its cinema run was quietly curtailed at home. Ten years on, much of what it imagined has arrived. ([IMDb](https://www.imdb.com/title/tt5269560/))
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/M4zebygSaZE" title="Ten Years (十年, 2015) — official trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/M4zebygSaZE" title="Ten Years (十年, 2015) — official trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The 2019 uprising on film
 
@@ -24,43 +24,43 @@ Where this story arguably begins. **_Ten Years_** is a **speculative anthology**
 
 Dissident artist **Ai Weiwei**'s **93-minute** documentary — its title the slur ("**曱甴**", *gaat zaat*, cockroach) that police and pro-Beijing media hurled at protesters, reclaimed — assembles front-line footage of the 2019 movement from its peaceful marches to the **siege of Polytechnic University**. Directed by Ai from exile in Europe using material gathered on the ground, it was released internationally on video-on-demand (**Vimeo**, MUBI, Alamo) in December 2020 and, like the others here, has had no Hong Kong release. ([IMDb](https://www.imdb.com/title/tt13696108/) · [Vimeo On Demand](https://vimeo.com/ondemand/cockroach))
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/dJuYB6HIfrk" title="Cockroach (2020) — trailer, a film by Ai Weiwei" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/dJuYB6HIfrk" title="Cockroach (2020) — trailer, a film by Ai Weiwei" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Do Not Split (2020)
 
 Norwegian director **Anders Hammer**'s **35-minute** front-line short for **Field of Vision** — teargas, water cannon, the siege months — earned a **2021 Academy Award nomination** for Best Documentary Short. The nomination alone was enough for Beijing to **order mainland broadcasters not to carry the Oscars live**. Field of Vision released the film **free online**, so it remains one of the most-watched records of 2019. ([IMDb](https://www.imdb.com/title/tt11512676/))
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/BpS-Y7ndNeQ" title="Do Not Split (2020) — full film, Field of Vision" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/BpS-Y7ndNeQ" title="Do Not Split (2020) — full film, Field of Vision" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Inside the Red Brick Wall (理大圍城, 2020)
 
 An **88-minute** account of the **November 2019 siege of Hong Kong Polytechnic University**, shot from inside the campus by an anonymous collective calling itself **Hong Kong Documentary Filmmakers** (with a companion film, **_Taking Back the Legislature_**, on the 1 July 2019 storming of the legislature). Distributed by **Ying e Chi**, its Hong Kong screenings were cancelled and disrupted in 2020, and after the 2021 censorship amendment it became effectively unshowable in the city; it circulates through international festivals and distributors instead. It won Best Editing at **IDFA**. (IMDb: [Inside the Red Brick Wall](https://www.imdb.com/title/tt14266320/) · [Taking Back the Legislature](https://www.imdb.com/title/tt13236520/))
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/pf0RwklusUc" title="Inside the Red Brick Wall (理大圍城, 2020) — IDFA trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/pf0RwklusUc" title="Inside the Red Brick Wall (理大圍城, 2020) — IDFA trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Revolution of Our Times (時代革命, 2021)
 
 Director **Kiwi Chow**'s **152-minute** chronicle of the movement — the marquee protest documentary. It was slipped into the **2021 Cannes** line-up as a last-minute, unannounced world premiere to avoid a diplomatic reaction, and won **Best Documentary at Taiwan's Golden Horse Awards**. To protect himself, Chow **sold the rights abroad and destroyed his own footage**; the film has **never been shown in Hong Kong** and its title — the 2019 protest slogan — is itself now treated as seditious. ([IMDb](https://www.imdb.com/title/tt15049118/))
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/WbBU1AZS8HA" title="Revolution of Our Times (時代革命, 2021) — official trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/WbBU1AZS8HA" title="Revolution of Our Times (時代革命, 2021) — official trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Blue Island (憂鬱之島, 2022)
 
 **Chan Tze-woon**'s **97-minute hybrid** documentary has protesters of 2019 re-enact the flights and imprisonments of an earlier generation — 1967 leftists, Cultural Revolution swimmers, the 1989 exiles — braiding decades of Hong Kong upheaval together. It won **Best Feature Documentary at Hot Docs 2022** and screens internationally rather than at home. ([IMDb](https://www.imdb.com/title/tt15282802/))
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/rD_LTbqoFYE" title="Blue Island (憂鬱之島, 2022) — official trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/rD_LTbqoFYE" title="Blue Island (憂鬱之島, 2022) — official trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Faceless (2021)
 
 Journalist **Jennifer Ngo**'s debut follows four anonymous participants — "the Student," "the Artist," "the Believer," "the Daughter" — through the anti-extradition movement, the masks a reminder of the cost of being seen. Distributed by **Dogwoof**. ([IMDb](https://www.imdb.com/title/tt14489394/))
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/l4oZhxoy2TY" title="Faceless (2021) — official trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/l4oZhxoy2TY" title="Faceless (2021) — official trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### May You Stay Forever Young (少年, 2021)
 
 Not a documentary but a **dramatisation** — directors **Rex Ren** and **Lam Sum** restage a real effort by protesters, volunteers and a social worker to find and stop a teenager from taking her own life during the 2019 unrest. Denied release in Hong Kong, it premiered at **Golden Horse**, where it won the NETPAC award. ([IMDb](https://www.imdb.com/title/tt15743130/))
 
-<iframe loading="lazy" style="width:100%;aspect-ratio:16/9;border:0;border-radius:6px;" src="https://www.youtube.com/embed/-AKfPbYoqj0" title="May You Stay Forever Young (少年, 2021) — trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/-AKfPbYoqj0" title="May You Stay Forever Young (少年, 2021) — trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Portraits
 
