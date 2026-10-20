@@ -2,7 +2,7 @@
 id: 9f2kq7eilchang69radclf
 title: Eileen Chang at Radcliffe (1969)|張愛玲哈佛錄音
 desc: An archived Harvard recording attributed to Eileen Chang (張愛玲) — her 1969 Radcliffe lecture on Chinese translation — and why a Shanghai-to-Hong Kong writer who fled political control still reads as contemporary.
-updated: 1792368000000
+updated: 1792454400000
 created: 1792368000000
 ---
 
@@ -36,7 +36,7 @@ Harvard's catalogue does **not** name Eileen Chang; it credits the track only to
 
 Eileen Chang's life traces the same escape route this archive keeps returning to. She wrote **Shanghai and Hong Kong** as twinned cities, left the mainland when the new political order made her kind of writing impossible, and spent her last decades abroad — her Shanghai work circulating for years only in **banned or pirated editions**. Her subject in this very lecture — how a state rewrites what may be translated and read — is the same machinery that later reached the newsrooms, bookshops and vigils documented across this site (see [[📕 Book Censorship under the NSL|book-censorship]] and [[📰 Press Freedom under Siege|press-freedom]]).
 
-Her two cities have since met again in the headlines: **Shanghai's 2022 Covid lockdown** and the **"white paper" / A4 protests** (白紙運動) that it triggered, and Hong Kong's own closing space. A writer who fled one silencing, recorded here explaining how translation outlives it, is worth preserving alongside them — which is the point of the archive's **[[Extra|extra]]** collection.
+Her two cities have since met again in the headlines. During **Shanghai's 2022 Covid lockdown**, as talk of 「潤」 ("run", i.e. emigrate) spread online, netizens rediscovered her as the writer who got out in 1952 — dubbing her 「跑路天后」 and 「潤學女神」 ([China Digital Times](https://20.chinadigitaltimes.net/3402.html)) — and the commentator **長平** (Chang Ping), writing for Deutsche Welle, urged readers to pick up *The Rice-Sprout Song*, arguing that 「《秧歌》與當下上海的境遇密切相關」 ([CNA, 21 Apr 2022](https://www.cna.com.tw/news/acn/202204210239.aspx)). Hong Kong, meanwhile, has watched its own space close. A writer who fled one silencing, recorded here explaining how translation outlives it, is worth preserving alongside them — which is the point of the archive's **[[Extra|extra]]** collection.
 
 *(This framing is the archive's own editorial note, not a claim about the lecture's content.)*
 
@@ -45,6 +45,72 @@ Her two cities have since met again in the headlines: **Shanghai's 2022 Covid lo
 Hong Kong shaped Chang twice, at the two great ruptures of her life. She first arrived in **August 1939**, at eighteen, to read English literature at the **[University of Hong Kong](https://www.hku.hk/press/press-releases/detail/21623.html)** — she had won a place at the University of London, but war in Europe sent her east instead. Her studies were cut short when Japan attacked the city: through the **Battle of Hong Kong** (December 1941) she volunteered as an air-raid nurse and watched the bombing of civilians, and she left without a degree, returning to occupied Shanghai in 1942. That wartime winter became her material — the essay **〈燼餘錄〉("From the Ashes")** and the novella **《傾城之戀》(*Love in a Fallen City*)**, in which the fall of the city is the catastrophe that, perversely, "fulfils" a romance. The Hong Kong stories she wrote on her return — including the **《沉香屑》("Aloeswood")** tales — made her an overnight sensation in 1940s Shanghai. *"The liberal arts education she received here shaped her… When she started writing, she wrote about Hong Kong,"* says HKU professor Nicole Huang ([Zolima CityMag](https://zolimacitymag.com/how-hong-kong-shaped-eileen-chang/)).
 
 Hong Kong took her in again at the next rupture. In **July 1952** Chang left the People's Republic for Hong Kong — officially to resume her HKU studies — and stayed three years. She worked as a translator for the **United States Information Service (USIS)**, under whose book programme she wrote two anti-Communist novels drawn from the land-reform violence she had glimpsed on the mainland: **《秧歌》(*The Rice-Sprout Song*)** and **《赤地之戀》(*Naked Earth*)**, which she later rewrote in Chinese ([3 Quarks Daily](https://3quarksdaily.com/3quarksdaily/2015/05/eileen-changs-naked-earth.html)). In **1955** she sailed for the United States and never returned to either city; her HKU years resurface in the autobiographical **《易經》(*The Book of Change*)** and **《小團圓》(*Little Reunions*)**.
+
+## Her legacy | 她留下了什麼
+
+> **In an age that built monuments, she kept the record of ordinary people — honestly, without flattery — and that record has outlived every regime that tried to edit it.**
+>
+> 在一個只立紀念碑的時代，她為凡人留下了紀錄——不美化、不說教；而這份紀錄，比每一個想刪改它的政權都活得更久。
+
+### 1. The ordinary person as the measure of an age | 凡人是時代的總量
+
+In 1944, answering the critic Fu Lei (傅雷), who wanted grander, more tragic fiction from her, Chang set out her creed in the essay **〈自己的文章〉("Writing of One's Own")**. She would not write "monuments of the era"; she wrote weak, compromised, ordinary people — because they, not heroes, carry history:
+
+> 「他們不是英雄，他們可是這時代的廣大的負荷者。」
+>
+> "They are not heroes, but they are of the majority who actually bear the weight of the times." *(English as quoted by James Jiang, [Sydney Review of Books](https://sydneyreviewofbooks.com/essays/love-and-desolation-remembering-eileen-chang))*
+>
+> 「正是這些凡人比英雄更能代表這時代的總量。」
+>
+> "It is precisely these ordinary people who, more than heroes, represent the sum total of this age." *(our translation)*
+
+She did not turn away from "the era" — the word recurs throughout the essay. She insisted on seeing it **through** ordinary lives. That is why every later generation, under every later order, keeps finding itself in her. The scholar Perry Link puts it plainly: she "looks past the grand political system itself and focuses instead on the lives of people — how they feel and behave as they adapt to what the system forces upon them" ([NYR Daily, 2015](https://www.nybooks.com/online/2015/05/15/china-language-game-eileen-chang/)).
+
+### 2. A defence of the "irrelevant" | 不相干的事
+
+Her memoir of the **Battle of Hong Kong**, **〈燼餘錄〉("From the Ashes", 1944)** — written after she lived through the December 1941 invasion as an HKU student and volunteer nurse — turns the creed into a request to historians:
+
+> 「可是私下裏總希望他們多說點不相干的話。」
+>
+> "…but privately I have always wished they might concern themselves a little more with irrelevant matters."
+>
+> 「人生的所謂『生趣』全在那些不相干的事。」
+>
+> "Man's *joie de vivre* is solely to be found in life's irrelevancies." — tr. Oliver Stunt, [*Renditions* 45 (1996)](https://www.cuhk.edu.hk/rct/renditions/sample/b45.html)
+
+What she remembers of the war is not its strategy but its people: a classmate's dismay at having 「沒有適當的衣服穿」 — nothing suitable to wear — and the senseless death of her history teacher, N. H. France, which she refuses to dress up as glorious sacrifice: 「一個好先生，一個好人。人類的浪費……」 ("A good teacher, a good man. The waste of humanity…" — *our translation*). In 《傾城之戀》 she pushes the irony to its limit: **「香港的陷落成全了她」** — "Hong Kong's defeat had brought Liusu victory" (tr. Karen S. Kingsbury). A whole city falls so that one ordinary woman can marry. The national catastrophe is not allowed to swallow the individual.
+
+### 3. Honesty that flatters no one | 不美化任何人
+
+What keeps this from being sentimental is that Chang spares nobody — not the state, not "the people", not herself. In the same war memoir she writes of **「我們這些自私的人」** ("we, the selfish") who carried on as if nothing had happened. Her chosen key is not tragic grandeur but **desolation**:
+
+> 「悲壯是一種完成，而蒼涼則是一種啟示。」
+>
+> "Tragedy is a kind of closure, while desolation is a form of revelation." *(English as quoted by James Jiang, [Sydney Review of Books](https://sydneyreviewofbooks.com/essays/love-and-desolation-remembering-eileen-chang))*
+
+This is also why her humanism is contested, and the page should say so. **Wang Anyi** (王安憶), the Shanghai novelist often called her heir, admired the style and rejected the worldview: 「我可能永遠不能寫得像她這麼美，但我的世界比她的大。」 ("I may never write as beautifully as she did, but my world is larger than hers" — quoted in [胡紅英, 2021](https://www.aisixiang.com/data/125293.html)). The scholar **Haiyan Lee** observes that in Chang's fiction the hierarchies of class, gender and race "intersect in such a way as to diffuse any possibility of righteous indignation, unalloyed compassion, or solidarity-making" ([MCLC, 2007](https://u.osu.edu/mclc/book-reviews/review-of-love-in-a-fallen-city/)). Chang's care for people is not warmth. It is a refusal to look away from them, or to lie about them.
+
+### 4. Work that no power can use whole | 誰都無法完整收編
+
+Because she gives no camp the heroes it wants, every power that has tried to claim her has had to cut her first:
+
+- **The PRC** publishes her love stories but still not her two novels of the early-1950s countryside, **《秧歌》(*The Rice-Sprout Song*)** and **《赤地之戀》(*Naked Earth*)**, which as of 2021 「無法在中國大陸出版」 ([王曉珏, 《二十一世紀》 2021](https://www.cuhk.edu.hk/ics/21c/media/articles/c184-202006010.pdf)). In 1996–2001 the official 《文藝報》 even listed 「標榜人性」 — "flaunting human nature" — among the marks of wartime collaboration ([張泉, 《二十一世紀》 2003](https://www.cuhk.edu.hk/ics/21c/media/online/0305084.pdf)). Her humanism was never politically neutral: it has always been read as a position. Today, a Shanghai scholar says, 「官方沒說不能研究張愛玲，但也沒有把她看得很重要」 ([CNA, 2020](https://www.cna.com.tw/news/firstnews/202009290336.aspx)).
+- **The anti-Communist side** could not use her whole either. 《赤地之戀》 was written under a US Information Service programme, yet it touched on the Kuomintang and Chiang Kai-shek, and an abridged edition was not made public in Taiwan until **1978** ([Hsieh, *Open Letters Monthly*](https://www.openlettersmonthlyarchive.com/olm/eileen-changs-changes-from-love-in-redland-to-naked-earth)).
+- **Her own American publisher**, Scribner's, asked her for an explicit death scene in the English *Rice-Sprout Song* "to strengthen the novel's political condemnation" ([王曉珏 2021](https://www.cuhk.edu.hk/ics/21c/media/articles/c184-202006010.pdf)). She had wanted the book understated. Hu Shih read it as she meant it: 「這本小說，從頭到尾，寫的是『飢餓』」 — "this novel, from beginning to end, is about *hunger*" (letter to Chang, 25 January 1955).
+
+The Chang that the state tolerates is exactly the humanist Chang — so long as it stays in the bedroom and the apartment. It becomes intolerable when the same attention reaches a hungry village.
+
+### Why she keeps coming back | 一再復活
+
+Her "resurrections" — the recurring 張愛玲熱 — were each set off by something outside the books: **C. T. Hsia**'s *A History of Modern Chinese Fiction* (1961), which called her "the best and most important writer in Chinese today"; the Taiwan and Hong Kong editions and films of the 1960s–80s; the mainland's post-Mao rediscovery from the early 1980s; her solitary death in Los Angeles in **1995**; Ang Lee's ***Lust, Caution*** (2007); the posthumous ***Little Reunions*** (2009), which sold some 700,000 copies in China in six months ([NYRB, 2018](https://www.nybooks.com/articles/2018/06/07/eileen-chang-before-the-revolution/)); the **2020 centenary**; and now, in **October 2026**, her own voice. Some of these waves ran on gossip and nostalgia; one critic describes the 1990s fever ending, as fevers do, as 「一種時尚」, a fashion ([溫儒敏, 2000](https://www.aisixiang.com/data/93380.html)). As David Der-wei Wang (王德威) put it, after 1949 「與其說張愛玲仍在創作，倒不如說她不斷地『被』創作」 — she was less writing than continually *being written* by others ([〈落地的麥子不死〉](https://www.aisixiang.com/data/90955.html)).
+
+The triggers explain **when** she returns. The work explains **why readers stay** once she does. Introducing the Harvard recording this month, Chai Jing read Chang's politics the same way — as 「从个人感受出发的」, grounded in personal experience rather than doctrine ([Chai Jing, Substack, 19 Oct 2026](https://chaijing.substack.com/p/82e)).
+
+### A note on famous lines | 名句辨正
+
+Two of the most-shared "Eileen Chang" lines are known **only from the memoir of her ex-husband, Hu Lancheng (胡蘭成)**, 《今生今世》, not from anything she published: **「因為懂得，所以慈悲」** and **「低到塵埃裡……從塵埃裡開出花來」**. And **「現世安穩，歲月靜好」**, from their 1944 marriage document, was by Hu's own account **his** addition. Many other lines circulating under her name — 「因為愛過，所以慈悲；因為懂得，所以寬容」, 「你還不來，我怎敢老去」 — are not hers at all ([騰訊新聞 explainer, 2021](https://news.qq.com/rain/a/20210912A0020600)). Every line this page attributes to Chang comes from her own published writing.
+
+*Why this belongs on this site (the archive's editorial note):* Chang's request that history 「多說點不相干的話」 is close to this archive's own purpose — keeping the "irrelevant" records of ordinary people that official history would rather drop: the [[📰 Press Freedom under Siege|press-freedom]] newsrooms, the [[🕯️ Tiananmen Vigil|tiananmen-vigil]] candles, the residents of [[🔥 Hong Kong Fire 2025|hong-kong-fire-2025]].
 
 ## In her words | 她的話
 
@@ -91,6 +157,22 @@ Reproducing the **audio** or a **full transcript** needs permission we do not ye
 - Eileen Chang, autobiographical entry, *World Authors 1950–1970: A Companion Volume to Twentieth Century Authors*, ed. John Wakeman (H. W. Wilson, 1975; written 1965) — source of the "In her words" quotation; English original [reproduced here](https://yeduchao.wordpress.com/2015/04/08/%E5%BC%A0%E7%88%B1%E7%8E%B2%E4%B8%80%E4%B9%9D%E5%85%AD%E4%BA%94%E5%B9%B4%E8%8B%B1%E6%96%87%E8%87%AA%E4%BC%A0/); 高全之 Chinese translation in 《張愛玲學》 (麥田, 2003).
 - Chai Jing (柴靜), [「周恩來為什麼沒留住張愛玲？｜張愛玲錄音公開」](https://www.youtube.com/watch?v=Q6K95r2rdfA) (YouTube, Oct 2026) · channel [柴靜 幕後 Chai Jing](https://www.youtube.com/channel/UCOfwFtvBgExnpFAum5Lbd-g).
 - [A deeper look into Eileen Chang through Roland Soong](https://www.youtube.com/watch?v=LyyQMbsPthQ) (YouTube) — Roland Soong 宋以朗, executor of Chang's estate (blog *EastSouthWestNorth*), on her life and legacy.
+
+**On her legacy** (Chang's essays are cited from their first venue and the Crown 皇冠 editions; the works remain in copyright, so only short excerpts are quoted):
+
+- Eileen Chang, 〈自己的文章〉 ("Writing of One's Own"), 《新東方》 1944; collected in 《流言》 (1944; Crown 皇冠). English: Andrew F. Jones, *Written on Water* (Columbia UP, 2005).
+- Eileen Chang, 〈燼餘錄〉 ("From the Ashes"), 《天地》 no. 5, Feb 1944; collected in 《流言》. English: Oliver Stunt, [*Renditions* 45 (1996)](https://www.cuhk.edu.hk/rct/renditions/sample/b45.html).
+- Eileen Chang, 〈傾城之戀〉 (1943), in 《傳奇》; English: Karen S. Kingsbury, *Love in a Fallen City* (NYRB Classics, 2007).
+- James Jiang, ["Love and Desolation: Remembering Eileen Chang"](https://sydneyreviewofbooks.com/essays/love-and-desolation-remembering-eileen-chang), *Sydney Review of Books* (2020) — source of the English renderings of 〈自己的文章〉 quoted above.
+- Perry Link, ["Mao's China: The Language Game"](https://www.nybooks.com/online/2015/05/15/china-language-game-eileen-chang/), NYR Daily, 15 May 2015.
+- Haiyan Lee, [review of *Love in a Fallen City*](https://u.osu.edu/mclc/book-reviews/review-of-love-in-a-fallen-city/), MCLC Resource Center (2007).
+- 王曉珏, [〈測繪冷戰文化地形圖：張愛玲與《秧歌》〉](https://www.cuhk.edu.hk/ics/21c/media/articles/c184-202006010.pdf), 《二十一世紀》 no. 184 (2021) — USIS context, the Scribner's death scene, Hu Shih's letter, PRC publication status.
+- 張泉, [《二十一世紀》 (2003)](https://www.cuhk.edu.hk/ics/21c/media/online/0305084.pdf) — the 1990s 《文藝報》 campaign against the "Chang fever".
+- Yu-Yun Hsieh, ["Eileen Chang's Changes: From *Love in Redland* to *Naked Earth*"](https://www.openlettersmonthlyarchive.com/olm/eileen-changs-changes-from-love-in-redland-to-naked-earth), *Open Letters Monthly* (2015).
+- 王德威, [〈落地的麥子不死〉](https://www.aisixiang.com/data/90955.html) (1996); 溫儒敏, [on the "Chang fever"](https://www.aisixiang.com/data/93380.html) (2000); 胡紅英, [on Wang Anyi and Chang](https://www.aisixiang.com/data/125293.html) (2021).
+- Revival history: [NYRB, 7 Jun 2018](https://www.nybooks.com/articles/2018/06/07/eileen-chang-before-the-revolution/); [NYT obituary, 13 Sep 1995](https://www.nytimes.com/1995/09/13/obituaries/eileen-chang-74-chinese-writer-revered-outside-the-mainland.html).
+- Contemporary resonance: [China Digital Times — 润](https://20.chinadigitaltimes.net/3402.html) (2022 lockdown); [CNA, 21 Apr 2022](https://www.cna.com.tw/news/acn/202204210239.aspx) (長平 on 《秧歌》); [CNA, 29 Sep 2020](https://www.cna.com.tw/news/firstnews/202009290336.aspx) (Shanghai centenary); [Chai Jing, Substack, 19 Oct 2026](https://chaijing.substack.com/p/82e).
+- On misattributed quotations: [騰訊新聞 explainer (2021)](https://news.qq.com/rain/a/20210912A0020600).
 
 **On Eileen Chang and Hong Kong:**
 
