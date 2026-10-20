@@ -18,5 +18,9 @@ There are also a lot of creative works during the anti-extradition movement in H
 -  [[🎵 Glory to Hong Kong|glory-to-hong-kong]] — now a top-level topic
 -  [[extra.underavastsky]]
 
+## Voices & recordings
+
+-  [[Eileen Chang at Radcliffe (1969)|extra.eileen-chang]] — an archived Harvard recording of the Shanghai-to-Hong Kong novelist's 1969 lecture on translation under state control
+
 
 
