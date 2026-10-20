@@ -10,6 +10,11 @@ Related: [[Extra|extra]] | [[📰 Press Freedom under Siege|press-freedom]] | [[
 
 > This page **links to** the recording held by Harvard's Schlesinger Library and does **not** reproduce the audio or a full transcript — the 1969 lecture is still under copyright (see **Rights** below). Inline audio or a transcript may be added later if the Eileen Chang estate and the Schlesinger Library grant permission.
 
+<figure style="float:right;width:300px;max-width:42%;margin:0.2rem 0 1rem 1.5rem;">
+  <img src="/assets/eileen-chang/chang-1944.jpg" alt="Eileen Chang in 1944" style="width:100%;border-radius:4px;">
+  <figcaption style="font-size:0.85em;color:#666;margin-top:0.3rem;">Eileen Chang, 1944, Shanghai — photographer unknown. Public domain, via <a href="https://commons.wikimedia.org/wiki/File:Eileen_Chang_(cropped).jpg">Wikimedia Commons</a>.</figcaption>
+</figure>
+
 Harvard's Schlesinger Library holds a **~73-minute audio recording of a lecture, "Chinese Translation: A Vehicle of Cultural Influence,"** attributed to **Eileen Chang** (張愛玲, 1920–1995) — the Shanghai-born novelist of *Love in a Fallen City* (傾城之戀) and *Lust, Caution* (色，戒), who fled the People's Republic for **Hong Kong in 1952** and later settled in the United States. She gave the talk as a **Radcliffe Institute fellow (1967–69)**, under her married name **Reyher**.
 
 **Listen at Harvard (streaming):** [Bunting Institute Seminars — "Reyher" track](https://mps.lib.harvard.edu/sds/audio/503996508) · persistent link [URN-3:RAD.SCHL:106426192](https://nrs.lib.harvard.edu/URN-3:RAD.SCHL:106426192) · finding aid [sch01475](https://hollisarchives.lib.harvard.edu/catalog/sch01475).
@@ -37,13 +42,15 @@ Her two cities have since met again in the headlines: **Shanghai's 2022 Covid lo
 
 ## In her words | 她的話
 
-From the short autobiographical statement Chang wrote in **1965** for *World Authors 1950–1970* — on why, after "the final disintegration of ingrown latter-day Confucianism," Communist rule could feel familiar to many Chinese:
+Short passages from Chang's own writing, with Chinese translation. More — from the **1969 Radcliffe lecture** — will be added here once verified against the published PMLA text (not the machine transcript of the audio).
+
+**On Communist rule and nationalism** — from her **1965** autobiographical statement for *World Authors 1950–1970*, on why, after "the final disintegration of ingrown latter-day Confucianism," Communist rule could feel familiar to many Chinese:
 
 > "To many others Communist rule is also more palatable for being a reversion to the old order, only replacing the family with the larger blood kin, the state, **incorporating nationalism, the undisputed religion of our time**."
 >
 > 「對另外許多人來說，共產黨的統治也更容易接受，因為它回到了舊秩序：只是用更大的血緣共同體——國家——取代家庭，**並吸納了民族主義，這個我們時代無可爭議的宗教**。」
-
-— Eileen Chang, autobiographical entry, *World Authors 1950–1970: A Companion Volume to Twentieth Century Authors*, ed. John Wakeman (H. W. Wilson, 1975; written 1965). Chinese rendering after 高全之's translation in 《張愛玲學》 (麥田, 2003).
+>
+> — *World Authors 1950–1970*, ed. John Wakeman (H. W. Wilson, 1975; written 1965); Chinese after 高全之, 《張愛玲學》 (麥田, 2003).
 
 ## A journalist's take: Chai Jing (2026)
 
