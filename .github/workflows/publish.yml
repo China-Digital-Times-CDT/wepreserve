@@ -62,8 +62,10 @@ jobs:
           -webkit-overflow-scrolling: touch;
         }
         EOF
-    - name: Apply template overrides (expand sidebar tree)
-      run: cp "$GITHUB_WORKSPACE/scripts/overrides/DendronTreeMenu.tsx" .next/components/DendronTreeMenu.tsx
+    - name: Apply template overrides (expand sidebar tree, comments box)
+      run: |
+        cp "$GITHUB_WORKSPACE/scripts/overrides/DendronTreeMenu.tsx" .next/components/DendronTreeMenu.tsx
+        cp "$GITHUB_WORKSPACE/scripts/overrides/DendronNoteGiscusWidget.tsx" .next/components/DendronNoteGiscusWidget.tsx
 
     - name: Export notes
       run: yarn dendron publish export --target github --yes
