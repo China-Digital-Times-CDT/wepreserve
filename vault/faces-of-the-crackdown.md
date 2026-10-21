@@ -2,7 +2,7 @@
 id: zlweal1kjlpoam4j62c2tmd1
 title: "✊ Faces of the Crackdown|鎮壓面孔"
 desc: The people behind the statistics of Hong Kong's national-security crackdown — the publishers, students, unionists, lawmakers and clergy who were jailed, driven into exile, or put on trial since 2020.
-updated: 1789214400000
+updated: 1792454400000
 created: 1789214400000
 ---
 
@@ -42,10 +42,10 @@ The leaders who kept the [[Tiananmen Vigil|tiananmen-vigil]] alive for thirty ye
 
 ## Driven abroad
 
-Others escaped Hong Kong before they could be jailed — only to be declared fugitives, stripped of passports, and in many cases made the subject of **HK$1 million police bounties**:
+Others escaped Hong Kong before they could be jailed, only to be declared fugitives and stripped of their passports. Since July 2023, **34 people living abroad** have been named in national-security arrest warrants with police rewards attached, and their families in Hong Kong have been questioned and, in one case, jailed. The full record, with who they are, what they do and what has been done to their families, is at **[[🌏 Pursued Abroad|pursued-abroad]]**.
 
-- **Nathan Law** (羅冠聰, UK), **Agnes Chow** (周庭, Canada) — [[Joshua Wong|faces-of-the-crackdown.joshua-wong]]'s Demosistō co-founders.
-- **Ted Hui** (許智峯, Australia), **Dennis Kwok** (郭榮鏗), **Kevin Yam** (任建峰), **Anna Kwok** (郭鳳儀), **Finn Lau** (劉祖廸), **Simon Cheng** (鄭文傑), **Frances Hui** (許穎婷) and others named on successive wanted lists — pursued for lobbying, advocacy, or organising abroad.
+- **Nathan Law** (羅冠聰, UK), **Agnes Chow** (周庭, Canada), [[Joshua Wong|faces-of-the-crackdown.joshua-wong]]'s Demosistō co-founders. Chow is wanted "for life" over bail, though without a reward.
+- **Ted Hui** (許智峯, Australia), **Dennis Kwok** (郭榮鏗), **Kevin Yam** (任建峰), **Anna Kwok** (郭鳳儀), **Finn Lau** (劉祖廸), **Simon Cheng** (鄭文傑), **Frances Hui** (許穎婷), **Carmen Lau** (劉珈汶), **Chloe Cheung** (張晞晴) and others named on successive lists, pursued for lobbying, testimony, journalism or organising abroad.
 
 ## Help complete this record
 
