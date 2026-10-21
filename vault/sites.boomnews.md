@@ -2,13 +2,15 @@
 id: 5884svv1q5r49n21h201xgt
 title: Boom News|爆炸頭
 desc: Boom News (爆炸頭), the independent Hong Kong outlet run by Tang Ho-wing — arrested for "sedition" in October 2026 — preserved here as a browsable web archive of its Facebook presence.
-updated: 1791763200000
+updated: 1792540800000
 created: 1791676800000
 ---
 
 Related: [[📰 Press Freedom under Siege|press-freedom]] | [[Stand News|sites.standnews]] | [[Apple Daily|sites.appledaily]]
 
 **Boom News** (爆炸頭) is an independent Hong Kong online news outlet run by journalist **Tang Ho-wing** (鄧浩榮) — a Chinese University computer-science graduate and former student- and online-press reporter who built the "爆炸頭" brand of street reporting and live-streams from around 2020 — with a following of some **200,000**, publishing chiefly through **Facebook**. On **30 September 2026**, national-security police arrested Tang (37) and former **League of Social Democrats** member **Lee Ying-chi** (李盈姿, 58) for allegedly "**spreading false information**" with **seditious intent** under section 24 of the 2024 Safeguarding National Security Ordinance — an offence carrying up to **seven years** — over coverage of the **31 August** commemorations of the 2019 **Prince Edward MTR** incident; the force confirmed the arrests on 1 October. Tang was **released on bail shortly after midnight on 2 October**, having been held almost two days; **no charge has been laid**. He was one of eight people arrested over the 31 August gathering. The Hong Kong Journalists Association's response — "**reporting is not sedition**" — and the wider pattern are on the [[Press Freedom under Siege|press-freedom]] hub.
+
+**Update — bank accounts frozen (October 2026).** On **7 October**, days after his release, Tang said on social media that **all of his personal bank accounts had been frozen** — with no advance notice and no formal freezing order shown to him. He said he had been left to rely on cash and could not even take up food-delivery work, which requires a bank account, and that he might have to "**resort to begging**." No bank has been named, no amount disclosed, and the authorities have not confirmed ordering the freeze. The freeze was first reported by the exile outlet **Points Media** (棱角媒體) and documented by the China Media Project's *[Lingua Sinica](https://lingua-sinica.org/frozen-out)*; the Committee to Protect Journalists and Reporters Without Borders have voiced concern. Cutting off a bail-released journalist's everyday banking — before any charge is even laid — extends the case from his reporting to his ability to live. The pattern sits alongside the overseas asset and funding measures on [[🌏 Pursued Abroad|pursued-abroad]] and the wider record on [[Press Freedom under Siege|press-freedom]].
 
 Because an outlet that lives on a platform can vanish with a single account takedown, this page preserves Boom News's Facebook presence as a **self-contained web archive** (WACZ) that replays in your browser — the timeline, photos, videos, reels and about pages as captured on **30 September – 1 October 2026**.
 
@@ -43,6 +45,7 @@ Because an outlet that lives on a platform can vanish with a single account take
 - [ABC News: Hong Kong police arrest journalist and activist over alleged 'seditious' acts (1 Oct 2026)](https://www.abc.net.au/news/2026-10-01/hong-kong-arrests-journalist-and-activist-national-security/)
 - [HKFP: Independent HK journalist Tang Ho-wing released on bail following sedition arrest (2 Oct 2026)](https://hongkongfp.com/2026/10/02/independent-hk-journalist-tang-ho-wing-released-on-bail-following-sedition-arrest/)
 - [CPJ: Hong Kong journalist Tang Ho-wing arrested in latest sedition case (Sept 2026)](https://cpj.org/2026/09/hong-kong-journalist-tang-ho-wing-arrested-in-latest-sedition-case/)
+- [Lingua Sinica (China Media Project): Frozen Out — Tang Ho-wing's bank accounts frozen after bail (14 Oct 2026)](https://lingua-sinica.org/frozen-out)
 
 **香港中文報道 (Chinese-language HK coverage):**
 
