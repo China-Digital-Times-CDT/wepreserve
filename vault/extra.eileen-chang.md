@@ -2,7 +2,7 @@
 id: 9f2kq7eilchang69radclf
 title: Eileen Chang at Radcliffe (1969)|張愛玲哈佛錄音
 desc: An archived Harvard recording attributed to Eileen Chang (張愛玲) — her 1969 Radcliffe lecture on Chinese translation — and why a Shanghai-to-Hong Kong writer who fled political control still reads as contemporary.
-updated: 1792454400000
+updated: 1792540800000
 created: 1792368000000
 ---
 
@@ -31,6 +31,12 @@ Harvard's Schlesinger Library holds a **~73-minute audio recording of a lecture,
 ### On the attribution
 
 Harvard's catalogue does **not** name Eileen Chang; it credits the track only to **"Reyher"** — the surname of Chang's American husband, the playwright Ferdinand Reyher (d. 1967). The identification rests on: (1) the companion track's host announcing the following week's speaker as **"Eileen Chang Reyher"** with this exact title; (2) Chang's documented **Radcliffe Institute fellowship (1967–69)** under that married name; and (3) convergent outside sources describing a **1 April 1969 Radcliffe lecture of this title and 1h12m length** as hers — a [Lingnan University](https://commons.ln.edu.hk/cgi/viewcontent.cgi?article=1288&context=jmlc) academic article, a [USC Libraries exhibit](https://scalar.usc.edu/works/eileen-chang-exhibit/media/untitled-speech-radcliffe-institute-1969), and October 2026 Chinese-language press ([United Daily](https://uniteddaily.my/en/6c8f64c3-7ffa-4b18-aa6b-67463a51bc8b/%E5%BC%A0%E7%88%B1%E7%8E%B2%E7%BD%95%E8%A7%81%E6%BC%94%E8%AE%B2%E5%8E%9F%E5%A3%B0%E5%BD%95%E9%9F%B3%E5%9C%A8%E4%B8%AD%E6%96%87%E4%BA%92%E8%81%94%E7%BD%91%E7%83%AD%E4%BC%A0)) — all matching this track. The identification is now widely made and well-supported, though **Harvard's own catalogue still files it only under "Reyher."**
+
+### How it surfaced | 錄音如何被發掘
+
+The recording went unheard for decades because it was **filed under the wrong name**. When the journalist **Chai Jing** (柴靜) set out to find any audio of Chang, she drew blanks everywhere: there was no reliably sourced recording online; the **East Asian Library at UC Berkeley** — where Chang had worked — told her it had none; **USC**'s catalogue of Chang's papers held no lead; she found no film or sound from Chang's **October 1961 visit to Taiwan**; and letters to the **US National Archives** and enquiries into **US State Department** overseas-mission files went nowhere.
+
+The break came from Chang's own correspondence. In a **1969 letter to Stephen Soong** (宋淇), Chang mentioned that she had lectured at the **Radcliffe Institute** — so Chai wrote to Harvard's **Schlesinger Library**. Its research-services lead, **Becky Morin**, replied that the library did hold such a recording, **digitised in 2025**, catalogued as *"Bunting Institute Seminars. Reyher; Bas-Cohain"* — under **Reyher**, Chang's married surname. A search for "Chang" would never have found it. Chai confirmed the speaker by matching the audio, passage by passage, against **Christopher Lee's 2015 *PMLA* transcript** of the lecture (the authoritative text cited under **Sources** below); the order and content lined up. 「是張愛玲」 — *it is Eileen Chang* — she concluded ([柴靜，〈張愛玲錄音如何發掘？〉, Substack](https://chaijing.substack.com/p/767)).
 
 ## Why it belongs in this archive
 
@@ -157,6 +163,7 @@ Reproducing the **audio** or a **full transcript** needs permission we do not ye
 - Eileen Chang, autobiographical entry, *World Authors 1950–1970: A Companion Volume to Twentieth Century Authors*, ed. John Wakeman (H. W. Wilson, 1975; written 1965) — source of the "In her words" quotation; English original [reproduced here](https://yeduchao.wordpress.com/2015/04/08/%E5%BC%A0%E7%88%B1%E7%8E%B2%E4%B8%80%E4%B9%9D%E5%85%AD%E4%BA%94%E5%B9%B4%E8%8B%B1%E6%96%87%E8%87%AA%E4%BC%A0/); 高全之 Chinese translation in 《張愛玲學》 (麥田, 2003).
 - Chai Jing (柴靜), [「周恩來為什麼沒留住張愛玲？｜張愛玲錄音公開」](https://www.youtube.com/watch?v=Q6K95r2rdfA) (YouTube, Oct 2026) · channel [柴靜 幕後 Chai Jing](https://www.youtube.com/channel/UCOfwFtvBgExnpFAum5Lbd-g).
 - [A deeper look into Eileen Chang through Roland Soong](https://www.youtube.com/watch?v=LyyQMbsPthQ) (YouTube) — Roland Soong 宋以朗, executor of Chang's estate (blog *EastSouthWestNorth*), on her life and legacy.
+- 柴靜 (Chai Jing), [〈張愛玲錄音如何發掘？〉](https://chaijing.substack.com/p/767) (Substack, Oct 2026) — her own account of tracing the recording: the dead ends at UC Berkeley, USC and the US National Archives, the clue in Chang's 1969 letter to Stephen Soong, and the Schlesinger Library's "Reyher" catalogue entry.
 
 **On her legacy** (Chang's essays are cited from their first venue and the Crown 皇冠 editions; the works remain in copyright, so only short excerpts are quoted):
 
