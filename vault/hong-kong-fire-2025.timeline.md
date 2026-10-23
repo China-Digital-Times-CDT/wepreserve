@@ -2,7 +2,7 @@
 id: wm9v6z1k5rx4nqlu8g03b2t
 title: Timeline
 desc: Sequence of reported events and follow-on actions for the Wang Fuk Court fire.
-updated: 1791763200000
+updated: 1792627200000
 created: 1764698071435
 ---
 
@@ -101,7 +101,7 @@ Parent: [[hong-kong-fire-2025]]
 
 ### Phase 5 — Winding Down & Open Threads (Aug 2026 →)
 
-*🔍 awaits its final report; **🏠 buyback** (acquisition of holdouts still under way) and **⚖️ prosecutions** are both still running.*
+*🔍 final report delivered (22 Oct); redacted public version still to come. **🏠 buyback** (acquisition of holdouts still under way) and **⚖️ prosecutions** are both still running.*
 
 | Date | 🔍 Investigation | 🏠 Resettlement | ⚖️ Legal |
 |------|------------------|-----------------|----------|
@@ -110,7 +110,8 @@ Parent: [[hong-kong-fire-2025]]
 | **08-31** | — | — | Fire survivor and petition organiser **Jason Kong** and wife **Rosanna Cheung** charged with **conspiracy to defraud (×2) + money laundering** over the Special 100% Loan Guarantee scheme; first arrested in May, two weeks after Kong delivered the 247-signature petition ([HKFP](https://hongkongfp.com/2026/08/31/tai-po-fire-victim-and-petition-organiser-jason-kong-and-wife-charged-with-fraud-and-money-laundering/), [SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3353674/former-wang-fuk-court-representative-and-wife-held-over-fraud-money-laundering)). |
 | **09-09** | — | — | **Buildings Department lays 259 charges** (9 months after the fire, with the Housing Bureau's **Independent Checking Unit**) against **Will Power Architects** & **Prestige Construction** and **4 individuals** — Will Power director **Wong Hap-yin**, its registered inspector **Ng Yeuk**, and Prestige directors **Hau Wa-kin** & **Ho Kin-yip** — for using **non-compliant materials** (non-fire-retardant netting, canvas and foam boards; fire-escape windows removed and covered, which "helped the fire spread" and hindered escape), works causing injury/damage, and the inspector's **failure to supervise** the prescribed repairs. A regulatory batch under the Buildings Ordinance, separate from June's criminal case ([HKFP](https://hongkongfp.com/2026/09/09/buildings-dept-launches-259-prosecutions-over-works-at-fire-hit-wang-fuk-court-9-months-after-fatal-blaze/), [The Standard](https://www.thestandard.com.hk/news/article/342323/Two-firms-four-individuals-face-259-charges-over-Wang-Fuk-Court-fire)). |
 | **09-26** | — | — | DAB Tai Po South councillor **Peggy Wong** (黃碧嬌) — under scrutiny over her proxy-vote collection ahead of the HK$330m renovation tender (see **03-26** and the Investigation page) — **resigns** her district-council seat, area-committee and care-team posts, **citing health**; she had already stepped down as adviser to a second estate. She denies wrongdoing ([SCMP](https://www.scmp.com/news/hong-kong/politics/article/3368905/district-councillor-peggy-wong-resigns-amid-proxy-vote-claims-after-tai-po-blaze), [Dim Sum Daily](https://www.dimsumdaily.hk/peggy-wong-resigns-as-tai-po-district-councillor-citing-health-reasons/)). |
-| **Pending** | Independent committee's **final report** due **late October 2026**. | **17 holdouts** face compulsory acquisition — compensation likely pegged to the lower post-fire value, with legislation flagged for **2027**; Wang Chi House owners decide on their separate ~HK$1b offer by **Oct 15**. | Criminal case next mention **Sep 2, 2026**. |
+| **10-22** | **Final report submitted** to CE John Lee (Thu morning). The committee — Judge **David Lok** with members **Chan Kin-por** and **Rex Auyeung** — is reported to largely endorse lead counsel Dawes's July findings: it faults contractor **Prestige Construction** and consultancy **Will Power Architects**, and names **four government bodies for neglect of duty** — the Housing Bureau's **Independent Checking Unit** (heaviest responsibility), **Fire Services**, **Buildings** and **Labour** Departments — but **no individual officials**, leaving the government to decide accountability and any discipline. A **redacted public version** is due the following week at the earliest (legal advice sought first so release does not prejudice the pending criminal cases). Government: it "will carefully study... actively follow up on its recommendations" and "shortly announce the plans for the comprehensive reforms" ([HKFP](https://hongkongfp.com/2026/10/22/tai-po-fire-independent-committee-submits-final-report-on-wang-fuk-court-blaze-to-hong-kong-leader/), [SCMP](https://scmp.com/news/hong-kong/politics/article/3371533/tai-po-fire-report-be-submitted-thursday-scathing-submission-endorsed)). | — | — |
+| **Pending** | **Redacted public report** due the week of Oct 26 at the earliest; government to "shortly announce" comprehensive reforms and rule on official accountability. | **17 holdouts** face compulsory acquisition — compensation likely pegged to the lower post-fire value, with legislation flagged for **2027**; Wang Chi House owners decided on their separate ~HK$1b offer by **Oct 15**. | Criminal case proceeding; Buildings Department's 259 regulatory charges also live. |
 
 ---
 
