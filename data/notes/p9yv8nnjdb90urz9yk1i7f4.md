@@ -1,0 +1,17 @@
+​香港言語治療師總工會（職工會登記編號：1357）於2019年11月29日刊憲正式成立。工會宗旨為「捍衛公義、團結業界、促進溝通、爭取權益」。根據傳媒報道，工會擁有約二百名成員，佔該行業專業人員總數的六分之一。2021年7月，工會5名成員，包括黎雯齡（25歲）、楊逸意（27歲）、伍巧怡（28歲）、陳源森（25歲）及方梓皓（26歲）涉嫌串謀刊印、發佈、分發、展示或複製煽動刊物罪被捕。所涉刊物包括《羊村守衛者》、《羊村十二勇士》和《羊村清道夫》。2021年10月13日，香港政府撤銷該工會之登記。
+(URL: https://www.guhkst.org/)
+
+The General Union of Hong Kong Speech Therapists was founded on 29 November 2019 with a mission to advocate justice, unite professionals in the trade, promote communication and defend rights. In July 2021, four of the union's former members, Lai Man-ling, Melody Yeung, Sidney Ng, Samuel Chan and Marco Fong were arrested by national security police. They were accused of publishing and distributing three children's books, _Guardians of the Sheep Village_, _12 Warriors of the Sheep Village_, and _Dustman of the Sheep Village_, to “bring into hatred or contempt or to excite disaffection” against the Hong Kong government and “the administration of justice in Hong Kong” .
+On 13 October 2021, the government of the HKSAR revoked the registration of the union. (URL: https://www.guhkst.org/)
+
+A screenshot of the website as of 25 April 2022:
+![image](https://user-images.githubusercontent.com/103475460/165094567-d5196f18-3cf1-4faf-89b7-a28f807c93d8.png)
+
+## Archives
+(State: Completed)
+
+- [.WACZ Replay](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fguhkst-04_22_2022.wacz#view=pages&url=https%3A%2F%2Fwww.guhkst.org%2F&ts=20220422034405) 
+Comic books: [《羊村守衛者》(The Guardians of Sheep Village)](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E5%AE%88%E8%A1%9B%E8%80%85.pdf)、[《羊村十二勇士》(The 12 Heroes of Sheep Village)](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E5%8D%81%E4%BA%8C%E5%8B%87%E5%A3%AB.pdf)和[《羊村清道夫》(Dustman of Sheep Village)](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E6%B8%85%E9%81%93%E5%A4%AB.pdf)
+    
+- [Wayback Machine](https://web.archive.org/web/20210722233229/https://www.guhkst.org/publication)
+
