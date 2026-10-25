@@ -2,7 +2,7 @@
 id: 5iom2ypahedhsabpx592itb
 title: Factwire|傳真社
 desc: ''
-updated: 1752856018466
+updated: 1792886400000
 created: 1650474501518
 ---
 
@@ -14,7 +14,7 @@ status: Closed
 FactWire is an investigative news agency headquartered in Kowloon, Hong Kong. 3,300 Hong Kong residents funded and founded FactWire in the first round of seed fund via the crowdfunding platform FringeBacker in 2015. As a non-profit public service news agency, it was established on 18 August 2015, and became operational on 1 March 2016. FactWire mainly focuses on watchdog investigative reporting wired to a large number of Hong Kong's mainstream news outlets. 
 
 A screenshot of the website as of 25 April 2022:
-![image](https://user-images.githubusercontent.com/103475460/165094356-ba7e0e95-da2e-456f-b7b8-9c7d287287ba.png)
+![image](/assets/sites/factwire.png)
 
 
 ## Archives

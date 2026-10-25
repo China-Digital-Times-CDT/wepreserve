@@ -2,7 +2,7 @@
 id: sjhjzts9jlz2dyz2vc03f9x
 title: CHRF|民陣
 desc: ''
-updated: 1653378760200
+updated: 1792886400000
 created: 1651469999989
 ---
 
@@ -11,7 +11,7 @@ created: 1651469999989
 The Civil Human Rights Front (CHRF) was an organisation that focused on the issues of Hong Kong politics and livelihood, affiliated with almost all pan-democratic camps in Hong Kong. It was founded on 13 September 2002 and disbanded on 15 August 2021. Forty-eight NGOs and political groups were involved in the organisation in January 2006. The most well-known event held by the CHRF was the Hong Kong 1 July marches. (URL: http://www.civilhrfront.org/)
 
 A screenshot of the website as of 5 May 2021:
-![image](https://user-images.githubusercontent.com/103475460/166191025-232993b5-2fa4-44b1-8c03-cc929e90e6e7.png)
+![image](/assets/sites/chrf.png)
 
 
 ## Archives

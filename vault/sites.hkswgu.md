@@ -2,7 +2,7 @@
 id: ju72vzz4n18y533d8cr0xe3
 title: HKSWGU|社總
 desc: ''
-updated: 1653380550039
+updated: 1792886400000
 created: 1652981636129
 ---
 
@@ -12,7 +12,7 @@ created: 1652981636129
 Hong Kong Social Workers' General Union (HKSWGU) is a trade union for the social workers in Hong Kong. It was established in 1980. Its mission is to "unite with co-workers, fight for rights, improve services, and uphold justice". During the Anti-Extradition Law Amendment Bill Movement in 2019, the union proactively voiced its support for the pro-democratic camp and condemn policce brutality. (URL: https://www.hkswgu.org.hk/)
 
 A screenshot as of 20 May 2021
-![image](https://user-images.githubusercontent.com/103475460/169373151-d6ff4924-5a0d-4d6e-aa1a-1d07f0b45fd1.png)
+![image](/assets/sites/hkswgu.png)
 
 
 ## Archives

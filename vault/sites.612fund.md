@@ -2,7 +2,7 @@
 id: dufdw69x0qmd2b3w7d672p4
 title: 612 Fund|612基金會
 desc: ''
-updated: 1653378529019
+updated: 1792886400000
 created: 1650983002698
 ---
 
@@ -11,7 +11,7 @@ created: 1650983002698
 Established on 15th June, 2019, the Fund aims to provide humanitarian and relevant financial support to persons who are injured, arrested, attacked or threatened with violence during Anti-ELAB protests, including but not limited to the actions on 12th June. The fund primarily provides legal, medical, psychological and emergency financial assistance. The Fund announced on 18 August 2021 that it will cease operation in an orderly manner. (URL: https://612fund.hk/)
 
 A screenshot as of 26 April 2022:
-![image](https://user-images.githubusercontent.com/103475460/165332748-5ca37d4c-a981-4d24-af7e-b759475df397.png)
+![image](/assets/sites/612fund.png)
 
 
 ## Archives

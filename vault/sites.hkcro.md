@@ -2,7 +2,7 @@
 id: brqstsp1v6lnf1n0rm4ase0
 title: HKCRO|民權觀察
 desc: ''
-updated: 1653380047130
+updated: 1792886400000
 created: 1650984367213
 ---
 
@@ -11,7 +11,7 @@ created: 1650984367213
 Civil Rights Observer is a civil society organisation formed after the Umbrella Movement in 2014 that focused on police abuse of power and civil rights. The organisation advocated for improvements to police abuse and human rights violations, and went to the United Nations Committee against Torture in Geneva to lobby the international community on the deteriorating human rights situation in Hong Kong. On 6 July 2021, in view of the situation in Hong Kong and resource constraints, the organisation ceased operations. (URL: https://www.hkcro.org/)
 
 A screenshot of the website as of 29 May 2020:
-![image](https://user-images.githubusercontent.com/103475460/165333407-acbd2c43-cf43-43c9-963b-ea36ee27d54f.png)
+![image](/assets/sites/hkcro.png)
 
 
 ## Archives

@@ -2,7 +2,7 @@
 id: jsb32bx2qu1fdhdbrsoef47
 title: Hong Kong Pastors Network|香港基督教教牧聯署籌委會
 desc: ''
-updated: 1653380433023
+updated: 1792886400000
 created: 1652204394822
 ---
 
@@ -11,7 +11,7 @@ created: 1652204394822
 In May 2019, the Hong Kong SAR Government proposed the Extradiction Law Amendment Bill, which triggered the Anti-Extradition Law Amendment Bill Movement. Seeing the need for pastoral care in a volatile society, a group of pastors formed a temporary organization called the "Hong Kong Christian Pastoral Organizing Committee" and 30 pastors launched a public pastoral coalition, stating their determination to "defend the truth and reject lies" and requesting the Government to withdraw the amendments to the bill. In August 2020, the key pastors of the network left Hong Kong. The organisation was disbanded accordingly. (URL: https://hkpastors.net/)
 
 A screenshot as of 24 May 2022:
-![image](https://user-images.githubusercontent.com/103475460/169947289-3aaaa59b-d1db-41fc-8616-624ee5189cb1.png)
+![image](/assets/sites/hkpastors.png)
 
 
 

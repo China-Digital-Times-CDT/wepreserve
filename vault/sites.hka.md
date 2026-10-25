@@ -2,7 +2,7 @@
 id: nkaza0o35rwokugfvcltlgz
 title: HKA|支聯會
 desc: ''
-updated: 1789732800000
+updated: 1792886400000
 created: 1650856633198
 ---
 
@@ -11,10 +11,10 @@ created: 1650856633198
 The Hong Kong Alliance in Support of Patriotic Democratic Movements of China was a pro-democracy organisation that was established on 21 May 1989 in the then British colony of Hong Kong during the 1989 Tiananmen Square protests and massacre in Beijing. After the 4 June massacre, the organisation main goals were the rehabilitation of the democracy movement and the accountability for the massacre. The main activities the organisation held were the annual memorials and commemorations, of which the [[candlelight vigil in Victoria Park|tiananmen-vigil]] was the most attended, reported and discussed event each year. Due to its stance, the Central government in Beijing considers the organisation subversive. Three leaders, including its vice chairwoman Chow Hang-tung were arrested on other national security charges on 9 September 2021, and its assets were frozen. The Alliance finally decided to dissolve on 25 September after all standing committee members were remanded in custody or jailed. (URL: http://www.alliance.org.hk/, redirected to https://hka8964.wordpress.com/) (FB Page: https://www.facebook.com/hkalliance)
 
 A screenshot of https://hka8964.wordpress.com/ as of 1 August 2021:
-![image](https://user-images.githubusercontent.com/103475460/165095516-7383e19b-ad93-4294-b92d-1ea710af0d5d.png)
+![image](/assets/sites/hka-1.png)
 
 A screenshot of the Facebook Page of the organisation as of 25 April 2022:
-![image](https://user-images.githubusercontent.com/103475460/165095067-07cd8b2f-ccef-4273-92e2-fd279b349031.png)
+![image](/assets/sites/hka-2.png)
 
 ## Update — subversion conviction (2026)
 

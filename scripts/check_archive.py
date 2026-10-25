@@ -103,7 +103,8 @@ for f in files:
     HUBS = ("press-freedom", "films", "statues", "tiananmen-vigil",
             "faces-of-the-crackdown", "hong-kong-47", "book-censorship",
             "glory-to-hong-kong", "hong-kong-fire-2025")
-    if fn in HUBS and "Sources" not in text and "香港中文報道" not in text:
+    if (fn in HUBS and "Sources" not in text
+            and "References" not in text and "香港中文報道" not in text):
         convention.append((fn,))
 
 orphans = sorted(fn for fn, n in inbound.items()

@@ -2,7 +2,7 @@
 id: aqgv6hy8557vuejq41qf8o49q
 title: "🗽 Statues & Monuments|紀念雕塑"
 desc: Hong Kong's public monuments to the 1989 Tiananmen crackdown and the 2019 protests — the Pillar of Shame, the Goddess of Democracy, Lady Liberty — and how they were removed, seized, and driven abroad.
-updated: 1789819200000
+updated: 1792886400000
 created: 1788310800000
 ---
 
@@ -55,3 +55,19 @@ That file outlived the statue. One authentic print of it — made anonymously in
 ## A coordinated erasure
 
 The December 2021 campus removals — the Pillar, the Goddess and the Lingnan relief — came within **72 hours** of one another, universities acting just before year's end amid the wider crackdown. Together with the banned vigil, the frozen [[Hong Kong Alliance|sites.hka]] and the shuttered [[8964 Museum|extra.8964]] — which survives only online, from overseas — they mark the physical erasure of Tiananmen memory from Hong Kong's public space, even as the monuments reappear, in replica and in augmented reality, beyond the city's reach.
+
+## Sources
+
+- [HKFP: Danish sculptor writes to Hong Kong court asking for return of Tiananmen crackdown monument (1 Sept 2026)](https://hongkongfp.com/2026/09/01/danish-sculptor-writes-to-hong-kong-court-asking-for-return-of-tiananmen-crackdown-monument/)
+- [HKFP: Two more Hong Kong universities tear down Tiananmen monuments in early hours (24 Dec 2021)](https://hongkongfp.com/2021/12/24/breaking-two-more-hong-kong-universities-tear-down-tiananmen-massacre-monuments-in-early-hours-of-fri/)
+- [The Art Newspaper: Pillar of Shame sculpture seized by Hong Kong police (8 May 2023)](https://www.theartnewspaper.com/2023/05/08/pillar-shame-sculpture-hong-kong-tiananmen-square-seized)
+- [Artnet: Hong Kong police's seizure of the Tiananmen monument makes the artwork bigger (2023)](https://news.artnet.com/art-world-archives/hong-kong-polices-seizure-tiananmen-monument-makes-artwork-bigger-2297973)
+- [Al Jazeera: Hong Kong university Tiananmen massacre statue 'Pillar of Shame' (23 Dec 2021)](https://www.aljazeera.com/news/2021/12/23/hong-kong-university-tiananmen-massacre-statue-pillar-shame)
+- [NBC News: Tiananmen massacre statue barricaded at Hong Kong university](https://www.nbcnews.com/news/world/tiananmen-massacre-statue-barricaded-hong-kong-university-rcna9693)
+- [RFA: China, Danish artist and the Pillar of Shame (6 Oct 2023)](https://www.rfa.org/english/news/china/china-danish-artist-10062023170341.html)
+- [SCMP: Goddess of Democracy statue removed (2021)](https://www.scmp.com/news/hong-kong/society/article/3160915/goddess-democracy-statue-tiananmen-square-memorial-removed)
+- [CNN: Hong Kong statues and symbols](https://www.cnn.com/style/article/hong-kong-statues-symbols/index.html)
+- [PBS NewsHour / AP: Universities remove more Tiananmen memorials in Hong Kong](https://www.pbs.org/newshour/world/universities-remove-more-tiananmen-massacre-memorials-in-hong-kong)
+- [France 24: Protesters erect Lady Liberty statue on Hong Kong mountain top (13 Oct 2019)](https://www.france24.com/en/20191013-protesters-erect-lady-liberty-statue-on-hong-kong-mountain-top)
+- [HKFP: Hong Kong's Lion Rock, final resting place of Lady Liberty (13 Oct 2019)](https://hongkongfp.com/2019/10/13/pictures-hong-kongs-lion-rock-final-resting-place-lady-liberty-democracy-statue/)
+- [Museum of New Zealand Te Papa Tongarewa: Lady Liberty Hong Kong print (object 1887451)](https://collections.tepapa.govt.nz/object/1887451)

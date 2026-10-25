@@ -2,7 +2,7 @@
 id: 2xb3y6yb4z4l9nzh3hrm648
 title: Wall-Fare|石牆花
 desc: ''
-updated: 1653381656781
+updated: 1792886400000
 created: 1650872796863
 ---
 
@@ -11,7 +11,7 @@ created: 1650872796863
 Wall-Fare was founded by former pro-democracy lawmaker Shiu Ka-chun on 14 December 2020; it provided support for detained pro-democracy activists by raising funds to provide daily necessities and providing emotional support through a coordinated a letter-writing scheme. On 7 September 2021, the then security chief of Hong Kong claimed that prisoners were using privileges such as chocolates and hair clips to recruit forces to endanger national security. On 14 September 2021, the group announced its disbandment on Facebook. (URL: https://wallfarehk.com/)
 
 A screenshot of the website as of 25 April 2022:
-![image](https://user-images.githubusercontent.com/103475460/165097109-9449e338-8d97-4ae3-a028-3d63643a2786.png)
+![image](/assets/sites/wallfare.png)
 
 
 ## Archives

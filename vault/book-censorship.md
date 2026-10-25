@@ -2,7 +2,7 @@
 id: 74owa8sp34nmlvdwk5io11k
 title: "📕 Book Censorship under the NSL"
 desc: The criminalisation of books, booksellers and publishing in Hong Kong under the National Security Law — from the Sheep Village sedition case to the 2026 bookshop raids
-updated: 1787443200000
+updated: 1792886400000
 created: 1653379309446
 ---
 
@@ -46,3 +46,20 @@ The shops that remain have turned that scrutiny into quiet defiance. At **Hunter
 The shops' pull reaches across the border. For young mainland Chinese readers, a trip to a Hong Kong independent bookshop is a passage into a freer world — a place to find titles scrubbed from China's internet and a communal warmth they say the mainland lacks. 23-year-old Chen Zhu travelled from Guangzhou to track down *The Unburned Book*, a Taiwanese poet's reflection on exiled Tiananmen protesters; others describe staff-written shelf-notes and a wall of black sticky notes at Hunter mourning the 168 victims of the 2025 Tai Po tower fire. Since 2023 Hunter and other shops have co-hosted **"Reading Everywhere,"** an alternative book fair timed to run alongside the government-linked Hong Kong Book Fair. "Buying a book," one mainland reader said after the raids, "has become a quiet way of showing support, and a quiet form of resistance" ([BBC](https://www.bbc.com/news/articles/cj0338l6yg4o)).
 
 Observers see that persistence as the point. Interviewed on NPR's *Here & Now*, UC Irvine historian **Jeffrey Wasserstrom** described the shops as evidence of Hong Kong's "enduring spirit of creative resistance" against a party that prefers quiet, administrative repression to spectacle ([WBUR](https://www.wbur.org/hereandnow/2026/08/20/hong-kong-bookstores)). As former journalist and ex-lawmaker **Gwyneth Ho** — now serving a seven-year subversion sentence — has argued, the deeper legacy of Hong Kong's protest years is that people learned to make their own choices and influence others through them. "Bookshops are like trees," the owner of one now-shuttered shop told Bloomberg. "They grow by themselves" ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-20/hong-kong-bookstores-face-crackdown-over-seditious-books)).
+
+## Sources
+
+- [HKFP: Explainer — Hong Kong's national security crackdown, month 73 (9 Aug 2026)](https://hongkongfp.com/2026/08/09/explainer-hong-kongs-national-security-crackdown-month-73)
+- [HKFP: Escalating crackdown on independent bookstores puts relationship with Taiwan publishers in spotlight (17 Aug 2026)](https://hongkongfp.com/2026/08/17/escalating-crackdown-on-hong-kongs-independent-bookstores-puts-relationship-with-taiwan-publishers-in-spotlight/)
+- [HKFP: Govt refusal to release banned-book list is 'abuse of power', Christian NGO says (3 Aug 2026)](https://hongkongfp.com/2026/08/03/govt-refusal-to-release-banned-book-list-following-independent-bookstore-arrests-is-abuse-of-power-christian-ngo-says/)
+- [HKFP: Independent bookstores and publishers face simultaneous tax probes (20 Jul 2025)](https://hongkongfp.com/2025/07/20/is-it-a-coincidence-hong-kong-independent-bookstores-publishers-face-simultaneous-tax-probes/)
+- [HKFP: Authorities checking for banned books shipped from Taiwan (24 Jul 2026)](https://hongkongfp.com/2026/07/24/hong-kong-authorities-checking-for-banned-books-shipped-from-taiwan-says-taiwanese-official/)
+- [HKFP: Not recommended reading — the books Hong Kong is purging from public libraries (26 May 2023)](https://hongkongfp.com/2023/05/26/not-recommended-reading-the-books-hong-kong-is-purging-from-public-libraries/)
+- [BBC: Hong Kong's independent bookshops (2026)](https://www.bbc.com/news/articles/cj0338l6yg4o)
+- [NPR: Hong Kong booksellers arrested for allegedly selling seditious books (15 Jul 2026)](https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books)
+- [CPJ: Hong Kong arrests two journalists in latest sedition case targeting independent bookstores (Jul 2026)](https://cpj.org/2026/07/hong-kong-arrests-two-journalists-in-latest-sedition-case-targeting-independent-bookstores/)
+- [Bloomberg: Hong Kong bookstores face crackdown over seditious books (20 Aug 2026)](https://www.bloomberg.com/news/articles/2026-08-20/hong-kong-bookstores-face-crackdown-over-seditious-books)
+- [WBUR *Here & Now*: Hong Kong bookstores (20 Aug 2026)](https://www.wbur.org/hereandnow/2026/08/20/hong-kong-bookstores)
+- [Amnesty International: Arrests for possession of seditious children's books 'a new low' (Mar 2023)](https://www.amnesty.org/en/latest/news/2023/03/hong-kong-arrests-for-possession-of-seditious-childrens-books-a-new-low-for-human-rights/)
+- [Taipei Times: editorial on the bookstore crackdown (22 Jul 2026)](https://www.taipeitimes.com/News/editorials/archives/2026/07/22/2003861144)
+- [China Digital Times: police raid two more independent bookstores during the Book Fair (Jul 2026)](https://chinadigitaltimes.net/2026/07/amid-hong-kong-book-fair-police-raid-two-more-independent-bookstores-arrest-five-booksellers/)

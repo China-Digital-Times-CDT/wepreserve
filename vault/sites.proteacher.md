@@ -2,7 +2,7 @@
 id: m98mt34rcyn6x0myu4xudjn
 title: PTA|進師盟
 desc: ''
-updated: 1653381368954
+updated: 1792886400000
 created: 1650984892847
 ---
 
@@ -11,7 +11,7 @@ created: 1650984892847
 The Progressive Teachers' Alliance (PTA) was a teachers' organisation in Hong Kong founded in 2014 and dissolved on 4 July 2021. Members of the Progressive Teachers' Alliance stood in the 2014 general election of the Supervisory Board of the Hong Kong Professional Teachers' Union (HKPTU) and won six of the 19 seats. (URL: http://www.proteachers.org.hk/)
 
 A screenshot of the website as of 21 May 2018:
-![image](https://user-images.githubusercontent.com/103475460/165335323-dd50459b-df44-4ca6-9c46-775024939c8f.png)
+![image](/assets/sites/proteacher.png)
 
 
 ## Archives

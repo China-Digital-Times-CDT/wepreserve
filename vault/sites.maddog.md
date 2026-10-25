@@ -2,7 +2,7 @@
 id: 5jxtpag0ht7jn6ka3i6f5uw
 title: Mad Dog Daily|癲狗日報
 desc: ''
-updated: 1653380998947
+updated: 1792886400000
 created: 1652983251466
 ---
 
@@ -11,7 +11,7 @@ created: 1652983251466
 Mad Dog Daily was founded by former member of the Legislative Council of Hong Kong, Raymond Wong Yuk Man, in 1996. The newspaper was suspended in 1998 until it resumed publication with an online version in 2018 and ceased operation in January 2022. In both cases, the editor-in-chief was Mr. Leung Kam Cheung. (URL: maddog.myradio.hk)
 
 A screenshot as of 15 December 2019:
-![image](https://user-images.githubusercontent.com/103475460/169372678-decbd6fb-d812-45e7-88d5-36eaeab2ed85.png)
+![image](/assets/sites/maddog.png)
 
 
 ## Archives

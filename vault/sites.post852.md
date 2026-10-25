@@ -2,7 +2,7 @@
 id: 33ntwiqahd4qwoaeecdn9af
 title: Post 852|852郵報
 desc: ''
-updated: 1653381329475
+updated: 1792886400000
 created: 1650468180922
 ---
 
@@ -11,7 +11,7 @@ created: 1650468180922
 Post 852 was founded in 2013 by Yuen Yiu Ching, former deputy chief editor of Hong Kong Economic Journal. The website focused on commentaries, blogging and user interactions. In terms of politica stance, it is pro-democracy. On 15 May 2021, the website was shut down in view of the coming into force of the National Security Law. (URL: https://www.post852.com)
 
 A screenshot of the website as of 3 February 2021:
-![image](https://user-images.githubusercontent.com/103475460/165334630-b22b0991-93e6-4532-b80e-3d6d4c614101.png)
+![image](/assets/sites/post852.png)
 
 
 ## Archives

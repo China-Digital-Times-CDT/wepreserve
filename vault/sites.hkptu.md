@@ -2,7 +2,7 @@
 id: d7ltxj7z3rf6yljcyg114ny
 title: HKPTU|教協
 desc: ''
-updated: 1653380515524
+updated: 1792886400000
 created: 1650883836482
 ---
 
@@ -11,7 +11,7 @@ created: 1650883836482
 The Hong Kong Professional Teachers' Union (HKPTU) is a union of teachers from universities, secondary schools, primary schools, kindergartens, special schools and all levels of schools in Hong Kong. With a membership of 96,670, it was once the largest single-sector trade union in Hong Kong and the most democratic organisation with the largest number of members. It is not only a trade union, but also an educational, social and civic organisation. On 10 August 2021, the HKPTU, which had been in existence for 48 years, was dissolved due to the Hong Kong National Security Law, and on 11 September 2021, the dissolution was formally approved at an Extraordinary General Meeting. (URL: https://hkptu.org/)
 
 A screenshot of the website as of 18 July 2021:
-![image](https://user-images.githubusercontent.com/103475460/165096934-7a4f42d9-cd43-4aff-b177-8098c183636d.png)
+![image](/assets/sites/hkptu.png)
 
 
 ## Archives

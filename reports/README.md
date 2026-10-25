@@ -42,9 +42,15 @@ The check has two halves: an **audit** of the archive as it stands (steps
      links still resolve (dead/404, moved)? Do sources follow house rules —
      a *range* of real international journalism (HKFP, SCMP, AP, Reuters, CNN,
      Al Jazeera, Guardian, BBC, RFA) plus Traditional-Chinese HK outlets (The
-     Witness/法庭線, InMedia/獨立媒體, 端傳媒, zh.wikipedia), **never**
-     state/establishment media? Are images freely-licensed, self-hosted under
-     `vault/assets`, and attributed (never hotlinked news-agency photos)?
+     Witness/法庭線, InMedia/獨立媒體, 端傳媒, zh.wikipedia)? Two tiers to keep
+     separate: **never** cite PRC/HK *state or Party* media (大公報, 文匯報,
+     China Daily, Global Times, Xinhua, TVB, guancha) — not as a source for
+     anything. **Use sparingly** the big commercial HK outlets whose
+     independence is contested (HK01, 星島/Sing Tao, sina): fine for a plain
+     local fact that corroborates a better source, but not the sole or lead
+     source for a contested or political claim. Are images freely-licensed,
+     self-hosted under `vault/assets`, and attributed (never hotlinked
+     news-agency photos)?
 5. **Content scouting — lineage first, then relevance.** For each core topic
    search roughly the last 7–10 days for developments (rulings, sentencings,
    arrests, closures, new films/reports/collections, significant analysis).
