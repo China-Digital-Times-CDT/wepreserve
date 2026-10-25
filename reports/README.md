@@ -5,12 +5,14 @@ Automated weekly review of the SHKO archive. A cloud routine runs every
 Claude Doc** titled **"SHKO Weekly Health Check"** (a new dated section is
 prepended each week).
 
-**Delivery note.** The cloud routine has **read-only** access to this repo —
-it can clone and read, but it **cannot push** (the Claude GitHub App is not
-granted write access). So it does **not** commit anything: the report goes to
-the Claude Doc, and any mechanical fixes it finds are written as a checklist
-for a maintainer to apply locally from a normal `git` checkout. (This
-directory is kept for the recipe and for manually-saved reports.)
+**Delivery note.** This is a **read-only reviewer by design**. The cloud
+routine clones and reads `main` but never writes to the repo — it does
+**not** commit, push, or open PRs, and it must not try. Edits to the archive
+are made **here**, in a normal local checkout, and pushed to `main`
+directly (CI rebuilds the live site); the Claude GitHub App is not part of
+that path. The routine's only job is to **report**: its digest and a
+maintainer fix-checklist go to the living Claude Doc, and a human applies the
+fixes locally. (This directory keeps the recipe and manually-saved reports.)
 
 ## What the weekly check does (v2)
 
@@ -88,8 +90,7 @@ Keep these from going stale — update the relevant page when they land:
 ## Improving it over time
 
 Candidate upgrades: a persistent watchlist so the scout only surfaces
-genuinely new items; per-topic parallel review agents; automated
+genuinely new items; per-topic parallel review agents; and automated
 external-link and image liveness checks (step 4 currently relies on the
-agent spot-checking); and — if the GitHub App is ever granted write —
-switching delivery back to committed reports + auto-PRs for the mechanical
-fixes.
+agent spot-checking). Delivery stays as a read-only report to the Claude
+Doc — fixes are applied here in a local checkout, by design.
