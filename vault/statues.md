@@ -2,7 +2,7 @@
 id: aqgv6hy8557vuejq41qf8o49q
 title: "🗽 Statues & Monuments|紀念雕塑"
 desc: Hong Kong's public monuments to the 1989 Tiananmen crackdown and the 2019 protests — the Pillar of Shame, the Goddess of Democracy, Lady Liberty — and how they were removed, seized, and driven abroad.
-updated: 1792886400000
+updated: 1792972800000
 created: 1788310800000
 ---
 
@@ -56,6 +56,19 @@ That file outlived the statue. One authentic print of it — made anonymously in
 
 The December 2021 campus removals — the Pillar, the Goddess and the Lingnan relief — came within **72 hours** of one another, universities acting just before year's end amid the wider crackdown. Together with the banned vigil, the frozen [[Hong Kong Alliance|sites.hka]] and the shuttered [[8964 Museum|extra.8964]] — which survives only online, from overseas — they mark the physical erasure of Tiananmen memory from Hong Kong's public space, even as the monuments reappear, in replica and in augmented reality, beyond the city's reach.
 
+## The colonial statue: Queen Victoria and "de-colonisation" (維多利亞女王銅像)
+
+![The Statue of Queen Victoria in Victoria Park, Causeway Bay, with its bilingual government plaque in the foreground.](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/photos/statues/queen-victoria-statue-victoria-park.webp)
+*The Statue of Queen Victoria in Victoria Park, Causeway Bay — the bronze that gives the park its name — with the government's bilingual history plaque in front of it. Photo: Isaac Mao (held in the archive's own store, not re-licensed).*
+
+Not every contested monument in Hong Kong memorialises 1989. The oldest is the **Statue of Queen Victoria** (維多利亞女王銅像), the city's most prominent surviving colonial statue. Per the government plaque beside it, it was **commissioned in 1887** to mark the 50th anniversary of the Queen's accession, **cast in England and completed in 1890**, and **unveiled on 28 May 1896** on newly reclaimed land in Central — the site that took its name, **Statue Square**. During the **Japanese occupation (1941–45)** it was shipped to Japan to be melted down and was returned after the war; following restoration in 1952 it was **relocated to Victoria Park in 1955** ([plaque, Victoria Park]; [Wikipedia](https://en.wikipedia.org/wiki/Statue_of_Queen_Victoria,_Hong_Kong)). Unlike the Cenotaph, it holds **no protection under the Antiquities and Monuments Ordinance**.
+
+Its colonial symbolism has drawn attack before. A year before the **1997** handover, mainland-born artist **Pun Sing-lui** (潘星磊) splashed the statue with red paint and broke its nose with a hammer, calling it a protest against colonial relics; he was jailed for 28 days ([Wikipedia](https://en.wikipedia.org/wiki/Statue_of_Queen_Victoria,_Hong_Kong)). Ahead of **Xi Jinping's 2017** visit for the 20th handover anniversary, the statue was **boarded up and screened behind a banner** ([SCMP](https://www.scmp.com/news/hong-kong/education-community/article/2100296/out-sight-out-mind-queen-victoria-statue-obscured)).
+
+Since 2020 a drive to **"de-colonise" (去殖民化)** Hong Kong's public space — renewed under the National Security Law and after Queen Elizabeth II's death in 2022 — has periodically put colonial names and symbols in question, from street names and royal cyphers to the lawbook's colonial terminology. Successive governments have resisted wholesale renaming: in 2018 an official said it was "unnecessary" to review street names and that "removing colonial government symbols is not a factor for consideration," even as a member of Beijing's top advisory body urged exactly that ([HKFP, 2018: names will not be removed](https://www.hongkongfp.com/2018/04/20/colonial-street-names-royal-ciphers-postboxes-will-not-removed-says-hong-kong-govt/); [HKFP, 2018: adviser urges decolonising street names](https://www.hongkongfp.com/2018/03/05/decolonise-hong-kong-street-names-suggests-member-beijings-top-advisory-body/)). By **2026** the debate had reached Victoria Park and the statue themselves ([HKFP Monitor, 27 Sept 2026](https://hongkongfp.com/newsletters/hkfp-monitor-sept-27-2026-tourism-recovery-lags-decolonising-victoria-park-and-tung-wreath-controversy/)). **No government plan to remove the statue has been announced** — for now this is political pressure and commentary, not policy.
+
+We keep a record of the statue *in situ* while that question is open — the mirror image of the erasure above: one campaign would strip the city of its **democracy** memorials, another of its **colonial** ones, each a contest over who writes Hong Kong's public memory. Other colonial traces worth a preserved record — the demolished **Queen's Pier** (2007), King George statuary, royal post-box cyphers, named streets and piers — belong on this hub too as they come under the same pressure.
+
 ## Sources
 
 - [HKFP: Danish sculptor writes to Hong Kong court asking for return of Tiananmen crackdown monument (1 Sept 2026)](https://hongkongfp.com/2026/09/01/danish-sculptor-writes-to-hong-kong-court-asking-for-return-of-tiananmen-crackdown-monument/)
@@ -71,3 +84,8 @@ The December 2021 campus removals — the Pillar, the Goddess and the Lingnan re
 - [France 24: Protesters erect Lady Liberty statue on Hong Kong mountain top (13 Oct 2019)](https://www.france24.com/en/20191013-protesters-erect-lady-liberty-statue-on-hong-kong-mountain-top)
 - [HKFP: Hong Kong's Lion Rock, final resting place of Lady Liberty (13 Oct 2019)](https://hongkongfp.com/2019/10/13/pictures-hong-kongs-lion-rock-final-resting-place-lady-liberty-democracy-statue/)
 - [Museum of New Zealand Te Papa Tongarewa: Lady Liberty Hong Kong print (object 1887451)](https://collections.tepapa.govt.nz/object/1887451)
+- [Wikipedia: Statue of Queen Victoria, Hong Kong](https://en.wikipedia.org/wiki/Statue_of_Queen_Victoria,_Hong_Kong)
+- [SCMP: Queen Victoria statue obscured by boards and banner ahead of Xi visit (2017)](https://www.scmp.com/news/hong-kong/education-community/article/2100296/out-sight-out-mind-queen-victoria-statue-obscured)
+- [HKFP: Colonial street names, royal ciphers, postboxes will not be removed, says Hong Kong govt (20 Apr 2018)](https://www.hongkongfp.com/2018/04/20/colonial-street-names-royal-ciphers-postboxes-will-not-removed-says-hong-kong-govt/)
+- [HKFP: Decolonise Hong Kong street names, suggests member of Beijing's top advisory body (5 Mar 2018)](https://www.hongkongfp.com/2018/03/05/decolonise-hong-kong-street-names-suggests-member-beijings-top-advisory-body/)
+- [HKFP Monitor: decolonising Victoria Park and Tung wreath controversy (27 Sept 2026)](https://hongkongfp.com/newsletters/hkfp-monitor-sept-27-2026-tourism-recovery-lags-decolonising-victoria-park-and-tung-wreath-controversy/)

@@ -2,7 +2,7 @@
 id: ebwvkii7n5nl76w21b65gm5
 title: "📰 Press Freedom under Siege|新聞自由淪陷"
 desc: How Hong Kong dismantled one of Asia's freest presses in half a decade — the raids that closed Apple Daily and Stand News, the revival of a colonial sedition law, and the steady criminalisation of journalism itself.
-updated: 1792540800000
+updated: 1792972800000
 created: 1790640000000
 ---
 
@@ -48,8 +48,9 @@ Then the pressure moved from his reporting to his livelihood. On **7 October**, 
 - **The colonial sedition law.** A dormant offence under the old **Crimes Ordinance** (ss. 9–10), untouched since the 1960s, was revived from 2020 to prosecute speech, slogans, children's books and journalism alike.
 - **Article 23 / the Safeguarding National Security Ordinance (2024).** Hong Kong's own security law, enacted 23 March 2024, re-enacted and **expanded sedition** — raising the maximum from two years to **seven** (ten where an "external force" is involved) and widening what counts as seditious intent.
 - **The National Security Law (2020).** Beijing-imposed; the basis for the *Apple Daily* collusion case and the detention of [[Jimmy Lai|faces-of-the-crackdown.jimmy-lai]].
+- **Money — tax audits and frozen accounts.** Pressure need not go through a courtroom. From **May 2025** the **Inland Revenue Department** ran simultaneous tax audits and backdated demands against at least **six outlets** (including HKFP) and some **20 linked individuals**; HKFP settled for **HK$57,692** after a 20-month probe (with a 135% penalty surcharge), and inMediaHK — found to owe nothing — still spent **HK$40,000** contesting it. On **13 April 2026** the **Hong Kong Journalists Association**, chaired by **Selina Cheng**, was ordered to pre-pay **HK$730,000** in provisional tax "within two days," more than double the previous year's HK$300,000. Cheng said the media audits divert resources from genuine high-value evaders and amount to "undue stress and unfair punishment," echoing tactics used elsewhere to charge journalists with tax offences "to undermine their credibility"; Commissioner Benjamin Chan denied the department weighs a taxpayer's occupation ([HKFP, 4 May 2026](https://hongkongfp.com/2026/05/04/hong-kong-press-union-faces-hk730k-prepaid-tax-demand-accuses-tax-office-of-misallocating-public-resources/)). The same financial squeeze reached individuals: [[Boom News|sites.boomnews]]' **Tang Ho-wing** had all his personal bank accounts frozen days after his bail release.
 
-Together these turned editorial judgement — which article to run, which gathering to film — into potential evidence of a crime. The same tools reach the archive's pages on [[book censorship|book-censorship]], the [[Tiananmen vigil|tiananmen-vigil]] and [[Glory to Hong Kong|glory-to-hong-kong]].
+Together these turned editorial judgement — which article to run, which gathering to film — into potential evidence of a crime, while the tax office and the banks squeezed the outlets and journalists that remained. The same tools reach the archive's pages on [[book censorship|book-censorship]], the [[Tiananmen vigil|tiananmen-vigil]] and [[Glory to Hong Kong|glory-to-hong-kong]].
 
 ## The press this archive preserves
 
@@ -79,6 +80,7 @@ Hong Kong's free press is being written out of the city's own memory — newsroo
 - [HKFP: Hong Kong confirms journalist's arrest for alleged seditious acts linked to 2019 Prince Edward MTR commemorations (1 Oct 2026)](https://hongkongfp.com/2026/10/01/hong-kong-confirms-journalists-arrest-for-alleged-seditious-acts-linked-to-2019-prince-edward-mtr-incident-commemorations/)
 - [HKFP: Independent HK journalist Tang Ho-wing released on bail following sedition arrest (2 Oct 2026)](https://hongkongfp.com/2026/10/02/independent-hk-journalist-tang-ho-wing-released-on-bail-following-sedition-arrest/)
 - [CPJ: Hong Kong journalist Tang Ho-wing arrested in latest sedition case (Sept 2026)](https://cpj.org/2026/09/hong-kong-journalist-tang-ho-wing-arrested-in-latest-sedition-case/)
+- [HKFP: HK journalists' union faces HK$730k prepaid tax demand, accuses tax office of misallocating public resources (4 May 2026)](https://hongkongfp.com/2026/05/04/hong-kong-press-union-faces-hk730k-prepaid-tax-demand-accuses-tax-office-of-misallocating-public-resources/)
 - [Lingua Sinica (China Media Project): Frozen Out — Tang Ho-wing's bank accounts frozen after bail (14 Oct 2026)](https://lingua-sinica.org/frozen-out)
 - [HKFP: Ex-editor of Stand News Chung Pui-kuen jailed for 1 year 9 months for sedition (26 Sept 2024)](https://hongkongfp.com/2024/09/26/breaking-ex-editor-of-hong-kongs-stand-news-chung-pui-kuen-jailed-for-1-year-9-months-for-sedition-in-landmark-case/)
 - [Amnesty International: Stand News journalists 'jailed for doing their job' (26 Sept 2024)](https://www.amnesty.org/en/latest/news/2024/09/hong-kong-stand-news-journalists-jailed-for-doing-their-job/)
