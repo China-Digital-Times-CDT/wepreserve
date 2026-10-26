@@ -1,18 +1,28 @@
 # Weekly archive health check
 
 Automated weekly review of the SHKO archive. A cloud routine runs every
-**Monday 08:00 Hong Kong time** and delivers a dated digest to a **living
-Claude Doc** titled **"SHKO Weekly Health Check"** (a new dated section is
-prepended each week).
+**Monday 08:00 Hong Kong time** and reports a dated digest as its **run
+output** (plus a push notification) — it publishes nothing, so nothing piles
+up. The digest is pulled into a working session and acted on there (see the
+Delivery note).
 
 **Delivery note.** This is a **read-only reviewer by design**. The cloud
 routine clones and reads `main` but never writes to the repo — it does
 **not** commit, push, or open PRs, and it must not try. Edits to the archive
 are made **here**, in a normal local checkout, and pushed to `main`
 directly (CI rebuilds the live site); the Claude GitHub App is not part of
-that path. The routine's only job is to **report**: its digest and a
-maintainer fix-checklist go to the living Claude Doc, and a human applies the
-fixes locally. (This directory keeps the recipe and manually-saved reports.)
+that path.
+
+**The routine does NOT publish anything** (no Claude Doc, no artifact — an
+earlier version piled a new section into a doc nobody read each week). It
+just **reports**: the full digest is its **final run message**, plus a short
+push notification with the counts. To act on it, pull the latest run's digest
+into a working session (`RemoteTrigger` → `list_runs` then `get_run_log` on
+`trig_012tTw8jyryo5sg4YkryUYew`), evaluate it together, and apply fixes
+locally. Because the check re-scans the live repo each week and greps before
+flagging, **the latest run is always the current truth** — nothing
+accumulates, and fixed items simply stop appearing. (This directory keeps the
+recipe and any manually-saved reports.)
 
 ## What the weekly check does (v2)
 
@@ -67,12 +77,14 @@ The check has two halves: an **audit** of the archive as it stands (steps
      recommendation: fold into an existing hub, open a new page/section, or
      add to the watchlist and wait for it to develop.
    Every candidate carries **source(s)** per the step-4 sourcing rules.
-6. **Deliver to the Claude Doc** — maintain one living doc titled
-   "SHKO Weekly Health Check"; prepend a new `## YYYY-MM-DD` section holding
-   the digest, ranked 🔴 must-fix / 🟡 should-update / 🟢 nice-to-have, with
-   lineage items ahead of relevance-only ones inside 🟡, plus a
-   Watchlist-status line. Mechanical fixes are a checklist for a maintainer.
-7. **Notify** — send a push notification with the doc link and severity counts.
+6. **Report the digest as the run's final message** — do NOT publish or
+   update any Claude Doc or artifact. Rank it 🔴 must-fix / 🟡 should-update /
+   🟢 nice-to-have, with lineage items ahead of relevance-only ones inside 🟡,
+   plus a Watchlist-status line. Must-fix items are checklist lines a
+   maintainer applies locally. The digest is read back from the run's output
+   (see the Delivery note).
+7. **Notify** — send one concise push notification with the severity counts
+   and a one-line headline per 🔴/🟡 item (no doc link — there is no doc).
 
 ## Core topics
 
