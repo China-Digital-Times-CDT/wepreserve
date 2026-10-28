@@ -2,7 +2,7 @@
 id: 2xb3y6yb4z4l9nzh3hrm648
 title: Wall-Fare|石牆花
 desc: ''
-updated: 1792886400000
+updated: 1793145600000
 created: 1650872796863
 ---
 
@@ -10,8 +10,14 @@ created: 1650872796863
 
 Wall-Fare was founded by former pro-democracy lawmaker Shiu Ka-chun on 14 December 2020; it provided support for detained pro-democracy activists by raising funds to provide daily necessities and providing emotional support through a coordinated a letter-writing scheme. On 7 September 2021, the then security chief of Hong Kong claimed that prisoners were using privileges such as chocolates and hair clips to recruit forces to endanger national security. On 14 September 2021, the group announced its disbandment on Facebook. (URL: https://wallfarehk.com/)
 
+Founder **Shiu Ka-chun** (邵家臻) — the social-welfare-sector legislator (2016–2020) who was jailed for eight months over the 2014 Occupy/Umbrella movement and then devoted himself to prisoners' rights — **died of stomach cancer on 10 January 2025, aged 55** ([Ming Pao](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20250110/s00001/1736474330962/%E9%82%B5%E5%AE%B6%E8%87%BB%E7%97%85%E9%80%9D-%E7%B5%82%E5%B9%B455%E6%AD%B2); [The Initium](https://theinitium.com/20250110-whatsnew-hongkong-shiu-ka-chun-passed-away/); [RFA](https://www.rfa.org/cantonese/news/htm/hongkong-siu-ka-chun-human-rights-for-prisoners-former-member-of-the-legislative-council-of-hong-kong-social-worker-01102025030814.html)).
+
 A screenshot of the website as of 25 April 2022:
 ![image](/assets/sites/wallfare.png)
+
+## Update — the dissolved group prosecuted over company filings (Oct 2026)
+
+Wall-Fare stopped operating and disbanded in September 2021, but its shell company — **石牆花有限公司 / Wall-Fare Ltd** (registered office at 39 Apliu Street, Sham Shui Po) — was never wound up. In **August 2026** the **Companies Registry** summonsed it for failing to file its **2025 annual return** and the financial statements, directors' report and auditor's report that fell due on **11 February 2026**; the company was in default from 12 February and had been for 132 days by late June, "and continuing." The case was called at **Eastern Magistrates' Court on 28 October 2026**, but with **no company representative present** the magistrate **adjourned it to 9 December 2026**. On conviction the charge carries a fine of up to **HK$50,000**, plus **HK$1,000 a day** for continued default (case **ESS26042/2026**). Pursuing a prisoner-support group that dissolved five years earlier — and whose founder has since died — over an annual-return lapse is a small marker of how the machinery still turns on the city's shuttered civil society ([The Witness](https://thewitnesshk.com/%e7%9f%b3%e7%89%86%e8%8a%b1%e9%81%ad%e7%a5%a8%e6%8e%a7%e6%9c%aa%e4%ba%a4%e5%85%ac%e5%8f%b8%e6%96%87%e4%bb%b6-%e5%85%ac%e5%8f%b8%e4%bb%a3%e8%a1%a8%e7%bc%ba%e5%b8%ad%e8%81%86%e8%a8%8a-%e6%8a%bc%e5%be%8c/)).
 
 
 ## Archives
