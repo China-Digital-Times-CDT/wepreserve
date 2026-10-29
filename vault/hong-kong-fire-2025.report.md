@@ -10,9 +10,12 @@ Parent: [[hong-kong-fire-2025]]
 
 On **22 October 2026** the judge-led Independent Committee submitted its final report on the Wang Fuk Court fire to Chief Executive John Lee. A **redacted public version was released on 29 October 2026** — and the same day the government staged its reckoning: Lee led seven officials in a bow of apology, one bureau chief resigned, and a package of reforms was announced. This page collects the report itself (with preserved copies), what it withholds and why, and what the government did when it landed.
 
-![Title and redaction notice of Volume 1 of the Independent Committee's report](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/pages/redaction-note.webp)
-
-*Volume 1, title page: "The Redacted Version." The notice explains that parts of the Index, the Executive Summary and Chapters 4, 6 and 10 to 15 have been withheld to avoid prejudicing the criminal prosecutions. Source: Independent Committee ([official report page](https://www.ic-wangfukcourtfire.gov.hk/eng/report.html)).*
+<figure style="max-width:640px;margin:1.75rem auto;text-align:center;">
+  <a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/IC_Report_1_EN.pdf" title="Open Volume 1 (English, PDF)">
+    <img src="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/pages/redaction-note.webp" alt="Title and redaction notice of Volume 1 of the Independent Committee's report" style="width:100%;background:#fff;border:1px solid #c8c8c8;border-radius:2px;box-shadow:0 14px 38px rgba(0,0,0,0.24),0 2px 6px rgba(0,0,0,0.12);">
+  </a>
+  <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">Volume 1, title page: “The Redacted Version.” The notice explains that parts of the Index, the Executive Summary and Chapters 4, 6 and 10 to 15 have been withheld to avoid prejudicing the criminal prosecutions. Source: Independent Committee (<a href="https://www.ic-wangfukcourtfire.gov.hk/eng/report.html">official report page</a>). <em>Click to open the English PDF.</em></figcaption>
+</figure>
 
 ## What the report is
 
@@ -34,9 +37,12 @@ Crucially, this is **redaction by removal, not by black bars** — the withheld 
 
 The report even points at its own gaps: Chapter 4 opens by noting that "the responsibilities of various stakeholders are examined in Chapters 10 and 11" — both of which are withheld.
 
-![The report's own index page listing chapters, some redacted](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/pages/index.webp)
-
-*The report's index. Source: Independent Committee.*
+<figure style="max-width:560px;margin:1.5rem auto;text-align:center;">
+  <a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/IC_Report_1_EN.pdf" title="Open Volume 1 (English, PDF)">
+    <img src="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/pages/index.webp" alt="The report's own index page listing chapters, some redacted" style="width:100%;background:#fff;border:1px solid #c8c8c8;border-radius:2px;box-shadow:0 12px 32px rgba(0,0,0,0.20),0 2px 6px rgba(0,0,0,0.10);">
+  </a>
+  <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">The report's index. Source: Independent Committee.</figcaption>
+</figure>
 
 **The full report already exists** — it was handed to the Chief Executive unredacted on 22 October. The redactions are tied to the live prosecutions (seven people and two firms face charges including manslaughter), so the withheld chapters should become public once those cases conclude. Until then, this redacted version is the record — and if even it is ever taken down or further trimmed, a preserved copy becomes the archive's treasure. (See [Preserved copies](#preserved-copies) below.)
 
@@ -62,9 +68,12 @@ Alongside the report, the government set out a reform package, to be steered by 
 
 ([HKFP: new authority & bid-rigging offence](https://hongkongfp.com/2026/10/29/tai-po-fire-hong-kong-govt-to-set-up-company-to-assist-owners-with-building-renovations-criminalise-bid-rigging/); [HKFP: ICU to be replaced](https://hongkongfp.com/2026/10/29/tai-po-fire-housing-bureau-to-replace-inspection-unit-criticised-for-multiple-failings-slack-attitude/)).
 
-![A content page of Chapter 4 referencing the withheld responsibility chapters](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/pages/chapter4-page.webp)
-
-*Chapter 4 opens the "facts, not responsibility" portion — and points the reader to Chapters 10 and 11 for who is to blame. Those chapters are withheld. Source: Independent Committee.*
+<figure style="max-width:560px;margin:1.5rem auto;text-align:center;">
+  <a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/IC_Report_1_EN.pdf" title="Open Volume 1 (English, PDF)">
+    <img src="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/pages/chapter4-page.webp" alt="A content page of Chapter 4 referencing the withheld responsibility chapters" style="width:100%;background:#fff;border:1px solid #c8c8c8;border-radius:2px;box-shadow:0 12px 32px rgba(0,0,0,0.20),0 2px 6px rgba(0,0,0,0.10);">
+  </a>
+  <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">Chapter 4 opens the “facts, not responsibility” portion — and points the reader to Chapters 10 and 11 for who is to blame. Those chapters are withheld. Source: Independent Committee.</figcaption>
+</figure>
 
 ## Preserved copies
 
