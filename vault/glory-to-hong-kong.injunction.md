@@ -42,9 +42,33 @@ The government's real aim was disclosed in its own case: criminal prosecution al
 - **Utility re-assessed.** Set against the national-security backdrop — the Song's use in 413+ public-order events, its misrepresentation as the "national anthem" 887 times including at international sporting events, and platforms' refusal to act without a court order — the Court found the injunction *would* add real value, and **disagreed** with the first judge's conclusions on utility and on conflict with the criminal law.
 - The order was granted **contra mundum**, keeping the **academic / news-activity carve-out**, listing the 32 items, and providing for substituted service via government websites and a QR-coded notice.
 
+## The two courts, side by side
+
+Few cases make the stakes so plain: on the **same facts and the same law**, two courts reached **opposite conclusions** a year apart. What moved between them was not the evidence but how much weight national security was allowed to carry against rights-scrutiny.
+
+| The question | High Court — **refused** (2023) | Court of Appeal — **granted** (2024) |
+| --- | --- | --- |
+| Real utility beyond the existing criminal law? | **No** — the NSL/Crimes/Anthem regime is already "extensive and robust" | **Yes** — read against the national-security backdrop |
+| A civil order (contempt) for a serious crime? | May be wrong in principle; lacks criminal procedural safeguards | The common-law principles can be "developed" to give effect to the NSL |
+| Weight of the executive's security assessment? | Court judges utility **for itself** — "cannot abdicate its responsibilities" | **NSL 3 & 8 duty** critically informs the s.21L exercise |
+| Chilling effect on innocent third parties? | **Real, and decisive** | Outweighed; the academic/news carve-out suffices |
+| **Outcome** | Not "just and convenient" → **refused** | Appeal allowed → **injunction granted** |
+
+## Why it was controversial
+
+The acts the injunction targets were **already crimes**, so the dispute was never about whether inciting secession is protected expression — it is not. The controversy is about the **method**, and much of it was spelled out in the first judgment itself:
+
+- **A civil order doing criminal work.** The same conduct could now trigger **both** criminal prosecution **and** contempt of court — the latter decided on the civil standard, without a jury or the safeguards of a criminal trial. The High Court thought it "may seem wrong" for a civil court to use open-ended contempt sanctions "to do what [the legislature] has not done."
+- **Binding "the world" with no adversary.** A *contra mundum* order reaches people who are **unnamed, unrepresented, and never heard**, including future "newcomers"; the case was unlikely ever to reach trial, making a sweeping, effectively **permanent** prohibition that was created without anyone there to contest it.
+- **The chilling effect the two courts split on.** The government argued the order "only bans crimes" and so cannot chill lawful speech; the High Court disagreed, finding ordinary people would avoid lawful uses of the Song "for fear of trespassing the Injunction," which is "not an easy document to understand." That the order needed a **carve-out for journalism and academia** concedes the risk was real — and the Court of Appeal then granted the very order the first court said would chill expression.
+- **Deference to the executive on national security.** Because **NSL 3 and 8** make safeguarding national security a duty of the courts, and the Chief Executive's **NSL 47 certificate binds** them on whether the acts endanger it, the room for independent proportionality scrutiny narrows. Free-expression scholars read the reversal as national-security **deference shading into domination** ([Columbia Global Freedom of Expression](https://globalfreedomofexpression.columbia.edu/cases/case-of-glory-to-hong-kong-song); [PEN America](https://pen.org/re-hong-kong-injunction-seeking-to-ban-glory-to-hong-kong/)).
+- **Censorship routed through private platforms.** The order's real function was to be the "valid court order" **Google** had said it required before removing videos; YouTube then **geo-blocked** the 32 listed videos in Hong Kong. A local court order thereby reshaped a global platform's feed — a template other governments could follow.
+
+Underlying all of it is a tension **internal to the record**: an injunction "in aid of the criminal law" is justified only where it is genuinely *necessary*, yet the Song remains freely available worldwide — so the order's value looks largely **expressive** (marking the Song as forbidden) rather than effective, which is precisely the "utility" the first court found wanting.
+
 ## Why it matters
 
-"Glory to Hong Kong" became the **first song banned in Hong Kong since the 1997 handover**. The case is studied as a turning point in how the courts weigh the NSL against protected rights: the Court of Appeal's approach has been criticised by free-expression scholars as **national-security deference displacing the harder proportionality scrutiny** the first judge insisted on — see Columbia University's Global Freedom of Expression analysis, *"National Security Deference or National Security Domination?"* ([case page](https://globalfreedomofexpression.columbia.edu/cases/case-of-glory-to-hong-kong-song)), and [PEN America](https://pen.org/re-hong-kong-injunction-seeking-to-ban-glory-to-hong-kong/). In practice the injunction did what the government wanted: Google **geo-blocked the 32 listed videos** in Hong Kong, and the distributor **EmuBands** again pulled the Song from Spotify, Apple Music and other platforms. The chilling effect the High Court had warned of — ordinary people avoiding a song for fear of mistaking the order's scope — is now part of the record of the case that overruled that warning.
+"Glory to Hong Kong" became the **first song banned in Hong Kong since the 1997 handover**, and the case is now studied as a turning point in how the city's courts weigh the National Security Law against protected rights (above). In practice the injunction did what the government wanted: Google **geo-blocked the 32 listed videos** in Hong Kong, and the distributor **EmuBands** again pulled the Song from Spotify, Apple Music and other platforms. Yet the melody is still everywhere — sung in the diaspora, mislabelled at sporting events, adapted and re-uploaded — a reminder that a court order can mark a song as contraband without erasing it.
 
 ## Preserved documents
 
