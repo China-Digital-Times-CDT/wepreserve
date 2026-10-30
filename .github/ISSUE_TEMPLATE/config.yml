@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📖 How to contribute (and stay safe)
+    url: https://savehkonline.org/notes/vzihkvznemcaaef2br0s1co/
+    about: Read the Participation page first — ways to help, and how to protect your identity before you submit anything.
+  - name: 🔧 Fix or add content via a Pull Request
+    url: https://github.com/China-Digital-Times-CDT/wepreserve/pulls
+    about: Corrections, context, translations and new pages are plain Markdown in vault/ — open a PR instead of an issue.
