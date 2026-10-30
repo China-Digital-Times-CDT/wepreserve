@@ -46,7 +46,7 @@ The government's real aim was disclosed in its own case: criminal prosecution al
 
 Few cases make the stakes so plain: on the **same facts and the same law**, two courts reached **opposite conclusions** a year apart. What moved between them was not the evidence but how much weight national security was allowed to carry against rights-scrutiny.
 
-| The question | High Court — **refused** (2023) | Court of Appeal — **granted** (2024) |
+| The question | High Court — **refused** (2023)<br><span style="font-weight:normal;font-size:0.9em;color:#555;">Anthony Chan J</span> | Court of Appeal — **granted** (2024)<br><span style="font-weight:normal;font-size:0.9em;color:#555;">Poon CJHC · Chu VP · Pang JA</span> |
 | --- | --- | --- |
 | Real utility beyond the existing criminal law? | **No** — the NSL/Crimes/Anthem regime is already "extensive and robust" | **Yes** — read against the national-security backdrop |
 | A civil order (contempt) for a serious crime? | May be wrong in principle; lacks criminal procedural safeguards | The common-law principles can be "developed" to give effect to the NSL |
