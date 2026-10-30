@@ -48,9 +48,19 @@ The report even points at its own gaps: Chapter 4 opens by noting that "the resp
 
 ## The apology — and the single resignation
 
-When the redacted report was released on 29 October, **Chief Executive John Lee led seven senior officials in a formal bow of apology** to the victims and the public.
+When the redacted report was released on 29 October, at the very start of the press conference **Chief Executive John Lee led seven senior officials in a formal bow of apology** to the victims and the public.
 
-> **A note on images.** The photographs of the apology bow that circulated were taken by news agencies (AP, Reuters) and press outlets; the government did not publish an official photo of the moment. The archive does not rehost or hotlink news-agency photographs, so the apology is recorded here in words, with the report pages above as the page's own imagery.
+<figure style="max-width:720px;margin:1.75rem auto;text-align:center;">
+  <img src="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/apology/apology-bow-wide.webp" alt="Chief Executive John Lee and seven officials bow in apology behind the press-conference table" style="width:100%;border:1px solid #c8c8c8;border-radius:3px;box-shadow:0 12px 32px rgba(0,0,0,0.22),0 2px 6px rgba(0,0,0,0.12);">
+  <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">Chief Executive John Lee and the seven officials stand and bow to the victims and the public at the start of the 29 October press conference. Still from the HKSAR Government press-conference webcast (Information Services Department — “政府新聞處直播 / ISD LIVE”).</figcaption>
+</figure>
+
+<figure style="max-width:620px;margin:1.5rem auto;text-align:center;">
+  <img src="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/apology/apology-bow-close.webp" alt="Close view of John Lee bowing deeply in apology, flanked by bowing officials" style="width:100%;border:1px solid #c8c8c8;border-radius:3px;box-shadow:0 10px 28px rgba(0,0,0,0.20),0 2px 6px rgba(0,0,0,0.10);">
+  <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">A closer view of the bow. Still from the HKSAR Government webcast (ISD), 29 October 2026.</figcaption>
+</figure>
+
+> **On sourcing this image.** These are stills from the government's *own* press-conference webcast (ISD) — official footage of its own officials, reproducible with acknowledgement. The widely-circulated agency photographs of the same moment (AP, Reuters) are **not** rehosted here, in keeping with the archive's rule against reusing news-agency photos.
 
 Only **one official was held politically accountable: Secretary for Housing Winnie Ho** (何永賢). She offered her resignation on 28 October; Lee accepted it, began the process of asking Beijing to formally remove her, and named Deputy Financial Secretary **Michael Wong** (黃偉綸) as acting housing chief. The logic: the **Independent Checking Unit** — found to bear the heaviest responsibility among four faulted government bodies — sits under her bureau.
 
