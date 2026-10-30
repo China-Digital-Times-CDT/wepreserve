@@ -18,6 +18,8 @@ Related: [[hong-kong-fire-2025]] | [[faces-of-the-crackdown.jimmy-lai]] | [[site
 
 As the most recognisable cultural artifact of the 2019 movement, the song became a primary target of the post-National-Security-Law crackdown — making it a fitting entry in this archive.
 
+> ⚖️ **The legal case in depth:** the ban was a civil injunction, refused by the High Court in 2023 and granted by the Court of Appeal in 2024. The two judgments — the arguments on both sides, and the documents themselves — are preserved and set out on **[[The Court Ban — Judgments & Arguments|glory-to-hong-kong.injunction]]**.
+
 - **2020–2022** — After the 2020 National Security Law, schools, broadcasters, and platforms come under pressure to suppress the song; singing or playing it is treated as potentially seditious.
 - **Nov 2022 onward — sporting mix-ups**: At international events involving Hong Kong teams (e.g. the Asia Rugby Sevens in Incheon, South Korea, Nov 2022, and an ice-hockey championship in 2023), organisers mistakenly played "Glory to Hong Kong" instead of China's official anthem "March of the Volunteers." Officials blamed Google's search algorithm for surfacing the protest song at the top of results, and the government repeatedly demanded corrections.
 - **June 2023** — The Department of Justice files for a **court injunction** to ban the song. Around the same time it is **pulled from major streaming platforms** (Spotify, Apple Music, KKBOX) after its distributor removes it — only to reappear in other versions.
