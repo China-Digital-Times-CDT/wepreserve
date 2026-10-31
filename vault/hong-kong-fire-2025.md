@@ -2,7 +2,7 @@
 id: 9e5b0uhf2vl7gk4rj1tzp3x
 title: "🔥 Hong Kong Fire 2025"
 desc: ''
-updated: 1793404949000
+updated: 1793413426000
 created: 1764696585495
 ---
 
@@ -24,7 +24,7 @@ A catastrophic fire at Wang Fuk Court in Tai Po, Hong Kong, engulfed seven of ei
 | **Cause** | Cigarettes in an air shaft most likely ignited **non-compliant scaffold netting and foam boards**; lead counsel told the inquiry that **nearly all fire-safety systems failed "because of human factors"**. → [[hong-kong-fire-2025.investigation]] |
 | **The inquiry** | Judge-led Independent Committee (David Lok) — 80 witnesses, 30 sessions; lead counsel's closing address said the government bore "unshirkable responsibility." Report submitted **22 Oct 2026**. |
 | **The report** | **Redacted version published 29 Oct 2026** — certain parts redacted to avoid prejudicing the criminal prosecutions. → [[hong-kong-fire-2025.report]] |
-| **Accountability** | CE **John Lee and seven officials bowed** in apology; Housing chief **Winnie Ho** resigned — the only official held to account. Bereaved families reject it as too little. |
+| **Accountability** | CE **John Lee and seven officials bowed** in apology; Housing chief **Winnie Ho** resigned; the **three other ministers over faulted departments are staying**. Bereaved residents want all four out, and about 40–50 civil servants face a three-month investigation. → [[The demands for more resignations|hong-kong-fire-2025.report]] |
 | **Criminal case** | 7 people + 2 firms (Prestige Construction, Will Power Architects) face **25 charges incl. manslaughter**; next hearing **14 Jan 2027**. |
 | **Reforms** | Criminalise bid-rigging, scrap and replace the ICU, a new Building Maintenance authority, and a Buildings Ordinance overhaul. |
 | **Resettlement** | HK$6.8b buyback; **99.1% accepted, 17 holdouts**; a months-long fight for a homeowners' meeting. → [[hong-kong-fire-2025.resettlement]] |
