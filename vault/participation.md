@@ -23,7 +23,7 @@ This project is **anonymous, open source, and global**. Everything lives in a pu
 | 📣 **Spread & mirror** | Share the archive, and — because it's open source — clone or mirror the repository so no single takedown can erase it. |
 | 💛 **Sponsor** | Help cover hosting and preservation costs. |
 
-**Guides & links:** see [[How to archive and replay|howto]] for the archiving tools · [[Sponsorship|sponsorship]] to help with running costs · the [[Tiananmen Vigil|tiananmen-vigil]] page shows the kind of submissions we're gathering.
+**Guides & links:** see [[How to archive and replay|howto]] for the archiving tools · [[Sponsorship|sponsorship]] to help with running costs · the [[Tiananmen Vigil|tiananmen-vigil]] page shows the kind of submissions we're gathering · the [[Design Log|participation.design-log]] records how the archive's pages are restructured over time.
 
 ## How to contribute via GitHub
 
@@ -31,11 +31,21 @@ The archive is kept in a public, open-source repository on GitHub:
 
 **→ [github.com/China-Digital-Times-CDT/wepreserve](https://github.com/China-Digital-Times-CDT/wepreserve)**
 
-- **To submit material or flag an at-risk site:** open a **GitHub Issue** describing what you have or what's in danger. You can attach images and files to an issue. If you'd rather not attach sensitive files in public, say so in the issue and describe the material instead.
-- **To fix or add content:** open a **pull request**. Pages are plain Markdown in the `vault/` folder; images go in `vault/assets/`. Small corrections are as valuable as new pages.
+Pick the right channel — each link opens a ready-made form:
+
+| To… | Use |
+|---|---|
+| 📸 **Offer material** (photos, documents, oral history) | [Open a submission issue](https://github.com/China-Digital-Times-CDT/wepreserve/issues/new?template=01-submit-material.md) |
+| 🔗 **Flag a site at risk** | [Open an at-risk-site issue](https://github.com/China-Digital-Times-CDT/wepreserve/issues/new?template=02-flag-at-risk-site.md) |
+| 🗝️ **Request a restricted / unpublished archive** (licence or permission still pending) | [Open an access-request issue](https://github.com/China-Digital-Times-CDT/wepreserve/issues/new?template=03-request-restricted-archive.md) |
+| 🐞 **Report a problem** (dead/rot link, broken image, replay viewer, layout, a factual error) | [Open a bug report](https://github.com/China-Digital-Times-CDT/wepreserve/issues/new?template=04-bug-report.md) |
+| ✍️ **Fix or add content** | [Open a pull request](https://github.com/China-Digital-Times-CDT/wepreserve/pulls) — pages are plain Markdown in `vault/`, images in `vault/assets/` |
+
+- **Why "request a restricted archive"?** Some material is **preserved but not yet publicly served** — the licence or a rights-holder's permission is still pending, or publishing it could expose people. Ask via the access-request form and we'll tell you what's possible.
+- **Attaching sensitive files?** You can attach images and files to an issue, but if you'd rather not do so in public, just describe the material and we'll arrange a private channel.
 - **No GitHub account?** Creating one takes a minute — see the safety notes below on doing so anonymously.
 
-Not sure where something fits? Open an issue and ask. Every contribution is reviewed before it goes live, so nothing you send publishes automatically.
+Not sure where something fits? [Open a blank issue](https://github.com/China-Digital-Times-CDT/wepreserve/issues/new) and ask. Every contribution is reviewed before it goes live, so nothing you send publishes automatically.
 
 ## Protect yourself
 
