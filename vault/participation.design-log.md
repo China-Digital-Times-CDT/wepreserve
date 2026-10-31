@@ -14,7 +14,7 @@ This archive is a living record, and so is the way it's built. As collections gr
 
 ## 2026-10 — Hong Kong Fire 2025 collection restructuring
 
-**Status:** in progress · Milestone [HK Fire collection restructuring](https://github.com/China-Digital-Times-CDT/wepreserve/milestone/3) · Tracking issue [#30](https://github.com/China-Digital-Times-CDT/wepreserve/issues/30)
+**Status:** completed 31 Oct 2026 · Milestone [HK Fire collection restructuring](https://github.com/China-Digital-Times-CDT/wepreserve/milestone/3) · Tracking issue [#30](https://github.com/China-Digital-Times-CDT/wepreserve/issues/30)
 
 **Why.** The [[🔥 Hong Kong Fire 2025|hong-kong-fire-2025]] collection grew into the archive's largest, and parts became hard to scan. A measurement on 30 Oct 2026:
 
@@ -42,4 +42,30 @@ This archive is a living record, and so is the way it's built. As collections gr
 - [Activism](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-30-before/activism.png)
 - [People](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-30-before/people.png)
 
-**After.** Side-by-side samples of the key changes will be added here as the overhaul lands.
+**After (completed 31 Oct 2026).** The hub is now a scannable landing page, resettlement has its own subpage, and the two walls of text are broken into sections. The structure linter reports zero broken links, frontmatter or convention issues.
+
+How the same measurement looks after the overhaul (words / largest contiguous block between headings):
+
+| Page | Before | After |
+|---|---|---|
+| hub | 2,231 w · **1,116**-word block | **833** w · 234 |
+| investigation | 5,841 w · **3,217** | 6,017 w · **1,297** |
+| activism | 3,154 w · **1,541** | 2,898 w · 1,254 |
+| report | 1,678 w · 114 | 2,563 w · 561 |
+| timeline | 3,900 w · 710 | 3,931 w · 795 |
+| people | 3,972 w · 858 | 4,042 w · 923 |
+| resettlement | — | 896 w · 315 *(new page)* |
+
+Total word counts did **not** fall — several pages *grew*, because the same weeks brought the final report, the 259 Buildings Department charges, Winnie Ho's resignation and the demands for more, all added as they happened. The overhaul's aim was scannability and single-ownership, not deletion: content was **moved and sectioned, never cut**. "Without losing any record" held throughout — one regression that dropped records mid-overhaul was caught and the content restored (see commits `d95d44e`, `620c72a`).
+
+What changed:
+- **Hub → landing page**: a short lead, the report callout, an **"At a glance"** status table (one row per topic, each linking to its subpage), a slim Key Facts, and an annotated **"Explore the collection"** router. Its longest block fell from a 1,116-word "Status snapshot" paragraph to 234 words.
+- **New subpage** [[Resettlement & Owners|hong-kong-fire-2025.resettlement]] — the buyback, the 17 holdouts, rehousing and the homeowners'-meeting fight, all previously smeared across the hub.
+- **Walls sectioned**: investigation and activism broken into `##` / `###` / `####` headings; the investigation's worst block fell from a 3,217-word prose wall to ~1,300 words of dated, bulleted entries under a navigable heading tree.
+- **De-duplicated**: each fact owns one page and the others link to it (e.g. the April-2026 petition-forgery referral now lives on the resettlement page; the investigation and timeline point to it rather than repeating it).
+
+Full-page samples captured 31 Oct 2026:
+
+- [Hub — now a landing page](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-31-after/hub.png)
+- [Investigation — sectioned, with a full on-page heading tree](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-31-after/investigation.png)
+- [Resettlement — the new subpage](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-31-after/resettlement.png)
