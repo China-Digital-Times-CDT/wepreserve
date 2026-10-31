@@ -23,19 +23,19 @@ On **22 October 2026** the judge-led Independent Committee submitted its final r
 - **A searchable record, not a scan.** The published PDFs carry a full text layer, so the public version can be read and searched in full — valuable for preservation.
 - **Released by the government, hosted by the committee.** The redacted version sits on the committee's own site; the government announced the release on 29 October ([committee report page](https://www.ic-wangfukcourtfire.gov.hk/eng/report.html); [government release](https://www.info.gov.hk/gia/general/202610/29/P2026102900343.htm)).
 
-## What is withheld — and why it matters
+## What is redacted — and why it matters
 
 The front page of each volume carries the same notice:
 
 > "With a view to avoiding any prejudice (actual or perceived) to the relevant criminal prosecutions, certain parts of the Index, Executive Summary and Chapters 4, 6, 10 to 15 of the main body of this Report have been redacted."
 
-Crucially, this is **redaction by removal, not by black bars** — the withheld material is simply not in the file, so there is nothing hidden-but-recoverable to extract. And what is held back is the forensic heart of the inquiry: causation and blame. The present chapters tell the *narrative*; the withheld chapters assign *responsibility*.
+The notice says **certain parts** of these sections are redacted — not that the chapters are gone. All of the listed chapters that we checked (4, 6 and 11–15) are present in the published volumes with their body text, including Chapter 6 on the causes of the fire and Chapter 11 on the responsibility and accountability of government bodies. Exactly which passages are redacted, and how they are marked, has not yet been mapped here.
 
-| Withheld (to protect the criminal trials) | Published |
+| Chapters the notice lists as having redacted parts | Chapters the notice does not list |
 | --- | --- |
-| Ch 4 — Building maintenance & renovation works (in part) · Ch 6 — **Causes of the fire & its spread** · Ch 10 — **Responsibilities of the contractors** · Ch 11 (title itself removed — the responsibilities chapter) · Ch 12–15 — bid-rigging, anti-competitive conduct & recommendations | Ch 1–3 (introduction, scope, description of the estate) · Ch 5 — **The day of the fire** · Ch 7 — firefighting & evacuation review · Ch 8 — the death of senior fireman Ho Wai-ho · Ch 9 — the regulatory regimes · Ch 16 — conclusion |
+| Ch 4 — Building maintenance & renovation works · Ch 6 — Causes of the fire, fire spread and heavy casualties · Ch 10 — Responsibilities of the contractors · Ch 11 — Responsibility and accountability of government bodies · Ch 12–15 — Recommendations, bid-rigging and anti-competitive conduct | Ch 1–3 — Introduction, scope, description of the estate · Ch 5 — The day of the fire · Ch 7 — Firefighting and evacuation · Ch 8 — The death of Senior Fireman Ho Wai-ho · Ch 9 — Regulatory regimes · Ch 16 — Conclusion |
 
-The report even points at its own gaps: Chapter 4 opens by noting that "the responsibilities of various stakeholders are examined in Chapters 10 and 11" — both of which are withheld.
+Chapter 4 itself explains the division of labour: it sets out facts, while "the responsibilities of various stakeholders are examined in Chapters 10 and 11" — two of the chapters the notice lists as partly redacted.
 
 <figure style="max-width:560px;margin:1.5rem auto;text-align:center;">
   <a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/IC_Report_1_EN.pdf" title="Open Volume 1 (English, PDF)">
@@ -44,7 +44,7 @@ The report even points at its own gaps: Chapter 4 opens by noting that "the resp
   <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">The report's index. Source: Independent Committee.</figcaption>
 </figure>
 
-**The full report already exists** — it was handed to the Chief Executive unredacted on 22 October. The redactions are tied to the live prosecutions (seven people and two firms face charges including manslaughter), so the withheld chapters should become public once those cases conclude. Until then, this redacted version is the record — and if even it is ever taken down or further trimmed, a preserved copy becomes the archive's treasure. (See [Preserved copies](#preserved-copies) below.)
+**The full report already exists** — it was handed to the Chief Executive unredacted on 22 October. The redactions are tied to the live prosecutions (seven people and two firms face charges including manslaughter), so the redacted passages may become public once those cases conclude, though the archive has seen no commitment to that. Until then, this redacted version is the record — and if even it is ever taken down or further trimmed, a preserved copy becomes the archive's treasure. (See [Preserved copies](#preserved-copies) below.)
 
 ## The apology — and the single resignation
 
@@ -60,7 +60,7 @@ When the redacted report was released on 29 October, at the very start of the pr
   <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">A closer view of the bow. Still from the HKSAR Government webcast (ISD), 29 October 2026.</figcaption>
 </figure>
 
-> **On sourcing this image.** These are stills from the government's *own* press-conference webcast (ISD) — official footage of its own officials, reproducible with acknowledgement. The widely-circulated agency photographs of the same moment (AP, Reuters) are **not** rehosted here, in keeping with the archive's rule against reusing news-agency photos.
+> **On sourcing this image.** These are stills from the government's *own* press-conference webcast (ISD) — official footage of its own officials, credited to the Information Services Department. The widely-circulated agency photographs of the same moment (AP, Reuters) are **not** rehosted here, in keeping with the archive's rule against reusing news-agency photos.
 
 Only **one official was held politically accountable: Secretary for Housing Winnie Ho** (何永賢). She offered her resignation on 28 October; Lee accepted it, began the process of asking Beijing to formally remove her, and named Deputy Financial Secretary **Michael Wong** (黃偉綸) as acting housing chief. The logic: the **Independent Checking Unit** — found to bear the heaviest responsibility among four faulted government bodies — sits under her bureau.
 
@@ -80,9 +80,9 @@ Alongside the report, the government set out a reform package, to be steered by 
 
 <figure style="max-width:560px;margin:1.5rem auto;text-align:center;">
   <a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/IC_Report_1_EN.pdf" title="Open Volume 1 (English, PDF)">
-    <img src="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/pages/chapter4-page.webp" alt="A content page of Chapter 4 referencing the withheld responsibility chapters" style="width:100%;background:#fff;border:1px solid #c8c8c8;border-radius:2px;box-shadow:0 12px 32px rgba(0,0,0,0.20),0 2px 6px rgba(0,0,0,0.10);">
+    <img src="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/pages/chapter4-page.webp" alt="The opening page of Chapter 4, referring the reader to Chapters 10 and 11 on responsibility" style="width:100%;background:#fff;border:1px solid #c8c8c8;border-radius:2px;box-shadow:0 12px 32px rgba(0,0,0,0.20),0 2px 6px rgba(0,0,0,0.10);">
   </a>
-  <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">Chapter 4 opens the “facts, not responsibility” portion — and points the reader to Chapters 10 and 11 for who is to blame. Those chapters are withheld. Source: Independent Committee.</figcaption>
+  <figcaption style="font-size:0.85em;color:#666;margin-top:0.6rem;line-height:1.5;">Chapter 4 sets out facts and refers the reader to Chapters 10 and 11 on responsibility. Source: Independent Committee.</figcaption>
 </figure>
 
 ## The families' verdict
@@ -104,7 +104,7 @@ The archive keeps its own copy of all six published volumes, so the record survi
 
 - **Checksums**: [SHA256SUMS.txt](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/reports/wang-fuk-court-fire-ic/SHA256SUMS.txt) — verify a download against these to confirm it is the authentic file.
 - **Original source**: [Independent Committee report page](https://www.ic-wangfukcourtfire.gov.hk/eng/report.html) (official, may change or be withdrawn).
-- *Watch for the unredacted report.* The withheld chapters should follow once the criminal proceedings conclude; this page will be updated when they do.
+- *Watch for the unredacted report.* If the redacted passages are released, this page will be updated.
 
 ## Sources
 

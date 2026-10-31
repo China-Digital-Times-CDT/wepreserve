@@ -8,7 +8,7 @@ created: 1793404949000
 
 Parent: [[hong-kong-fire-2025]]
 
-What happens to the ~2,000 flats and their owners after the fire is a story of its own: a government buyback of the seven ruined blocks, a long fight by owners for a statutory meeting with the court-appointed administrator, and the scramble for somewhere to live. This page gathers that thread. For the people living through it, see the displaced-resident profiles on [[hong-kong-fire-2025.people]]; for the dated sequence, [[hong-kong-fire-2025.timeline]].
+What happens to the ~2,000 flats and their owners after the fire is a story of its own: a government buyback of the seven ruined blocks, a long fight by owners for a statutory meeting with the government-appointed administrator, and the scramble for somewhere to live. This page gathers that thread. For the people living through it, see the displaced-resident profiles on [[hong-kong-fire-2025.people]]; for the dated sequence, [[hong-kong-fire-2025.timeline]].
 
 ## The buyback scheme
 

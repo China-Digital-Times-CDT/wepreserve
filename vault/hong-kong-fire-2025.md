@@ -14,16 +14,16 @@ A catastrophic fire at Wang Fuk Court in Tai Po, Hong Kong, engulfed seven of ei
 
 | 📄&nbsp; THE INDEPENDENT COMMITTEE REPORT — released 29 October 2026 |
 | :--- |
-| **Two volumes · 16 chapters · 1,000+ pages.** The causation and responsibility chapters (4, 6, 10–15) were **withheld to protect the criminal trials**; the government bowed in apology and Secretary for Housing Winnie Ho resigned — the only official held to account. The full report is preserved in the archive in English and Chinese.<br>**→ [Read the full breakdown, page images & download the report »](/notes/cdjq9noj1tsi1va526w00ac/)** |
+| **Two volumes · 16 chapters · 1,000+ pages.** Published with **certain parts redacted** (in the Index, Executive Summary and Chapters 4, 6 and 10–15) to avoid prejudicing the criminal prosecutions; the government bowed in apology and Secretary for Housing Winnie Ho resigned — the only official held to account. The full report is preserved in the archive in English and Chinese.<br>**→ [Read the full breakdown, page images & download the report »](/notes/cdjq9noj1tsi1va526w00ac/)** |
 
 ## At a glance
 
 | | |
 | :--- | :--- |
 | **The fire** | 26 Nov 2025, Wang Fuk Court, Tai Po. **[168 dead](/notes/g32p9s4tgcoueysj6jh0t9z/)**, 79 injured; 7 of 8 towers burned — Hong Kong's deadliest fire since 1948. |
-| **Cause** | Cigarettes in an air shaft most likely ignited **non-compliant scaffold netting and foam boards**; on the day, **nearly all fire-safety systems had been disabled**. → [[hong-kong-fire-2025.investigation]] |
-| **The inquiry** | Judge-led Independent Committee (David Lok) — 80 witnesses, 30 sessions; found the government bore "unshirkable responsibility." Report submitted **22 Oct 2026**. |
-| **The report** | **Redacted version published 29 Oct 2026** — causation and responsibility chapters withheld to protect the criminal trials. → [[hong-kong-fire-2025.report]] |
+| **Cause** | Cigarettes in an air shaft most likely ignited **non-compliant scaffold netting and foam boards**; lead counsel told the inquiry that **nearly all fire-safety systems failed "because of human factors"**. → [[hong-kong-fire-2025.investigation]] |
+| **The inquiry** | Judge-led Independent Committee (David Lok) — 80 witnesses, 30 sessions; lead counsel's closing address said the government bore "unshirkable responsibility." Report submitted **22 Oct 2026**. |
+| **The report** | **Redacted version published 29 Oct 2026** — certain parts redacted to avoid prejudicing the criminal prosecutions. → [[hong-kong-fire-2025.report]] |
 | **Accountability** | CE **John Lee and seven officials bowed** in apology; Housing chief **Winnie Ho** resigned — the only official held to account. Bereaved families reject it as too little. |
 | **Criminal case** | 7 people + 2 firms (Prestige Construction, Will Power Architects) face **25 charges incl. manslaughter**; next hearing **14 Jan 2027**. |
 | **Reforms** | Criminalise bid-rigging, scrap and replace the ICU, a new Building Maintenance authority, and a Buildings Ordinance overhaul. |
