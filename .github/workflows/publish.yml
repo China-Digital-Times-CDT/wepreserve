@@ -45,12 +45,48 @@ jobs:
     - name: Initialize or pull nextjs template
       run: "(test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git clean -f && git pull && yarn && cd ..) || (echo 'init dendron next' && yarn dendron publish init)"
 
-    - name: Apply template overrides (hide anchor icons, scrollable tables)
+    - name: Apply template overrides (anchor links, scrollable tables)
       run: |
         cat >> .next/styles/scss/content.scss <<'EOF'
-        // SHKO override: hide heading anchor icons (svg sprite not shipped).
+        // SHKO override: deep-linkable headings. The Dendron template renders
+        // an <a.anchor-heading href="#id"> on every heading, but its icon is a
+        // broken svg sprite (#svg-link is not shipped) — so we hide the svg and
+        // draw our own "#" glyph. Kept hidden by default (touch devices can't
+        // hover, and an always-present gutter element could cause horizontal
+        // scroll); shown only on real-pointer devices, where the template
+        // already fades it in when the heading is hovered.
         .main-content .anchor-heading {
           display: none !important;
+        }
+        @media (hover: hover) and (pointer: fine) {
+          .main-content h1,
+          .main-content h2,
+          .main-content h3,
+          .main-content h4,
+          .main-content h5,
+          .main-content h6 {
+            position: relative;
+          }
+          .main-content .anchor-heading {
+            display: inline-block !important;
+            position: absolute;
+            right: 100%;
+            top: 0;
+            margin-right: 0.2em;
+            line-height: inherit;
+            text-decoration: none;
+            white-space: nowrap;
+          }
+          .main-content .anchor-heading svg {
+            display: none;
+          }
+          .main-content .anchor-heading::before {
+            content: "#";
+            font-weight: 400;
+          }
+          .main-content .anchor-heading:hover {
+            color: #1890ff;
+          }
         }
         // SHKO override: wide markdown tables scroll inside themselves on
         // mobile instead of pushing the whole page sideways (the template's
