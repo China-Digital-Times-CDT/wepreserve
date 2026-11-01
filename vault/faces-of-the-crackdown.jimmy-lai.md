@@ -23,18 +23,33 @@ Jimmy Lai Chee-ying (黎智英, born 8 December 1947) is a Hong Kong media entre
 - **2026-02-09** Sentenced to 20 years imprisonment; six co-defendants receive 6 years 9 months to 10 years
 - **2026-02-26** Court of Appeal **quashes his separate 2022 fraud conviction** (illegal subletting of Apple Daily office space at a government-owned media park to Dico Consultants); codefendant Wong Wai-keung also cleared and the ~6-year sentence set aside, the judges ruling the lease breach did not reach the criminal threshold for fraud — a rare legal win that reduces his total prison time
 - **2026-03-05** Legal team confirms Lai **will not appeal** the national-security conviction or 20-year sentence, citing "clear and definitive instructions"; analysts suggest non-appeal may be a precondition for any diplomatic/humanitarian deal, though it guarantees nothing
+- **2026-11-01** Former Next Digital CEO **Cheung Kim-hung** — due for release in March 2028 — resurfaces as a released "更生人士" (rehabilitated person) on a Correctional Services reintegration tour to Shenzhen, **apparently freed early**, and praises the nation's technology in a state-media interview (see [Cheung Kim-hung's apparent early release](#cheung-kim-hungs-apparent-early-release-nov-2026) below)
 
 ### Sentences (Feb 9, 2026)
 
 | Defendant | Role | Sentence |
 |-----------|------|----------|
-| Jimmy Lai | Founder & Publisher | 20 years |
-| Fung Wai-kong (馮偉光) | Managing Director, English edition | 10 years |
-| Cheung Kim-hung (張劍虹) | CEO, Next Digital | 9 years |
-| Chan Pui-man (陳沛敏) | Deputy Editor-in-Chief | 8 years 6 months |
-| Lam Man-chung (林文宗) | Executive Editor-in-Chief | 7 years 6 months |
-| Yeung Ching-kee (楊清奇) | Editorial Writer | 7 years |
-| Mark Simon | US aide (fled, sentenced in absentia) | 6 years 9 months |
+| Jimmy Lai | Founder & publisher | 20 years |
+| Ryan Law Wai-kwong (羅偉光) | Editor-in-chief | 10 years |
+| Lam Man-chung (林文宗) | Executive editor-in-chief | 10 years |
+| Fung Wai-kong (馮偉光) | Managing editor, English edition | 10 years |
+| Yeung Ching-kee (楊清奇, pen name Li Ping) | Editorial writer | 7 years 3 months |
+| Chan Pui-man (陳沛敏) | Associate publisher / deputy editor-in-chief | 7 years |
+| Cheung Kim-hung (張劍虹) | CEO, Next Digital | 6 years 9 months |
+
+The six executives all pleaded guilty, and the judges set a **15-year starting point** for them. Cheung Kim-hung, Chan Pui-man and Yeung Ching-kee testified against Lai as prosecution witnesses in exchange for reductions — Cheung's term was cut by **55%** (15 years → 6 years 9 months) ([HKFP](https://hongkongfp.com/2026/02/09/national-security-judges-cite-extensive-roles-as-6-ex-apple-daily-staffers-jailed-for-up-to-10-years/), [CPJ](https://cpj.org/2026/02/jimmy-lai-sentenced-to-20-years-in-prison-in-hong-kongs-biggest-media-trial/)).
+
+---
+
+## After Sentencing
+
+### Cheung Kim-hung's apparent early release (Nov 2026)
+
+On **1 November 2026**, former Next Digital CEO **Cheung Kim-hung** (張劍虹) appeared in public for the first time since the sentencing — not as a prisoner but as a released **"更生人士"** (rehabilitated person) on a one-day Correctional Services Department reintegration tour to Shenzhen (the **"伴『理』前行"** programme, held 31 October). Participants visited the former headquarters of the Communist-led **East River Column** guerrillas and a technology firm demonstrating driverless cars. Cheung — who pleaded guilty and testified against Lai as a prosecution witness, earning the 55% cut to a 6-years-9-months term — had been due for release only in **March 2028**.
+
+State broadcaster **Phoenix TV** (鳳凰衛視) filmed the trip and interviewed him, captioning him a "Hong Kong rehabilitated person." Looking thinner and in the group's red shirt, he said he was "**very excited**" to see the driverless technology and that, "as a Chinese person, to experience how strong the country is and how good the technology is, I feel **very proud**." The Correctional Services Department says the voluntary programme aims to strengthen rehabilitated persons' "national-security awareness" and cultivate a "law-abiding spirit."
+
+HK01 and Taiwan's Central News Agency reported, citing sources, that Cheung **had been released**; as of 1 November the department had **not confirmed** whether or when he was freed, so the early release is **officially unconfirmed** — the independent outlet The Collective framed it as a "suspected early release." The sight of a once-jailed Apple Daily executive resurfacing on a state-media showcase to praise the nation drew wide notice ([CNA](https://www.cna.com.tw/news/acn/202611010144.aspx), [The Collective](https://thecollectivehk.com/%E8%98%8B%E6%9E%9C%E6%A1%88%EF%BD%9C%E5%89%8D%E5%89%AF%E7%A4%BE%E9%95%B7%E5%BC%B5%E5%8A%8D%E8%99%B9%E7%96%91%E6%8F%90%E6%97%A9%E7%8D%B2%E9%87%8B%E3%80%80%E4%BB%A5%E3%80%8C%E6%9B%B4%E7%94%9F%E4%BA%BA/), [Yahoo HK](https://hk.news.yahoo.com/%E5%BC%B5%E5%8A%8D%E8%99%B9%E4%BB%A5%E6%9B%B4%E7%94%9F%E4%BA%BA%E5%A3%AB%E8%BA%AB%E4%BB%BD%E5%8F%83%E5%8A%A0%E6%87%B2%E6%95%99%E7%BD%B2%E5%85%A7%E5%9C%B0%E9%AB%94%E9%A9%97%E5%9C%98-102323222.html)).
 
 ---
 
@@ -295,3 +310,7 @@ The push followed earlier appeals from the UN, UK, EU, and rights groups for Lai
 - [Al Jazeera: Hong Kong appeals court overturns Jimmy Lai's fraud conviction (Feb 26, 2026)](https://www.aljazeera.com/news/2026/2/26/hong-kong-appeals-court-overturns-jimmy-lais-fraud-conviction)
 - [NBC News: Jimmy Lai won't appeal national security conviction (Mar 6, 2026)](https://www.nbcnews.com/world/asia/hong-kong-jimmy-lai-will-not-appeal-national-security-conviction-rcna262058)
 - [Tom Lantos Human Rights Commission: Jimmy Lai](https://humanrightscommission.house.gov/DFP/Countries/China/Jimmy-Lai)
+- [HKFP: Judges cite 'extensive roles' as ex-Apple Daily staffers jailed for up to 10 years (Feb 9, 2026)](https://hongkongfp.com/2026/02/09/national-security-judges-cite-extensive-roles-as-6-ex-apple-daily-staffers-jailed-for-up-to-10-years/)
+- [CPJ: Jimmy Lai sentenced to 20 years in Hong Kong's biggest media trial (Feb 2026)](https://cpj.org/2026/02/jimmy-lai-sentenced-to-20-years-in-prison-in-hong-kongs-biggest-media-trial/)
+- [CNA (中央社): Ex-Next Digital CEO Cheung Kim-hung's first appearance since sentencing, visits Shenzhen as a rehabilitated person (Nov 1, 2026)](https://www.cna.com.tw/news/acn/202611010144.aspx)
+- [集誌社 The Collective: 前副社長張劍虹疑提早獲釋，以「更生人士」身份受訪，參加懲教署深圳團 (Nov 1, 2026)](https://thecollectivehk.com/%E8%98%8B%E6%9E%9C%E6%A1%88%EF%BD%9C%E5%89%8D%E5%89%AF%E7%A4%BE%E9%95%B7%E5%BC%B5%E5%8A%8D%E8%99%B9%E7%96%91%E6%8F%90%E6%97%A9%E7%8D%B2%E9%87%8B%E3%80%80%E4%BB%A5%E3%80%8C%E6%9B%B4%E7%94%9F%E4%BA%BA/)
