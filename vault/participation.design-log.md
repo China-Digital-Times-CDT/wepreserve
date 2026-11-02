@@ -2,7 +2,7 @@
 id: ebzckwr23w4kzihp08sieja
 title: Design Log
 desc: An open record of how the archive's structure and page design change over time — what we overhauled, why, and before/after.
-updated: 1793596424000
+updated: 1793625501000
 created: 1793364507000
 ---
 
@@ -14,7 +14,7 @@ This archive is a living record, and so is the way it's built. As collections gr
 
 ## 2026-10 — Hong Kong Fire 2025 collection restructuring
 
-**Status:** structure done 31 Oct 2026; de-duplication only partly done (see below) · Milestone [HK Fire collection restructuring](https://github.com/China-Digital-Times-CDT/wepreserve/milestone/3) · Tracking issue [#30](https://github.com/China-Digital-Times-CDT/wepreserve/issues/30)
+**Status:** structure done 31 Oct 2026; de-duplication pass 2 Nov 2026 · Milestone [HK Fire collection restructuring](https://github.com/China-Digital-Times-CDT/wepreserve/milestone/3) · Tracking issue [#30](https://github.com/China-Digital-Times-CDT/wepreserve/issues/30)
 
 **Why.** The [[🔥 Hong Kong Fire 2025|hong-kong-fire-2025]] collection grew into the archive's largest, and parts became hard to scan. A measurement on 30 Oct 2026:
 
@@ -63,9 +63,9 @@ Total word counts did **not** fall. Several pages grew, because the same weeks b
 What changed:
 - **Hub → landing page**: a short lead, the report callout, an **"At a glance"** status table (one row per topic), a slim Key Facts, and an annotated **"Explore the collection"** router. Its largest block fell from a 1,116-word "Status snapshot" paragraph to 234 words.
 - **New subpage** [[Resettlement & Owners|hong-kong-fire-2025.resettlement]]: the buyback, the 17 holdouts, rehousing and the homeowners'-meeting fight.
-- **Sectioning**: the investigation page now has `##` / `###` / `####` headings throughout. Activism has `##` sections, but its largest block is still 1,254 words.
+- **Sectioning**: the investigation page now has `##` / `###` / `####` headings throughout. Activism has `##` and `###` sections; its largest block is now 791 words.
 
-**Not finished.** "Each fact lives in one place" was **not** achieved. The hub links out, and the homeowners'-meeting detail now sits on the resettlement page, but the hearings and the June charges still appear on both the investigation and timeline pages. The timeline is a condensed version and the investigation page holds the fuller testimony.
+**De-duplication (2 Nov 2026).** After the first pass, the hearings, the June charges and the October report still appeared at length on both the timeline and the investigation page. Six long timeline rows are now one-line dated entries that link to the page holding the full account. Any detail that existed only on the timeline was moved to that page first: the 31 August buyback figures to resettlement, the Competition Commission's bid-rigging plan to investigation, and the 22 October submission to the report page. A script compared every source link and figure across the fire pages before and after, and none was lost. Every block in the collection is now under 1,000 words. What remains by design: the timeline keeps a short dated line for each event, the hub keeps its At-a-glance summary, and people profiles mention the events they took part in.
 
 Samples captured 31 Oct 2026, showing the top 2,600 px of each page rather than the full page:
 
