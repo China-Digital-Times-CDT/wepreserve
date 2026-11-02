@@ -58,6 +58,15 @@ jobs:
         .main-content .anchor-heading {
           display: none !important;
         }
+        // Deep links must not land underneath the fixed 64px site header.
+        .main-content h1,
+        .main-content h2,
+        .main-content h3,
+        .main-content h4,
+        .main-content h5,
+        .main-content h6 {
+          scroll-margin-top: 80px;
+        }
         @media (hover: hover) and (pointer: fine) {
           .main-content h1,
           .main-content h2,
