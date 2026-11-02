@@ -2,7 +2,7 @@
 id: ha47wz1uu1gti2sfu9pui1e
 title: Resettlement & Owners
 desc: The buyback scheme, the 17 holdouts, rehousing, the fight for a homeowners' meeting with administrator Hop On, belongings retrieval, and relief payments.
-updated: 1793404949000
+updated: 1793596424000
 created: 1793404949000
 ---
 
@@ -30,7 +30,7 @@ Transitional and permanent rehousing was spread across several estates and years
 
 After the fire, the government installed **Hop On Management** (a Chinachem subsidiary) as the estate's administrator. Owners spent months trying to force a statutory general meeting to get answers on funds, insurance and their future housing — and were repeatedly blocked.
 
-- **Online petition → forgery referral (5–10 Apr 2026).** Owners gathered a petition (**428 valid** signatures, above the 5% Building Management Ordinance threshold of ~100 of 1,984 units) to compel a general meeting. Hop On **rejected** it on **5 April**; on **10 April** the Home Affairs Department **referred the petition to law enforcement**, alleging it "lacked authentication mechanisms and may involve people impersonating owners and forging signatures" ([HKFP](https://hongkongfp.com/2026/04/10/tai-po-fire-owners-petition-for-meeting-with-estate-administrator-may-contain-forged-signatures-govt-says/)).
+- **Online petition → forgery referral (5–10 Apr 2026).** Owners gathered a petition (**428 valid** signatures as of 8 April, down from 431 after invalid signatures were removed, and above the 5% Building Management Ordinance threshold of ~100 of 1,984 units) to compel a general meeting. Hop On **rejected** it on **5 April**, planning instead an in-person "update session" on financial matters in early May; on **10 April** the Home Affairs Department **referred the petition to law enforcement**, alleging "the so-called petition lacked authentication mechanisms and may involve people impersonating owners and forging signatures" ([HKFP](https://hongkongfp.com/2026/04/10/tai-po-fire-owners-petition-for-meeting-with-estate-administrator-may-contain-forged-signatures-govt-says/)).
 - **Owners regroup (29 Apr 2026).** Undeterred, owners delivered **247 handwritten** signatures (~12% of households). Under the BMO this obliged Hop On to issue a meeting notice within 14 days (by **14 May**) and hold the meeting within 45 days ([HKFP](https://hongkongfp.com/2026/05/14/tai-po-fire-administrator-of-fire-hit-wang-fuk-court-seeks-to-extend-deadline-for-homeowners-meeting/)).
 - **The administrator stalls (14–20 May 2026).** On the notice deadline, Hop On instead asked the **Lands Tribunal to extend** the statutory timeframe, citing signature verification and venue logistics, and held **online-only "information sessions"** (from 20 May) with **no voting** and reported registration glitches ([HKFP](https://hongkongfp.com/2026/05/11/tai-po-fire-wang-fuk-court-residents-hit-registration-hurdles-for-online-meeting-with-management-firm/)).
 - **Tribunal rejects the delay (1–2 Jun 2026).** Lands Tribunal Judge **Gary Lam denied** the postponement: there was **no jurisdiction** under the BMO to vary the timeframe, and delay would infringe owners' right to a meeting — Hop On already held contact details for **1,601 of 1,984** owners, so the difficulty was "not insurmountable" ([HKFP](https://hongkongfp.com/2026/06/02/tai-po-fire-court-denies-estate-administrators-bid-to-postpone-owners-meeting/)).
