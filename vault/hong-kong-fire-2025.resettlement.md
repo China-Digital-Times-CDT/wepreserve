@@ -2,7 +2,7 @@
 id: ha47wz1uu1gti2sfu9pui1e
 title: Resettlement & Owners
 desc: The buyback scheme, the 17 holdouts, rehousing, the fight for a homeowners' meeting with administrator Hop On, belongings retrieval, and relief payments.
-updated: 1793596424000
+updated: 1793625306000
 created: 1793404949000
 ---
 
@@ -23,7 +23,7 @@ Transitional and permanent rehousing was spread across several estates and years
 ## Uptake — and the 17 holdouts
 
 - Over **85%** of fire-hit-block owners had accepted by the **30 June** flat-selection deadline.
-- By the **31 August** deadline, **99.1% (1,967 of 1,984)** had accepted — leaving **17 holdouts**, who face **compulsory acquisition**, with compensation likely pegged to the lower post-fire value and enabling legislation flagged for **2027**.
+- By the **31 August** deadline, **99.1% (1,967 of 1,984)** had accepted — leaving **17 holdouts**, who face **compulsory acquisition**, with compensation likely pegged to the lower post-fire value and enabling legislation flagged for **2027**. Acceptance had stood at 96.5% days before the 5 p.m. deadline, and the government said it would pursue the remaining acquisitions "at full speed." The terms were about 30% above pre-fire value, and reports put the combined scheme at **~HK$7.8b** (HK$5b public + HK$2.8b relief); the February Budget had earmarked HK$6.8b (see above). Some holdouts, such as Betty Ho, had wanted on-site redevelopment ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3365872/nearly-all-wang-fu-court-owners-accept-buy-out-leaving-17-holdouts-offer-ends), [HKFP](https://hongkongfp.com/2026/08/31/tai-po-fire-to-sell-or-not-to-sell-as-govt-deadline-looms-some-owners-still-hope-their-homes-can-rise-from-the-ashes/)).
 - **Wang Chi House** (the spared block) was brought in with a separate **~HK$1b** offer (extended in June): by **21 August**, **91.5%** of its owners had accepted and **67.7%** had signed sale-and-purchase agreements, against a **15 October** signing deadline (the final tally is not yet reported).
 
 ## The fight for a homeowners' meeting
