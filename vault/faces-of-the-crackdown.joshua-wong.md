@@ -2,7 +2,7 @@
 id: k96jbfw1qtqp2c3ip7njw988
 title: "⚖️ Joshua Wong|黃之鋒"
 desc: The teenage face of Hong Kong's 2014 Umbrella Movement turned serial national-security defendant — jailed in the Hong Kong 47 case and, in 2026, pleading guilty to a second charge that could mean life.
-updated: 1789646400000
+updated: 1793678487000
 created: 1789128000000
 ---
 
@@ -35,7 +35,9 @@ Wong was among the [[Hong Kong 47|hong-kong-47]] — the democrats prosecuted fo
 
 On **6 June 2025**, while already in prison, Wong was hit with a **fresh charge**: conspiracy to **collude with foreign forces**. Prosecutors say that in 2020 he lobbied foreign governments — chiefly the United States — to **impose sanctions or a blockade** on Hong Kong and China, and kept up that campaign after the NSL made it a crime.
 
-On **2 September 2026** Wong **pleaded guilty** to the charge at the High Court. The offence carries **three to ten years**, rising to **up to life imprisonment** if the court finds it "of a grave nature" — meaning the 29-year-old, rather than walking free in 2027, could face many more years behind bars ([HKFP](https://hongkongfp.com/2026/09/02/breaking-jailed-hong-kong-pro-democracy-campaigner-joshua-wong-pleads-guilty-to-foreign-collusion-charge/) · [Al Jazeera](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case) · [RFA](https://www.rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/)). Sentencing is expected later.
+On **2 September 2026** Wong **pleaded guilty** to the charge at the High Court. The offence carries **three to ten years**, rising to **up to life imprisonment** if the court finds it "of a grave nature" — meaning the 29-year-old, rather than walking free in 2027, could face many more years behind bars ([HKFP](https://hongkongfp.com/2026/09/02/breaking-jailed-hong-kong-pro-democracy-campaigner-joshua-wong-pleads-guilty-to-foreign-collusion-charge/) · [Al Jazeera](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case) · [RFA](https://www.rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/)).
+
+**Sentencing is set for 5 November 2026, 9:30 a.m.** at the High Court (before NSL-designated judge **William Tam Yiu-ho** / 譚耀豪), listed to take about 30 minutes. By then Wong — who turned **30** in October — will have been **remanded over 2,100 days**. In mitigation his senior counsel **Chan Ching-lung** (陳政龍) argued the case is **less grave than Jimmy Lai's** and should sit in the 3-to-10-year band; he sought a starting point near 10 years, reduced by one-third for the guilty plea to about **6.5 years**, and asked for roughly **two more years off** for the prosecution's delay in investigating (the probe opened only in late 2023). He noted that unless this term runs **concurrently** with the [[Hong Kong 47|hong-kong-47]] sentence, Wong's combined time would still exceed **10 years** ([The Witness](https://thewitnesshk.com/%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B-11%E6%9C%885%E6%97%A5%E6%97%A9%E4%B8%8A9%E6%99%82%E5%8D%8A%E5%88%A45/)).
 
 ## Even the film is under review (2026)
 
