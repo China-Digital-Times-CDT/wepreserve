@@ -2,7 +2,7 @@
 id: ebwvkii7n5nl76w21b65gm5
 title: "📰 Press Freedom under Siege|新聞自由淪陷"
 desc: How Hong Kong dismantled one of Asia's freest presses in half a decade — the raids that closed Apple Daily and Stand News, the revival of a colonial sedition law, and the steady criminalisation of journalism itself.
-updated: 1792972800000
+updated: 1793750507000
 created: 1790640000000
 ---
 
@@ -21,7 +21,7 @@ For a generation Hong Kong had one of the **freest presses in Asia** — a noisy
 | **2022** | **Citizen News**, citing the "sword" hanging over the industry, closes pre-emptively on **4 Jan**. The **FCC** suspends its Human Rights Press Awards rather than risk breaking the law. Independent outlets shut or go quiet across the board. |
 | **2024** | Hong Kong's homegrown **Article 23** law — the **Safeguarding National Security Ordinance** (23 Mar) — raises the penalty for **sedition** from 2 years to **7** (10 with an "external force"). In the first journalist sedition convictions since 1997, two **Stand News** editors are jailed (see below). **RFA** closes its Hong Kong bureau, citing the new law. |
 | **2025** | RSF's World Press Freedom Index puts Hong Kong at **140/180**, its lowest ever score, in the "**red zone**" for the first time. |
-| **2026** | Prosecutions reach **independent online media**: an outlet operator (**Boom News**) and an activist are arrested for "**seditious acts**" over filming a public commemoration — released on bail, no charge laid, then the operator's **personal bank accounts are frozen** (7 Oct) with no formal order shown (see below). Separately, ordinary Hongkongers are jailed for **Facebook posts**: a retiree is given a year for 53 seditious posts attacking the authorities — among them comments tying the [[Wang Fuk Court fire|hong-kong-fire-2025]] to possible 2019-style unrest. |
+| **2026** | Prosecutions reach **independent online media**: an outlet operator (**Boom News**) and an activist are arrested for "**seditious acts**" over filming a public commemoration — released on bail, no charge laid, then the operator's **personal bank accounts are frozen** (7 Oct) with no formal order shown (see below). Separately, ordinary Hongkongers are jailed for **Facebook posts**: a retiree is given a year for 53 seditious posts attacking the authorities — among them comments tying the [Wang Fuk Court fire](/notes/9e5b0uhf2vl7gk4rj1tzp3x/) to possible 2019-style unrest. |
 
 ## The two newsrooms that were destroyed
 
