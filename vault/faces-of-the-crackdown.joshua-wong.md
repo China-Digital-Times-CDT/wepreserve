@@ -2,7 +2,7 @@
 id: k96jbfw1qtqp2c3ip7njw988
 title: "⚖️ Joshua Wong|黃之鋒"
 desc: The teenage face of Hong Kong's 2014 Umbrella Movement turned serial national-security defendant — jailed in the Hong Kong 47 case and, in 2026, pleading guilty to a second charge that could mean life.
-updated: 1793678487000
+updated: 1793750507000
 created: 1789128000000
 ---
 
@@ -11,7 +11,7 @@ Related: [[Faces of the Crackdown|faces-of-the-crackdown]] | [[The Hong Kong 47|
 ![Joshua Wong Chi-fung, 2017](/assets/joshua-wong.jpg)
 *Joshua Wong Chi-fung in 2017. Photo: Voice of America, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joshua_Wong_Chi-fung,_2017_(cropped).jpg).*
 
-**Joshua Wong Chi-fung** (黃之鋒, born 13 October 1996) is the best-known figure of Hong Kong's youth protest movement — the schoolboy activist who became the global face of the **2014 Umbrella Movement** and, a decade later, one of the most heavily prosecuted people under the National Security Law. He has been **in custody since 2020**, is serving a sentence in the [[Hong Kong 47|hong-kong-47]] subversion case, and in **September 2026 pleaded guilty to a second national-security charge** that carries a maximum of **life imprisonment**.
+**Joshua Wong Chi-fung** (黃之鋒, born 13 October 1996) is the best-known figure of Hong Kong's youth protest movement — the schoolboy activist who became the global face of the **2014 Umbrella Movement** and, a decade later, one of the most heavily prosecuted people under the National Security Law. He has been **in custody since 2020**, is serving a sentence in the [[Hong Kong 47|hong-kong-47]] subversion case, and on **5 November 2026 was given a further 10 years** after pleading guilty to a **second national-security charge** — foreign collusion — which the court found "**of a grave nature**."
 
 ## The student who took on Beijing
 
@@ -31,13 +31,15 @@ Even before the NSL, Wong was jailed again and again over the protests he led �
 
 Wong was among the [[Hong Kong 47|hong-kong-47]] — the democrats prosecuted for organising the 2020 opposition **primary election**. He **pleaded guilty** to conspiracy to commit subversion and, in **November 2024**, was sentenced to **4 years 8 months**. He had been due for release in **2027**.
 
-## A second case — up to life
+## A second case — another ten years
 
 On **6 June 2025**, while already in prison, Wong was hit with a **fresh charge**: conspiracy to **collude with foreign forces**. Prosecutors say that in 2020 he lobbied foreign governments — chiefly the United States — to **impose sanctions or a blockade** on Hong Kong and China, and kept up that campaign after the NSL made it a crime.
 
 On **2 September 2026** Wong **pleaded guilty** to the charge at the High Court. The offence carries **three to ten years**, rising to **up to life imprisonment** if the court finds it "of a grave nature" — meaning the 29-year-old, rather than walking free in 2027, could face many more years behind bars ([HKFP](https://hongkongfp.com/2026/09/02/breaking-jailed-hong-kong-pro-democracy-campaigner-joshua-wong-pleads-guilty-to-foreign-collusion-charge/) · [Al Jazeera](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case) · [RFA](https://www.rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/)).
 
-**Sentencing is set for 5 November 2026, 9:30 a.m.** at the High Court (before NSL-designated judge **William Tam Yiu-ho** / 譚耀豪), listed to take about 30 minutes. By then Wong — who turned **30** in October — will have been **remanded over 2,100 days**. In mitigation his senior counsel **Chan Ching-lung** (陳政龍) argued the case is **less grave than Jimmy Lai's** and should sit in the 3-to-10-year band; he sought a starting point near 10 years, reduced by one-third for the guilty plea to about **6.5 years**, and asked for roughly **two more years off** for the prosecution's delay in investigating (the probe opened only in late 2023). He noted that unless this term runs **concurrently** with the [[Hong Kong 47|hong-kong-47]] sentence, Wong's combined time would still exceed **10 years** ([The Witness](https://thewitnesshk.com/%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B-11%E6%9C%885%E6%97%A5%E6%97%A9%E4%B8%8A9%E6%99%82%E5%8D%8A%E5%88%A45/)).
+On **5 November 2026**, at the High Court before NSL-designated judge **William Tam Yiu-ho** (譚耀豪), Wong — who had turned **30** in October and been **remanded over 2,100 days** — was sentenced to **10 years' imprisonment**. In mitigation his senior counsel **Chan Ching-lung** (陳政龍) had argued the case was **less grave than Jimmy Lai's** and belonged in the ordinary **3-to-10-year** band, with a one-third discount for the guilty plea and a further reduction for the prosecution's delay (the probe opened only in late 2023). The judge **rejected** that framing: he ruled the offence **"of a grave nature" (罪行重大)** — the finding that opens the **10-years-to-life** band — holding that Wong and **Nathan Law** had **continued** their sanctions campaign after the NSL took effect, gravely endangering national security. Tam took a **starting point of 13 years** and, crediting the early plea, came down to the **10-year statutory minimum** that a grave offence cannot fall below. Only **2 months and 2 days** of the term runs **concurrently** with Wong's [[Hong Kong 47|hong-kong-47]] sentence; the remainder is **consecutive**. Having been due for release in **January 2027**, he is now expected to stay imprisoned until **around 2036** ([HKFP](https://hongkongfp.com/2026/11/05/breaking-jailed-hong-kong-activist-joshua-wong-sentenced-to-10-years-over-foreign-collusion/) · [CNN](https://www.cnn.com/2026/11/04/china/hong-kong-china-joshua-wong-sentence-hnk-intl) · [The Witness](https://thewitnesshk.com/%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B-11%E6%9C%885%E6%97%A5%E6%97%A9%E4%B8%8A9%E6%99%82%E5%8D%8A%E5%88%A45/) · [HK01](https://www.hk01.com/%E6%94%BF%E6%83%85/60385666/%E9%BB%83%E4%B9%8B%E9%8B%92%E6%89%BF%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B-%E8%A2%AB%E5%88%A4%E5%9B%9A10%E5%B9%B4-%E5%AE%98%E6%8C%87%E5%B1%AC%E7%BD%AA%E8%A1%8C%E9%87%8D%E5%A4%A7)).
+
+In the public gallery, consular officials from **Sweden, Italy, the Netherlands and the EU** looked on; veteran activist **Lei Yuk-lin** (雷玉蓮), who had queued for a seat since the Tuesday, carried a gold heart-shaped candle for Wong, and the **102-year-old "Uncle Wong" (大黃伯)** was again among those lining up before dawn ([The Witness](https://thewitnesshk.com/%E5%AF%A6%E6%99%82%E6%9B%B4%E6%96%B0-%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E4%BB%8A%E5%88%A4%E5%88%91-%E9%9B%B7%E7%8E%89%E8%93%AE%E5%B8%B6%E9%87%91%E5%BF%83%E5%88%B0/)).
 
 ## Even the film is under review (2026)
 
@@ -51,6 +53,8 @@ Wong's activism made him one of the movement's most decorated figures abroad —
 
 ## Sources
 
+- [HKFP: Joshua Wong sentenced to 10 years over foreign collusion (5 Nov 2026)](https://hongkongfp.com/2026/11/05/breaking-jailed-hong-kong-activist-joshua-wong-sentenced-to-10-years-over-foreign-collusion/)
+- [CNN: Joshua Wong handed another 10 years in jail (5 Nov 2026)](https://www.cnn.com/2026/11/04/china/hong-kong-china-joshua-wong-sentence-hnk-intl)
 - [HKFP: Jailed campaigner Joshua Wong pleads guilty to foreign collusion charge (2 Sept 2026)](https://hongkongfp.com/2026/09/02/breaking-jailed-hong-kong-pro-democracy-campaigner-joshua-wong-pleads-guilty-to-foreign-collusion-charge/)
 - [Al Jazeera: Joshua Wong pleads guilty in national security case (2 Sept 2026)](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case)
 - [RFA: Imprisoned activist Joshua Wong pleads guilty to 'foreign collusion' (2 Sept 2026)](https://www.rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/)
