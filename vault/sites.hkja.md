@@ -2,7 +2,7 @@
 id: egsgjuufo34m4r1084rstob
 title: HKJA|記協
 desc: ''
-updated: 1790985600000
+updated: 1794023907000
 created: 1648712055894
 ---
 
@@ -24,7 +24,7 @@ Since the 2019 protests and the 2020 National Security Law, the HKJA has itself 
 
 The people who have led the HKJA trace the pressure on the whole profession:
 
-- **Ronson Chan** (陳朗昇), chair **2021–2024** and a former deputy assignment editor at [[Stand News|sites.standnews]], was arrested in **September 2022** while reporting on a homeowners' meeting in Mong Kok and charged with **obstructing a police officer** who had demanded his ID. Convicted in 2023 and sentenced to **5 days in jail**, he **lost his appeal on 29 May 2026** and was jailed immediately, later taking the case to the **Court of Final Appeal**. RSF called his imprisonment "a new low for press freedom in Hong Kong." He had declined to seek re-election in 2024, saying the combined attacks on him and the HKJA had grown too damaging.
+- **Ronson Chan** (陳朗昇), chair **2021–2024** and a former deputy assignment editor at [[Stand News|sites.standnews]], was arrested in **September 2022** while reporting on a homeowners' meeting in Mong Kok and charged with **obstructing a police officer** who had demanded his ID. Convicted in 2023 and sentenced to **5 days in jail**, he **lost his appeal on 29 May 2026** and was jailed immediately. He then sought to take the case to the **Court of Final Appeal**, but on **6 November 2026** Deputy High Court Judge **Lily Wong** — who had also dismissed his appeal — **refused to certify** a point of law for the top court, calling his argument that police have no "free-standing" power to demand an identity card "**not reasonably arguable**" and the statute "unequivocal." He can still apply to the CFA's Appeal Committee directly. RSF called his imprisonment "a new low for press freedom in Hong Kong." He had declined to seek re-election in 2024, saying the combined attacks on him and the HKJA had grown too damaging.
 - **Selina Cheng** (鄭嘉如), a *Wall Street Journal* reporter, was elected chair in **July 2024** — and **fired by the WSJ days later**, having said her employer pressured her not to stand. She has led the association since.
 
 The HKJA continues to issue statements defending reporters — in October 2026 insisting that "**reporting is not sedition**" after an online journalist's arrest (see [[Press Freedom under Siege|press-freedom]]) — even as its own survival is in question.
@@ -40,6 +40,7 @@ The HKJA continues to issue statements defending reporters — in October 2026 i
 - [HKFP: Press group chief won't seek another term, cites growing pressure and smears (16 May 2024)](https://hongkongfp.com/2024/05/16/hong-kong-press-group-chief-wont-seek-another-term-cites-growing-pressure-and-smears/)
 - [SCMP: HK's largest journalist group faces financial strain, plunging membership](https://www.scmp.com/news/hong-kong/politics/article/3223652/hong-kongs-largest-journalist-group-faces-financial-strain-plunging-membership-outlets-close-and)
 - [HKFP: Ex-HKJA chief Ronson Chan takes obstruction conviction appeal to top court (29 June 2026)](https://hongkongfp.com/2026/06/29/former-press-union-chief-ronson-chan-takes-appeal-over-conviction-for-obstructing-police-to-top-court/)
+- [HKFP: Court rejects Ronson Chan's bid to take obstruction appeal to top court (7 Nov 2026)](https://hongkongfp.com/2026/11/07/court-rejects-ex-press-union-head-ronson-chans-bid-to-take-police-obstruction-appeal-to-top-court/)
 - [RSF: Imprisonment of veteran journalist Ronson Chan marks new low for press freedom in Hong Kong](https://rsf.org/en/imprisonment-veteran-journalist-ronson-chan-marks-new-low-press-freedom-hong-kong)
 - [Wikipedia: Hong Kong Journalists Association](https://en.wikipedia.org/wiki/Hong_Kong_Journalists_Association)
 
