@@ -2,7 +2,7 @@
 id: ha47wz1uu1gti2sfu9pui1e
 title: Resettlement & Owners
 desc: The buyback scheme, the 17 holdouts, rehousing, the fight for a homeowners' meeting with administrator Hop On, belongings retrieval, and relief payments.
-updated: 1793625306000
+updated: 1794142103000
 created: 1793404949000
 ---
 
@@ -25,6 +25,12 @@ Transitional and permanent rehousing was spread across several estates and years
 - Over **85%** of fire-hit-block owners had accepted by the **30 June** flat-selection deadline.
 - By the **31 August** deadline, **99.1% (1,967 of 1,984)** had accepted — leaving **17 holdouts**, who face **compulsory acquisition**, with compensation likely pegged to the lower post-fire value and enabling legislation flagged for **2027**. Acceptance had stood at 96.5% days before the 5 p.m. deadline, and the government said it would pursue the remaining acquisitions "at full speed." The terms were about 30% above pre-fire value, and reports put the combined scheme at **~HK$7.8b** (HK$5b public + HK$2.8b relief); the February Budget had earmarked HK$6.8b (see above). Some holdouts, such as Betty Ho, had wanted on-site redevelopment ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3365872/nearly-all-wang-fu-court-owners-accept-buy-out-leaving-17-holdouts-offer-ends), [HKFP](https://hongkongfp.com/2026/08/31/tai-po-fire-to-sell-or-not-to-sell-as-govt-deadline-looms-some-owners-still-hope-their-homes-can-rise-from-the-ashes/)).
 - **Wang Chi House** (the spared block) was brought in with a separate **~HK$1b** offer (extended in June): by **21 August**, **91.5%** of its owners had accepted and **67.7%** had signed sale-and-purchase agreements, against a **15 October** signing deadline (the final tally is not yet reported).
+
+### A move to compulsory acquisition — and a warning (Nov 2026)
+
+Accepting the buyback offer was one step; signing the binding **sale-and-purchase agreement** was another, and that stage dragged. By early **November 2026** roughly **95%** of owners had signed; about **5.2% — some 100 households — had not**, and **13** said they would not take part at all. The government signalled it would **legislate to compulsorily acquire** the outstanding ownership.
+
+That prospect drew a pointed warning from a former housing chief. **Anthony Cheung Bing-leung** (張炳良), Secretary for Transport and Housing from 2012 to 2017, wrote in *Ming Pao* that special legislation to force the sales "easily raises worries" of setting a **precedent for the government to strip private property**, must be handled with great care, and could invite **judicial review**. The **Basic Law** protects private-property rights, he argued, barring resumption without a genuine public-interest purpose or reasonable public use — so **voluntary** sale remained the better course. He also urged the government to **publish the building structural-inspection (驗樓) report** without delay to dispel residents' doubts, warning that withholding it would only sharpen the dispute over compulsory purchase; he noted the [[independent inquiry|hong-kong-fire-2025.investigation]] had already found the fire a man-made disaster of fire-prevention defects, bid-rigging and regulatory failure — a "**double system failure**." The **Housing Bureau** replied on **5 November** that it was **"not appropriate" to release the inspection report now**, as it could bear on fire-insurance claims. Some pro-establishment lawmakers argued the opposite — that acquisition **with fair compensation** is lawful, and that legislating would forestall judicial-review challenges ([HK01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406922/) · [Ming Pao](https://news.mingpao.com/ins/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB/article/20261105/special/1793875236719)).
 
 ## The fight for a homeowners' meeting
 
