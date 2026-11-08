@@ -2,15 +2,17 @@
 id: 74owa8sp34nmlvdwk5io11k
 title: "📕 Book Censorship under the NSL"
 desc: The criminalisation of books, booksellers and publishing in Hong Kong under the National Security Law — from the Sheep Village sedition case to the 2026 bookshop raids
-updated: 1793750507000
+updated: 1794150535000
 created: 1653379309446
 ---
 
-Related: [[book-censorship.sheep-village]] | [[faces-of-the-crackdown.jimmy-lai]] | [[glory-to-hong-kong]] | [[sites.appledaily]] | [[sites.standnews]] | [[sites.hkcnews]] | [[sites.guhkst]]
+Related: [[📚 Banned & Targeted Books|book-censorship.banned-books]] | [[book-censorship.sheep-village]] | [[faces-of-the-crackdown.jimmy-lai]] | [[glory-to-hong-kong]] | [[sites.appledaily]] | [[sites.standnews]] | [[sites.hkcnews]] | [[sites.guhkst]]
 
 Hong Kong was long one of the freest publishing centres in the Chinese-speaking world — home to a combative free press and to bookshops that openly stocked titles banned across the border. Since the imposition of the **National Security Law** in June 2020 and the home-grown **Safeguarding National Security Ordinance** (the "Article 23 law") in 2024, that space has been dismantled. Media freedom fell first: [[Apple Daily|sites.appledaily]] was forced shut in June 2021 and its founder [[Jimmy Lai|faces-of-the-crackdown.jimmy-lai]] jailed for 20 years, [[Stand News|sites.standnews]] was closed in December 2021, and [[Citizen News|sites.hkcnews]] folded in January 2022. The censorship then spread from newsrooms to **books, publishers and booksellers**.
 
 This page tracks that wider criminalisation of the printed word — from the landmark **Sheep Village** case, which first turned a children's picture book into a "seditious publication," to the state's quiet purge of the public libraries and the 2026 raids that began arresting the booksellers themselves.
+
+> 📚 **Looking for the titles themselves?** The [[Banned & Targeted Books registry|book-censorship.banned-books]] gathers the specific books that have been declared seditious, pulled, seized or prosecuted — with covers and lookup links — since the government refuses to publish a list of its own.
 
 ## The Landmark Case: Sheep Village
 
