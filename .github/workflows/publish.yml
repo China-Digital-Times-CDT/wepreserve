@@ -116,6 +116,23 @@ jobs:
     - name: Auto-expand sidebar (post-export patch)
       run: yarn run patch:sidebar
 
+    # SHKO fix: Dendron publishes the root/index note only as docs/index.html
+    # (served at "/"), but the auto-generated Backlinks on every page it links
+    # to point at /notes/<root-id>, which is never emitted and 404s. Emit a
+    # redirect there so that backlink lands on the home page.
+    - name: Fix root backlink (redirect /notes/<root-id> to home)
+      run: |
+        mkdir -p docs/notes/pfy4h1nwep9age7eg0u8xe1
+        cat > docs/notes/pfy4h1nwep9age7eg0u8xe1/index.html <<'EOF'
+        <!DOCTYPE html>
+        <html lang="en"><head><meta charset="utf-8">
+        <title>SHKO (Save Hong Kong Online)</title>
+        <link rel="canonical" href="https://savehkonline.org/">
+        <meta http-equiv="refresh" content="0; url=/">
+        <script>location.replace('/')</script>
+        </head><body>Redirecting to the <a href="/">SHKO home page</a>…</body></html>
+        EOF
+
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
       with:
