@@ -2,7 +2,7 @@
 id: 9tcguk9tktrnjim78w9rhgu
 title: "🗣️ Cantonese Under Pressure"
 desc: How Hong Kong's mother tongue — spoken by nearly everyone, yet official to no one — is squeezed in schools and officialdom, and the effort to keep it alive.
-updated: 1794139892000
+updated: 1794144379000
 created: 1794139892000
 ---
 
@@ -30,6 +30,10 @@ On **22 September 2026**, the prestigious girls' school **Good Hope School** (�
 
 Reversing course, the school said it bore "**full responsibility**," that language "carries our memories, emotions, affections and is the living soul of our heritage," and that it had "never been our ethos to constrain the mother tongue of any child entrusted to our care." Principal **Gary Harfitt** apologised, calling the slide an unrevised draft that did not reflect school policy — though the statement did not explain why the guideline had been issued. The **Education Bureau** said it had urged the school to review its event arrangements but **declined to comment on the school's language policy** ([HKFP](https://hongkongfp.com/2026/09/22/prestigious-hong-kong-school-withdraws-unapproved-cantonese-ban-following-controversy/)).
 
+## A fight over the classroom — in tongue and in content
+
+The squeeze on Cantonese is one front in a longer contest over what Hong Kong's children learn, and in whose language. The other front is content. In **2012**, the student group **Scholarism**, led by a 15-year-old [[Joshua Wong|faces-of-the-crackdown.joshua-wong]], drove the movement that forced the government to **shelve** a compulsory "**Moral and National Education**" curriculum critics condemned as "brainwashing"; the protests drew **more than 100,000** people and launched a generation of student activism ([CNN](https://www.cnn.com/2012/07/30/world/asia/hong-kong-national-education-controversy)). Scholarism did not campaign on Cantonese as such — but defending the mother tongue and resisting a Beijing-centred syllabus spring from the same anxiety, the mainlandisation of Hong Kong's schools, which is why the Education Bureau's 2014 "not an official language" remark landed so hard in that already-charged period.
+
 ## Keeping Cantonese alive
 
 The pressure on Cantonese is rarely a ban; more often it is a quiet reweighting — Mandarin framed as the language of the future, Cantonese as sentiment. But the mother tongue has proved stubborn. It remains the voice of Hong Kong's culture and of its civic life: the protest anthem [[Glory to Hong Kong|glory-to-hong-kong]] was written and sung in Cantonese, and Cantonese-language journalism and film (see [[Hong Kong protest films|films]]) keep the idiom in the public record. Among the diaspora, Cantonese classes, reading groups and recordings have become a form of preservation in themselves.
@@ -45,3 +49,4 @@ Cantonese lives in use. If you have material worth keeping — oral histories, c
 - [HKFP: Prestigious Hong Kong school withdraws unapproved Cantonese ban following controversy (22 Sept 2026)](https://hongkongfp.com/2026/09/22/prestigious-hong-kong-school-withdraws-unapproved-cantonese-ban-following-controversy/)
 - [China Digital Times: Is Cantonese a Dialect or a Language? (18 Feb 2014)](https://chinadigitaltimes.net/2014/02/cantonese-dialect-language/)
 - [SCMP: Education Bureau rapped over Cantonese 'not an official language' gaffe (2014)](https://www.scmp.com/news/hong-kong/article/1419237/education-bureau-rapped-over-cantonese-not-official-language-gaffe)
+- [CNN: 'National education' raises furor in Hong Kong (30 July 2012)](https://www.cnn.com/2012/07/30/world/asia/hong-kong-national-education-controversy)
