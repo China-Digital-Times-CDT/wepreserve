@@ -2,7 +2,7 @@
 id: 7ezgkzr6jrxpnp9ggs4jrx7
 title: "📚 Banned & Targeted Books|禁書登記"
 desc: A growing registry of the books Hong Kong has declared seditious, pulled from libraries, seized in raids or stopped at customs — with covers and lookup pointers — assembled because the government refuses to publish a list of its own.
-updated: 1794150459000
+updated: 1794151096000
 created: 1794150459000
 ---
 
@@ -33,15 +33,32 @@ The three picture books that became the **first works a Hong Kong court declared
 
 ## Seized, pulled and prosecuted
 
-Titles named in the bookshop raids and library purges of 2023–2026. "Find it" links point to a library catalogue where you can confirm the edition and see the cover; cover thumbnails for these will be added as they are sourced under the archive's image policy (no hotlinking; self-hosted, attributed).
+Titles named in the bookshop raids and library purges of 2023–2026. Click a cover to look the book up in a library catalogue.
 
-| Title | Author | Publisher · year | Where it surfaced | Find it |
-|---|---|---|---|---|
-| *Let Only Red Flowers Bloom: Identity and Belonging in Xi Jinping's China* | Emily Feng | Crown · 2025 (Taiwan trad-Chinese: Acropolis · 2026) | Seized in the **July 2026 Book Fair raids** (Have A Nice Stay, Greenfield); the author had been branded a "traitor" by state media. Sold out within days. | [Open Library](https://openlibrary.org/books/OL58298230M/Let_Only_Red_Flowers_Bloom) |
-| *The Unburned Book* 未燒書 | Yang Du (楊渡) | Taiwan · 2016 | A Taiwanese writer's memoir revisiting Tiananmen and its exiles; sought by a mainland reader at **Hunter Bookstore**. | [Open Library](https://openlibrary.org/search?q=%E6%9C%AA%E7%87%92%E6%9B%B8+%E6%A5%8A%E6%B8%A1) |
-| *On Tyranny: Twenty Lessons from the Twentieth Century* | Timothy Snyder | Tim Duggan Books · 2017 | Its twenty lessons reproduced on postcards by the till at **Hunter Bookstore**. | [Open Library](https://openlibrary.org/search?q=on+tyranny+timothy+snyder) |
-| *Animal Farm* | George Orwell | Secker & Warburg · 1945 | Stocked at **Hunter Bookstore** as an emblem of allegorical dissent. | [Open Library](https://openlibrary.org/search?q=animal+farm+george+orwell) |
-| A biography of **Jimmy Lai** (title not specified in reports) | — | — | Reportedly among the seditious stock seized when police raided **Book Punch** (March 2026). | — |
+<div style="display:flex;gap:1.25rem;flex-wrap:wrap;align-items:flex-start;margin:1rem 0;">
+  <figure style="margin:0;max-width:190px;flex:1 1 160px;">
+    <a href="https://openlibrary.org/books/OL58298230M/Let_Only_Red_Flowers_Bloom"><img src="/assets/book-covers/red-flowers.jpg" alt="Cover: Let Only Red Flowers Bloom" style="width:100%;border:1px solid #ccc;border-radius:4px;"></a>
+    <figcaption style="font-size:0.85em;line-height:1.4;"><strong><em>Let Only Red Flowers Bloom</em></strong><br>Emily Feng · Crown, 2025<br>(Taiwan ed.: Acropolis, 2026)<br><span style="color:#666;">Seized in the July 2026 Book Fair raids</span></figcaption>
+  </figure>
+  <figure style="margin:0;max-width:190px;flex:1 1 160px;">
+    <a href="https://openlibrary.org/search?q=on+tyranny+timothy+snyder"><img src="/assets/book-covers/on-tyranny.jpg" alt="Cover: On Tyranny" style="width:100%;border:1px solid #ccc;border-radius:4px;"></a>
+    <figcaption style="font-size:0.85em;line-height:1.4;"><strong><em>On Tyranny</em></strong><br>Timothy Snyder · 2017<br><span style="color:#666;">On postcards by the till at Hunter Bookstore</span></figcaption>
+  </figure>
+  <figure style="margin:0;max-width:190px;flex:1 1 160px;">
+    <a href="https://openlibrary.org/search?q=animal+farm+george+orwell"><img src="/assets/book-covers/animal-farm.jpg" alt="Cover: Animal Farm" style="width:100%;border:1px solid #ccc;border-radius:4px;"></a>
+    <figcaption style="font-size:0.85em;line-height:1.4;"><strong><em>Animal Farm</em></strong><br>George Orwell · 1945<br><span style="color:#666;">Stocked at Hunter Bookstore</span></figcaption>
+  </figure>
+  <figure style="margin:0;max-width:190px;flex:1 1 160px;">
+    <div style="width:100%;aspect-ratio:2/3;border:1px dashed #bbb;border-radius:4px;display:flex;align-items:center;justify-content:center;text-align:center;color:#999;font-size:0.8em;padding:0.5em;box-sizing:border-box;">cover not yet archived</div>
+    <figcaption style="font-size:0.85em;line-height:1.4;"><strong><em>The Unburned Book</em> 未燒書</strong><br>Yang Du (楊渡) · 2016<br><span style="color:#666;">Sought by a reader at Hunter Bookstore</span></figcaption>
+  </figure>
+  <figure style="margin:0;max-width:190px;flex:1 1 160px;">
+    <div style="width:100%;aspect-ratio:2/3;border:1px dashed #bbb;border-radius:4px;display:flex;align-items:center;justify-content:center;text-align:center;color:#999;font-size:0.8em;padding:0.5em;box-sizing:border-box;">title not named</div>
+    <figcaption style="font-size:0.85em;line-height:1.4;"><strong>A biography of Jimmy Lai</strong><br><span style="color:#666;">Seized in the Book Punch raid, March 2026 (the title was not named in reports)</span></figcaption>
+  </figure>
+</div>
+
+*Cover images are low-resolution reproductions shown for identification (fair use), self-hosted rather than hotlinked; sourced from [Open Library](https://openlibrary.org/) and, for the Sheep Village trilogy, the archive's own preserved copies.*
 
 ## How this registry is built
 
