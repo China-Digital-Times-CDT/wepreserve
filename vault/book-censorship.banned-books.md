@@ -2,7 +2,7 @@
 id: 7ezgkzr6jrxpnp9ggs4jrx7
 title: "📚 Banned & Targeted Books|禁書登記"
 desc: A growing registry of the books Hong Kong has declared seditious, pulled from libraries, seized in raids or stopped at customs — with covers and lookup pointers — assembled because the government refuses to publish a list of its own.
-updated: 1794151096000
+updated: 1794151194000
 created: 1794150459000
 ---
 
@@ -50,7 +50,7 @@ Titles named in the bookshop raids and library purges of 2023–2026. Click a co
   </figure>
   <figure style="margin:0;max-width:190px;flex:1 1 160px;">
     <div style="width:100%;aspect-ratio:2/3;border:1px dashed #bbb;border-radius:4px;display:flex;align-items:center;justify-content:center;text-align:center;color:#999;font-size:0.8em;padding:0.5em;box-sizing:border-box;">cover not yet archived</div>
-    <figcaption style="font-size:0.85em;line-height:1.4;"><strong><em>The Unburned Book</em> 未燒書</strong><br>Yang Du (楊渡) · 2016<br><span style="color:#666;">Sought by a reader at Hunter Bookstore</span></figcaption>
+    <figcaption style="font-size:0.85em;line-height:1.4;"><strong><em>The Unburned Book</em> 未燒書</strong><br>Yang Du (楊渡), Taiwan<br><span style="color:#666;">Sought by a reader at Hunter Bookstore</span></figcaption>
   </figure>
   <figure style="margin:0;max-width:190px;flex:1 1 160px;">
     <div style="width:100%;aspect-ratio:2/3;border:1px dashed #bbb;border-radius:4px;display:flex;align-items:center;justify-content:center;text-align:center;color:#999;font-size:0.8em;padding:0.5em;box-sizing:border-box;">title not named</div>
