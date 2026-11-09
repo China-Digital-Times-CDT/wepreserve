@@ -26,8 +26,10 @@ recipe and any manually-saved reports.)
 
 ## What the weekly check does (v2)
 
-The check has two halves: an **audit** of the archive as it stands (steps
-2–4) and a **scout** for content worth editing in (step 5).
+The check has three parts: an **audit** of the archive as it stands (steps
+2–4), a **scout** for content worth editing in (step 5), and an
+**open-issues watch** that tracks the backlog of proposed hubs and
+long-running collections (step 5b).
 
 1. **Read latest `main`** (read-only; never push).
 2. **Deterministic checks** — run `python3 scripts/check_archive.py`:
@@ -77,12 +79,33 @@ The check has two halves: an **audit** of the archive as it stands (steps
      recommendation: fold into an existing hub, open a new page/section, or
      add to the watchlist and wait for it to develop.
    Every candidate carries **source(s)** per the step-4 sourcing rules.
+   - **5b. Open-issues watch.** Fetch the repo's open GitHub issues
+     (`https://api.github.com/repos/China-Digital-Times-CDT/wepreserve/issues?state=open&per_page=100`,
+     unauthenticated read is fine for this public repo) and focus on the
+     **backlog issues** — proposed hubs and long-running collections that are
+     waiting for enough material before they are worth building or expanding
+     (e.g. a proposed theme hub, a book/registry collection that grows as new
+     titles surface, a reference-capture or distribution idea). For **each**
+     such open issue, research the last ~1–2 weeks for developments that feed
+     it, and decide which of three states it is in: **▶ act now** (enough has
+     accumulated — a second case, a landed ruling, a cluster of titles — that
+     building or extending the page is now worthwhile; name the exact page to
+     create/extend and the material that justifies it), **⏸ keep waiting**
+     (still thin — nothing material since last week, or a single data point
+     that needs corroboration), or **✅ done / close** (the work has been
+     folded in and the issue can be closed). Purely mechanical issues (a CI
+     bug, a one-off fix) are not part of this watch — only the content
+     backlog. The point is to let proposals mature on their own cadence and
+     act only when a topic has earned a page, rather than building on the day
+     it is proposed.
 6. **Report the digest as the run's final message** — do NOT publish or
    update any Claude Doc or artifact. Rank it 🔴 must-fix / 🟡 should-update /
    🟢 nice-to-have, with lineage items ahead of relevance-only ones inside 🟡,
-   plus a Watchlist-status line. Must-fix items are checklist lines a
-   maintainer applies locally. The digest is read back from the run's output
-   (see the Delivery note).
+   plus a **📋 Open-issues watch** section (one line per backlog issue:
+   `#<n> <title> — ▶ act now / ⏸ keep waiting / ✅ done`, with the one-line
+   reason and any new material) and a Watchlist-status line. Must-fix items
+   are checklist lines a maintainer applies locally. The digest is read back
+   from the run's output (see the Delivery note).
 7. **Notify** — send one concise push notification with the severity counts
    and a one-line headline per 🔴/🟡 item (no doc link — there is no doc).
 
@@ -100,10 +123,10 @@ Keep these from going stale — update the relevant page when they land:
 - **Pillar of Shame** confiscation ruling (separate routine already watches `statues.md`).
 - **Wang Fuk Court fire** independent committee **redacted public report** — the full report was submitted to the CE on 22 Oct 2026; a redacted version is due the following week. Watch for its release and the government's reform/accountability plans.
 - **Jason Kong** (fire petition organiser) fraud trial.
-- **Ronson Chan** — Court of Final Appeal leave application on his obstruction conviction.
 - **Jimmy Lai** — NSL trial verdict / sentencing.
-- **Joshua Wong** — sentencing on the second (foreign-collusion) charge.
+- **Margaret Ng / Bar Association** — High Court judgment on the Bar ExCo's judicial review (HCAL1407/2026) seeking to overturn the tribunal that cleared her; heard 9 Nov 2026, reserved (within 6 months). See issue #39.
 - **EU** — whether the Council acts on the Parliament's sanctions call (the Parliament's resolution is already recorded on `sites.hka`).
+- *(Resolved — recorded, kept here briefly so the scout doesn't re-flag them): Joshua Wong second-charge sentencing = 10 years, 5 Nov 2026, on `faces-of-the-crackdown.joshua-wong`. Ronson Chan CFA leave refused 6 Nov 2026, on `sites.hkja`.)*
 
 ## Improving it over time
 
