@@ -97,9 +97,19 @@ needs `wrangler` + a scoped token, or the newer `mcp.cloudflare.com/mcp`.
 - ✅ `capture_refs.py` built + dogfooded (#36): 6/6 real Joshua Wong citations
   (HKFP/AlJazeera/RFA/CNN/Wikimedia) captured ok, 0 false blocks.
 - ✅ 3 Tier-0 screenshots captured + published (HKFP, PORI, Photon Media).
-- ✅ Browser Run worker (#41) + Browsertrix container scaffold (#42): code-
-  complete and committed; live deploy pending a deploy path (scoped wrangler
-  token or `mcp.cloudflare.com/mcp` — the Bindings MCP connector can't deploy).
+- ✅ **Browser Run worker (#41) — DEPLOYED LIVE** at
+  `https://shko-capture-api.isaac-mao.workers.dev` (bindings: Browser Run +
+  R2 `shko-public`; account on Workers Paid). End-to-end tested 2026-11-10:
+  HKFP → `ok`, stored and retrievable from the public mirror; hkja → `blocked`
+  (Cloudflare challenge caught, HTTP 422, nothing stored) — the edge enforces
+  the same discipline as local. Deployed via `wrangler` OAuth (the browser
+  callback was completed by delivering the localhost redirect to the server on
+  the box, since the login runs headless here).
+- ⏳ Browsertrix container (#42): scaffold committed; container image build/push
+  + Cloudflare Container deploy is the remaining follow-up. Local `docker run`
+  is the working equivalent.
+- 🔗 Next wiring: point `capture_refs.py` at the deployed worker for Tier-0
+  URLs (keep the local path as the Tier-1 fallback).
 - ⛔ The Witness fresh WACZ: **crawl blocked**. Both a fast (3-worker) and a
   polite (1-worker, 8 s delays) crawl from this box's IP were rate-limited —
   1 page of 40–56, the rest HTTP 403 (195 403s in the polite run). The seed
