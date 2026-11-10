@@ -1,0 +1,14 @@
+name = "shko-capture-api"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Browser Run (managed headless Chromium). Requires Workers Paid.
+browser = { binding = "BROWSER" }
+
+# Where captures land. Tier-0 captures are shareable -> public mirror bucket.
+# (Sensitive/authenticated captures do NOT go through this Worker; see
+# reports/capture-pipeline.md and issue #43.)
+[[r2_buckets]]
+binding = "ARCHIVE"
+bucket_name = "shko-public"

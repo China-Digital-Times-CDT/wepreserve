@@ -1,0 +1,16 @@
+{
+  "name": "shko-capture-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "On-demand Tier-0 page capture on Cloudflare Browser Run, storing to R2 (#40/#41).",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  },
+  "dependencies": {
+    "@cloudflare/puppeteer": "^1.0.0"
+  }
+}
