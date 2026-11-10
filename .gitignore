@@ -7,3 +7,4 @@ pods/service-connections
 .backup
 .capture-venv/
 __pycache__/
+captures/

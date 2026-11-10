@@ -118,6 +118,32 @@ Capture is **not one happy path**. A liveness probe of real targets on
   - `screenshots/<name>/<ts>.{png,html,json}` — edge Browser Run captures (#41).
   - `fulltext/<name>/<ts>.{html,txt,json}` — Tier-1 full-text captures
     (`fetch_extract --r2` / `capture_refs --text --r2`). Public pages only.
+  - `screenshots/<name>/<ts>.{png,thumb.jpg}` + `screenshots/index.json` — the
+    **monthly time-series screenshot archive** (#44).
+
+## Monthly screenshot archive (#44 — keep history, don't replace)
+
+A dated, non-overwriting screenshot archive of a **curated priority set**
+(`scripts/screenshot_targets.json`), so each collection accrues a visual record
+over time rather than replacing one image. Every run adds a new
+`screenshots/<name>/<ts>.{png,thumb.jpg}`; nothing is overwritten.
+
+- **Capture + manifest:** `scripts/screenshot_archive.py`
+  (`--capture --manifest --report`, under `xvfb-run -a`). Drives `capture_stealth`
+  per target, makes a JPEG thumbnail, and rebuilds the public
+  `screenshots/index.json`.
+- **Auto-capture (local cron):** `scripts/screenshot_archive_cron.sh` on the box
+  that holds the venv + rclone creds (mars). The cloud routine **cannot** capture
+  (no browser / R2 creds in the cloud), so capture is a local monthly cron.
+- **Gallery:** `vault/assets/screenshots/gallery.html` reads the manifest and
+  renders each site's dated thumbnails (newest first → full-res). Piloted on the
+  Press Freedom hub (`?collection=press-freedom`).
+- **Cloud audit routine:** monthly, reads the manifest, reports a freshness
+  digest + push ping, and flags OVERDUE / residential-run-pending (hkja). Tracks
+  the standing issue **#44**.
+- **Residential backlog:** hkja (managed challenge) needs a capture from a
+  residential connection — `screenshot_archive.py --capture --only hkja
+  --include-residential`.
 
 ## The glue (#40)
 
