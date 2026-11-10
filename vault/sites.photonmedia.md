@@ -15,6 +15,9 @@ Photon Media (光傳媒) is an independent news outlet based in Taiwan, founded 
 - https://photonmedia.net/ (online)
 - [Wikipedia: 光傳媒 (台灣)](https://zh.wikipedia.org/wiki/%E5%85%89%E5%82%B3%E5%AA%92_(%E5%8F%B0%E7%81%A3))
 
+A screenshot of https://photonmedia.net/ as of 10 November 2026 (the homepage's most recent articles date to October 2025):
+![image](/assets/sites/photonmedia.png)
+
 ## Archive
 - [Replay this site (WACZ)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2F3b628a67.wacz#view=pages&url=https%3A%2F%2Fphotonmedia.net%2F&ts=20250827161707)
 
