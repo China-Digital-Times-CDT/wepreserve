@@ -5,3 +5,8 @@
 #   .capture-venv/bin/pip install -r scripts/requirements-capture.txt
 curl_cffi>=0.15
 trafilatura>=2.0
+# capture_stealth.py (Tier-1 JS-challenge fallback): drives a real headful
+# Chrome via channel="chrome", so no browser download is needed — but Xvfb must
+# be installed at the system level (apt install xvfb) and runs provide the
+# display via `xvfb-run -a`.
+playwright>=1.47

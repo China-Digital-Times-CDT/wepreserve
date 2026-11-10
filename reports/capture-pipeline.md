@@ -59,6 +59,18 @@ Capture is **not one happy path**. A liveness probe of real targets on
   end-to-end: The Witness (1,037-char article) and HKFP (403s plain curl) both
   captured, extracted, and retrievable from the public mirror with correct
   content-types. Exposed as a third engine in `capture_refs.py` (`--text --r2`).
+- **`scripts/capture_stealth.py`** — the **Tier-1 JS-challenge fallback**. For
+  sites behind a real Cloudflare *interstitial* (hkja.org.hk: "performing
+  security verification") that neither a headless render nor `fetch_extract` can
+  pass, it drives a **real, non-headless Chrome on a virtual X display** with the
+  automation fingerprints masked (Playwright `channel="chrome"` +
+  `--disable-blink-features=AutomationControlled` + a stealth init script +
+  desktop headers — technique ported from the here.news archive worker), **waits
+  for the challenge JS to clear**, then captures **both** a full-page screenshot
+  **and** clean full text. Reuses the shared classifier (never stores a still-
+  blocked page) and `--r2` upload (to `screenshots/<name>/<ts>.*`). The heaviest
+  path — for `blocked` URLs only. Needs `playwright` in the venv + system **Xvfb**;
+  always run under `xvfb-run -a`. Public pages only.
 - **Cloudflare Browser Run** (#41) — managed headless Chromium (REST
   `/screenshot` + PDF + HTML). The Tier-0 *cloud* variant of `capture_page`: no
   container to maintain. (Formerly "Browser Rendering"; renamed Apr 2026.)
@@ -139,9 +151,15 @@ needs `wrangler` + a scoped token, or the newer `mcp.cloudflare.com/mcp`.
   provenance) to `r2:shko-public/fulltext/`, served at `pub-*.r2.dev`. Shares
   one `capture_to_dir()` path; uploads only on `ok`; uses the existing rclone
   `r2` remote (no new secrets). End-to-end verified on The Witness + HKFP.
-- 🔗 Next wiring: optionally pair a screenshot with the text capture (one
-  reference → both a visual record and searchable text), and the stealth
-  headful-browser fallback for true JS-challenge sites (hkja).
+- 🟡 **Stealth JS-challenge fallback (`capture_stealth.py`) — built, awaiting
+  first run.** Code + deps in place (parses/imports clean; shares the classifier,
+  text-extract, and R2 upload with the other engines). It can't be exercised from
+  the auto-mode agent (headful-browser evasion trips the bot-check guard, and it
+  needs `apt install xvfb` + `pip install playwright`), so the install + first
+  hkja capture are run by the user via `!`. Once it captures hkja `ok`, it also
+  gives a screenshot for any `blocked` Tier-1 site.
+- 🔗 Next wiring: optionally pair a screenshot with every text capture (one
+  reference → both a visual record and searchable text) in `capture_refs`.
 - ⛔ The Witness fresh WACZ: **crawl blocked**. Both a fast (3-worker) and a
   polite (1-worker, 8 s delays) crawl from this box's IP were rate-limited —
   1 page of 40–56, the rest HTTP 403 (195 403s in the polite run). The seed

@@ -47,6 +47,7 @@ _CONTENT_TYPES = {
     ".html": "text/html; charset=utf-8",
     ".txt": "text/plain; charset=utf-8",
     ".json": "application/json",
+    ".png": "image/png",
 }
 
 # STRONG markers only appear on an actual interstitial/challenge page — a hit
