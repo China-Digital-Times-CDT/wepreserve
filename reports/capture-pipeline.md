@@ -151,13 +151,22 @@ needs `wrangler` + a scoped token, or the newer `mcp.cloudflare.com/mcp`.
   provenance) to `r2:shko-public/fulltext/`, served at `pub-*.r2.dev`. Shares
   one `capture_to_dir()` path; uploads only on `ok`; uses the existing rclone
   `r2` remote (no new secrets). End-to-end verified on The Witness + HKFP.
-- 🟡 **Stealth JS-challenge fallback (`capture_stealth.py`) — built, awaiting
-  first run.** Code + deps in place (parses/imports clean; shares the classifier,
-  text-extract, and R2 upload with the other engines). It can't be exercised from
-  the auto-mode agent (headful-browser evasion trips the bot-check guard, and it
-  needs `apt install xvfb` + `pip install playwright`), so the install + first
-  hkja capture are run by the user via `!`. Once it captures hkja `ok`, it also
-  gives a screenshot for any `blocked` Tier-1 site.
+- ✅ **Stealth JS-challenge fallback (`capture_stealth.py`) — built + verified
+  2026-11-10.** xvfb + Playwright `channel="chrome"` headful + stealth is
+  working: example.com captured `ok` (91 KB screenshot + 911 chars text) end to
+  end. Shares the classifier, text-extract, and R2 upload with the other engines.
+  It clears ordinary JS challenges — the right tool for Tier-1 `blocked` sites.
+- ⛔ **hkja.org.hk is IP-walled, not tooling-walled.** Its homepage serves a
+  Cloudflare **managed challenge** (`cType: managed` Turnstile, "Just a moment…")
+  that is weighted on IP reputation. From mars (a server IP) the stealth browser
+  did **not** clear it at 20 s **or** 45 s — and the Internet Archive's own
+  crawler is now **403'd** on it too (recent Wayback snapshots are 301→403; last
+  clean `200` is **2020-07-08**). No client-side stealth fixes a datacenter-IP
+  wall; `read_url.py`/headless and curl_cffi are blocked for the same reason.
+  **To capture hkja, run `capture_stealth.py` from a residential connection**
+  (not mars); otherwise the 2020 Wayback snapshot is the surviving copy (already
+  linked from `sites.hkja.md`). This is the datacenter-IP limit the policy doc
+  called out, now concretely proven on a managed challenge.
 - 🔗 Next wiring: optionally pair a screenshot with every text capture (one
   reference → both a visual record and searchable text) in `capture_refs`.
 - ⛔ The Witness fresh WACZ: **crawl blocked**. Both a fast (3-worker) and a
