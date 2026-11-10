@@ -2,28 +2,32 @@
 """
 capture_refs.py — cold-capture the archive's reference URLs (#36).
 
-Walks the vault's markdown, pulls out the external citation URLs, and runs each
-through capture_page.capture() to produce a durable cold copy (screenshot + DOM)
-plus a provenance record — so that if a cited page disappears, we still hold a
-dated, hash-verified copy. Built on the same block/challenge detection, so dead
-or bot-walled references are *flagged* in the manifest rather than silently
+Walks the vault's markdown, pulls out the external citation URLs, and captures
+each one so that if a cited page disappears, we still hold a dated, hash-verified
+copy. Two engines:
+
+  * local (default) — render in a real headless Chrome via capture_page.py;
+    artifacts + provenance written under --out.
+  * edge  (--worker) — POST each URL to the deployed Browser Run worker (#41),
+    which stores the screenshot/HTML/provenance to R2. Offloads Tier-0 work to
+    the cloud; with --fallback-local, a URL the edge can't get (e.g. a site that
+    bot-walls Cloudflare IPs) is retried on the local real-browser path.
+
+Both engines use the same block/challenge classification, so dead or bot-walled
+references are flagged in the manifest (ok/blocked/dead/error), never silently
 stored as if captured.
 
-This is the engine the #40 capture-API Worker will call in the cloud; locally it
-is the Tier-1 / residential backbone (and the thing that lets us honour "cold
-copy of every reference URL we cite").
-
 Usage:
-    # sample one page, a few refs:
+    # local, sample one page:
     python3 scripts/capture_refs.py --path vault/sites.hkja.md --limit 5 --out captures
-    # whole vault (big, slow — dead/blocked refs take ~90s each):
-    python3 scripts/capture_refs.py --out captures --manifest captures/manifest.json
+    # via the live edge worker, with local fallback, whole vault:
+    python3 scripts/capture_refs.py --worker --fallback-local \
+        --manifest captures/manifest.json
 
 Hosts we only *link* (Wayback, IPFS, our own R2/site, GitHub, library/cover
 lookups, video, Wikipedia) are skipped — we don't cold-copy infrastructure.
 """
 import argparse
-import csv
 import datetime as _dt
 import glob
 import hashlib
@@ -31,11 +35,19 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
+import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import capture_page  # noqa: E402  (sibling script)
 
 URL_RE = re.compile(r'https?://[^\s<>()\[\]"\\]+')
+
+DEFAULT_WORKER = "https://shko-capture-api.isaac-mao.workers.dev/"
+DEFAULT_TOKEN_FILE = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    "..", "workers", "capture-api", ".capture-token")
 
 # Hosts we deliberately do not cold-copy: archival infra, our own storage/site,
 # code hosting, and lookup/video/reference services that are not "sources".
@@ -79,16 +91,76 @@ def name_for(u):
     return re.sub(r"[^a-z0-9.-]+", "-", host).strip("-") + "-" + tag
 
 
+def _worker_once(worker_url, token, url, name, timeout):
+    data = json.dumps({"url": url, "name": name}).encode("utf-8")
+    req = urllib.request.Request(
+        worker_url, data=data, method="POST",
+        headers={"content-type": "application/json", "x-capture-token": token,
+                 # Cloudflare's bot filter 403s the default Python-urllib UA
+                 # before the request reaches the Worker — identify ourselves.
+                 "user-agent": "shko-capture-refs/0.1 (+https://savehkonline.org)"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return json.loads(resp.read().decode("utf-8")), resp.status
+    except urllib.error.HTTPError as e:
+        try:
+            return json.loads(e.read().decode("utf-8")), e.code
+        except Exception:
+            return {"status": "error", "note": f"HTTP {e.code}"}, e.code
+    except Exception as e:  # network / timeout
+        return {"status": "error", "note": str(e)}, 0
+
+
+def worker_capture(worker_url, token, url, name, timeout=100, retries=2, backoff=5):
+    """Capture via the deployed Browser Run worker (Tier-0 edge; artifacts land
+    in R2, not local disk). Retries transient edge/Browser-Run failures (5xx /
+    network) with backoff; does not retry a real ok/blocked/dead verdict.
+    Returns a provenance dict with engine='edge'."""
+    rec = {"status": "error", "note": "not attempted"}
+    for attempt in range(retries + 1):
+        rec, code = _worker_once(worker_url, token, url, name, timeout)
+        transient = code in (0, 429, 500, 502, 503)
+        if rec.get("status") == "error" and transient and attempt < retries:
+            time.sleep(backoff * (attempt + 1))
+            continue
+        break
+    rec.setdefault("url", url)
+    rec.setdefault("status", "error")
+    rec["engine"] = "edge"
+    return rec
+
+
 def main(argv):
     ap = argparse.ArgumentParser(description="Cold-capture archive reference URLs (#36).")
     ap.add_argument("--path", action="append",
                     help="specific markdown file(s); default: all of vault/*.md")
-    ap.add_argument("--out", default="captures", help="output directory")
+    ap.add_argument("--out", default="captures", help="output directory (local engine)")
     ap.add_argument("--limit", type=int, default=0, help="cap number of refs (0 = all)")
-    ap.add_argument("--manifest", help="write/update a JSON manifest here")
+    ap.add_argument("--manifest", help="write a JSON manifest here")
     ap.add_argument("--force", action="store_true",
-                    help="re-capture even if an ok provenance JSON already exists")
+                    help="re-capture even if an ok provenance JSON already exists (local)")
+    ap.add_argument("--worker", nargs="?", const=DEFAULT_WORKER, default=None,
+                    metavar="URL",
+                    help="capture via the edge Browser Run worker (Tier-0); "
+                         "optional URL overrides the default")
+    ap.add_argument("--token-file", default=DEFAULT_TOKEN_FILE,
+                    help="file holding the worker's x-capture-token")
+    ap.add_argument("--fallback-local", action="store_true",
+                    help="if the edge returns non-ok (e.g. Cloudflare-blocked), "
+                         "retry the URL on the local real-browser path")
+    ap.add_argument("--delay", type=float, default=2.0,
+                    help="seconds between edge requests (respects Browser Run's "
+                         "new-instance rate; edge engine only)")
     a = ap.parse_args(argv)
+
+    token = ""
+    if a.worker:
+        try:
+            token = open(a.token_file).read().strip()
+        except OSError:
+            sys.exit(f"capture_refs: cannot read token file {a.token_file}")
+        if not token:
+            sys.exit(f"capture_refs: empty token in {a.token_file}")
 
     paths = a.path or glob.glob("vault/*.md")
     refs = collect(paths)
@@ -98,30 +170,45 @@ def main(argv):
 
     os.makedirs(a.out, exist_ok=True)
     rows = []
-    counts = {"ok": 0, "blocked": 0, "dead": 0, "skipped": 0}
+    counts = {"ok": 0, "blocked": 0, "dead": 0, "error": 0, "skipped": 0}
     for i, (url, src) in enumerate(items, 1):
         name = name_for(url)
         meta = os.path.join(a.out, name + ".json")
-        if os.path.exists(meta) and not a.force:
+        if not a.worker and os.path.exists(meta) and not a.force:
             try:
                 prev = json.load(open(meta))
                 if prev.get("status") == "ok":
                     counts["skipped"] += 1
                     print(f"[{i}/{len(items)}] · skip (already ok) {url}")
-                    rec = prev
-                    rec["source"] = src
-                    rows.append(rec)
+                    prev["source"] = src
+                    rows.append(prev)
                     continue
             except (OSError, ValueError):
                 pass
-        print(f"[{i}/{len(items)}] capturing {url}")
-        rec = capture_page.capture(url, a.out, name)
+
+        if a.worker:
+            if i > 1 and a.delay > 0:
+                time.sleep(a.delay)
+            print(f"[{i}/{len(items)}] edge  {url}")
+            rec = worker_capture(a.worker, token, url, name)
+            if rec.get("status") != "ok" and a.fallback_local:
+                edge_status = rec.get("status")
+                print(f"           edge={edge_status} -> local fallback")
+                rec = capture_page.capture(url, a.out, name)
+                rec["engine"] = "local"
+                rec["edge_first"] = edge_status
+        else:
+            print(f"[{i}/{len(items)}] local {url}")
+            rec = capture_page.capture(url, a.out, name)
+            rec["engine"] = "local"
+
         rec["source"] = src
         counts[rec["status"]] = counts.get(rec["status"], 0) + 1
         rows.append(rec)
 
     manifest = {
         "generated_at": _dt.datetime.now(_dt.timezone.utc).isoformat(),
+        "engine": "edge" if a.worker else "local",
         "counts": counts,
         "total": len(rows),
         "captures": rows,
@@ -131,14 +218,15 @@ def main(argv):
             json.dump(manifest, f, ensure_ascii=False, indent=2)
 
     print("\n=== reference-capture summary ===")
-    print(f"refs seen: {len(refs)}  processed: {len(items)}")
-    print(f"ok={counts['ok']}  blocked={counts['blocked']}  "
-          f"dead={counts['dead']}  skipped(already ok)={counts['skipped']}")
+    print(f"engine: {'edge' if a.worker else 'local'}  "
+          f"refs seen: {len(refs)}  processed: {len(items)}")
+    print(f"ok={counts['ok']}  blocked={counts['blocked']}  dead={counts['dead']}  "
+          f"error={counts['error']}  skipped={counts['skipped']}")
     if a.manifest:
         print(f"manifest: {a.manifest}")
-    # non-zero exit if anything needs a human (blocked/dead), per the
-    # don't-silently-lose-a-reference discipline.
-    return 0 if (counts["blocked"] == 0 and counts["dead"] == 0) else 4
+    # non-zero exit if anything needs a human (blocked/dead/error).
+    needs_human = counts["blocked"] + counts["dead"] + counts["error"]
+    return 0 if needs_human == 0 else 4
 
 
 if __name__ == "__main__":
