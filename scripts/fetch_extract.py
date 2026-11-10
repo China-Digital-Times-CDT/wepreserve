@@ -19,6 +19,13 @@ Scope: public-interest preservation of public, at-risk journalism
 
 Usage:
     .capture-venv/bin/python scripts/fetch_extract.py <url> [--out DIR] [--name N]
+    # also publish the clean capture to the public R2 mirror:
+    .capture-venv/bin/python scripts/fetch_extract.py <url> --r2
+
+With --r2, a clean capture's html/txt/json are uploaded to
+r2:shko-public/fulltext/<name>/<ts>.* (served at pub-*.r2.dev) via the
+pre-configured rclone `r2` remote — only on status 'ok' (a blocked/challenge or
+dead page is never stored as the archive), and public pages only.
 """
 import argparse
 import datetime as _dt
@@ -26,7 +33,21 @@ import hashlib
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
+
+# Public mirror: shko-public is served read-only at this r2.dev host (and,
+# eventually, archive.savehkonline.org). Only Tier-1 PUBLIC-page captures land
+# here; authenticated/cookie-bearing captures never do (capture policy / #43).
+R2_PUBLIC_BUCKET = "shko-public"
+R2_PUBLIC_BASE = "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev"
+R2_PREFIX = "fulltext"
+_CONTENT_TYPES = {
+    ".html": "text/html; charset=utf-8",
+    ".txt": "text/plain; charset=utf-8",
+    ".json": "application/json",
+}
 
 # STRONG markers only appear on an actual interstitial/challenge page — a hit
 # means blocked regardless of size.
@@ -133,30 +154,97 @@ def _name_for(url):
     return re.sub(r"[^a-z0-9.-]+", "-", host).strip("-") + "-" + tag
 
 
+def _rclone():
+    return shutil.which("rclone") or os.path.expanduser("~/bin/rclone")
+
+
+def upload_r2(local_path, key, bucket=R2_PUBLIC_BUCKET, remote="r2"):
+    """Upload one file to r2:<bucket>/<key> with the right Content-Type.
+
+    Uses the pre-configured rclone `r2` remote (same creds as r2-sync-wacz.sh;
+    no secrets in this script). Returns the public URL on success, else raises.
+    """
+    rclone = _rclone()
+    if not os.path.exists(rclone):
+        raise RuntimeError("rclone not found (need ~/bin/rclone or on PATH)")
+    ctype = _CONTENT_TYPES.get(os.path.splitext(key)[1], "application/octet-stream")
+    cmd = [rclone, "copyto", local_path, f"{remote}:{bucket}/{key}",
+           "--header-upload", f"Content-Type: {ctype}", "--s3-no-head"]
+    res = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    if res.returncode != 0:
+        raise RuntimeError(f"rclone upload failed ({res.returncode}): "
+                           f"{res.stderr.strip() or res.stdout.strip()}")
+    return f"{R2_PUBLIC_BASE}/{key}" if bucket == R2_PUBLIC_BUCKET else None
+
+
+def capture_to_dir(url, out_dir, name, impersonate="chrome", do_r2=False):
+    """Capture full text for `url`, write html/txt/json under out_dir, and (on a
+    clean capture, if do_r2) upload them to the public mirror. Returns the
+    provenance record. Shared by this CLI and capture_refs.py's text engine."""
+    os.makedirs(out_dir, exist_ok=True)
+    rec, payload = capture_text(url, impersonate)
+    html_path = txt_path = None
+    if payload:
+        html, text = payload
+        if html is not None:
+            html_path = os.path.join(out_dir, name + ".html")
+            with open(html_path, "w", encoding="utf-8") as f:
+                f.write(html)
+            rec["html"] = name + ".html"
+        if text:
+            txt_path = os.path.join(out_dir, name + ".txt")
+            with open(txt_path, "w", encoding="utf-8") as f:
+                f.write(text)
+            rec["text"] = name + ".txt"
+            rec["text_sha256"] = _sha256(text.encode("utf-8"))
+
+    # Upload to the public mirror only on a clean capture — never store a
+    # blocked/challenge or dead page as the archive (same discipline as the
+    # screenshot path). Public pages only; see the module docstring / policy.
+    if do_r2 and rec["status"] == "ok":
+        ts = _dt.datetime.now(_dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+        base_key = f"{R2_PREFIX}/{name}/{ts}"
+        try:
+            uploaded = {}
+            if html_path:
+                uploaded["html_url"] = upload_r2(html_path, base_key + ".html")
+            if txt_path:
+                uploaded["text_url"] = upload_r2(txt_path, base_key + ".txt")
+            rec["r2"] = {"bucket": R2_PUBLIC_BUCKET, "key_prefix": base_key, **uploaded}
+        except Exception as e:
+            rec["r2_error"] = f"{type(e).__name__}: {e}"
+
+    json_path = os.path.join(out_dir, name + ".json")
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(rec, f, ensure_ascii=False, indent=2)
+    # The provenance record is the index into a capture — upload it last so it
+    # carries the html/txt R2 urls it points at.
+    if do_r2 and rec["status"] == "ok" and "r2" in rec:
+        try:
+            rec["r2"]["json_url"] = upload_r2(
+                json_path, rec["r2"]["key_prefix"] + ".json")
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump(rec, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            rec["r2_error"] = f"{type(e).__name__}: {e}"
+    rec["_json_path"] = json_path
+    return rec
+
+
 def main(argv):
     ap = argparse.ArgumentParser(description="Fetch + extract full text (#36, Tier-1).")
     ap.add_argument("url")
     ap.add_argument("--out", default="captures")
     ap.add_argument("--name")
     ap.add_argument("--impersonate", default="chrome")
+    ap.add_argument("--r2", action="store_true",
+                    help=f"on a clean capture, also upload html/txt/json to "
+                         f"r2:{R2_PUBLIC_BUCKET}/{R2_PREFIX}/<name>/<ts>.*")
     a = ap.parse_args(argv)
     name = a.name or _name_for(a.url)
-    os.makedirs(a.out, exist_ok=True)
 
-    rec, payload = capture_text(a.url, a.impersonate)
-    if payload:
-        html, text = payload
-        if html is not None:
-            with open(os.path.join(a.out, name + ".html"), "w", encoding="utf-8") as f:
-                f.write(html)
-            rec["html"] = name + ".html"
-        if text:
-            with open(os.path.join(a.out, name + ".txt"), "w", encoding="utf-8") as f:
-                f.write(text)
-            rec["text"] = name + ".txt"
-            rec["text_sha256"] = _sha256(text.encode("utf-8"))
-    with open(os.path.join(a.out, name + ".json"), "w", encoding="utf-8") as f:
-        json.dump(rec, f, ensure_ascii=False, indent=2)
+    rec = capture_to_dir(a.url, a.out, name, a.impersonate, do_r2=a.r2)
+    json_path = rec.pop("_json_path")
 
     icon = {"ok": "✓", "blocked": "⛔", "dead": "✗", "error": "⚠"}.get(rec["status"], "?")
     print(f"{icon} {rec['status']:<7} {a.url}")
@@ -165,7 +253,11 @@ def main(argv):
         print(f"  title: {rec['title']}")
     if rec.get("text_chars"):
         print(f"  full text: {rec['text_chars']} chars -> {rec.get('text')}")
-    print(f"  provenance: {os.path.join(a.out, name + '.json')}")
+    if rec.get("r2"):
+        print(f"  r2: {rec['r2'].get('text_url') or rec['r2'].get('html_url')}")
+    if rec.get("r2_error"):
+        print(f"  r2 upload FAILED: {rec['r2_error']}")
+    print(f"  provenance: {json_path}")
     return {"ok": 0, "blocked": 2, "dead": 3, "error": 4}.get(rec["status"], 1)
 
 

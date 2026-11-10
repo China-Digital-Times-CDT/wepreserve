@@ -34,9 +34,11 @@ Capture is **not one happy path**. A liveness probe of real targets on
   `dead` (nothing rendered). The Tier-1 backbone and the per-URL engine.
 - **`scripts/capture_refs.py`** (#36) — walks the vault, extracts external
   citation URLs (skipping infra: Wayback, IPFS, our R2/site, GitHub, library/
-  video/Wikipedia lookups), and cold-captures each (local or via the edge
-  `--worker`), writing a manifest. Gives us a dated, hash-verified copy of every
-  source we cite.
+  video/Wikipedia lookups), and cold-captures each, writing a manifest. Gives us
+  a dated, hash-verified copy of every source we cite. Three engines: `local`
+  (screenshot via `capture_page`), `--worker` (edge Browser Run → R2), and
+  `--text` (the Tier-1 full-text engine below; add `--r2` to publish to the
+  public mirror).
 - **`scripts/fetch_extract.py`** — the **Tier-1 full-text engine**, technique
   ported from the here.news Forensic Center (hybrid decision, 2026-11-10): a
   `curl_cffi` browser-TLS-impersonation fetch + `trafilatura` clean-text
@@ -51,6 +53,12 @@ Capture is **not one happy path**. A liveness probe of real targets on
   Classifier note: a page is only `blocked` on a STRONG interstitial phrase or a
   small/4xx page — a large 200 that merely embeds Cloudflare's `challenge-platform`
   script (as thewitnesshk.com does) is the real page, not a block.
+  **R2 wiring (2026-11-10):** `--r2` uploads a clean capture's html/txt/json to
+  `r2:shko-public/fulltext/<name>/<ts>.*` (served at `pub-*.r2.dev`) via the
+  pre-configured rclone `r2` remote — only on `ok`, public pages only. Verified
+  end-to-end: The Witness (1,037-char article) and HKFP (403s plain curl) both
+  captured, extracted, and retrievable from the public mirror with correct
+  content-types. Exposed as a third engine in `capture_refs.py` (`--text --r2`).
 - **Cloudflare Browser Run** (#41) — managed headless Chromium (REST
   `/screenshot` + PDF + HTML). The Tier-0 *cloud* variant of `capture_page`: no
   container to maintain. (Formerly "Browser Rendering"; renamed Apr 2026.)
@@ -95,6 +103,9 @@ Capture is **not one happy path**. A liveness probe of real targets on
   screenshots, provenance manifests.
 - `shko-public` → `pub-*.r2.dev` (→ eventually `archive.savehkonline.org`):
   shareable cold copies + cookie-sanitized WACZ only.
+  - `screenshots/<name>/<ts>.{png,html,json}` — edge Browser Run captures (#41).
+  - `fulltext/<name>/<ts>.{html,txt,json}` — Tier-1 full-text captures
+    (`fetch_extract --r2` / `capture_refs --text --r2`). Public pages only.
 
 ## The glue (#40)
 
@@ -123,8 +134,14 @@ needs `wrangler` + a scoped token, or the newer `mcp.cloudflare.com/mcp`.
 - ⏳ Browsertrix container (#42): scaffold committed; container image build/push
   + Cloudflare Container deploy is the remaining follow-up. Local `docker run`
   is the working equivalent.
-- 🔗 Next wiring: point `capture_refs.py` at the deployed worker for Tier-0
-  URLs (keep the local path as the Tier-1 fallback).
+- ✅ **Tier-1 full-text → R2 wired (2026-11-10):** `fetch_extract --r2` and
+  `capture_refs --text --r2` publish clean captures (html + clean text +
+  provenance) to `r2:shko-public/fulltext/`, served at `pub-*.r2.dev`. Shares
+  one `capture_to_dir()` path; uploads only on `ok`; uses the existing rclone
+  `r2` remote (no new secrets). End-to-end verified on The Witness + HKFP.
+- 🔗 Next wiring: optionally pair a screenshot with the text capture (one
+  reference → both a visual record and searchable text), and the stealth
+  headful-browser fallback for true JS-challenge sites (hkja).
 - ⛔ The Witness fresh WACZ: **crawl blocked**. Both a fast (3-worker) and a
   polite (1-worker, 8 s delays) crawl from this box's IP were rate-limited —
   1 page of 40–56, the rest HTTP 403 (195 403s in the polite run). The seed

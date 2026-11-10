@@ -41,6 +41,9 @@ import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import capture_page  # noqa: E402  (sibling script)
+# fetch_extract imports curl_cffi/trafilatura lazily (only when its capture runs),
+# so importing the module here is cheap and safe outside the capture venv.
+import fetch_extract  # noqa: E402  (sibling script — the Tier-1 text engine)
 
 URL_RE = re.compile(r'https?://[^\s<>()\[\]"\\]+')
 
@@ -139,6 +142,14 @@ def main(argv):
     ap.add_argument("--manifest", help="write a JSON manifest here")
     ap.add_argument("--force", action="store_true",
                     help="re-capture even if an ok provenance JSON already exists (local)")
+    ap.add_argument("--text", action="store_true",
+                    help="use the Tier-1 full-text engine (fetch_extract: "
+                         "curl_cffi + trafilatura) instead of a screenshot — "
+                         "captures clean article text + raw HTML. Run with the "
+                         "capture venv's python (curl_cffi/trafilatura).")
+    ap.add_argument("--r2", action="store_true",
+                    help="with --text, upload each clean capture to the public "
+                         "mirror (r2:shko-public/fulltext/...). Public pages only.")
     ap.add_argument("--worker", nargs="?", const=DEFAULT_WORKER, default=None,
                     metavar="URL",
                     help="capture via the edge Browser Run worker (Tier-0); "
@@ -152,6 +163,11 @@ def main(argv):
                     help="seconds between edge requests (respects Browser Run's "
                          "new-instance rate; edge engine only)")
     a = ap.parse_args(argv)
+
+    if a.text and a.worker:
+        sys.exit("capture_refs: --text and --worker are different engines; pick one")
+    if a.r2 and not a.text:
+        sys.exit("capture_refs: --r2 uploads text captures; it needs --text")
 
     token = ""
     if a.worker:
@@ -186,7 +202,12 @@ def main(argv):
             except (OSError, ValueError):
                 pass
 
-        if a.worker:
+        if a.text:
+            print(f"[{i}/{len(items)}] text  {url}")
+            rec = fetch_extract.capture_to_dir(url, a.out, name, do_r2=a.r2)
+            rec.pop("_json_path", None)  # local path, not for the manifest
+            rec["engine"] = "text"
+        elif a.worker:
             if i > 1 and a.delay > 0:
                 time.sleep(a.delay)
             print(f"[{i}/{len(items)}] edge  {url}")
@@ -206,9 +227,10 @@ def main(argv):
         counts[rec["status"]] = counts.get(rec["status"], 0) + 1
         rows.append(rec)
 
+    engine_label = "text" if a.text else ("edge" if a.worker else "local")
     manifest = {
         "generated_at": _dt.datetime.now(_dt.timezone.utc).isoformat(),
-        "engine": "edge" if a.worker else "local",
+        "engine": engine_label,
         "counts": counts,
         "total": len(rows),
         "captures": rows,
@@ -218,7 +240,7 @@ def main(argv):
             json.dump(manifest, f, ensure_ascii=False, indent=2)
 
     print("\n=== reference-capture summary ===")
-    print(f"engine: {'edge' if a.worker else 'local'}  "
+    print(f"engine: {engine_label}  "
           f"refs seen: {len(refs)}  processed: {len(items)}")
     print(f"ok={counts['ok']}  blocked={counts['blocked']}  dead={counts['dead']}  "
           f"error={counts['error']}  skipped={counts['skipped']}")
