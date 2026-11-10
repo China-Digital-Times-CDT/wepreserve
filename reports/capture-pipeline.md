@@ -94,8 +94,17 @@ needs `wrangler` + a scoped token, or the newer `mcp.cloudflare.com/mcp`.
 
 - ✅ `capture_page.py` built + dogfooded (ok/blocked/dead verified on
   hkfp/hkja/neodem).
-- ✅ `capture_refs.py` built (#36 engine).
+- ✅ `capture_refs.py` built + dogfooded (#36): 6/6 real Joshua Wong citations
+  (HKFP/AlJazeera/RFA/CNN/Wikimedia) captured ok, 0 false blocks.
 - ✅ 3 Tier-0 screenshots captured + published (HKFP, PORI, Photon Media).
-- 🔄 The Witness fresh WACZ crawl (replacing the 2022 IPFS backup) — in progress.
-- ⏳ Cloudflare Browser Run worker (#41) + container (#42): code to write; live
-  deploy pending a deploy path.
+- ✅ Browser Run worker (#41) + Browsertrix container scaffold (#42): code-
+  complete and committed; live deploy pending a deploy path (scoped wrangler
+  token or `mcp.cloudflare.com/mcp` — the Bindings MCP connector can't deploy).
+- ⛔ The Witness fresh WACZ: **crawl blocked**. Both a fast (3-worker) and a
+  polite (1-worker, 8 s delays) crawl from this box's IP were rate-limited —
+  1 page of 40–56, the rest HTTP 403 (195 403s in the polite run). The seed
+  homepage loads but sustained crawling is walled. **Neither WACZ uploaded**
+  (don't-store-a-failed-capture); the 2022 backup + Wayback stand. The Witness
+  is a **Tier-1 crawl-blocked** site — needs a residential-IP vantage / rotating
+  proxy, or rely on Wayback. Single-page cold-copy (`capture_page.py`) still
+  works for it; whole-site WACZ does not from here.
