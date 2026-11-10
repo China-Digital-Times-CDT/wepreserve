@@ -1,0 +1,10 @@
+{
+  "_comment": "Curated priority sites for the monthly time-series screenshot archive (see the tracking issue + reports/capture-pipeline.md). Each capture is stored dated under r2:shko-public/screenshots/<name>/<ts>.{png,thumb.jpg,html,txt,json} and NEVER overwritten. tier 0 = cooperative (renders anywhere); tier 1 = bot-walled/JS-challenge (needs the stealth browser; some need a residential IP). Add a site: give it a unique name, url, title, collection, tier, and residential_only if a datacenter IP can't reach it (e.g. a Cloudflare managed challenge).",
+  "targets": [
+    {"name": "hkfp",        "url": "https://hongkongfp.com/",   "title": "Hong Kong Free Press (HKFP)", "collection": "press-freedom", "tier": 0},
+    {"name": "thewitness",  "url": "https://thewitnesshk.com/", "title": "The Witness 法庭線",          "collection": "press-freedom", "tier": 1},
+    {"name": "photonmedia", "url": "https://photonmedia.net/",  "title": "Photon Media 光子",            "collection": "press-freedom", "tier": 0},
+    {"name": "hkja",        "url": "https://hkja.org.hk/",      "title": "HKJA 記協",                    "collection": "press-freedom", "tier": 1, "residential_only": true},
+    {"name": "pori",        "url": "https://www.pori.hk/",      "title": "Public Opinion Research Institute (PORI)", "collection": "civil-society", "tier": 0}
+  ]
+}
