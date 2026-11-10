@@ -33,6 +33,21 @@ const json = (obj, status = 200) =>
     headers: { "content-type": "application/json; charset=utf-8" },
   });
 
+// Constant-time string compare for the auth token.
+function safeEqual(a, b) {
+  if (typeof a !== "string" || typeof b !== "string" || a.length !== b.length) {
+    return false;
+  }
+  let diff = 0;
+  for (let i = 0; i < a.length; i++) diff |= a.charCodeAt(i) ^ b.charCodeAt(i);
+  return diff === 0;
+}
+
+// Defence-in-depth: refuse internal / link-local / metadata targets even for an
+// authenticated caller, so the worker can't be turned into an SSRF tool.
+const BLOCKED_HOST =
+  /^(localhost$|127\.|0\.0\.0\.0$|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2\d|3[01])\.|\[?::1\]?$|.*\.internal$|.*\.local$|metadata\.)/i;
+
 function hostOf(url) {
   try {
     return new URL(url).host.replace(/^www\./, "");
@@ -53,6 +68,16 @@ export default {
     if (request.method !== "POST") {
       return json({ error: "POST {url, mode?, name?}" }, 405);
     }
+    // Auth gate — reject BEFORE spending any Browser Run / R2.
+    if (!env.CAPTURE_TOKEN) {
+      return json({ error: "server misconfigured: no CAPTURE_TOKEN set" }, 500);
+    }
+    const provided =
+      request.headers.get("x-capture-token") ||
+      (request.headers.get("authorization") || "").replace(/^Bearer\s+/i, "");
+    if (!safeEqual(provided, env.CAPTURE_TOKEN)) {
+      return json({ error: "unauthorized" }, 401);
+    }
     let body;
     try {
       body = await request.json();
@@ -62,6 +87,15 @@ export default {
     const { url, mode = "screenshot", name } = body || {};
     if (!url || !/^https?:\/\//.test(url)) {
       return json({ error: "a http(s) url is required" }, 400);
+    }
+    let parsed;
+    try {
+      parsed = new URL(url);
+    } catch {
+      return json({ error: "unparseable url" }, 400);
+    }
+    if (BLOCKED_HOST.test(parsed.hostname)) {
+      return json({ error: "blocked host (internal/link-local)" }, 400);
     }
 
     const browser = await puppeteer.launch(env.BROWSER);
