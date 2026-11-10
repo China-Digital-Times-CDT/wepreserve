@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-11-10T23:52:21.399347+00:00",
+  "base": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev",
+  "targets": [
+    {
+      "name": "hkfp",
+      "title": "Hong Kong Free Press (HKFP)",
+      "url": "https://hongkongfp.com/",
+      "collection": "press-freedom",
+      "tier": 0,
+      "residential_only": false,
+      "count": 1,
+      "captures": [
+        {
+          "ts": "20261110T234004Z",
+          "iso": "2026-11-10T23:40:04Z",
+          "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkfp/20261110T234004Z.png",
+          "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkfp/20261110T234004Z.thumb.jpg",
+          "bytes": 1541440
+        }
+      ],
+      "latest": {
+        "ts": "20261110T234004Z",
+        "iso": "2026-11-10T23:40:04Z",
+        "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkfp/20261110T234004Z.png",
+        "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkfp/20261110T234004Z.thumb.jpg",
+        "bytes": 1541440
+      }
+    },
+    {
+      "name": "thewitness",
+      "title": "The Witness 法庭線",
+      "url": "https://thewitnesshk.com/",
+      "collection": "press-freedom",
+      "tier": 1,
+      "residential_only": false,
+      "count": 1,
+      "captures": [
+        {
+          "ts": "20261110T234043Z",
+          "iso": "2026-11-10T23:40:43Z",
+          "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/thewitness/20261110T234043Z.png",
+          "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/thewitness/20261110T234043Z.thumb.jpg",
+          "bytes": 1565855
+        }
+      ],
+      "latest": {
+        "ts": "20261110T234043Z",
+        "iso": "2026-11-10T23:40:43Z",
+        "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/thewitness/20261110T234043Z.png",
+        "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/thewitness/20261110T234043Z.thumb.jpg",
+        "bytes": 1565855
+      }
+    },
+    {
+      "name": "photonmedia",
+      "title": "Photon Media 光子",
+      "url": "https://photonmedia.net/",
+      "collection": "press-freedom",
+      "tier": 0,
+      "residential_only": false,
+      "count": 1,
+      "captures": [
+        {
+          "ts": "20261110T234100Z",
+          "iso": "2026-11-10T23:41:00Z",
+          "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/photonmedia/20261110T234100Z.png",
+          "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/photonmedia/20261110T234100Z.thumb.jpg",
+          "bytes": 1020849
+        }
+      ],
+      "latest": {
+        "ts": "20261110T234100Z",
+        "iso": "2026-11-10T23:41:00Z",
+        "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/photonmedia/20261110T234100Z.png",
+        "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/photonmedia/20261110T234100Z.thumb.jpg",
+        "bytes": 1020849
+      }
+    },
+    {
+      "name": "hkja",
+      "title": "HKJA 記協",
+      "url": "https://hkja.org.hk/",
+      "collection": "press-freedom",
+      "tier": 1,
+      "residential_only": true,
+      "count": 0,
+      "captures": [],
+      "latest": null
+    },
+    {
+      "name": "pori",
+      "title": "Public Opinion Research Institute (PORI)",
+      "url": "https://www.pori.hk/",
+      "collection": "civil-society",
+      "tier": 0,
+      "residential_only": false,
+      "count": 1,
+      "captures": [
+        {
+          "ts": "20261110T234115Z",
+          "iso": "2026-11-10T23:41:15Z",
+          "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/pori/20261110T234115Z.png",
+          "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/pori/20261110T234115Z.thumb.jpg",
+          "bytes": 519731
+        }
+      ],
+      "latest": {
+        "ts": "20261110T234115Z",
+        "iso": "2026-11-10T23:41:15Z",
+        "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/pori/20261110T234115Z.png",
+        "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/pori/20261110T234115Z.thumb.jpg",
+        "bytes": 519731
+      }
+    }
+  ]
+}

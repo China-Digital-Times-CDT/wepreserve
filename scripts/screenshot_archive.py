@@ -44,6 +44,10 @@ import capture_stealth  # noqa: E402  — the real-browser capture engine
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 TARGETS_FILE = os.path.join(HERE, "screenshot_targets.json")
+# A committed copy of the manifest, so the monthly cloud audit routine can read
+# freshness from its git checkout — the cloud sandbox's egress proxy blocks the
+# public R2 host, and this also versions the archive's growth over time.
+REPO_MANIFEST = os.path.normpath(os.path.join(HERE, "..", "reports", "screenshot-index.json"))
 PREFIX = "screenshots"
 BUCKET = fetch_extract.R2_PUBLIC_BASE  # public URL base
 REMOTE_BUCKET = "shko-public"
@@ -161,9 +165,16 @@ def build_manifest(targets):
 def publish_manifest(manifest, out_dir):
     local = os.path.join(out_dir, "index.json")
     os.makedirs(out_dir, exist_ok=True)
+    blob = json.dumps(manifest, ensure_ascii=False, indent=2)
     with open(local, "w", encoding="utf-8") as f:
-        json.dump(manifest, f, ensure_ascii=False, indent=2)
+        f.write(blob)
+    # 1) public copy in R2 (the browser gallery fetches this cross-origin)
     fetch_extract.upload_r2(local, f"{PREFIX}/index.json")
+    # 2) committed copy in the repo (the cloud audit routine reads this; the
+    #    sandbox can't reach R2). Only written when the reports/ dir exists.
+    if os.path.isdir(os.path.dirname(REPO_MANIFEST)):
+        with open(REPO_MANIFEST, "w", encoding="utf-8") as f:
+            f.write(blob)
     return local, f"{BUCKET}/{PREFIX}/index.json"
 
 

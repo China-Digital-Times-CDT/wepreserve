@@ -23,4 +23,14 @@ exec >>"$LOG" 2>&1
 echo "=== $(date -u +%FT%TZ) monthly screenshot-archive run ==="
 xvfb-run -a "$REPO/.capture-venv/bin/python" "$REPO/scripts/screenshot_archive.py" \
   --capture --manifest --report
+
+# Commit the refreshed manifest so the monthly cloud audit routine (which can't
+# reach R2 from its sandbox) reads current freshness from the checkout. Stage
+# ONLY this file — never `git add -A`.
+if ! git -C "$REPO" diff --quiet -- reports/screenshot-index.json 2>/dev/null; then
+  git -C "$REPO" add reports/screenshot-index.json
+  git -C "$REPO" commit -q -m "screenshot-archive: refresh manifest ($(date -u +%Y-%m))" \
+    && git -C "$REPO" push -q origin main \
+    && echo "manifest committed + pushed"
+fi
 echo "=== done $(date -u +%FT%TZ) ==="
