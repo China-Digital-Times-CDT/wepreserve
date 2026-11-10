@@ -11,14 +11,11 @@
 
 import puppeteer from "@cloudflare/puppeteer";
 
-// Keep this list in sync with CHALLENGE_MARKERS in scripts/capture_page.py.
-const CHALLENGE_MARKERS = [
+// Keep in sync with scripts/capture_page.py / fetch_extract.py.
+// STRONG markers only appear on an actual interstitial — a hit means blocked.
+const STRONG_MARKERS = [
   "performing security verification",
   "checking your browser before accessing",
-  "cf-browser-verification",
-  "challenge-platform",
-  "__cf_chl",
-  "cf_chl_opt",
   "just a moment...",
   "attention required! | cloudflare",
   "ddos protection by cloudflare",
@@ -26,6 +23,10 @@ const CHALLENGE_MARKERS = [
   "verify you are human",
   "verifying you are human",
 ];
+// WEAK markers (Cloudflare challenge/turnstile script tags) also appear in
+// legit Cloudflare-fronted pages, so they only indicate a block on a small page.
+const WEAK_MARKERS = ["cf-browser-verification", "challenge-platform", "__cf_chl", "cf_chl_opt"];
+const SMALL_PAGE = 15000;
 
 const json = (obj, status = 200) =>
   new Response(JSON.stringify(obj, null, 2), {
@@ -98,7 +99,17 @@ export default {
       return json({ error: "blocked host (internal/link-local)" }, 400);
     }
 
-    const browser = await puppeteer.launch(env.BROWSER);
+    // Launch guard: Browser Run can refuse a new browser (instance/rate limit).
+    // Returning a clean 503 lets the client retry, instead of an Error 1101 crash.
+    let browser;
+    try {
+      browser = await puppeteer.launch(env.BROWSER);
+    } catch (err) {
+      return json(
+        { url, status: "error", note: "browser launch failed: " + String(err) },
+        503,
+      );
+    }
     try {
       const page = await browser.newPage();
       await page.setViewport({ width: 1280, height: 1600 });
@@ -111,16 +122,15 @@ export default {
 
       let status = "ok";
       let note = "rendered page content present";
-      for (const m of CHALLENGE_MARKERS) {
-        if (low.includes(m)) {
-          status = "blocked";
-          note = `challenge marker: ${m}`;
-          break;
-        }
-      }
-      if (status === "ok" && html.replace(/<[^>]+>/g, " ").trim().length < 200) {
+      if (STRONG_MARKERS.some((m) => low.includes(m))) {
+        status = "blocked";
+        note = "interstitial challenge";
+      } else if (html.replace(/<[^>]+>/g, " ").trim().length < 200) {
         status = "dead";
         note = "empty/near-empty DOM (no render)";
+      } else if (html.length < SMALL_PAGE && WEAK_MARKERS.some((m) => low.includes(m))) {
+        status = "blocked";
+        note = "challenge script on a small page";
       }
 
       const png = await page.screenshot({ fullPage: true });
@@ -158,7 +168,11 @@ export default {
     } catch (err) {
       return json({ url, status: "error", note: String(err) }, 502);
     } finally {
-      await browser.close();
+      try {
+        await browser.close();
+      } catch {
+        /* ignore close errors */
+      }
     }
   },
 };

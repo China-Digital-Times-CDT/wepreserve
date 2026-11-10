@@ -1,0 +1,7 @@
+# Capture-pipeline dependencies (local Tier-1 engine, #40).
+# Technique ported from the here.news Forensic Center per the hybrid decision:
+# browser-TLS impersonation fetch + multi-method full-text extraction.
+# Install into a local venv:  python3 -m venv .capture-venv &&
+#   .capture-venv/bin/pip install -r scripts/requirements-capture.txt
+curl_cffi>=0.15
+trafilatura>=2.0

@@ -5,3 +5,5 @@ seeds
 .next
 pods/service-connections
 .backup
+.capture-venv/
+__pycache__/

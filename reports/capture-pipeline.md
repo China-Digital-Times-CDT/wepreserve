@@ -34,8 +34,23 @@ Capture is **not one happy path**. A liveness probe of real targets on
   `dead` (nothing rendered). The Tier-1 backbone and the per-URL engine.
 - **`scripts/capture_refs.py`** (#36) — walks the vault, extracts external
   citation URLs (skipping infra: Wayback, IPFS, our R2/site, GitHub, library/
-  video/Wikipedia lookups), and cold-captures each via `capture_page`, writing a
-  manifest. Gives us a dated, hash-verified copy of every source we cite.
+  video/Wikipedia lookups), and cold-captures each (local or via the edge
+  `--worker`), writing a manifest. Gives us a dated, hash-verified copy of every
+  source we cite.
+- **`scripts/fetch_extract.py`** — the **Tier-1 full-text engine**, technique
+  ported from the here.news Forensic Center (hybrid decision, 2026-11-10): a
+  `curl_cffi` browser-TLS-impersonation fetch + `trafilatura` clean-text
+  extraction. It reaches sites that bot-wall every lighter method — validated
+  2026-11-10: it fetched **The Witness** (a real article at HTTP 200 with
+  **2,542 chars of clean full text**, plus title/author/date) and passiontimes,
+  where plain curl / urllib / headless Browsertrix all got 403. Deps in
+  `scripts/requirements-capture.txt` (own venv; no coupling to here.news's
+  Postgres/GCS). Sites behind a *real* JS challenge (e.g. hkja's Cloudflare
+  interstitial) still return `blocked` — those need the stealth headful-browser
+  fallback (next increment) or the Internet Archive. **Public pages only.**
+  Classifier note: a page is only `blocked` on a STRONG interstitial phrase or a
+  small/4xx page — a large 200 that merely embeds Cloudflare's `challenge-platform`
+  script (as thewitnesshk.com does) is the real page, not a block.
 - **Cloudflare Browser Run** (#41) — managed headless Chromium (REST
   `/screenshot` + PDF + HTML). The Tier-0 *cloud* variant of `capture_page`: no
   container to maintain. (Formerly "Browser Rendering"; renamed Apr 2026.)

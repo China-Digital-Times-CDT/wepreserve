@@ -41,13 +41,10 @@ UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
 # Substrings (lower-cased) that mark an interstitial bot-wall / challenge rather
 # than the site itself. If any appears in the rendered DOM, the capture is a
 # block, not the archive.
-CHALLENGE_MARKERS = (
+# STRONG markers only appear on an actual interstitial — a hit means blocked.
+STRONG_MARKERS = (
     "performing security verification",
     "checking your browser before accessing",
-    "cf-browser-verification",
-    "challenge-platform",
-    "__cf_chl",
-    "cf_chl_opt",
     "just a moment...",
     "attention required! | cloudflare",
     "ddos protection by cloudflare",
@@ -56,6 +53,16 @@ CHALLENGE_MARKERS = (
     "verifying you are human",
     "please turn javascript on and reload the page",
 )
+# WEAK markers (Cloudflare challenge/turnstile script tags) are ALSO present in
+# legit Cloudflare-fronted pages (e.g. thewitnesshk.com's real 234 KB homepage
+# embeds `challenge-platform`), so they only indicate a block on a small DOM.
+WEAK_MARKERS = (
+    "cf-browser-verification",
+    "challenge-platform",
+    "__cf_chl",
+    "cf_chl_opt",
+)
+SMALL_PAGE = 15000  # chars; genuine challenge DOMs are tiny
 
 # Markers that mean the browser could not reach a live site at all.
 DEAD_MARKERS = (
@@ -111,9 +118,9 @@ def _screenshot(chrome, url, path, budget_ms=18000, size="1280,1600"):
 def classify(dom, png_path):
     """Return (status, note). status in {ok, blocked, dead}."""
     low = dom.lower()
-    for m in CHALLENGE_MARKERS:
+    for m in STRONG_MARKERS:
         if m in low:
-            return "blocked", f"challenge marker: {m!r}"
+            return "blocked", f"interstitial challenge: {m!r}"
     for m in DEAD_MARKERS:
         if m in low:
             return "dead", f"unreachable marker: {m!r}"
@@ -121,6 +128,10 @@ def classify(dom, png_path):
     text = re.sub(r"<[^>]+>", " ", dom)
     if len(text.strip()) < 200:
         return "dead", "empty/near-empty DOM (no render)"
+    # Weak Cloudflare-script markers only mean a block on a small DOM — a large
+    # rendered page that merely embeds the challenge script is the real page.
+    if len(dom) < SMALL_PAGE and any(m in low for m in WEAK_MARKERS):
+        return "blocked", "challenge script on a small page"
     # Secondary heuristic: a real homepage screenshot is rarely tiny. A <~55 KB
     # PNG with otherwise-plausible DOM is suspicious enough to flag for review.
     if png_path and os.path.exists(png_path) and os.path.getsize(png_path) < 55000:
