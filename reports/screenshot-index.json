@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:52:21.399347+00:00",
+  "generated_at": "2026-11-11T00:25:43.981507+00:00",
   "base": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev",
   "targets": [
     {
@@ -9,6 +9,7 @@
       "collection": "press-freedom",
       "tier": 0,
       "residential_only": false,
+      "retired": false,
       "count": 1,
       "captures": [
         {
@@ -34,6 +35,7 @@
       "collection": "press-freedom",
       "tier": 1,
       "residential_only": false,
+      "retired": false,
       "count": 1,
       "captures": [
         {
@@ -59,6 +61,7 @@
       "collection": "press-freedom",
       "tier": 0,
       "residential_only": false,
+      "retired": false,
       "count": 1,
       "captures": [
         {
@@ -84,6 +87,7 @@
       "collection": "press-freedom",
       "tier": 1,
       "residential_only": true,
+      "retired": false,
       "count": 0,
       "captures": [],
       "latest": null
@@ -95,6 +99,7 @@
       "collection": "civil-society",
       "tier": 0,
       "residential_only": false,
+      "retired": false,
       "count": 1,
       "captures": [
         {

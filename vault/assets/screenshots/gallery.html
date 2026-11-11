@@ -39,6 +39,10 @@
   .meta { color: var(--muted); font-size: 12px; margin-bottom: 10px; }
   .meta .tier { display: inline-block; padding: 0 6px; border: 1px solid var(--line);
                 border-radius: 10px; margin-left: 6px; }
+  .meta .gone { display: inline-block; padding: 0 6px; border-radius: 10px;
+                margin-left: 6px; background: #8883; border: 1px solid var(--line); }
+  .gonenote { color: var(--muted); font-size: 12px; font-style: italic; margin: -4px 0 10px; }
+  .shot .final { color: var(--fg); font-weight: 600; }
   .row { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 6px; scroll-snap-type: x proximity; }
   .shot { flex: 0 0 auto; width: 240px; scroll-snap-align: start; }
   .shot a { display: block; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
@@ -85,14 +89,24 @@
     var count = t.count === 1 ? "1 snapshot" : (t.count + " snapshots");
     var meta = el("div", { class: "meta", text: count + " " });
     meta.appendChild(tier);
+    if (t.retired) meta.appendChild(el("span", { class: "gone", text: "⚫ gone" }));
 
     var card = el("div", { class: "site" }, [head, meta]);
 
+    // A retired (off-the-grid) site: its snapshots are the FINAL record; we stop
+    // tracing it. Show the note, keep the history, label the last shot 'final'.
+    if (t.retired) {
+      card.appendChild(el("div", { class: "gonenote", text: t.retired_note ||
+        "This site has gone off the grid — the snapshots below are the final record; it is no longer traced." }));
+    }
+
     if (!t.captures || !t.captures.length) {
       card.appendChild(el("div", { class: "pending", text:
-        t.residential_only
-          ? "No snapshot yet — this site sits behind a Cloudflare challenge and needs a capture from a residential connection."
-          : "No snapshot yet — capture pending." }));
+        t.retired
+          ? "Off the grid before any snapshot was captured — no visual record exists."
+          : t.residential_only
+            ? "No snapshot yet — this site sits behind a Cloudflare challenge and needs a capture from a residential connection."
+            : "No snapshot yet — capture pending." }));
       return card;
     }
     var caps = t.captures.slice().reverse(); // newest first
@@ -101,8 +115,10 @@
       var img = el("img", { src: c.thumb_url || c.png_url, loading: "lazy",
         alt: t.title + " — " + fmtDate(c.iso) });
       var link = el("a", { href: c.png_url, target: "_blank", rel: "noopener" }, [img]);
-      var cap = el("div", { class: "cap" + (i === 0 ? " latest" : ""),
-        text: fmtDate(c.iso) + (i === 0 ? " · latest" : "") });
+      var newest = i === 0;
+      var tag = newest ? (t.retired ? " · final" : " · latest") : "";
+      var cls = newest ? (t.retired ? " final" : " latest") : "";
+      var cap = el("div", { class: "cap" + cls, text: fmtDate(c.iso) + tag });
       row.appendChild(el("div", { class: "shot" }, [link, cap]));
     });
     card.appendChild(row);

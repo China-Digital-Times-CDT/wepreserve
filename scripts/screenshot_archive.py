@@ -94,6 +94,9 @@ def capture_one(t, out_dir, wait, include_residential):
     """Capture one target, publish PNG+thumbnail to its dated R2 prefix.
     Returns (status, note, r2_prefix|None)."""
     name = t["name"]
+    if t.get("retired"):
+        # Off the grid — the last snapshot is the final record; don't trace on.
+        return "skipped", "retired (off the grid — final snapshot kept, not traced)", None
     if t.get("residential_only") and not include_residential:
         return "skipped", "residential-only (needs a non-datacenter IP)", None
 
@@ -152,13 +155,17 @@ def build_manifest(targets):
            "base": BUCKET, "targets": []}
     for t in targets:
         caps = iter_captures(t["name"])
-        out["targets"].append({
+        entry = {
             "name": t["name"], "title": t.get("title", t["name"]),
             "url": t["url"], "collection": t.get("collection", ""),
             "tier": t.get("tier", 0),
             "residential_only": bool(t.get("residential_only")),
+            "retired": bool(t.get("retired")),
             "count": len(caps), "captures": caps,
-            "latest": caps[-1] if caps else None})
+            "latest": caps[-1] if caps else None}
+        if t.get("retired_note"):
+            entry["retired_note"] = t["retired_note"]
+        out["targets"].append(entry)
     return out
 
 
@@ -194,7 +201,9 @@ def report(manifest, overdue_days=35):
         last = latest["iso"] if latest else "—"
         age = _age_days(latest["iso"]) if latest else None
         flag = ""
-        if t["residential_only"] and not latest:
+        if t.get("retired"):
+            flag = "⚫ gone — final snapshot kept, not traced"
+        elif t["residential_only"] and (not latest or (age is not None and age > overdue_days)):
             flag = "residential-run pending"
         elif age is None and not latest:
             flag = "NEVER captured"

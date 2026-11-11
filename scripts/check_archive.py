@@ -22,6 +22,7 @@ import sys
 import glob
 import os
 import datetime
+import json
 
 VAULT = os.path.join(os.path.dirname(__file__), "..", "vault")
 VAULT = os.path.normpath(VAULT)
@@ -150,6 +151,58 @@ if orphans:
     for fn in orphans:
         out.append(f"- `{fn}.md`")
     out.append("")
+
+# ---- screenshot-archive freshness (issue #44; folds the monthly audit into
+# the weekly check). Reads the committed manifest. A retired site is "off the
+# grid" — its last snapshot is the final record and it is NOT traced further,
+# so it is never flagged stale. ----
+SHOTS = os.path.normpath(os.path.join(os.path.dirname(__file__), "..",
+                                      "reports", "screenshot-index.json"))
+if os.path.exists(SHOTS):
+    try:
+        man = json.load(open(SHOTS, encoding="utf-8"))
+    except (OSError, ValueError):
+        man = None
+    if man:
+        def _age(iso):
+            try:
+                d = datetime.datetime.fromisoformat(
+                    iso.replace("Z", "+00:00")).date()
+                return (TODAY - d).days
+            except Exception:
+                return None
+        fresh = n_stale = pending = gone = 0
+        stale_lines, pending_lines, gone_lines = [], [], []
+        for t in man.get("targets", []):
+            latest = t.get("latest") or {}
+            age = _age(latest.get("iso")) if latest else None
+            name = t.get("name")
+            last = (latest.get("iso") or "never")[:10] if latest else "never"
+            if t.get("retired"):
+                gone += 1
+                gone_lines.append(
+                    f"- `{name}` — ⚫ gone (final snapshot {last}); off the grid, not traced further")
+            elif t.get("residential_only") and (not latest or (age is not None and age > 40)):
+                pending += 1
+                pending_lines.append(
+                    f"- `{name}` — 🟠 residential-run pending (needs a residential-IP capture)")
+            elif not latest or (age is not None and age > 40):
+                n_stale += 1
+                stale_lines.append(
+                    f"- `{name}` — 🟡 stale (last {last}); run `scripts/screenshot_archive.py --capture` "
+                    "— or if the site is gone, mark it `retired` in screenshot_targets.json")
+            else:
+                fresh += 1
+        gen = (man.get("generated_at") or "")[:10]
+        gen_age = _age(man.get("generated_at"))
+        out.append("#### 📸 Screenshot archive freshness (#44)")
+        stale_note = (f" (**{gen_age}d old** — the monthly capture cron may have stopped)"
+                      if (gen_age is not None and gen_age > 40) else "")
+        out.append(f"- manifest generated **{gen}**{stale_note}")
+        out.append(f"- fresh: **{fresh}** · stale: **{n_stale}** · "
+                   f"residential-pending: **{pending}** · gone: **{gone}**")
+        out.extend(stale_lines + pending_lines + gone_lines)
+        out.append("")
 
 print("\n".join(out))
 
