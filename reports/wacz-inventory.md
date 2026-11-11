@@ -87,6 +87,18 @@ Machine (`web.archive.org`) references on most `sites.*` pages — leave as-is.
    master was pulled, so the copies are GCS-origin + R2).
 2. **IPFS next** (lower urgency if pins hold): dedupe by CID (7 unique) so each
    CAR is pulled once; same verify → R2 → repoint.
+   ⚠️ **Attempted 2026-11-11 via the Worker `mirror` endpoint — BLOCKED.** Every
+   public gateway refused: `dweb.link`, `ipfs.io`, `w3s.link` → **429**
+   (rate-limited); `trustless-gateway.link` → 522; `cf-ipfs.com` → 530
+   (deprecated). 429 means "can't fetch right now", **not** "gone" — so do **not**
+   assume these are lost. **Unblock path:** resolve the CIDs from a **local IPFS
+   daemon** (`ipfs daemon` + `ipfs get <cid>`) or the **pinning-service account**
+   (web3.storage/Pinata — whoever holds the pins), then mirror the local file →
+   R2 (`r2:shko-public/wacz/ipfs/<name>.wacz`) and repoint. **Risk:** several
+   sites are **IPFS-only** (no GCS copy) — standnews, lsd, appledaily,
+   passiontimes, inmediahk, hkfp, hongkongwatch-2022 — so if a pin is dead, that
+   replay copy is lost. Confirm pin liveness as a priority (hkfp/thewitness/
+   photonmedia also now have fresh #44 screenshots as partial cover).
 3. Record a `sha256` per object as it lands. Keep GCS/IPFS originals in place
    until the R2 copy is verified (3-copy rule).
 
