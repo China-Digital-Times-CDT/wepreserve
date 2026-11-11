@@ -8,8 +8,8 @@ created: 1751321669226
 Webb-site.com is a Hong Kong-based financial news and information website, founded by David Webb in 1998. It provides independent analysis of Hong Kong's financial markets, companies, and government policies. The site is known for its critical stance on corporate governance issues and its advocacy for shareholder rights.
 https://webb-site.com
 
-[![Webb-site logo](/assets/webb.png)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
-Replay the Webb-site at [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
+[![Webb-site logo](/assets/webb.png)](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fwacz%2Fwebb.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
+Replay the Webb-site at [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fwacz%2Fwebb.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
 
 David Webb founded Webb-site in 1998 as an important watchdog platform for corporate governance and stock market transparency in Hong Kong. Over the years, he tracked and exposed information on directors, executives, and advisors of Hong Kong-listed companies, advocating for information disclosure and minority shareholder rights. Through his sophisticated database and rigorous investigative reporting, he revealed capital operation relationships between companies such as the "Enigma Network," and maintained a long-term focus on related-party transactions, hidden loans, and share dilution issues. He refused to blindly trust markets or regulators, emphasizing that investors should do their own homework and think independently.
 
@@ -34,6 +34,6 @@ Photo: Tommy Wang/AFP
 - [Owner's Archive](https://drive.google.com/drive/folders/13mzAvvufXC3QmH8OvMVx2juUi7qdnVLL)
 - [Database (Updated)](https://webb-database.com)
 - [Database Archive](https://webbsite.0xmd.com/dbpub/)
-- [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Fddb492c7.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
+- [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fwacz%2Fwebb.wacz#view=pages&url=https%3A%2F%2Fwebb-site.com%2F&ts=20250801213022)
 - [Wayback Machine](https://web.archive.org/web/*/https://webb-site.com/)
 

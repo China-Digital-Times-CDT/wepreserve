@@ -19,6 +19,6 @@ A screenshot of https://photonmedia.net/ as of 10 November 2026 (the homepage's 
 ![image](/assets/sites/photonmedia.png)
 
 ## Archive
-- [Replay this site (WACZ)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2F3b628a67.wacz#view=pages&url=https%3A%2F%2Fphotonmedia.net%2F&ts=20250827161707)
+- [Replay this site (WACZ)](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fwacz%2Fphotonmedia.wacz#view=pages&url=https%3A%2F%2Fphotonmedia.net%2F&ts=20250827161707)
 
  

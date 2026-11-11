@@ -10,7 +10,7 @@ Goal: get every at-risk archive to **3 copies** (origin + local master + R2)
 with a `sha256` recorded, before any single unreliable source is lost.
 
 Status legend: 🔎 located · ⬇️ pulled to master · 🧼 sanitized (if needed) ·
-☁️ in R2 · 📄 replay page repointed · ✅ done.
+☁️ in R2 · 📄 replay page repointed · ✅ done (in R2 + repointed).
 
 ## Where the old WACZs actually live
 
@@ -39,14 +39,14 @@ cookie-stripping**: verify sha256 → copy to R2 → repoint the replay link.
 | Archive (page) | Backend / object | Size | Login cookies? | In R2 | Status |
 |---|---|---|---|---|---|
 | **boomheadhk** ([[Boom News\|sites.boomnews]]) | R2 + master `/media/im3/plus/lab/archive/boomheadhk-share/` | 2.7 GB (3 parts 5.5 GB) | **Yes** (FB session; stripped for public copy) | `shko/boomheadhk` (orig) + `shko-public/boomheadhk` (sanitized) | ✅ |
-| factwire ([[sites.factwire]]) | GCS `factwire.wacz` | 215 MB | No | `shko-public/wacz/factwire.wacz` | ☁️ |
-| guhkst ([[sites.guhkst]]) | GCS `guhkst-04_22_2022.wacz` | 235 MB | No | `shko-public/wacz/guhkst.wacz` | ☁️ |
-| hkharborprotection ([[sites.hkharborprotection]]) | GCS `f364853e.wacz` | 369 MB | No | `shko-public/wacz/hkharborprotection.wacz` | ☁️ |
-| hongkongwatch 2025 ([[sites.hongkongwatch]]) | GCS `72de847d.wacz` | 1.18 GB | No | `shko-public/wacz/hongkongwatch-2025.wacz` | ☁️ |
-| photonmedia ([[sites.photonmedia]]) | GCS `3b628a67.wacz` | 760 MB | No | `shko-public/wacz/photonmedia.wacz` | ☁️ |
-| rfa_cantonese ([[sites.rfa_cantonese]]) | GCS `996daaf7.wacz` | 1.04 GB | No | `shko-public/wacz/rfa_cantonese.wacz` | ☁️ |
-| webb-site ([[sites.webb]]) | GCS `ddb492c7.wacz` | 442 MB | No | `shko-public/wacz/webb.wacz` | ☁️ |
-| 8964museum ([[extra.8964]]) | GCS `8964museum-05_04_2022.wacz` **+ IPFS** `bafybeiaosx…` | 995 MB | No | `shko-public/wacz/8964museum.wacz` | ☁️ |
+| factwire ([[sites.factwire]]) | GCS `factwire.wacz` | 215 MB | No | `shko-public/wacz/factwire.wacz` | ✅ |
+| guhkst ([[sites.guhkst]]) | GCS `guhkst-04_22_2022.wacz` | 235 MB | No | `shko-public/wacz/guhkst.wacz` | ✅ |
+| hkharborprotection ([[sites.hkharborprotection]]) | GCS `f364853e.wacz` | 369 MB | No | `shko-public/wacz/hkharborprotection.wacz` | ✅ |
+| hongkongwatch 2025 ([[sites.hongkongwatch]]) | GCS `72de847d.wacz` | 1.18 GB | No | `shko-public/wacz/hongkongwatch-2025.wacz` | ✅ |
+| photonmedia ([[sites.photonmedia]]) | GCS `3b628a67.wacz` | 760 MB | No | `shko-public/wacz/photonmedia.wacz` | ✅ |
+| rfa_cantonese ([[sites.rfa_cantonese]]) | GCS `996daaf7.wacz` | 1.04 GB | No | `shko-public/wacz/rfa_cantonese.wacz` | ✅ |
+| webb-site ([[sites.webb]]) | GCS `ddb492c7.wacz` | 442 MB | No | `shko-public/wacz/webb.wacz` | ✅ |
+| 8964museum ([[extra.8964]]) | GCS `8964museum-05_04_2022.wacz` **+ IPFS** `bafybeiaosx…` | 995 MB | No | `shko-public/wacz/8964museum.wacz` | ✅ |
 | appledaily ([[sites.appledaily]]) | IPFS `bafybeiheij…` `appledaily-05_23_2020.wacz` | n/a ¹ | No | — | 🔎 |
 | passiontimes ([[sites.passiontimes]]) | IPFS `bafybeiheij…` `passiontime-05_23_2022.wacz` (same CID as appledaily) | n/a ¹ | No | — | 🔎 |
 | hkfp ([[sites.hkfp]]) | IPFS `bafybeighmf…` `hkfp-05_03_2022.wacz` | n/a ¹ | No | — | 🔎 |
@@ -75,9 +75,16 @@ Machine (`web.archive.org`) references on most `sites.*` pages — leave as-is.
    Cloudflare's network — 5.5 GB moved in ~4 min vs ~7 h over the box's
    ~220 KiB/s uplink. GCS originals kept in place (don't delete until the
    replay links are repointed and a `sha256`/replay check is done).
-   **Remaining:** repoint each `sites.*` page's `storage.googleapis.com/…` link
-   to the R2 copy (ideally a vendored ReplayWeb viewer like `sites.boomnews`),
-   then the GCS bucket can be retired.
+   ✅ **Repointing DONE (2026-11-11):** all 17 GCS links across 9 vault pages
+   swapped to the R2 copies (both the direct `.wacz`/`.pdf` hrefs and the
+   `replayweb.page?source=…` params); **0 GCS refs remain in the vault**. The
+   pages use the hosted `replayweb.page` viewer with an R2 `source=`, so no
+   vendored viewer was needed. **Also migrated: the 3 banned Sheep Village PDFs**
+   (羊村守衛者/十二勇士/清道夫, on the same billed bucket) →
+   `r2:shko-public/books/sheep-village/{guardians,twelve-heroes,dustman}.pdf`
+   (byte-exact, `application/pdf`). The billed GCS bucket can now be retired after
+   a brief verification window (keep it a little longer as a backup; no local
+   master was pulled, so the copies are GCS-origin + R2).
 2. **IPFS next** (lower urgency if pins hold): dedupe by CID (7 unique) so each
    CAR is pulled once; same verify → R2 → repoint.
 3. Record a `sha256` per object as it lands. Keep GCS/IPFS originals in place

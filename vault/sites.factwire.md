@@ -21,4 +21,4 @@ A screenshot of the website as of 25 April 2022:
 (State: Done)
 
 - [Wayback Machine](https://web.archive.org/web/*/http://www.factwire.org/en/)
-- [.WACZ](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/factwire.wacz) --> [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2Ffactwire.wacz#view=pages&url=https%3A%2F%2Fwww.factwire.org%2F&ts=20220610085507)
+- [.WACZ](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/wacz/factwire.wacz) --> [ReplayWeb](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fwacz%2Ffactwire.wacz#view=pages&url=https%3A%2F%2Fwww.factwire.org%2F&ts=20220610085507)

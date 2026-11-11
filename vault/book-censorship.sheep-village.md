@@ -92,6 +92,6 @@ All five, aged between 25 and 28 at the time of arrest, were denied bail and hel
 
 ### External Archives
 - [Sheep Village Series (1-3) on IPFS/Web3](https://bafybeicntq4lzhytql7ey2y2tc4uu6ptyh7oy56bxpxcvxqkdh62uegip4.ipfs.dweb.link/fixtures)
-- [Original GCS Archive - The Guardians](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E5%AE%88%E8%A1%9B%E8%80%85.pdf)
-- [Original GCS Archive - The 12 Heroes](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E5%8D%81%E4%BA%8C%E5%8B%87%E5%A3%AB.pdf)
-- [Original GCS Archive - Dustman](https://storage.googleapis.com/web-archive-storage-sage-striker-294302/archives/%E7%BE%8A%E6%9D%91%E6%B8%85%E9%81%93%E5%A4%AB.pdf)
+- [Original GCS Archive - The Guardians](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/books/sheep-village/guardians.pdf)
+- [Original GCS Archive - The 12 Heroes](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/books/sheep-village/twelve-heroes.pdf)
+- [Original GCS Archive - Dustman](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/books/sheep-village/dustman.pdf)

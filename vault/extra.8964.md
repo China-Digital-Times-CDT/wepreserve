@@ -62,5 +62,5 @@ Coverage: [HKFP: conviction](https://hongkongfp.com/2026/08/21/breaking-hong-kon
 
 ## Archives
 
-- [.WaCZ as of 04-05-2022](https://bafybeiaosxoqskh4oueocv5zyv6dilabqwnidwjmsbeqrvhjvjk7mjrl54.ipfs.dweb.link/fixtures/8964museum-05_04_2022.wacz) -> [Replay)](https://replayweb.page/?source=https%3A%2F%2Fstorage.googleapis.com%2Fweb-archive-storage-sage-striker-294302%2Farchives%2F8964museum-05_04_2022.wacz#view=pages&url=https%3A%2F%2F8964museum.com%2F&ts=20220504141122)
+- [.WaCZ as of 04-05-2022](https://bafybeiaosxoqskh4oueocv5zyv6dilabqwnidwjmsbeqrvhjvjk7mjrl54.ipfs.dweb.link/fixtures/8964museum-05_04_2022.wacz) -> [Replay)](https://replayweb.page/?source=https%3A%2F%2Fpub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev%2Fwacz%2F8964museum.wacz#view=pages&url=https%3A%2F%2F8964museum.com%2F&ts=20220504141122)
 - [Wayback Machine](https://web.archive.org/web/*/http://8964museum.com/)
