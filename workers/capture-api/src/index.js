@@ -64,6 +64,58 @@ async function sha256hex(buf) {
     .join("");
 }
 
+// Stream a public URL straight into R2 (server-side migration). The body is
+// piped through without buffering, so even multi-GB WACZ transfer inside
+// Cloudflare's network rather than over the caller's uplink.
+async function handleMirror(body, env) {
+  const { mirror, key } = body;
+  if (!/^https?:\/\//.test(mirror || "")) {
+    return json({ error: "mirror must be an http(s) url" }, 400);
+  }
+  if (!key || /^\/|\.\.|^[a-z]+:\/\//i.test(key) || key.length > 1024) {
+    return json({ error: "a safe r2 object key is required" }, 400);
+  }
+  let src;
+  try {
+    src = new URL(mirror);
+  } catch {
+    return json({ error: "unparseable mirror url" }, 400);
+  }
+  if (BLOCKED_HOST.test(src.hostname)) {
+    return json({ error: "blocked host (internal/link-local)" }, 400);
+  }
+  let resp;
+  try {
+    resp = await fetch(mirror, { cf: { cacheTtl: 0 } });
+  } catch (err) {
+    return json({ status: "error", note: "fetch failed: " + String(err) }, 502);
+  }
+  if (!resp.ok || !resp.body) {
+    return json({ status: "error", source: mirror, http_status: resp.status }, 502);
+  }
+  const srcLen = resp.headers.get("content-length");
+  const ct = key.endsWith(".wacz")
+    ? "application/wacz"
+    : resp.headers.get("content-type") || "application/octet-stream";
+  try {
+    await env.ARCHIVE.put(key, resp.body, { httpMetadata: { contentType: ct } });
+  } catch (err) {
+    return json({ status: "error", key, note: "R2 put failed: " + String(err) }, 502);
+  }
+  const head = await env.ARCHIVE.head(key);
+  const bytes = head ? head.size : null;
+  const sourceBytes = srcLen ? Number(srcLen) : null;
+  return json({
+    status: "ok",
+    key,
+    bytes,
+    source: mirror,
+    source_bytes: sourceBytes,
+    // A full transfer should match the source Content-Length exactly.
+    size_match: bytes != null && sourceBytes != null ? bytes === sourceBytes : null,
+  });
+}
+
 export default {
   async fetch(request, env) {
     if (request.method !== "POST") {
@@ -84,6 +136,12 @@ export default {
       body = await request.json();
     } catch {
       return json({ error: "invalid JSON body" }, 400);
+    }
+    // Mirror mode: stream a public URL straight into R2 inside Cloudflare's
+    // network (no local bandwidth). Used to migrate existing WACZ (GCS/IPFS)
+    // into R2. POST {mirror: "<public-url>", key: "<r2-key>"}.
+    if (body && body.mirror) {
+      return await handleMirror(body, env);
     }
     const { url, mode = "screenshot", name } = body || {};
     if (!url || !/^https?:\/\//.test(url)) {
