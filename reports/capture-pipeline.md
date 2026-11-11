@@ -138,9 +138,16 @@ over time rather than replacing one image. Every run adds a new
 - **Gallery:** `vault/assets/screenshots/gallery.html` reads the manifest and
   renders each site's dated thumbnails (newest first → full-res). Piloted on the
   Press Freedom hub (`?collection=press-freedom`).
-- **Cloud audit routine:** monthly, reads the manifest, reports a freshness
-  digest + push ping, and flags OVERDUE / residential-run-pending (hkja). Tracks
-  the standing issue **#44**.
+- **Freshness audit — folded into the weekly health check** (no separate
+  routine): `check_archive.py` reads the committed `reports/screenshot-index.json`
+  and prints a 📸 freshness section (fresh / stale / residential-pending / gone),
+  which flows into the weekly digest. The standalone monthly routine
+  `trig_01Dp7CEW3dmr65SCd948rYCC` is disabled. Standing issue **#44**.
+- **Off the grid = stop tracing.** When a site dies/shuts, set `"retired": true`
+  in `screenshot_targets.json`: its dated snapshots stay as the **final record**,
+  `--capture` skips it, and freshness marks it ⚫ gone (never "overdue"). Keep the
+  entry — the history and the moment it went dark are the point. The gallery shows
+  a "gone" badge and labels the last shot "final".
 - **Residential backlog:** hkja (managed challenge) needs a capture from a
   residential connection — `screenshot_archive.py --capture --only hkja
   --include-residential`.

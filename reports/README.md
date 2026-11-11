@@ -36,7 +36,12 @@ long-running collections (step 5b).
    broken wikilinks (incl. reversed `[[Alias|target]]` order and case
    mismatches), missing frontmatter, stale "due/expected <Month YYYY>" lines
    whose date has passed, hub pages missing a Sources/香港中文報道 block,
-   and orphan pages.
+   and orphan pages. It **also** reports **📸 screenshot-archive freshness**
+   (#44) from the committed `reports/screenshot-index.json` — per curated site:
+   fresh / 🟡 stale (no snapshot in >40 days — the monthly capture may have
+   lapsed) / 🟠 residential-pending (e.g. hkja, needs a residential-IP run) /
+   ⚫ gone (a `retired` site that went off the grid — final snapshot kept, **not
+   traced further**, never flagged stale). Surface stale/pending in the digest.
 3. **Structure** — is the archive's shape intact? Hubs should lead to their
    subpages and subpages back to a hub (the *monumental-hub-over-person-pages*
    discipline — comprehensive theme/event hub first, persons branching
