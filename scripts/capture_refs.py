@@ -203,6 +203,8 @@ def main(argv):
                 pass
 
         if a.text:
+            if i > 1 and a.delay > 0:
+                time.sleep(a.delay)  # be polite across a large sweep
             print(f"[{i}/{len(items)}] text  {url}")
             rec = fetch_extract.capture_to_dir(url, a.out, name, do_r2=a.r2)
             rec.pop("_json_path", None)  # local path, not for the manifest
