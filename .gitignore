@@ -8,3 +8,5 @@ pods/service-connections
 .capture-venv/
 __pycache__/
 captures/
+.env
+workers/wacz-crawler/crawls/

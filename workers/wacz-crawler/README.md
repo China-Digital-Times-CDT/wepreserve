@@ -44,12 +44,63 @@ After upload, sha256-verify and record provenance (3-copy rule), then repoint
 the site's `sites.*` page from any stale backup to the fresh capture, replayed
 via the self-hosted ReplayWeb path (#26).
 
-## Cloudflare Container deploy (on demand)
+## The egress problem, and the fix (residential Tailscale exit node)
 
-Build/push this image as a Cloudflare Container (GA Apr 2026) and trigger it
-from the capture-API Worker (`workers/capture-api`). The container wrapper
-(wrangler `[[containers]]` + a Durable Object router) is deploy-specific —
-confirm the current Containers binding API against Cloudflare's docs, and pass
-`SEED_URL` + the `STORE_*` secrets to the instance. Live deploy is gated on a
-deploy path (scoped wrangler token or `mcp.cloudflare.com/mcp`); the local
-`docker run` above is the working equivalent meanwhile.
+Whole-site crawling of bot-walled sites **cannot be done from a datacenter IP**
+— proven repeatedly: The Witness crawl got 1 page then `403` at scale from mars;
+hkja serves a Cloudflare *managed challenge* no server IP clears; even the
+Internet Archive crawler is `403`'d on hkja. A **Cloudflare Container is also a
+datacenter IP**, so it hits the same wall — that path is abandoned.
+
+The fix is to change *where the requests come out*, not where the compute runs:
+route the crawl through a **Tailscale exit node on a home/residential
+connection**. `docker-compose.yml` runs the crawl on mars but sends its browser
+traffic through a userspace-Tailscale **SOCKS5 proxy** pinned to that exit node,
+so requests leave from a residential IP. The WACZ upload to R2 still goes out
+mars's normal route.
+
+### One-time setup
+
+1. **Home exit node.** On an always-on device at home (Pi / NAS / old laptop —
+   on residential internet, *not* mars):
+   ```
+   tailscale up --advertise-exit-node
+   ```
+   Then approve it in the admin console (Machines → that device → Edit route
+   settings → "Use as exit node"). Confirm from mars: `tailscale exit-node list`
+   should now list it. (The tailnet already has `mars`; it just needs a
+   residential node — mars itself can't be the exit, it's the datacenter IP
+   we're avoiding.)
+2. **Auth key.** Create a reusable/ephemeral key at
+   `login.tailscale.com/admin/settings/keys` for the sidecar.
+3. **R2 S3 creds** (optional, for direct upload) — an R2 API token with object
+   write on the target bucket.
+
+Put all three + `SEED_URL` in a `.env` (copy `.env.example`; `.env` is
+gitignored).
+
+### Run a crawl (on mars)
+
+```
+cd workers/wacz-crawler
+cp .env.example .env     # fill in TS_AUTHKEY, TS_EXIT_NODE, SEED_URL, (STORE_*)
+SEED_URL=https://thewitnesshk.com/ docker compose --env-file .env up \
+    --build --abort-on-container-exit --exit-code-from crawler
+docker compose down      # tear down the sidecar
+```
+
+Verify the egress is residential before trusting a crawl: the sidecar's SOCKS5
+is on `ts-exit:1055`; a quick check —
+`docker compose run --rm crawler bash -lc 'curl -s --socks5-hostname ts-exit:1055 https://api.ipify.org'`
+should print a **home** IP, not mars's.
+
+Keep `WORKERS` low and `PAGE_DELAY` ≥2 — you're crawling over a home uplink and
+want to stay polite. WACZ output (thin mars uplink for the R2 upload) is a
+single file; background it or use the local `./crawls` copy + `rclone`.
+
+### Cloudflare Container (not used)
+
+A Cloudflare Container would idle-to-zero nicely but shares the datacenter-IP
+wall above, so it does not solve #42 for walled sites. Left here only to record
+the decision. For *cooperative* sites a container crawl would work, but those we
+already cover with single-page screenshots (#44) + full-text (#36).

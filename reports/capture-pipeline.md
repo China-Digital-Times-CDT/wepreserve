@@ -176,9 +176,18 @@ needs `wrangler` + a scoped token, or the newer `mcp.cloudflare.com/mcp`.
   the same discipline as local. Deployed via `wrangler` OAuth (the browser
   callback was completed by delivering the localhost redirect to the server on
   the box, since the login runs headless here).
-- ⏳ Browsertrix container (#42): scaffold committed; container image build/push
-  + Cloudflare Container deploy is the remaining follow-up. Local `docker run`
-  is the working equivalent.
+- 🟡 **Whole-site WACZ (#42): solution = residential egress, not a datacenter
+  container.** Proven that datacenter IPs (mars *and* a Cloudflare Container) are
+  bot-walled for whole-site crawls (The Witness 403'd at scale; hkja managed
+  challenge; IA's own crawler 403'd). The fix routes the Browsertrix crawl
+  through a **Tailscale exit node on a home/residential connection** — compute
+  stays on mars, only the browser traffic egresses residential via a userspace-
+  Tailscale SOCKS5 proxy. Implemented in `workers/wacz-crawler/`
+  (`docker-compose.yml` sidecar + `crawl.sh --proxyServer` + README setup).
+  **One prerequisite the maintainer does once:** stand up a home device as a
+  Tailscale exit node (`tailscale up --advertise-exit-node`, approve it) — the
+  tailnet currently has only mars + an offline phone. Then a real crawl can run
+  and close #42. The Cloudflare Container path is abandoned (same IP wall).
 - ✅ **Tier-1 full-text → R2 wired (2026-11-10):** `fetch_extract --r2` and
   `capture_refs --text --r2` publish clean captures (html + clean text +
   provenance) to `r2:shko-public/fulltext/`, served at `pub-*.r2.dev`. Shares

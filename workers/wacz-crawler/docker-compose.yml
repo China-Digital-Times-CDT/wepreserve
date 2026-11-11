@@ -1,0 +1,64 @@
+# On-demand WACZ crawl through a RESIDENTIAL egress (#42).
+#
+# The blocker for whole-site crawls of bot-walled sites is the egress IP: a
+# datacenter IP (mars, or a Cloudflare Container) gets 403'd / managed-
+# challenged. This runs the crawl on mars but routes its traffic through a
+# Tailscale **exit node on a home/residential connection**, so requests leave
+# from a residential IP. Only the crawl's browser traffic goes through the
+# proxy; the WACZ upload to R2 (STORE_*) goes out mars's normal route.
+#
+# Prereqs (one-time): see README — (1) a home device advertising as a Tailscale
+# exit node, (2) a Tailscale auth key, (3) R2 S3 creds. Put them in a .env file
+# next to this (see .env.example); .env is gitignored.
+#
+# Run one crawl:
+#   SEED_URL=https://thewitnesshk.com/ docker compose --env-file .env up \
+#       --abort-on-container-exit --exit-code-from crawler
+#   docker compose down            # tear the sidecar down afterward
+
+services:
+  # Tailscale in userspace mode, exposing a SOCKS5 proxy whose traffic egresses
+  # at the configured exit node (the home/residential device).
+  ts-exit:
+    image: tailscale/tailscale:latest
+    hostname: wacz-crawler
+    environment:
+      - TS_AUTHKEY=${TS_AUTHKEY:?set TS_AUTHKEY in .env}
+      - TS_USERSPACE=true
+      - TS_SOCKS5_SERVER=0.0.0.0:1055
+      - TS_EXTRA_ARGS=--exit-node=${TS_EXIT_NODE:?set TS_EXIT_NODE (home exit node IP/name) in .env} --exit-node-allow-lan-access=false
+      - TS_STATE_DIR=/var/lib/tailscale
+    volumes:
+      - ts-state:/var/lib/tailscale
+    networks: [wacz]
+    restart: "no"
+
+  # Browsertrix crawler, pointed at the sidecar's SOCKS5 proxy.
+  crawler:
+    build: .
+    depends_on: [ts-exit]
+    shm_size: 2gb
+    environment:
+      - SEED_URL=${SEED_URL:?set SEED_URL}
+      - SCOPE=${SCOPE:-prefix}
+      - LIMIT=${LIMIT:-300}
+      - WORKERS=${WORKERS:-2}
+      - PAGE_DELAY=${PAGE_DELAY:-2}
+      - COLLECTION=${COLLECTION:-}
+      - PROXY_SERVER=socks5://ts-exit:1055
+      # R2 upload (optional; omit to keep the WACZ in ./crawls only):
+      - STORE_ENDPOINT_URL=${STORE_ENDPOINT_URL:-}
+      - STORE_ACCESS_KEY=${STORE_ACCESS_KEY:-}
+      - STORE_SECRET_KEY=${STORE_SECRET_KEY:-}
+      - STORE_PATH=${STORE_PATH:-wacz/}
+      - STORE_FILENAME=${STORE_FILENAME:-@id-@ts.wacz}
+    volumes:
+      - ./crawls:/crawls
+    networks: [wacz]
+    restart: "no"
+
+networks:
+  wacz: {}
+
+volumes:
+  ts-state: {}
