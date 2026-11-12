@@ -142,6 +142,21 @@ def capture(url, out_dir, name, wait_s=12.0, do_r2=False):
                            f"{type(e).__name__}: {e}")
                 return _finish(rec, json_path)
 
+            # Grabbing content while Cloudflare's challenge is reloading the
+            # page races the navigation (Playwright: "page is navigating and
+            # changing the content"). Retry through transient navigations
+            # instead of letting the whole capture crash.
+            def _grab():
+                for _ in range(6):
+                    try:
+                        return page.content()
+                    except Exception:
+                        try:
+                            page.wait_for_load_state("domcontentloaded", timeout=4000)
+                        except Exception:
+                            page.wait_for_timeout(500)
+                return ""
+
             # Poll until the challenge clears (a real browser solves Cloudflare's
             # interstitial in a few seconds) or we exhaust the wait budget.
             deadline = wait_s
@@ -150,13 +165,18 @@ def capture(url, out_dir, name, wait_s=12.0, do_r2=False):
             while True:
                 page.wait_for_timeout(int(step * 1000))
                 waited += step
-                html = page.content()
+                html = _grab()
                 status, note = capture_page.classify(html, None)
                 if status != "blocked" or waited >= deadline:
                     break
 
+            # Let the post-challenge page settle before the real capture.
+            try:
+                page.wait_for_load_state("networkidle", timeout=8000)
+            except Exception:
+                pass
             consent = _dismiss_consent(page)
-            html = page.content()
+            html = _grab()
             try:
                 page.screenshot(path=png_path, full_page=True)
             except Exception:
