@@ -44,20 +44,36 @@ After upload, sha256-verify and record provenance (3-copy rule), then repoint
 the site's `sites.*` page from any stale backup to the fresh capture, replayed
 via the self-hosted ReplayWeb path (#26).
 
-## The egress problem, and the fix (residential Tailscale exit node)
+## The egress problem — and the decision tree (measured, not assumed)
 
-Whole-site crawling of bot-walled sites **cannot be done from a datacenter IP**
-— proven repeatedly: The Witness crawl got 1 page then `403` at scale from mars;
-hkja serves a Cloudflare *managed challenge* no server IP clears; even the
-Internet Archive crawler is `403`'d on hkja. A **Cloudflare Container is also a
-datacenter IP**, so it hits the same wall — that path is abandoned.
+**mars is itself on a home/residential line** (public IP `72.136.97.2`), so the
+first question is never "datacenter vs residential" — mars already has a clean
+residential egress. The real split is whether the *target* bot-walls that
+specific IP:
 
-The fix is to change *where the requests come out*, not where the compute runs:
-route the crawl through a **Tailscale exit node on a home/residential
+1. **Cooperative / unwalled sites → crawl directly from mars. No proxy.**
+   Measured 2026-11-12: a direct Browsertrix crawl of `photonmedia.net` from
+   mars captured **20/20 pages, 0 failed, 0 excluded → valid 58 MB WACZ**. For
+   these sites the Tailscale sidecar below is unnecessary overhead — just run
+   the plain `docker run` from the "Local on-demand run" section, or
+   `docker compose` with `PROXY_SERVER` left unset.
+
+2. **Sites that wall mars's own residential IP → need a *different* clean line.**
+   Proven walls: The Witness gave 1 page then `403` at scale; hkja serves a
+   Cloudflare *managed challenge* that **no IP clears** — even the Internet
+   Archive crawler is `403`'d on it. A **Cloudflare Container is a datacenter
+   IP**, strictly worse, so that path is abandoned. A Tailscale exit node only
+   helps here if it is a *genuinely different, cleaner* residential line (e.g. a
+   phone on cellular, or a Pi at another location) — routing through a second
+   home line that is also flagged, or through mars itself, buys nothing. For a
+   hard managed-challenge site (hkja) even that may not win; fall back to
+   single-page screenshots (#44) + full-text (#36).
+
+For case 2, change *where the requests come out*, not where the compute runs:
+route the crawl through a **Tailscale exit node on a different residential
 connection**. `docker-compose.yml` runs the crawl on mars but sends its browser
-traffic through a userspace-Tailscale **SOCKS5 proxy** pinned to that exit node,
-so requests leave from a residential IP. The WACZ upload to R2 still goes out
-mars's normal route.
+traffic through a userspace-Tailscale **SOCKS5 proxy** pinned to that exit node.
+The WACZ upload to R2 still goes out mars's normal route.
 
 ### One-time setup
 
@@ -68,9 +84,9 @@ mars's normal route.
    ```
    Then approve it in the admin console (Machines → that device → Edit route
    settings → "Use as exit node"). Confirm from mars: `tailscale exit-node list`
-   should now list it. (The tailnet already has `mars`; it just needs a
-   residential node — mars itself can't be the exit, it's the datacenter IP
-   we're avoiding.)
+   should now list it. (The tailnet already has `mars`, but mars's own
+   residential IP is the one being walled in case 2 — so the exit node must be a
+   *different* line, e.g. a phone on cellular or a Pi elsewhere, not mars.)
 2. **Auth key.** Create a reusable/ephemeral key at
    `login.tailscale.com/admin/settings/keys` for the sidecar.
 3. **R2 S3 creds** (optional, for direct upload) — an R2 API token with object
