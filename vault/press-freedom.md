@@ -71,14 +71,6 @@ The crackdown did not only close newsrooms; it scattered them. Some were destroy
 | **FCC** 外國記者會 | Self-censoring | [[sites.fcchk]] |
 | **HK Journalists Association** 記協 | Under pressure | [[sites.hkja]] |
 
-### Snapshots over time
-
-As these sites are pressured, move into exile, or vanish, we keep a **dated visual record** — a fresh screenshot of each surviving front page roughly every month, so the archive shows not just *that* a newsroom existed but *how it changed*. Older snapshots are never overwritten; each capture is kept and added to the row below (newest first). Click any thumbnail for the full-resolution capture.
-
-<iframe src="/assets/screenshots/gallery.html?collection=press-freedom" width="100%" height="560" style="border:1px solid #ccc; border-radius:6px;" title="Dated screenshots of the preserved press-freedom newsrooms" allow="fullscreen"></iframe>
-
-*The gallery loads the live snapshot index from the preservation archive.* — **[open full-screen ↗](/assets/screenshots/gallery.html?collection=press-freedom)** if the panel above stays blank.
-
 ## Help preserve the record
 
 Hong Kong's free press is being written out of the city's own memory — newsrooms deleted, archives pulled offline, reporting recast as crime. If you have **saved articles, front pages, broadcasts, newsletters or newsroom records** from any of these outlets — or others not yet listed — they belong in the record before they vanish. See [[how to contribute|participation]], or open an issue on our archive. Court reporting on the journalist trials is tracked by [[The Witness|sites.thewitness]].
