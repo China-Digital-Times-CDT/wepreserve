@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:29:10.751234+00:00",
+  "generated_at": "2026-11-13T04:00:23.181798+00:00",
   "base": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev",
   "targets": [
     {
@@ -109,7 +109,7 @@
       "tier": 1,
       "residential_only": true,
       "retired": false,
-      "count": 2,
+      "count": 3,
       "captures": [
         {
           "ts": "20261113T002822Z",
@@ -124,14 +124,21 @@
           "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T002823Z.png",
           "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T002823Z.thumb.jpg",
           "bytes": 263308
+        },
+        {
+          "ts": "20261113T005120Z",
+          "iso": "2026-11-13T00:51:20Z",
+          "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T005120Z.png",
+          "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T005120Z.thumb.jpg",
+          "bytes": 817035
         }
       ],
       "latest": {
-        "ts": "20261113T002823Z",
-        "iso": "2026-11-13T00:28:23Z",
-        "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T002823Z.png",
-        "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T002823Z.thumb.jpg",
-        "bytes": 263308
+        "ts": "20261113T005120Z",
+        "iso": "2026-11-13T00:51:20Z",
+        "png_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T005120Z.png",
+        "thumb_url": "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T005120Z.thumb.jpg",
+        "bytes": 817035
       }
     },
     {
