@@ -139,13 +139,27 @@ def capture(url, out_dir, name, wait_s=12.0, do_r2=False, profile_dir=None):
             # cookie DB is flushed.)
             tmp_profile = tempfile.mkdtemp(prefix="stealth-prof-",
                                            dir=os.environ.get("TMPDIR") or None)
+            # Strip the Singleton* lock symlinks: they point at the operator's
+            # RUNNING Chrome, so a copy that keeps them makes the new Chrome
+            # hand off ("Opening in existing browser session") instead of
+            # opening the copy. Also drop caches (speed) and crash state.
             _ignore = shutil.ignore_patterns(
                 "Cache", "Code Cache", "GPUCache", "ShaderCache", "GrShaderCache",
                 "*Cache*", "Service Worker", "component_crx_cache",
-                "extensions_crx_cache", "Crashpad", "*.log")
-            shutil.copytree(profile_dir, os.path.join(tmp_profile, "prof"),
+                "extensions_crx_cache", "Crashpad", "*.log",
+                "Singleton*", "RunningChromeVersion", "lockfile")
+            prof_copy = os.path.join(tmp_profile, "prof")
+            shutil.copytree(profile_dir, prof_copy,
                             ignore=_ignore, dirs_exist_ok=True,
                             symlinks=True, ignore_dangling_symlinks=True)
+            # Belt and braces: remove any Singleton locks that slipped through.
+            for lock in ("SingletonLock", "SingletonCookie", "SingletonSocket"):
+                p_lock = os.path.join(prof_copy, lock)
+                if os.path.islink(p_lock) or os.path.exists(p_lock):
+                    try:
+                        os.unlink(p_lock)
+                    except Exception:
+                        pass
             ctx = p.chromium.launch_persistent_context(
                 os.path.join(tmp_profile, "prof"), channel="chrome",
                 headless=False, args=LAUNCH_ARGS, locale="en-US",
