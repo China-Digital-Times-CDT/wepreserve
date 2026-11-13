@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 # Env-driven one-shot crawl (#42). Required: SEED_URL.
 # Optional: SCOPE, LIMIT, WORKERS, PAGE_TIMEOUT, PAGE_DELAY, COLLECTION,
-#           PROXY_SERVER (e.g. socks5://ts-exit:1055 — a residential egress).
+#           PROXY_SERVER (e.g. socks5://ts-exit:1055 — a residential egress),
+#           PROFILE (path to a Browsertrix login profile .tar.gz that already
+#                    cleared a login/challenge — e.g. a Cloudflare managed-
+#                    challenge site like hkja; see login-profile.sh).
 # R2 upload happens automatically when the STORE_* env vars are set (see README)
 # and --generateWACZ is on; Browsertrix uploads WACZ output only, not WARC.
 #
@@ -39,6 +42,10 @@ if [ -n "${PROXY_SERVER:-}" ]; then
   done
   args+=(--proxyServer "$PROXY_SERVER")
   echo "crawl egress via proxy: $PROXY_SERVER"
+fi
+if [ -n "${PROFILE:-}" ]; then
+  args+=(--profile "$PROFILE")
+  echo "crawl using login profile: $PROFILE"
 fi
 
 echo "crawl: seed=$SEED_URL scope=${SCOPE:-prefix} limit=${LIMIT:-300} collection=$COLLECTION"
