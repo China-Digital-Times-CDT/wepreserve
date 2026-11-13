@@ -30,14 +30,13 @@ The people who have led the HKJA trace the pressure on the whole profession:
 The HKJA continues to issue statements defending reporters — in October 2026 insisting that "**reporting is not sedition**" after an online journalist's arrest (see [[Press Freedom under Siege|press-freedom]]) — even as its own survival is in question.
 
 ## Archives
-(state: archived — full-page snapshot captured 13 Nov 2026)
+(State: Done)
 
-hkja.org.hk sits behind a Cloudflare **managed challenge** that blocks every automated crawler — including the Internet Archive, whose snapshots in recent years are all HTTP 403 (the last successful content capture was **8 July 2020**). The live site can only be preserved from a human-operated browser, so the snapshots below were captured that way.
-
-- **Front-page snapshot (13 Nov 2026)** — [full-page screenshot](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T005120Z.png) · [HTML cold copy](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T005120Z.html)
-- **Section screenshots (13 Nov 2026)** — [homepage 首頁](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T002822Z.png) · [About HKJA, English](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T002823Z.png)
-- Browse every dated capture in the [screenshot gallery](/assets/screenshots/gallery.html?site=hkja).
-- [Wayback Machine](https://web.archive.org/web/*/http://www.hkja.org.hk/) — index only; recent snapshots are Cloudflare challenge pages (403), so usable content ends in 2020.
+- [.PNG + .HTML snapshot (2026-11-13)](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T005120Z.png) --> [HTML cold copy](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T005120Z.html)
+- [Screenshot — homepage 首頁 (2026-11-13)](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T002822Z.png)
+- [Screenshot — About HKJA, English (2026-11-13)](https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/hkja/20261113T002823Z.png)
+- [Screenshot gallery](/assets/screenshots/gallery.html?site=hkja)
+- [Wayback Machine](https://web.archive.org/web/*/http://www.hkja.org.hk/) — Cloudflare-blocked since 2020; pre-2020 content only
 
 ## Sources
 
