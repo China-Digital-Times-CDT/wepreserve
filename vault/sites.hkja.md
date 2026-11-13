@@ -55,9 +55,3 @@ hkja.org.hk sits behind a Cloudflare **managed challenge** that blocks every aut
 - [獨立媒體 inmediahk：《鄭嘉如私人檢控案 — 《華爾街日報》母公司否認兩罪》](https://www.inmediahk.net/node/1107503/) — [[獨立媒體|sites.inmediahk]]
 - [端傳媒：《港記協新任主席鄭嘉如被《華爾街日報》解僱，此前曾被上司要求退選》](https://theinitium.com/article/20240718-whatsnew-hongkong-hkja-chair-be-fired-by-wsj)
 - [維基百科：香港記者協會](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83)
-
-
-## Archives
-(state: In Progress)
-
-- [Wayback Machine](https://web.archive.org/web/*/http://www.hkja.org.hk/)
