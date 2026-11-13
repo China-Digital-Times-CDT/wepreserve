@@ -9,6 +9,16 @@ built-in S3 support. See `reports/capture-pipeline.md`.
 **Unauthenticated sites only.** Anything needing cookies stays on the local
 path (#43) — never route credentials through this.
 
+> ⚠️ **Host requirements — NOT mars.** A whole-site crawl (Chromium + the
+> ~2.4 GB image + page memory) needs real RAM. **mars has only 7.6 GB and runs
+> here.news production** — a real crawl there risks OOM-killing the box, so do
+> not run one on it (a tiny bounded `--limit 20` test is the ceiling). Run
+> crawls on a disposable host with 8–16 GB (a cloud VM): do the login-profile
+> there too, then upload the WACZ to R2. boomheadhk's ~12 GB WACZ was rsync'd
+> from its origin host, *not* crawled on mars. For a Cloudflare-walled site that
+> we can't give a bigger host, the single-page cold copy + screenshots
+> (`capture_stealth.py --profile`) is the archive instead of a WACZ.
+
 ## Local on-demand run (the path dogfooded 2026-11-10)
 
 ```
