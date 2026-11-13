@@ -32,7 +32,9 @@ Usage (always under a virtual display):
 import argparse
 import datetime as _dt
 import os
+import shutil
 import sys
+import tempfile
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import capture_page  # noqa: E402  — reuse the shared ok/blocked/dead classifier
@@ -103,7 +105,7 @@ def _dismiss_consent(page):
     return None
 
 
-def capture(url, out_dir, name, wait_s=12.0, do_r2=False):
+def capture(url, out_dir, name, wait_s=12.0, do_r2=False, profile_dir=None):
     """Drive a stealthed real Chrome, wait out a JS challenge, capture the page.
 
     Returns a provenance dict. Writes <name>.png / .html / .txt / .json under
@@ -124,16 +126,42 @@ def capture(url, out_dir, name, wait_s=12.0, do_r2=False):
     http_status = None
     consent = None
 
+    tmp_profile = None
     with sync_playwright() as p:
-        browser = p.chromium.launch(channel="chrome", headless=False,
-                                    args=LAUNCH_ARGS)
-        try:
+        if profile_dir:
+            # Reuse a warmed Chrome profile (one that already solved the
+            # Cloudflare challenge in a real session). cf_clearance is bound to
+            # the browser's NATIVE User-Agent + IP, so here we must NOT override
+            # UA / headers / stealth — Chrome's real identity is what the cookie
+            # was issued to; overriding it gets the cookie rejected and the
+            # challenge returns. Work on a cache-excluded COPY so the operator's
+            # real profile is never locked or mutated. (Quit Chrome first so the
+            # cookie DB is flushed.)
+            tmp_profile = tempfile.mkdtemp(prefix="stealth-prof-",
+                                           dir=os.environ.get("TMPDIR") or None)
+            _ignore = shutil.ignore_patterns(
+                "Cache", "Code Cache", "GPUCache", "ShaderCache", "GrShaderCache",
+                "*Cache*", "Service Worker", "component_crx_cache",
+                "extensions_crx_cache", "Crashpad", "*.log")
+            shutil.copytree(profile_dir, os.path.join(tmp_profile, "prof"),
+                            ignore=_ignore, dirs_exist_ok=True,
+                            symlinks=True, ignore_dangling_symlinks=True)
+            ctx = p.chromium.launch_persistent_context(
+                os.path.join(tmp_profile, "prof"), channel="chrome",
+                headless=False, args=LAUNCH_ARGS, locale="en-US",
+                viewport={"width": 1280, "height": 1600}, no_viewport=False)
+            browser = ctx.browser
+            rec["engine"] = "stealth+profile"
+        else:
+            browser = p.chromium.launch(channel="chrome", headless=False,
+                                        args=LAUNCH_ARGS)
             ctx = browser.new_context(
                 viewport={"width": 1280, "height": 1600},
                 user_agent=UA, locale="en-US",
                 extra_http_headers=DESKTOP_HEADERS)
             ctx.add_init_script(STEALTH_JS)
-            page = ctx.new_page()
+        try:
+            page = ctx.pages[0] if (profile_dir and ctx.pages) else ctx.new_page()
             try:
                 resp = page.goto(url, wait_until="domcontentloaded", timeout=45000)
                 http_status = resp.status if resp else None
@@ -185,7 +213,17 @@ def capture(url, out_dir, name, wait_s=12.0, do_r2=False):
                 except Exception:
                     pass
         finally:
-            browser.close()
+            try:
+                ctx.close()
+            except Exception:
+                pass
+            try:
+                if browser:
+                    browser.close()
+            except Exception:
+                pass
+    if tmp_profile:
+        shutil.rmtree(tmp_profile, ignore_errors=True)
 
     status, note = capture_page.classify(html, png_path if os.path.exists(png_path) else None)
     rec.update(status=status, note=note, http_status=http_status,
@@ -265,14 +303,24 @@ def main(argv):
     ap.add_argument("--r2", action="store_true",
                     help="on a clean capture, publish png/html/txt/json to "
                          "r2:shko-public/screenshots/<name>/<ts>.* (public pages only)")
+    ap.add_argument("--profile", default=None,
+                    help="reuse a warmed Chrome profile dir (e.g. "
+                         "~/.config/google-chrome) whose cf_clearance already "
+                         "cleared the challenge. Uses Chrome's native identity "
+                         "on a cache-excluded copy. QUIT Chrome first.")
     a = ap.parse_args(argv)
     name = a.name or fetch_extract._name_for(a.url)
+    profile_dir = os.path.expanduser(a.profile) if a.profile else None
+    if profile_dir and not os.path.isdir(profile_dir):
+        print(f"⚠  --profile dir not found: {profile_dir}", file=sys.stderr)
+        return 4
 
     if not os.environ.get("DISPLAY"):
         print("⚠  no DISPLAY set — run this under `xvfb-run -a` "
               "(headful Chrome needs a virtual display).", file=sys.stderr)
 
-    rec = capture(a.url, a.out, name, wait_s=a.wait, do_r2=a.r2)
+    rec = capture(a.url, a.out, name, wait_s=a.wait, do_r2=a.r2,
+                  profile_dir=profile_dir)
     json_path = rec.pop("_json_path")
     icon = {"ok": "✓", "blocked": "⛔", "dead": "✗", "error": "⚠"}.get(rec["status"], "?")
     print(f"{icon} {rec['status']:<7} {a.url}")
