@@ -27,9 +27,9 @@ recipe and any manually-saved reports.)
 ## What the weekly check does (v2)
 
 The check has three parts: an **audit** of the archive as it stands (steps
-2–4), a **scout** for content worth editing in (step 5), and an
-**open-issues watch** that tracks the backlog of proposed hubs and
-long-running collections (step 5b).
+2–4), a **scout** for content worth editing in (step 5), and a
+**live-issues review** that walks the continuously-watched topics and
+promotes matured proposals (step 5b — see [Live issues](#live-issues)).
 
 1. **Read latest `main`** (read-only; never push).
 2. **Deterministic checks** — run `python3 scripts/check_archive.py`:
@@ -84,35 +84,75 @@ long-running collections (step 5b).
      recommendation: fold into an existing hub, open a new page/section, or
      add to the watchlist and wait for it to develop.
    Every candidate carries **source(s)** per the step-4 sourcing rules.
-   - **5b. Open-issues watch.** Fetch the repo's open GitHub issues
-     (`https://api.github.com/repos/China-Digital-Times-CDT/wepreserve/issues?state=open&per_page=100`,
-     unauthenticated read is fine for this public repo) and focus on the
-     **backlog issues** — proposed hubs and long-running collections that are
-     waiting for enough material before they are worth building or expanding
-     (e.g. a proposed theme hub, a book/registry collection that grows as new
-     titles surface, a reference-capture or distribution idea). For **each**
-     such open issue, research the last ~1–2 weeks for developments that feed
-     it, and decide which of three states it is in: **▶ act now** (enough has
-     accumulated — a second case, a landed ruling, a cluster of titles — that
-     building or extending the page is now worthwhile; name the exact page to
-     create/extend and the material that justifies it), **⏸ keep waiting**
-     (still thin — nothing material since last week, or a single data point
-     that needs corroboration), or **✅ done / close** (the work has been
-     folded in and the issue can be closed). Purely mechanical issues (a CI
-     bug, a one-off fix) are not part of this watch — only the content
-     backlog. The point is to let proposals mature on their own cadence and
-     act only when a topic has earned a page, rather than building on the day
-     it is proposed.
+   - **5b. Live-issues review.** The archive's continuously-watched topics
+     are tracked as GitHub issues carrying the **`live`** label (see
+     [Live issues](#live-issues) for the full convention). Fetch the open
+     live issues
+     (`https://api.github.com/repos/China-Digital-Times-CDT/wepreserve/issues?state=open&labels=live&per_page=100`,
+     unauthenticated read is fine for this public repo). For **each** live
+     issue — it names its vault page and its watch routine — grep the vault
+     for what already exists and research the last ~1–2 weeks for
+     developments, then classify it as exactly one of: **🆕 new** (a sourced
+     development since last review — name the exact page/section to extend and
+     the source), **🔭 now retrospectable** (the thread has settled — a
+     deepening research pass is due; name the gaps, and for an `active-watch`
+     item note its cloud routine can now be disabled), **⏸ no change**
+     (nothing material this week), or **✅ mature** (the page is comprehensive
+     and only needs the weekly check — the issue can be closed). Then,
+     *separately*, scan the remaining open issues that do **not** carry `live`
+     but propose a new hub/page or a long-running collection: if one has now
+     accumulated enough material to earn a page (a second case, a landed
+     ruling, a cluster of titles), flag it **▶ promote** — recommend adding
+     the `live` label and building, naming the material that justifies it;
+     otherwise leave it waiting. Purely mechanical issues (a CI bug, a one-off
+     fix) are out of scope. The point is to let topics mature on their own
+     cadence and act only when one has earned the work.
 6. **Report the digest as the run's final message** — do NOT publish or
    update any Claude Doc or artifact. Rank it 🔴 must-fix / 🟡 should-update /
    🟢 nice-to-have, with lineage items ahead of relevance-only ones inside 🟡,
-   plus a **📋 Open-issues watch** section (one line per backlog issue:
-   `#<n> <title> — ▶ act now / ⏸ keep waiting / ✅ done`, with the one-line
-   reason and any new material) and a Watchlist-status line. Must-fix items
+   plus a **📋 Live-issues review** section (one line per `live` issue:
+   `#<n> <title> — 🆕 new / 🔭 retrospectable / ⏸ no change / ✅ mature`, with
+   the one-line reason and any new material; 🆕 and 🔭 first, then any
+   ▶ promote) and a Watchlist-status line. Must-fix items
    are checklist lines a maintainer applies locally. The digest is read back
    from the run's output (see the Delivery note).
 7. **Notify** — send one concise push notification with the severity counts
    and a one-line headline per 🔴/🟡 item (no doc link — there is no doc).
+
+## Live issues
+
+A **live issue** is a GitHub issue that tracks a topic the archive is
+*actively watching and growing* — not a task that closes when a unit of work
+is done, but a standing thread the weekly cycle (step 5b) reviews. This is how
+pages improve on a cadence: each live issue asks, every Monday, *what's new?*
+and *is this now settled enough to deepen?*
+
+**The convention:**
+
+- Label the issue **`live`**. It stays **open by design**; it closes only when
+  the page is mature (then only the weekly audit tends it).
+- Add exactly one **status** sub-label:
+  - **`active-watch`** 🔴 — fast-moving; a cloud routine is appending to its
+    page (M+/culture, the fire anniversary, the Pillar ruling). The issue
+    records the routine id so it can be disabled when the story resolves.
+  - **`growing`** 🟡 — being built out from research/submissions (the banned-
+    books registry, the Cantonese collection). Matures as material accrues.
+  - **`retrospectable`** 🔭 — the event has settled; the next move is a
+    *deepening research pass* to make the page comprehensive (Joshua Wong,
+    after sentencing became final). Its watch routine, if any, is disabled.
+- The body links the issue's **vault page**, its **watch routine** (if any),
+  and its **captured evidence** (R2 keys), plus *what each cycle checks* and
+  *when it closes*.
+- **Umbrella / independent.** A collection with several threads is an umbrella
+  live issue with a task-list of sub-watches (e.g. *Fire 2025* → anniversary,
+  criminal case, full report); a standalone topic is an independent live issue.
+
+**The lifecycle:** a plain proposal issue → (enough material accrues) → the
+weekly review flags **▶ promote**, it gains `live` + `growing` and a page is
+built → **`active-watch`** while a routine or the news cycle feeds it →
+**`retrospectable`** once it settles, for a deepening pass → **closed** when
+the page is mature. The registry at any moment is
+`gh issue list --label live`.
 
 ## Core topics
 
