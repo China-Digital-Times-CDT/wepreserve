@@ -1,0 +1,328 @@
+
+Related: [[sites.appledaily]] | [[Faces of the Crackdown|faces-of-the-crackdown]] | [[📰 Press Freedom under Siege|press-freedom]] | [[The Hong Kong 47|hong-kong-47]] | [[Hong Kong Alliance|sites.hka]] | [[hong-kong-fire-2025]]
+
+![Jimmy Lai](/assets/jimmy-lai-12739.avif)
+_Jimmy Lai in an interview with AFP on June 16, 2020, at his company's premises in Hong Kong. (Getty Images / AFP / Anthony Wallace)_
+
+Jimmy Lai Chee-ying (黎智英, born 8 December 1947) is a Hong Kong media entrepreneur and pro-democracy activist. He founded Giordano clothing, Next Digital media group, and Apple Daily newspaper. A naturalized British citizen, Lai became one of the most prominent voices supporting Hong Kong's democracy movement.
+
+## Case & Sentencing
+
+- **2020-08-10** Lai arrested under the National Security Law along with his sons and several Apple Daily executives
+- **2020-12** Charged with foreign collusion under the NSL
+- **2021-06-23** Apple Daily forced to close after asset freezes and executive arrests
+- **2021-12** Trial begins at West Kowloon Courts
+- **2024-12-19** Convicted of conspiracy to collude with foreign forces and sedition
+- **2026-02-09** Sentenced to 20 years imprisonment; six co-defendants receive 6 years 9 months to 10 years
+- **2026-02-26** Court of Appeal **quashes his separate 2022 fraud conviction** (illegal subletting of Apple Daily office space at a government-owned media park to Dico Consultants); codefendant Wong Wai-keung also cleared and the ~6-year sentence set aside, the judges ruling the lease breach did not reach the criminal threshold for fraud — a rare legal win that reduces his total prison time
+- **2026-03-05** Legal team confirms Lai **will not appeal** the national-security conviction or 20-year sentence, citing "clear and definitive instructions"; analysts suggest non-appeal may be a precondition for any diplomatic/humanitarian deal, though it guarantees nothing
+- **2026-11-01/02** Phoenix TV shows former Next Digital CEO **Cheung Kim-hung** on a Correctional Services tour to Shenzhen as a "更生人士" (rehabilitated person). Hong Kong media report that he and fellow prosecution witnesses **Andy Li** and **Chan Tsz-wah** have been released ahead of their expected dates; the department will not comment on individual cases (see [Reported early releases](#reported-early-releases-of-prosecution-witnesses-nov-2026) below)
+
+### Sentences (Feb 9, 2026)
+
+| Defendant | Role | Sentence |
+|-----------|------|----------|
+| Jimmy Lai | Founder & publisher | 20 years |
+| Ryan Law Wai-kwong (羅偉光) | Editor-in-chief | 10 years |
+| Lam Man-chung (林文宗) | Executive editor-in-chief | 10 years |
+| Fung Wai-kong (馮偉光) | Managing editor, English edition | 10 years |
+| Yeung Ching-kee (楊清奇) | Editorial writer | 7 years 3 months |
+| Andy Li Yu-hin (李宇軒) | Activist; co-defendant | 7 years 3 months |
+| Chan Pui-man (陳沛敏) | Associate publisher | 7 years |
+| Cheung Kim-hung (張劍虹) | CEO, Next Digital | 6 years 9 months |
+| Chan Tsz-wah (陳梓華, Wayland Chan) | Paralegal; co-defendant | 6 years 3 months |
+
+The judges set a **15-year starting point** for the six former Apple Daily staff. Law, Lam and Fung received only the customary one-third discount for pleading guilty. Cheung, Chan Pui-man and Yeung got shorter terms because they testified against Lai, plus further discounts: good character for Cheung and Chan, and humanitarian grounds for Yeung, whose wife was left permanently disabled. Cheung's total reduction was **55%**. Andy Li and Chan Tsz-wah also testified for the prosecution ([HKFP](https://hongkongfp.com/2026/02/09/national-security-judges-cite-extensive-roles-as-6-ex-apple-daily-staffers-jailed-for-up-to-10-years/), [CPJ](https://cpj.org/2026/02/jimmy-lai-sentenced-to-20-years-in-prison-in-hong-kongs-biggest-media-trial/), [HK01](https://www.hk01.com/%E6%94%BF%E6%83%85/60405812/%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88%E5%BC%B5%E5%8A%8D%E8%99%B9%E5%87%BA%E7%8D%84%E5%8F%83%E5%8A%A0%E6%87%B2%E6%95%99%E6%B7%B1%E5%9C%B3%E5%9C%98-%E7%A8%B1%E4%BD%9C%E7%82%BA%E4%B8%AD%E5%9C%8B%E4%BA%BA%E7%82%BA%E5%9C%8B%E5%AE%B6%E7%A7%91%E6%8A%80%E9%A9%95%E5%82%B2), [Ming Pao](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20261102/s00002/1793555055777/%E3%80%8C%E6%9B%B4%E7%94%9F%E8%80%85%E3%80%8D%E5%BC%B5%E5%8A%8D%E8%99%B9%E8%B5%B4%E6%87%B2%E6%95%99%E5%85%A7%E5%9C%B0%E5%9C%98-%E6%96%99%E6%8F%90%E6%97%A9%E7%8D%B2%E9%87%8B-%E7%A8%B1%E7%82%BA%E5%9C%8B%E5%AE%B6%E5%BC%B7%E5%A4%A7%E9%A9%95%E5%82%B2-%E5%90%8C%E6%A1%88%E9%99%B3%E6%A2%93%E8%8F%AF%E6%9D%8E%E5%AE%87%E8%BB%92%E4%BA%A6%E7%8D%B2%E9%87%8B)).
+
+---
+
+## After Sentencing
+
+### Reported early releases of prosecution witnesses (Nov 2026)
+
+**What is reported, and what is not.** Hong Kong media say three prosecution witnesses in this case have been freed ahead of their expected release dates. The reports rest on unnamed sources ("據悉", "據了解"). The Correctional Services Department (CSD) has neither confirmed nor denied them, and no release date has been reported. The court-news outlet The Witness states Cheung's early release as fact, based on his appearance as a released person; the reports on Li and Chan still rest on Ming Pao's unnamed sources.
+
+| Witness | Sentence | Expected release |
+|---|---|---|
+| Cheung Kim-hung (張劍虹) | 6 years 9 months | March 2028 |
+| Andy Li Yu-hin (李宇軒) | 7 years 3 months | 2028 |
+| Chan Tsz-wah (陳梓華) | 6 years 3 months | 2027 |
+
+**The Shenzhen tour.** On **31 October 2026**, CSD took people it describes as rehabilitated persons on a day trip to Shenzhen under its 「伴『理』前行」 programme, visiting the former East River Column (東江縱隊) headquarters and riding Baidu's self-driving "Apollo Go" (蘿蔔快跑) cars. Phoenix TV (鳳凰衛視), whose largest shareholder is a group wholly owned by China's Finance Ministry, aired segments on the trip on 1 and 2 November and interviewed Cheung by name, unmasked. He said he was "really excited" by the driverless cars and that, as a Chinese person, he felt "very proud" to experience the country's strength and technology. In the second segment he said that after the 2019 protests he had taken part in "煽惑抗爭嘅嘢" ("inciting resistance"), that he "好後悔" (deeply regrets) his crimes, and that he signed up for the tour himself hoping to rejoin society. At the East River Column martyrs' park, he said the martyrs' sacrifice filled him with respect. His appearance as a "更生人士" is what prompted the reports. The tour's leader, CSD superintendent 林賜良, told Phoenix that some participants held deep-rooted prejudices about the country and that such trips could gradually change their impressions.
+
+**The official response.** Asked about Cheung, Li, Chan and Tong Ying-kit (below), CSD told Ming Pao it would not comment on individual cases. It said the tour is a key part of a programme to strengthen rehabilitated persons' national-security and law-abiding awareness. Since the Article 23 legislation, a national-security prisoner can get early release only if the Commissioner of Correctional Services is satisfied it would not be contrary to national security.
+
+**Others asked.** Cheung's phone went unanswered. Li's barrister said he knew some things but that they were private and possibly inaccurate; Chan's senior counsel said she had heard nothing of a release. The tour's sponsor, 夏中建, said it was for people who had finished their sentences. He told Ming Pao that Cheung's case was not discussed, and that Cheung crossed into the mainland smoothly but was taken aside for a few questions when leaving Hong Kong. Ming Pao adds, again from unnamed sources, that other witnesses in the case still in custody may also be released early.
+
+**Beyond this case.** Ming Pao also reports, from unnamed sources, that **Tong Ying-kit** (唐英傑), the first person convicted under the National Security Law and sentenced to nine years, has been freed. Tong said on a Security Bureau TV programme this year that he had been misled by false news.
+
+Sources: [The Witness, 2 Nov 2026](https://thewitnesshk.com/%e5%89%8d%e8%98%8b%e6%9e%9c%e7%a4%be%e9%95%b7%e5%bc%b5%e5%8a%8d%e8%99%b9%e6%8f%90%e6%97%a9%e7%8d%b2%e9%87%8b-%e5%8f%97%e8%a8%aa%e7%a8%b1%e5%b0%8d%e7%8a%af%e7%bd%aa%e6%84%9f%e6%87%8a%e6%82%94-%e5%8f%83/) · [Ming Pao, 2 Nov 2026](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20261102/s00002/1793555055777/%E3%80%8C%E6%9B%B4%E7%94%9F%E8%80%85%E3%80%8D%E5%BC%B5%E5%8A%8D%E8%99%B9%E8%B5%B4%E6%87%B2%E6%95%99%E5%85%A7%E5%9C%B0%E5%9C%98-%E6%96%99%E6%8F%90%E6%97%A9%E7%8D%B2%E9%87%8B-%E7%A8%B1%E7%82%BA%E5%9C%8B%E5%AE%B6%E5%BC%B7%E5%A4%A7%E9%A9%95%E5%82%B2-%E5%90%8C%E6%A1%88%E9%99%B3%E6%A2%93%E8%8F%AF%E6%9D%8E%E5%AE%87%E8%BB%92%E4%BA%A6%E7%8D%B2%E9%87%8B) · [HK01](https://www.hk01.com/%E6%94%BF%E6%83%85/60405812/%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88%E5%BC%B5%E5%8A%8D%E8%99%B9%E5%87%BA%E7%8D%84%E5%8F%83%E5%8A%A0%E6%87%B2%E6%95%99%E6%B7%B1%E5%9C%B3%E5%9C%98-%E7%A8%B1%E4%BD%9C%E7%82%BA%E4%B8%AD%E5%9C%8B%E4%BA%BA%E7%82%BA%E5%9C%8B%E5%AE%B6%E7%A7%91%E6%8A%80%E9%A9%95%E5%82%B2) · [am730](https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1061482/%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88-%E5%89%8D-%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1-%E7%A4%BE%E9%95%B7%E5%BC%B5%E5%8A%8D%E8%99%B9%E5%8F%83%E5%8A%A0%E5%85%A7%E5%9C%B0%E9%AB%94%E9%A9%97%E5%9C%98%E6%96%99%E6%8F%90%E6%97%A9%E7%8D%B2%E9%87%8B-%E6%87%B2%E6%95%99%E7%BD%B2-%E4%B8%8D%E8%A9%95%E8%AB%96%E5%80%8B%E6%A1%88) · [Dimsum Daily](https://www.dimsumdaily.hk/apple-daily-trio-said-freed-ahead-of-full-terms/) · [CNA](https://www.cna.com.tw/news/acn/202611010144.aspx) · [Mirror Media](https://www.mirrormedia.mg/story/20261102-91pol-115454).
+
+---
+
+## Impact on Press Freedom
+
+### Hong Kong journalists face 'precarious' future after Jimmy Lai jailed
+
+**Agence France-Presse via HKFP · Feb 10, 2026**
+
+For Hong Kong journalists, this week's sentencing of pro-democracy newspaper boss Jimmy Lai cements a climate of fear and self-censorship in the years since Beijing imposed a sweeping national security law.
+
+"There will not be another Apple Daily, nobody dares to copy what it did," journalist and former press union chief Ronson Chan said of Lai's defunct tabloid, which exposed government scandals and ran scathing political commentary.
+
+On Monday, a court handed the 78-year-old tycoon a 20-year prison term and issued sentences against six other former Apple Daily executives, all convicted under the national security law imposed in 2020 after huge pro-democracy protests.
+
+Lai's punishment has been condemned by countries such as the United States and Britain, and rights groups have called it a de facto death sentence and a reflection of Hong Kong's dwindling press freedoms.
+
+Journalists in the Chinese finance hub told AFP they were already operating within political "red lines" since the demise of outlets like Apple Daily.
+
+Just a day after Lai's sentencing, China published a white paper that described safeguarding national security as a "long-term and enduring task" for Hong Kong — seen by some as a sign of Beijing doubling down.
+
+Selina Cheng, chairperson of the Hong Kong Journalists Association, told AFP that media bosses "increasingly see themselves as an extension of the government propaganda arm" and fear embarrassing those in power.
+
+"The biggest impact is really the pervasiveness of self-censorship and the sense that if you write the wrong thing… that might land you in jail," Cheng said.
+
+#### 'Hard to accept'
+
+While much international attention centred on Lai, some local journalists said they were also shocked by the fates of the six former executives sentenced as co-conspirators.
+
+They received jail terms ranging from six years and nine months to 10 years.
+
+Their arrests as well as asset freezes and newsroom raids were the final nails in the coffin for Apple Daily, which closed its doors in June 2021.
+
+When Chan, the former press union chief, heard that Fung Wai-kong, the managing director of the publication's English edition, "got 10 years, my jaw dropped", he said.
+
+"It was hard to accept."
+
+Chan, who knew the defendants professionally, said some of them got their start as beat reporters and developed strong reputations.
+
+"They made contributions to society and to the industry, but that didn't count," he said.
+
+In late 2021, prominent online outlet Stand News also shut down, and its former editor-in-chief Chung Pui-kuen eventually received a 21-month jail sentence for sedition.
+
+The maximum penalty for sedition, which began as a colonial-era offence, was increased by a 2024 law from three to seven years in prison.
+
+In both Apple Daily and Stand News trials, prosecutors cited articles — including opinion pieces — as evidence of journalists bringing others "into hatred, contempt or disaffection" of the authorities.
+
+"These two cases cited articles that, before the national security law, would be considered ordinary," said a veteran journalist, who requested anonymity to speak freely on the sensitive subject.
+
+"Even today, I think the media and even legal professionals still cannot say clearly how these articles crossed the line," the journalist added.
+
+#### 'Coercion'
+
+That uncertainty was reflected in Hong Kong media's recent coverage of the purge at the top of China's People Liberation Army, according to Chan.
+
+"There was no analysis, follow-up, background" normally warranted for such a story, he said.
+
+Multiple interviewees told AFP that, compared to the early years of the national security law, Hong Kong authorities have made fewer high-profile moves against journalists in recent months.
+
+The city's press still retains a much larger degree of freedom compared to their counterparts in mainland China.
+
+Some small-scale, independent news sites founded in the past five years have built audiences via a crowdfunding model, though they still face political and financial pressures.
+
+Cheng, the press association chief, said these outlets are in a "precarious" spot, with some of them struggling with day-to-day issues such as accessing government events.
+
+In December, China's national security arm in Hong Kong summoned foreign media representatives to a meeting, where an official condemned "distorted" news reporting of a deadly housing estate fire.
+
+It was the first known meeting of its kind in Hong Kong.
+
+"There are no signs for us to be optimistic that the era of national security law crackdown will (be reversed)," Cheng said.
+
+"It won't be surprising to me if more small media close because of coercion or because of threats."
+
+---
+
+### Hong Kong's once-vibrant press stays silent or celebrates Jimmy Lai's 20-year jail sentence
+
+**Amy Hawkins · The Guardian · Feb 10, 2026**
+
+Hong Kong's once-vibrant media outlets have responded with silence or celebration to the 20-year jail sentence handed down to Jimmy Lai, a pro-democracy media tycoon and critic of the Chinese Communist party.
+
+Lai, 78, was sentenced on Monday to 20 years in prison after being convicted of sedition and colluding with foreign forces under Hong Kong's national security law. The charges were widely seen as being politically motivated and designed to silence one of Hong Kong's most influential pro-democracy campaigners.
+
+The US, the UK, the EU and the UN have condemned the heavy sentence handed down to Lai, a British citizen, and called for his release. Lai's sentence is the harshest meted out under the national security law and is longer than the punishments given to mainland China's most well-known dissidents.
+
+#### Press associations silent
+
+Hong Kong's press associations, once the voices of media freedom in the city, reacted with silence, underscoring the narrowing space for commentary that could be seen as critical of the authorities.
+
+Selina Cheng, the chair of the Hong Kong Journalists Association (HKJA), said: "I'm not free to speak my mind on the Apple Daily sentencing."
+
+The HKJA has been attacked before by the Hong Kong government for "whitewashing" Lai, and the association and Cheng personally have also been targeted by Chinese state media.
+
+The Foreign Correspondents' Club of Hong Kong (FCC) said it had no comment about the heavy sentence given to one of Hong Kong's most influential media figures.
+
+Mike Bird, a journalist for The Economist, wrote on X: "I am so glad in retrospect that I never joined the Hong Kong Foreign Correspondents' Club, an organisation that has repeatedly disgraced itself over the past half a decade in exchange for a cheap bar."
+
+An analysis by Hong Kong Free Press showed that the number of statements issued by the FCC in support of press freedom has declined dramatically since the imposition of the national security law.
+
+Hong Kong's three other press associations—the Beijing-backed Hong Kong Federation of Journalists, the Hong Kong News Executives Association and the Hong Kong Press Photographers Association—also did not publish statements about Lai's sentence.
+
+Ronson Chan, a former chair of the HKJA, said: "It's abnormal for these five associations [to have] no response to Jimmy Lai's case, whether they support or regret the sentencing." Chan said it was a "manipulation by the authority" to "disconnect the sentencing" from press freedom issues.
+
+#### Local media celebrates
+
+Hong Kong's local media outlets, however, generally celebrated the sentence given to Lai and his co-defendants.
+
+The South China Morning Post, which is owned by Alibaba, published an editorial arguing that Lai's case shows that the rule of law remains "robust" in Hong Kong and that the sentence reflects "the gravity of his crimes".
+
+HK01, a pro-Beijing outlet, also praised the sentencing and said that it "marks the end of that politically chaotic period".
+
+Ta Kung Pao, a state-owned newspaper, said: "The anti-China and pro-chaos forces represented by Jimmy Lai have been forever nailed to the pillar of historical shame."
+
+#### Press freedom groups respond
+
+Aleksandra Bielakowska, advocacy manager for Reporters Without Borders (RSF), said: "Since the enactment of the national security law, media organisations and journalists in Hong Kong have faced unprecedented pressure from the authorities. In addition to judicial harassment, they are subjected to surveillance, threats, doxing, and online abuse, while foreign reporters are increasingly denied entry… Hong Kong no longer provides space for critical voices."
+
+Beh Lih Yi, the Asia-Pacific director of the Committee to Protect Journalists, said: "We need to be clear-eyed: it is the Chinese and Hong Kong authorities that have created a repressive climate of fear. Five years since the Beijing-imposed national security law, Hong Kong's once-vibrant free press is a ghost of its former self."
+
+Hong Kong has plummeted down RSF's press freedom index in recent years, now ranking 140th out of 180 territories surveyed.
+
+#### Beijing white paper
+
+Meanwhile, China's State Council published a white paper on Tuesday titled: "Hong Kong: Safeguarding China's National Security Under the Framework of One Country, Two Systems."
+
+The policy document detailed the "unrelenting fight" for national security in Hong Kong and underscored the authority of the central government in Beijing.
+
+The paper said that Beijing's rule in Hong Kong "serves China's fundamental interests, benefits the residents of Hong Kong, and meets the interests of external investors".
+
+---
+
+## International Response & Analysis
+
+### Jimmy Lai Sentenced to 20 Years: Does China not care about international pressure?
+
+**Yan Liang · Radio Canada International · Feb 13, 2026**
+
+On Monday (February 9), a Hong Kong court sentenced Jimmy Lai to 20 years in prison for conspiracy to collude with foreign forces and endangering national security, the longest sentence since the implementation of the Hong Kong National Security Law.
+
+Eight other editors and reporters in the same case were sentenced to prison terms ranging from 6 to 10 years, sending a chilling message and drawing attention and criticism from the international community and human rights groups.
+
+After the sentence was announced, Jimmy Lai's son, Sebastien Lai, told reporters: "They can imprison my father's body, but they cannot imprison his spirit."
+
+#### Canadian Response
+
+Cheuk Kwan, co-chairman of the Toronto Association for Democracy in China (TADC), told Radio Canada International that the sentence was expected, but still tragic.
+
+> "For a 78-year-old, this is tantamount to life imprisonment. Must he really die for Hong Kong democracy, becoming a martyr? What could have a greater impact? The Chinese government should consider this."
+
+Vina Nadjibulla, Vice-President of Research & Strategy at the Asia Pacific Foundation of Canada, expressed deep disappointment:
+
+> "Jimmy Lai's sentence underscores the extent to which Hong Kong's judicial system has been fully subsumed into Beijing's broader political and security framework."
+
+In Canada, several Hong Kong human rights organizations issued a joint statement urging the Canadian government to join the G7 in taking immediate action to publicly condemn, diplomatically pressure, grant Jimmy Lai honorary citizenship, and reassess trade and political ties with China.
+
+Canadian Foreign Minister Anita Anand expressed disappointment with the verdict and called for Lai's release on humanitarian grounds.
+
+On Tuesday, a spokesperson for the Chinese Embassy in Canada issued a remark stating that Jimmy Lai "seriously endangered national security and hurt Hong Kong's prosperity and stability" and that China "firmly opposes the Canadian side's irresponsible remarks" and urged Canada "not to interfere in Hong Kong's judicial affairs and China's internal affairs in any form."
+
+Andy Wong, chairman of the Hong Kong-Canada Link, told RCI that the Jimmy Lai case is clearly not a priority for Western countries' diplomacy, as they only want to reach a trade agreement with China or reduce their dependence on the United States. He noted that the Canadian Foreign Minister's message did not even use the word "condemnation," only "disappointment."
+
+#### China: No Longer Indifferent to International Pressure?
+
+World leaders, including Canadian Prime Minister Mark Carney, British Prime Minister Keir Starmer, and US President Donald Trump, have all mentioned the Jimmy Lai case to Chinese President Xi Jinping. However, Monday's verdict shows that China has no intention of compromising with international pressure.
+
+Chinese human rights lawyer and dissident Teng Biao analyzed that China only released dissidents Wei Jingsheng (1997) and Wang Dan (1998) through negotiation on medical parole during the Clinton era. This was because China was eager to escape international condemnation and isolation following the Tiananmen Square crackdown and desperate to rejoin the international system. Releasing political prisoners was used as a diplomatic bargaining chip.
+
+However, the situation changed. China joined the WTO in 2001, and its economy developed rapidly. Under Xi Jinping, large-scale repression of civil society began. At the same time, the West's dependence on the Chinese economy increased significantly.
+
+> "The power balance between China and democratic countries has undergone a significant shift. The Chinese government felt it unnecessary to use the release of important political prisoners as a bargaining chip with the West. China also became increasingly indifferent to international pressure, even completely ignoring it." — Teng Biao
+
+For example, Liu Xiaobo, the 2010 Nobel Peace Prize laureate, never left prison until his death.
+
+Currently, prominent Chinese dissidents still imprisoned include: Qi Huang (human rights activist), Zhan Zhang (COVID-19 whistleblower reporter), Zhiyong Xu and Jiaxi Ding (New Citizens Movement), Uyghur scholar Ilham Tohti, and Joshua Wong, Hang-tung Chow, and Cheuk-yan Lee in Hong Kong.
+
+Teng Biao notes that the effectiveness of international pressure depends on the willingness of the international community to sacrifice economic interests for human rights. However, the situation is unique now, as the US administration is continuously imposing economic pressures on Canada and European countries, forcing these democratic allies to move closer to China.
+
+#### The Path Forward
+
+Following his visit to Beijing, Canadian Prime Minister Mark Carney stated: "We take the world as it is, not as we wish it to be," emphasizing the importance of dealing with countries with differing ideologies.
+
+Cheuk Kwan, who has been promoting human rights in China since 1989, says he will continue to speak out. He believes that in the post-Trump era, democratic countries need to unite and uphold human rights values and moral courage.
+
+Vina Nadjibulla, who was key in the rescue of Canadians Michael Kovrig and Michael Spavor in the Meng Wanzhou case, believes that sustained public pressure on China is unlikely, on its own, to produce results. Beijing has shown it is willing to absorb reputational costs when framing cases as matters of national security.
+
+However, she argues this does not mean the outside world has no leverage:
+
+> "Calls for Mr. Lai's release on humanitarian grounds remain the most credible and potentially effective avenue... This issue must be raised directly and consistently at the highest levels; low-key but persistent diplomatic efforts are essential in such cases. Under a system like China, such decisions are ultimately political, not judicial."
+
+Teng Biao concludes:
+
+> "Perhaps no Chinese political prisoner has yet become a priority in the diplomacy of a democratic country. However, public condemnation and private mediation in democratic countries, along with sustained pressure, are important. Perhaps when the pressure reaches a certain level and the opportunity arises, the CCP will compromise. But these are difficult to predict."
+
+---
+
+### IBA: Conviction a symbol of the 'crushing' of democracy
+
+**Rebecca Root · International Bar Association · Jan 22, 2026**
+
+The IBA's Human Rights Institute (IBAHRI) called the trial "politically motivated" with the purpose to "destroy the most influential pro-democracy voice in Hong Kong under a veneer of legality."
+
+Key assessments from legal experts:
+
+- **Baroness Helena Kennedy KC** (IBAHRI Director): "Lai has now become a great totem of the crushing of democracy and the rule of law" in Hong Kong. The case "should send a shiver down the backs of those who are doing business with Hong Kong because this is not a place that is going to necessarily be protecting your business interests."
+
+- **Angela Flannery** (IBA Communications Law Committee): Anticipates that many more individuals without Lai's reputation will now be prosecuted under the NSL.
+
+- **Denny Roy** (East-West Center): "The verdict confirms that politically, Hong Kong is no longer distinguishable from China... it's a blow to hopes of democracy catching on in mainland China." The conviction "underscores the Xi-era CCP's paranoia over the subversive power of Western liberal ideas. Under these circumstances, China can do business with the West but cannot be friends with the West."
+
+- **Yao-Tai Li** (UNSW Sydney): The case has damaged public trust in the rule of law. "You can see the death of one country, two systems. I think it will gradually shift to one country, one system."
+
+The Hong Kong Bar Association defended judicial independence, stating the judiciary operates "independently, apolitically and will not be affected by any external influence."
+
+Chinese authorities criticized Western "smear" attempts: "Their threats of sanctions are doomed to be futile."
+
+---
+
+### Beijing spins its narrative of history in today's Hong Kong
+
+**Victoria Jones & Jeffrey Wasserstrom · Nikkei Asia · Mar 4, 2026**
+
+The Hong Kong Museum of History now opens with a "National Security Exhibition Gallery" created to commemorate and celebrate the NSL on its fifth anniversary — where busloads of schoolchildren receive mainland-style patriotic education. The exhibit dominates a museum that before 2020 celebrated Hong Kong's distinctive past and even contained the PRC's only museum allusion to the 1989 Tiananmen protests (now removed).
+
+The authors draw a key distinction in how authoritarian states handle protest memory: **erasure** (Beijing's approach to 1989, treating the "tank man" photo as taboo) versus **spin** (Hong Kong's approach to 2019, actively reframing the narrative). The NSL exhibit features selective footage showing only crowd violence, never police violence; painstaking detail on the "necessity" of the legislation; and plaques advising visitors to report suspicious activity — "a bald self-advertisement of a surveillance state."
+
+The gallery "does not downplay or try to hide the aspects of the NSL that evoke the specter of totalitarianism to outside observers, but rather shamelessly puts these features on display." The authors note a parallel with Russia opening a museum in occupied Mariupol.
+
+A sign says the museum's pre-2020 main gallery "The Hong Kong Story" is "under renovation" — the authors call this "improbable" and predict the NSL exhibit will instead be updated to include Lai's 20-year sentence, "which, given his age and health, could well lead to him dying in jail."
+
+The sentencing of Lai alongside other political prisoners like Joshua Wong and Gwyneth Ho, combined with the absence of robust media debate about court decisions, are "telling symbols of the new reality on the ground."
+
+---
+
+### Health concerns & US congressional pressure (Mar–May 2026)
+
+Since the sentencing, Lai's family and rights groups have escalated warnings about his health after more than five years in custody, much of it in solitary confinement. His son **Sebastien Lai** said the family had received "very distressing news" about his father's deteriorating condition, reiterating that a 20-year term for a 78-year-old is effectively a death sentence.
+
+US lawmakers pressed the issue with the White House:
+
+- **May 7, 2026** — Rep. Chris Smith and Sen. Rick Scott, joined by 105 other members of Congress (107 in total), wrote to President Trump urging him to raise Lai's case directly with Xi Jinping and seek his release on humanitarian grounds, citing his deteriorating health ([Tom Lantos Human Rights Commission](https://humanrightscommission.house.gov/DFP/Countries/China/Jimmy-Lai)).
+- **May 13, 2026** — The US Senate agreed to a resolution led by Sens. Dick Durbin and Ted Cruz urging Trump to prioritize the cases of political prisoners in China — including Lai — to push for his release and obtain "verifiable proof of life."
+
+The push followed earlier appeals from the UN, UK, EU, and rights groups for Lai's immediate release; Beijing has rejected all such calls as interference in China's internal affairs.
+
+## Related
+
+- [[sites.appledaily]] — Apple Daily main page
+- [[sites.standnews]] — Stand News, another outlet shut down under NSL
+- [[sites.hkja]] — Hong Kong Journalists Association
+
+## Sources
+
+- [HKFP: Hong Kong journalists face 'precarious' future after Jimmy Lai jailed](https://hongkongfp.com/2026/02/10/hong-kong-journalists-face-precarious-future-after-jimmy-lai-jailed/)
+- [The Guardian: Hong Kong's once-vibrant press stays silent or celebrates Jimmy Lai's 20-year jail sentence](https://www.theguardian.com/world/2026/feb/10/jimmy-lai-jail-sentence-hong-kong-press)
+- [RCI: Jimmy Lai Sentenced to 20 Years: Does China not care about international pressure?](https://ici.radio-canada.ca/rci/en/news/2228798/jimmy-lai-sentenced-to-20-years-does-china-not-care-about-international-pressure)
+- [IBA: Jimmy Lai conviction a symbol of the 'crushing' of democracy](https://www.ibanet.org/Jimmy-Lai-conviction-a-symbol-of-the-crushing-of-democracy)
+- [Nikkei Asia: Beijing spins its narrative of history in today's Hong Kong](https://asia.nikkei.com/opinion/beijing-spins-its-narrative-of-history-in-today-s-hong-kong)
+- [Al Jazeera: Hong Kong appeals court overturns Jimmy Lai's fraud conviction (Feb 26, 2026)](https://www.aljazeera.com/news/2026/2/26/hong-kong-appeals-court-overturns-jimmy-lais-fraud-conviction)
+- [NBC News: Jimmy Lai won't appeal national security conviction (Mar 6, 2026)](https://www.nbcnews.com/world/asia/hong-kong-jimmy-lai-will-not-appeal-national-security-conviction-rcna262058)
+- [Tom Lantos Human Rights Commission: Jimmy Lai](https://humanrightscommission.house.gov/DFP/Countries/China/Jimmy-Lai)
+- [HKFP: Judges cite 'extensive roles' as ex-Apple Daily staffers jailed for up to 10 years (Feb 9, 2026)](https://hongkongfp.com/2026/02/09/national-security-judges-cite-extensive-roles-as-6-ex-apple-daily-staffers-jailed-for-up-to-10-years/)
+- [CPJ: Jimmy Lai sentenced to 20 years in Hong Kong's biggest media trial (Feb 2026)](https://cpj.org/2026/02/jimmy-lai-sentenced-to-20-years-in-prison-in-hong-kongs-biggest-media-trial/)
+- [法庭線 The Witness: 前《蘋果》社長張劍虹提早獲釋 受訪稱對犯罪感懊悔 (Nov 2, 2026)](https://thewitnesshk.com/%e5%89%8d%e8%98%8b%e6%9e%9c%e7%a4%be%e9%95%b7%e5%bc%b5%e5%8a%8d%e8%99%b9%e6%8f%90%e6%97%a9%e7%8d%b2%e9%87%8b-%e5%8f%97%e8%a8%aa%e7%a8%b1%e5%b0%8d%e7%8a%af%e7%bd%aa%e6%84%9f%e6%87%8a%e6%82%94-%e5%8f%83/)
+- [Ming Pao (明報): 「更生者」張劍虹赴懲教內地團 料提早獲釋 (Nov 2, 2026)](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20261102/s00002/1793555055777/%E3%80%8C%E6%9B%B4%E7%94%9F%E8%80%85%E3%80%8D%E5%BC%B5%E5%8A%8D%E8%99%B9%E8%B5%B4%E6%87%B2%E6%95%99%E5%85%A7%E5%9C%B0%E5%9C%98-%E6%96%99%E6%8F%90%E6%97%A9%E7%8D%B2%E9%87%8B-%E7%A8%B1%E7%82%BA%E5%9C%8B%E5%AE%B6%E5%BC%B7%E5%A4%A7%E9%A9%95%E5%82%B2-%E5%90%8C%E6%A1%88%E9%99%B3%E6%A2%93%E8%8F%AF%E6%9D%8E%E5%AE%87%E8%BB%92%E4%BA%A6%E7%8D%B2%E9%87%8B)
+- [HK01: 黎智英案張劍虹出獄參加懲教深圳團 (Nov 1, 2026)](https://www.hk01.com/%E6%94%BF%E6%83%85/60405812/%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88%E5%BC%B5%E5%8A%8D%E8%99%B9%E5%87%BA%E7%8D%84%E5%8F%83%E5%8A%A0%E6%87%B2%E6%95%99%E6%B7%B1%E5%9C%B3%E5%9C%98-%E7%A8%B1%E4%BD%9C%E7%82%BA%E4%B8%AD%E5%9C%8B%E4%BA%BA%E7%82%BA%E5%9C%8B%E5%AE%B6%E7%A7%91%E6%8A%80%E9%A9%95%E5%82%B2)
+- [am730: 張劍虹參加內地體驗團料提早獲釋 懲教署：不評論個案 (Nov 2026)](https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1061482/%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88-%E5%89%8D-%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1-%E7%A4%BE%E9%95%B7%E5%BC%B5%E5%8A%8D%E8%99%B9%E5%8F%83%E5%8A%A0%E5%85%A7%E5%9C%B0%E9%AB%94%E9%A9%97%E5%9C%98%E6%96%99%E6%8F%90%E6%97%A9%E7%8D%B2%E9%87%8B-%E6%87%B2%E6%95%99%E7%BD%B2-%E4%B8%8D%E8%A9%95%E8%AB%96%E5%80%8B%E6%A1%88)
+- [Dimsum Daily: Apple Daily trio said freed ahead of full terms (Nov 2, 2026)](https://www.dimsumdaily.hk/apple-daily-trio-said-freed-ahead-of-full-terms/)
+- [CNA (中央社): 前壹傳媒行政總裁張劍虹判刑後首露面 (Nov 1, 2026)](https://www.cna.com.tw/news/acn/202611010144.aspx)
+- [Mirror Media (鏡週刊): on Cheung's tour and Phoenix TV's ownership (Nov 2, 2026)](https://www.mirrormedia.mg/story/20261102-91pol-115454)

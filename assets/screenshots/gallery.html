@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Site snapshots over time</title>
+<!--
+  Thumbnail gallery for the time-series screenshot archive (SaveHKOnline).
+  Reads the public manifest r2:shko-public/screenshots/index.json (written by
+  scripts/screenshot_archive.py --manifest) and renders each curated site's
+  DATED snapshots, newest first — thumbnail links to the full-resolution PNG.
+  Self-hosted (not a CDN) so Dendron keeps this <script>; embedded by <iframe>
+  like the ReplayWeb viewer. Scope with ?collection=<name> or ?site=<name>.
+  History accrues: every monthly capture adds a snapshot; nothing is replaced.
+-->
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1a1a1a; --muted: #666; --line: #e3e3e3;
+    --card: #fafafa; --accent: #0b5; --link: #15c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16181c; --fg: #e8e8e8; --muted: #9aa0a6; --line: #2c2f36;
+      --card: #1d2026; --accent: #2ec56b; --link: #6ab0ff;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 14px; background: var(--bg); color: var(--fg);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans",
+          "PingFang HK", "Microsoft JhengHei", sans-serif;
+  }
+  .intro { color: var(--muted); font-size: 13px; margin: 0 0 14px; }
+  .site { border: 1px solid var(--line); border-radius: 8px; background: var(--card);
+          padding: 12px 14px; margin: 0 0 14px; }
+  .site h3 { margin: 0 0 2px; font-size: 16px; }
+  .site h3 a { color: var(--fg); text-decoration: none; }
+  .site h3 a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 12px; margin-bottom: 10px; }
+  .meta .tier { display: inline-block; padding: 0 6px; border: 1px solid var(--line);
+                border-radius: 10px; margin-left: 6px; }
+  .meta .gone { display: inline-block; padding: 0 6px; border-radius: 10px;
+                margin-left: 6px; background: #8883; border: 1px solid var(--line); }
+  .gonenote { color: var(--muted); font-size: 12px; font-style: italic; margin: -4px 0 10px; }
+  .shot .final { color: var(--fg); font-weight: 600; }
+  .row { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 6px; scroll-snap-type: x proximity; }
+  .shot { flex: 0 0 auto; width: 240px; scroll-snap-align: start; }
+  .shot a { display: block; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+  .shot img { display: block; width: 240px; height: 180px; object-fit: cover;
+              object-position: top; background: #0001; }
+  .shot .cap { font-size: 12px; color: var(--muted); margin-top: 4px; text-align: center; }
+  .shot .latest { color: var(--accent); font-weight: 600; }
+  .pending { color: var(--muted); font-style: italic; font-size: 13px;
+             padding: 10px; border: 1px dashed var(--line); border-radius: 6px; }
+  .err { color: #c33; }
+  a.external { color: var(--link); }
+</style>
+</head>
+<body>
+<div id="intro" class="intro">Loading snapshots…</div>
+<div id="app"></div>
+<script>
+(function () {
+  "use strict";
+  var MANIFEST = "https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/screenshots/index.json";
+  var app = document.getElementById("app");
+  var intro = document.getElementById("intro");
+  var params = new URLSearchParams(location.search);
+  var wantCollection = params.get("collection");
+  var wantSite = params.get("site");
+
+  function el(tag, attrs, kids) {
+    var e = document.createElement(tag);
+    if (attrs) Object.keys(attrs).forEach(function (k) {
+      if (k === "text") e.textContent = attrs[k];
+      else e.setAttribute(k, attrs[k]);
+    });
+    (kids || []).forEach(function (c) { e.appendChild(c); });
+    return e;
+  }
+  function fmtDate(iso) { return (iso || "").slice(0, 10) || "—"; }
+
+  function renderSite(t) {
+    var head = el("h3", {}, [
+      el("a", { href: t.url, target: "_blank", rel: "noopener", text: t.title })
+    ]);
+    var tier = el("span", { class: "tier", text: "Tier " + t.tier +
+      (t.residential_only ? " · residential" : "") });
+    var count = t.count === 1 ? "1 snapshot" : (t.count + " snapshots");
+    var meta = el("div", { class: "meta", text: count + " " });
+    meta.appendChild(tier);
+    if (t.retired) meta.appendChild(el("span", { class: "gone", text: "⚫ gone" }));
+
+    var card = el("div", { class: "site" }, [head, meta]);
+
+    // A retired (off-the-grid) site: its snapshots are the FINAL record; we stop
+    // tracing it. Show the note, keep the history, label the last shot 'final'.
+    if (t.retired) {
+      card.appendChild(el("div", { class: "gonenote", text: t.retired_note ||
+        "This site has gone off the grid — the snapshots below are the final record; it is no longer traced." }));
+    }
+
+    if (!t.captures || !t.captures.length) {
+      card.appendChild(el("div", { class: "pending", text:
+        t.retired
+          ? "Off the grid before any snapshot was captured — no visual record exists."
+          : t.residential_only
+            ? "No snapshot yet — this site sits behind a Cloudflare challenge and needs a capture from a residential connection."
+            : "No snapshot yet — capture pending." }));
+      return card;
+    }
+    var caps = t.captures.slice().reverse(); // newest first
+    var row = el("div", { class: "row" });
+    caps.forEach(function (c, i) {
+      var img = el("img", { src: c.thumb_url || c.png_url, loading: "lazy",
+        alt: t.title + " — " + fmtDate(c.iso) });
+      var link = el("a", { href: c.png_url, target: "_blank", rel: "noopener" }, [img]);
+      var newest = i === 0;
+      var tag = newest ? (t.retired ? " · final" : " · latest") : "";
+      var cls = newest ? (t.retired ? " final" : " latest") : "";
+      var cap = el("div", { class: "cap" + cls, text: fmtDate(c.iso) + tag });
+      row.appendChild(el("div", { class: "shot" }, [link, cap]));
+    });
+    card.appendChild(row);
+    return card;
+  }
+
+  fetch(MANIFEST, { cache: "no-cache" })
+    .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(function (m) {
+      var targets = (m.targets || []).filter(function (t) {
+        if (wantSite) return t.name === wantSite;
+        if (wantCollection) return t.collection === wantCollection;
+        return true;
+      });
+      if (!targets.length) {
+        intro.textContent = "No sites match this view.";
+        return;
+      }
+      var scope = wantSite || wantCollection || "all tracked sites";
+      intro.innerHTML = "Dated screenshots of <b>" + scope +
+        "</b>, newest first — click any thumbnail for the full-resolution capture. " +
+        "Built " + fmtDate(m.generated_at) + " from the preservation archive.";
+      targets.forEach(function (t) { app.appendChild(renderSite(t)); });
+    })
+    .catch(function (e) {
+      intro.className = "intro err";
+      intro.innerHTML = "Could not load the snapshot manifest (" + e.message +
+        "). <a class='external' href='" + MANIFEST + "' target='_blank' rel='noopener'>Open it directly ↗</a>";
+    });
+})();
+</script>
+</body>
+</html>
