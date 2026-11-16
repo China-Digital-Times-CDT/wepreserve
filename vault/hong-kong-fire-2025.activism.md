@@ -22,6 +22,9 @@ Parent: [[hong-kong-fire-2025]]
 - Diaspora vigil (Dec 6, Taipei): Taiwan-based Hongkongers announced a memorial at the Liberty Square/CKS Memorial Hall archway (No. 21, Zhongshan South Rd, Zhongzheng Dist., Taipei), 7:00–9:00 p.m.; flowers encouraged, message cards to be provided; languages: Cantonese/Mandarin/English (community call).
 - Diaspora vigil (Dec 6, Auckland): a memorial was announced at Ellen Melville Centre, 2 Freyberg Place, 4:00–5:30 p.m.; black/neutral attire and flowers encouraged; with a vigil, Lennon Wall and petition planned (community call).
 
+### One year on — anniversary (Nov 2026)
+- **A bereaved family, one year on (集誌社, 16 Nov 2026):** In a video record titled *"IT'S OK TO BE NOT OK"*, the survivors of a family that lost **four of its seven members** — the grandmother, the father, 15-month-old **"Yan Yan" (欣欣)** and their foreign domestic worker (the [[Wang Tai House family|hong-kong-fire-2025.people]] whose seven-hour rescue call went dead on the 14th floor) — described a year lived through grief: sorting the dead's belongings, psychiatric treatment, and visits to the cemetery. The surviving uncle **李俊豪**, the mother **"Ali"** and the grandfather said the trauma of losing family has never healed, and called for a **memorial monument (紀念碑)** to be raised at Wang Fuk Court so that this "**man-made disaster**" (人禍) warns future generations ([集誌社 The Collective](https://thecollectivehk.com/%E5%BD%B1%E5%83%8F%E8%A8%98%E9%8C%84%EF%BD%9C%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4%E3%80%80its-ok-to-be-not-ok/)).
+
 ## Accountability and Detentions
 
 *The sedition and national-security prosecutions below are part of the wider assault on Hong Kong's civic space and media — see the [[press-freedom]] hub.*
