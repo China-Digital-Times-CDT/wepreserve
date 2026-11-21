@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sheep Village Books Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #fff;
+            margin-bottom: 10px;
+            font-size: 1.5rem;
+            text-align: center;
+        }
+
+        .subtitle {
+            color: #f39c12;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .book-selector {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .book-btn {
+            background: rgba(255,255,255,0.1);
+            color: #fff;
+            border: 2px solid rgba(255,255,255,0.2);
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.95rem;
+            transition: all 0.3s ease;
+        }
+
+        .book-btn:hover {
+            background: rgba(255,255,255,0.2);
+            transform: translateY(-2px);
+        }
+
+        .book-btn.active {
+            background: #f39c12;
+            border-color: #f39c12;
+        }
+
+        .pdf-container {
+            position: relative;
+            width: 100%;
+            max-width: 900px;
+            height: 70vh;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+            overflow: hidden;
+        }
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .info-box {
+            margin-top: 20px;
+            padding: 15px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 8px;
+            max-width: 900px;
+            width: 100%;
+        }
+
+        .info-box p {
+            color: #fff;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .info-box a {
+            color: #f39c12;
+            text-decoration: none;
+        }
+
+        .info-box a:hover {
+            text-decoration: underline;
+        }
+
+        .loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #666;
+            font-size: 1.2rem;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.2rem;
+            }
+
+            .book-btn {
+                padding: 10px 16px;
+                font-size: 0.85rem;
+            }
+
+            .pdf-container {
+                height: 60vh;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Sheep Village Books (羊村繪本)</h1>
+    <p class="subtitle">Published by General Union of Hong Kong Speech Therapists</p>
+
+    <div class="book-selector">
+        <button class="book-btn active" onclick="loadBook('guardians')">
+            The Guardians<br>羊村守衛者
+        </button>
+        <button class="book-btn" onclick="loadBook('heroes')">
+            The 12 Heroes<br>羊村十二勇士
+        </button>
+        <button class="book-btn" onclick="loadBook('dustman')">
+            Dustman<br>羊村清道夫
+        </button>
+    </div>
+
+    <div class="pdf-container">
+        <div class="loading">Loading PDF...</div>
+        <iframe id="pdf-viewer"></iframe>
+    </div>
+
+    <div class="info-box">
+        <p id="book-description"></p>
+        <p><strong>Note:</strong> These books are preserved on Google Cloud Storage for historical and educational purposes.</p>
+    </div>
+
+    <script>
+        const books = {
+            guardians: {
+                url: 'guardians.pdf',
+                title: 'The Guardians of Sheep Village (羊村守衛者)',
+                description: 'Published in June 2020. This book depicts the 2019 pro-democracy protests in Hong Kong through an allegory of sheep defending their village from wolves.'
+            },
+            heroes: {
+                url: 'heroes.pdf',
+                title: 'The 12 Heroes of Sheep Village (羊村十二勇士)',
+                description: 'Published in September 2020. This book tells the story of 12 brave sheep who attempt to escape by boat, referencing the "Hong Kong 12" activists captured by Chinese coastguards.'
+            },
+            dustman: {
+                url: 'dustman.pdf',
+                title: 'Dustman of Sheep Village (羊村清道夫)',
+                description: 'Published in March 2021. This book portrays cleaners in the sheep village going on strike to keep wolves out, referencing the 2020 medical workers\' strike demanding border closures during COVID-19.'
+            }
+        };
+
+        let currentBook = 'guardians';
+
+        function loadBook(bookId) {
+            currentBook = bookId;
+            const book = books[bookId];
+
+            // Update active button
+            document.querySelectorAll('.book-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.closest('.book-btn').classList.add('active');
+
+            // Update iframe
+            const iframe = document.getElementById('pdf-viewer');
+            iframe.src = book.url;
+
+            // Update description
+            document.getElementById('book-description').innerHTML =
+                `<strong>${book.title}</strong><br>${book.description}`;
+        }
+
+        // Initialize with first book
+        window.onload = function() {
+            const book = books.guardians;
+            document.getElementById('pdf-viewer').src = book.url;
+            document.getElementById('book-description').innerHTML =
+                `<strong>${book.title}</strong><br>${book.description}`;
+        };
+    </script>
+</body>
+</html>

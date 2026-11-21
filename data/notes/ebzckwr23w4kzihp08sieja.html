@@ -1,0 +1,139 @@
+<h1 id="design-log"><a aria-hidden="true" class="anchor-heading" href="#design-log"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Design Log</h1>
+<p>Parent: <a href="/notes/vzihkvznemcaaef2br0s1co">Participation</a></p>
+<p>This archive is a living record, and so is the way it's built. As collections grow, pages are restructured for clarity — and because the whole project is open, we keep that work in the open too. This <strong>design log</strong> notes each significant overhaul: what changed, why, and what it looked like before and after. "Before" screenshots of the affected pages are preserved in our own storage, so the prior design isn't lost when a page is rewritten.</p>
+<hr>
+<h2 id="2026-10--hong-kong-fire-2025-collection-restructuring"><a aria-hidden="true" class="anchor-heading" href="#2026-10--hong-kong-fire-2025-collection-restructuring"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>2026-10 — Hong Kong Fire 2025 collection restructuring</h2>
+<p><strong>Status:</strong> structure done 31 Oct 2026; de-duplication pass 2 Nov 2026 · Milestone <a href="https://github.com/China-Digital-Times-CDT/wepreserve/milestone/3">HK Fire collection restructuring</a> · Tracking issue <a href="https://github.com/China-Digital-Times-CDT/wepreserve/issues/30">#30</a></p>
+<p><strong>Why.</strong> The <a href="/notes/9e5b0uhf2vl7gk4rj1tzp3x">🔥 Hong Kong Fire 2025</a> collection grew into the archive's largest, and parts became hard to scan. A measurement on 30 Oct 2026:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Page</th><th align="right">Words</th><th align="right">Worst single block</th><th></th></tr></thead><tbody><tr><td>hub</td><td align="right">2,231</td><td align="right"><strong>1,116-word</strong> "Status snapshot" paragraph</td><td>landing page was a wall of text</td></tr><tr><td>investigation</td><td align="right">5,841</td><td align="right"><strong>3,217-word</strong> block (7 headings)</td><td>under-sectioned</td></tr><tr><td>activism</td><td align="right">3,154</td><td align="right">1,541-word block</td><td>under-sectioned</td></tr><tr><td>people</td><td align="right">3,972</td><td align="right">858</td><td>ok</td></tr><tr><td>timeline</td><td align="right">3,900</td><td align="right">710 (phased tables)</td><td>fine</td></tr><tr><td>report</td><td align="right">1,678</td><td align="right">114 (clean <code>##</code> sections)</td><td>the model to follow</td></tr></tbody></table>
+<p><strong>The plan.</strong></p>
+<ul>
+<li>Turn the <strong>hub</strong> into a scannable landing page — short lead + an "At a glance" status table — and push narrative detail down to the subpages where it already lives.</li>
+<li>Split <strong>resettlement / buyback / homeowners' meeting</strong> into its own subpage (it was smeared across the hub).</li>
+<li>Break the <strong>investigation</strong> and <strong>activism</strong> walls of text into dated sub-sections, following the <code>report</code> page's pattern.</li>
+<li>De-duplicate so each fact lives in one place, with the hub linking out.</li>
+</ul>
+<p><strong>Before (captured 30 Oct 2026).</strong> Full-page snapshots of every page as it stood before the overhaul:</p>
+<ul>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-30-before/hub.png">Hub</a></li>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-30-before/timeline.png">Timeline</a></li>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-30-before/investigation.png">Investigation</a></li>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-30-before/report.png">Report</a></li>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-30-before/activism.png">Activism</a></li>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-30-before/people.png">People</a></li>
+</ul>
+<p><strong>After (completed 31 Oct 2026).</strong> The hub is now a scannable landing page, resettlement has its own subpage, and the two walls of text are broken into sections. The structure linter reports zero broken links, frontmatter or convention issues.</p>
+<p>How the same measurement looks after the overhaul (words / largest contiguous block between headings):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Page</th><th>Before</th><th>After</th></tr></thead><tbody><tr><td>hub</td><td>2,231 w · <strong>1,116</strong>-word block</td><td><strong>833</strong> w · 234</td></tr><tr><td>investigation</td><td>5,841 w · <strong>3,217</strong> (7 headings)</td><td>6,017 w · <strong>1,297</strong></td></tr><tr><td>activism</td><td>3,154 w · <strong>1,541</strong></td><td>2,898 w · 1,254</td></tr><tr><td>report</td><td>1,678 w · 114</td><td>2,563 w · 561</td></tr><tr><td>timeline</td><td>3,900 w · 710</td><td>3,931 w · 795</td></tr><tr><td>people</td><td>3,972 w · 858</td><td>4,042 w · 923</td></tr><tr><td>resettlement</td><td>—</td><td>896 w · 315 <em>(new page)</em></td></tr></tbody></table>
+<p>The "after" figures count the words between any two headings, so adding sub-headings lowers them by itself. The "before" figures were measured on 30 Oct with a method that was not recorded, so treat the comparison as approximate.</p>
+<p>Total word counts did <strong>not</strong> fall. Several pages grew, because the same weeks brought the final report, the 259 Buildings Department charges, Winnie Ho's resignation and the demands for more. The aim was scannability, not deletion. One regression dropped records mid-overhaul; it was caught and the content restored (commits <code>d95d44e</code>, <code>620c72a</code>). Details trimmed from one investigation bullet were later moved to the resettlement page.</p>
+<p>What changed:</p>
+<ul>
+<li><strong>Hub → landing page</strong>: a short lead, the report callout, an <strong>"At a glance"</strong> status table (one row per topic), a slim Key Facts, and an annotated <strong>"Explore the collection"</strong> router. Its largest block fell from a 1,116-word "Status snapshot" paragraph to 234 words.</li>
+<li><strong>New subpage</strong> <a href="/notes/ha47wz1uu1gti2sfu9pui1e">Resettlement &#x26; Owners</a>: the buyback, the 17 holdouts, rehousing and the homeowners'-meeting fight.</li>
+<li><strong>Sectioning</strong>: the investigation page now has <code>##</code> / <code>###</code> / <code>####</code> headings throughout. Activism has <code>##</code> and <code>###</code> sections; its largest block is now 791 words.</li>
+</ul>
+<p><strong>De-duplication (2 Nov 2026).</strong> After the first pass, the hearings, the June charges and the October report still appeared at length on both the timeline and the investigation page. Six long timeline rows are now one-line dated entries that link to the page holding the full account. Any detail that existed only on the timeline was moved to that page first: the 31 August buyback figures to resettlement, the Competition Commission's bid-rigging plan to investigation, and the 22 October submission to the report page. A script compared every source link and figure across the fire pages before and after, and none was lost. Every block in the collection is now under 1,000 words. What remains by design: the timeline keeps a short dated line for each event, the hub keeps its At-a-glance summary, and people profiles mention the events they took part in.</p>
+<p>Samples captured 31 Oct 2026, showing the top 2,600 px of each page rather than the full page:</p>
+<ul>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-31-after/hub.png">Hub</a></li>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-31-after/investigation.png">Investigation</a></li>
+<li><a href="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/design-log/hong-kong-fire-2025/2026-10-31-after/resettlement.png">Resettlement</a></li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/notes/vzihkvznemcaaef2br0s1co">Participation</a></li>
+</ul>
