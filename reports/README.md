@@ -166,12 +166,11 @@ preserved-sites index.
 Keep these from going stale — update the relevant page when they land:
 
 - **Pillar of Shame** confiscation ruling (separate routine already watches `statues.md`).
-- **Wang Fuk Court fire** independent committee **redacted public report** — the full report was submitted to the CE on 22 Oct 2026; a redacted version is due the following week. Watch for its release and the government's reform/accountability plans.
+- **Wang Fuk Court fire** — the Independent Committee's **redacted** report was published **29 Oct 2026** (recorded on `hong-kong-fire-2025.report`); now watch for any **further release / de-redaction** of the full report after the criminal prosecutions, the **26 Nov 2026 first anniversary** (dedicated routine + issue #46), and the government's reform/accountability follow-through.
 - **Jason Kong** (fire petition organiser) fraud trial.
-- **Jimmy Lai** — NSL trial verdict / sentencing.
 - **Margaret Ng / Bar Association** — High Court judgment on the Bar ExCo's judicial review (HCAL1407/2026) seeking to overturn the tribunal that cleared her; heard 9 Nov 2026, reserved (within 6 months). See issue #39.
 - **EU** — whether the Council acts on the Parliament's sanctions call (the Parliament's resolution is already recorded on `sites.hka`).
-- *(Resolved — recorded, kept here briefly so the scout doesn't re-flag them): Joshua Wong second-charge sentencing = 10 years, 5 Nov 2026, on `faces-of-the-crackdown.joshua-wong`. Ronson Chan CFA leave refused 6 Nov 2026, on `sites.hkja`.)*
+- *(Resolved — recorded, kept here briefly so the scout doesn't re-flag them): Joshua Wong second-charge sentencing = 10 years, 5 Nov 2026, on `faces-of-the-crackdown.joshua-wong`. Ronson Chan CFA leave refused 6 Nov 2026, on `sites.hkja`. Jimmy Lai NSL case = 20 years, sentenced 9 Feb 2026, no appeal (team confirmed 5 Mar 2026), on `faces-of-the-crackdown.jimmy-lai`.)*
 
 ## Improving it over time
 
