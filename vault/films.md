@@ -62,6 +62,10 @@ Not a documentary but a **dramatisation** — directors **Rex Ren** and **Lam Su
 
 <iframe width="100%" height="420" loading="lazy" style="border:0;border-radius:6px;aspect-ratio:16/9;" src="https://www.youtube.com/embed/-AKfPbYoqj0" title="May You Stay Forever Young (少年, 2021) — trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Three Little Pigs (三隻小豬, 2026)
+
+Hong Kong director **仲錦妮 (Chung Kam-nei)**'s short film won **Best Live Action Short Film** at the **63rd Golden Horse Awards** in Taipei on **22 November 2026**. It follows two young people roaming Hong Kong's streets at night in search of a pig's head for an unconventional 拜山 — a rite for the dead: unable to buy a roast pig for the offering, they take a knife and a pig of their own, paint the severed head with a clown's smile, and carry it over hills and water toward a "far-yet-near other shore." The director was not on stage; accepting for the team, her friend **羅樂文** relayed her disbelief at the win, apologised that the main creators could not be brought to Taipei, and spoke of "**手足**" (comrades) who cannot be named in the credits. He dedicated the award "**to every little pig who is or was once in prison — see you in the future**" (「我想將獎項獻給每一個還在監獄裡面、曾經或是現在的小豬們，我們未來見」), and said that in a dark time creation matters all the more, hoping the award would "**be seen by those inside prison**" ([CNA](https://www.cna.com.tw/news/amov/202611220170.aspx)).
+
 ## Portraits
 
 - **_Joshua: Teenager vs. Superpower_** (2017, dir. Joe Piscatella) — the **Netflix** documentary on [[Joshua Wong|faces-of-the-crackdown.joshua-wong]]'s student years, still streamable in Hong Kong but, as of **September 2026**, under **Security Bureau "follow-up action"** for national-security compliance — the censorship drive reaching an international platform ([Netflix](https://www.netflix.com/title/80169348) · [IMDb](https://www.imdb.com/title/tt6333072/)).
@@ -87,6 +91,7 @@ Each title links to its IMDb page.
 | [Faceless](https://www.imdb.com/title/tt14489394/) | 2021 | Jennifer Ngo | Four anonymous protesters | International (Dogwoof) |
 | [Blue Island 憂鬱之島](https://www.imdb.com/title/tt15282802/) | 2022 | Chan Tze-woon | Generations of HK dissent | International only |
 | [The Hongkonger](https://www.imdb.com/title/tt25669916/) | 2022 | Acton Institute | Jimmy Lai | International only |
+| [Three Little Pigs 三隻小豬](https://www.goldenhorse.org.tw/film/programme/films/detail/4577) | 2026 | 仲錦妮 Chung Kam-nei | Protest aftermath; the jailed "little pigs" (short) | Int'l festival (Golden Horse) |
 
 ## Preserve the record
 
@@ -100,3 +105,4 @@ If you have **festival programmes, posters, subtitle files, press kits or record
 - [Variety: 'Do Not Split' director on China's reaction to the Oscar nod (2021)](https://variety.com/2021/film/asia/do-not-split-oscars-short-hong-kong-1234942332/)
 - [Wikipedia: Blue Island (2022 film)](https://en.wikipedia.org/wiki/Blue_Island_(2022_film)) · [May You Stay Forever Young](https://en.wikipedia.org/wiki/May_You_Stay_Forever_Young) · [Lost in the Fumes](https://en.wikipedia.org/wiki/Lost_in_the_Fumes)
 - [Dim Sum Daily: Security Bureau reviewing Netflix film on Joshua Wong (15 Sept 2026)](https://www.dimsumdaily.hk/security-bureau-reviewing-netflix-film-on-joshua-wong/)
+- [CNA 中央社: Hong Kong short "Three Little Pigs" wins Golden Horse; team dedicates it to those in prison (22 Nov 2026)](https://www.cna.com.tw/news/amov/202611220170.aspx)
