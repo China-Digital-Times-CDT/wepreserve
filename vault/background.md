@@ -6,6 +6,10 @@ updated: 1651716036641
 created: 1648526223736
 ---
 
+![Protesters near Cotton Tree Drive, Hong Kong, 18 August 2019](/assets/background/hk-protest-20190818-studio-incendo.jpg)
+
+*Protesters gather near Cotton Tree Drive (紅棉路), Admiralty, during Hong Kong's anti-extradition-bill protests, 18 August 2019 — the road barrier marked with the movement's slogan "光復香港 時代革命" (Liberate Hong Kong, Revolution of Our Times). Photo: Studio Incendo, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hong_Kong_protests_-_IMG_20190818_202037.jpg).*
+
 Since 2020, Hong Kong has been subject to the National Security Law imposed by the central government, sparking strong backlash from both local and international communities.
 
 In the wake of the law’s implementation, civil society in Hong Kong has suffered devastating setbacks—not only through the arrest or exile of key activists, but also through the dismantling of their projects and the loss of public information channels.
