@@ -28,6 +28,7 @@ A catastrophic fire at Wang Fuk Court in Tai Po, Hong Kong, engulfed seven of ei
 | **Criminal case** | 7 people + 2 firms (Prestige Construction, Will Power Architects) face **25 charges incl. manslaughter**; next hearing **14 Jan 2027**. |
 | **Reforms** | Criminalise bid-rigging, scrap and replace the ICU, a new Building Maintenance authority, and a Buildings Ordinance overhaul. |
 | **Resettlement** | HK$6.8b buyback; **99.1% accepted, 17 holdouts**; a months-long fight for a homeowners' meeting. → [[hong-kong-fire-2025.resettlement]] |
+| **One year on** | The **first anniversary** — 26 Nov 2026: memorials and the pressure on them, survivors a year later. → [[hong-kong-fire-2025.anniversary]] |
 
 ## Key Facts
 - **Impact and scale**: Fire began ~2:52 p.m. on Nov 26, 2025 at Wang Fuk Court, Tai Po (~2,000 flats/~4,600 residents; ~40% aged 65+). Seven of eight towers burned; 200 fire trucks, 100 ambulances, and >800 firefighters/paramedics deployed. Building fatalities: Wang Tai 82, Wang Cheong 70, Wang Sun 3, Wang Do 2, Wang Shing 1; none in Wang Yan/Wang Kin/Wang Chi; one victim not yet tied to a block (UDN/Ming Pao/TVBS/DotDotNews). SPCA estimates >537 animals affected; 364 found (294 survived, 70 died, 173 missing) ([RTHK](https://news.rthk.hk/rthk/ch/component/k2/1834467-20251203.htm)).
@@ -41,6 +42,7 @@ A catastrophic fire at Wang Fuk Court in Tai Po, Hong Kong, engulfed seven of ei
 - [[hong-kong-fire-2025.resettlement]] — the buyback, the 17 holdouts, rehousing, and the homeowners'-meeting fight with administrator Hop On.
 - [[hong-kong-fire-2025.people]] — victims and residents, responders, officials, experts, the accused, and whistleblowers.
 - [[hong-kong-fire-2025.activism]] — vigils and mourning, solidarity and donations, and the suppression of dissent.
+- [[hong-kong-fire-2025.anniversary]] — **One year on**: the first anniversary (26 Nov 2026), its commemorations and the pressure on them, and survivors a year later.
 
 ## References
 - Resettlement and displaced residents: AP ([Hong Kong fire victims long for home as Lunar New Year stirs painful memories](https://apnews.com/article/hong-kong-resettlement-fire-tai-po-2caedfdaee6f9460351e257cdcaeef1d)).

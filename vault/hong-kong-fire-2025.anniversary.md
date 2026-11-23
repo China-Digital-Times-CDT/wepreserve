@@ -1,0 +1,30 @@
+---
+id: anv1y0fire2026hktaipo7q
+title: One Year On
+desc: The first anniversary of the Wang Fuk Court fire — commemoration, its policing, and survivors a year later.
+updated: 1795900000000
+created: 1795900000000
+---
+
+Parent: [[hong-kong-fire-2025]]
+
+The **first anniversary** of the Wang Fuk Court fire falls on **26 November 2026** — one year after the blaze killed **168 people** in Tai Po, Hong Kong's deadliest fire since 1948. This page follows how that anniversary is marked: the commemorations and the pressure brought to bear on them, and the survivors and families a year on. The **immediate** aftermath of 2025 — the three-day citywide mourning, the 頭七, and the first diaspora vigils — is recorded under [[Vigils and Mourning|hong-kong-fire-2025.activism]]; the fuller story of the cause, the report, accountability, resettlement and the criminal case lives across the [[collection hub|hong-kong-fire-2025]] and its pages.
+
+## Commemoration, vigils and their policing
+
+- **2026-11-12 — Memorial Masses under police scrutiny:** As the anniversary approached, Hong Kong police reportedly **questioned two Catholic churches** over planned Wang Fuk Court memorial Masses; one parish replaced its anniversary Mass with a general ceremony for the year's dead. Cardinal **Stephen Chow** (周守仁) responded by inviting **every parish** in the diocese to offer a Mass for the fire's victims on **26 Nov 2026**. Chief Secretary **Eric Chan** (陳國基) said lawful memorials would **not** be blocked, while warning that people "with ulterior motives" were promoting memorial gatherings online to draw crowds into "disruptive acts" ([HKFP](https://hongkongfp.com/2026/11/12/hong-kong-police-reportedly-question-two-catholic-churches-over-tai-po-fire-memorial-masses/) · [SCMP](https://www.scmp.com/news/hong-kong/society/article/3375267/tai-po-fire-memorial-events-victims-wont-be-blocked-eric-chan-says) · [The Pillar](https://www.pillarcatholic.com/p/cardinal-chow-calls-for-hk-fire-memorial)).
+- **2026-11-21/22 — Migrant-worker survivors' PolyU event cancelled:** A book launch and stage performance by **Indonesian migrant domestic workers** who survived the fire — the second volume of *What We Carry, Under the Same Sky*, with poetry, drama and a prayer of mourning — set for **22 Nov** at **Hong Kong Polytechnic University** (Room ST111), was cancelled **less than a day beforehand**. Organisers **Microlab Collective** (a cross-disciplinary platform tied to PolyU's English & Communication department) and the **Indonesian Migrant Workers Union (印尼移工聯盟, JBMI)** cited only "**unforeseen circumstances**," gave no reason, and said they hoped to reschedule. The year-long workshop had gathered survivors' essays, poems, photographs and artwork into the book; participants had rehearsed on their days off, and some bereaved workers' families had planned to attend. The silenced work was the survivors' own testimony — a **30-minute play they wrote, directed and performed themselves** — of months of insomnia and "seeing red" on closing their eyes, of guilt over a cat left behind in the flames, of a childhood friend (**Erawati**) who died in a stairwell after a last FaceTime to say goodbye to her son, closing on the line they had written: *"you are all mothers, who came to a faraway place to work for your children."* The fire killed **10 foreign domestic workers** among its 168 dead and affected **225** Indonesian and Filipino helpers ([集誌社 The Collective](https://thecollectivehk.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4%EF%BD%9C%E5%80%96%E5%AD%98%E5%A4%96%E5%82%AD%E7%90%86%E5%A4%A7%E5%81%9A%E8%A9%B1%E5%8A%87%E3%80%81%E7%99%BC%E5%B8%83%E6%96%B0%E6%9B%B8/) · [HK01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413496/) · [法庭線 The Witness](https://thewitnesshk.com/%E5%AE%8F%E7%A6%8F%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4-%E5%80%96%E5%AD%98%E5%A4%96%E5%82%AD%E8%91%97%E6%9B%B8%E5%AF%AB%E5%8A%87%E7%99%82%E5%82%B7-%E6%B4%BB%E5%8B%95%E5%9B%A0%E4%B8%8D%E5%8F%AF%E9%A0%90/)).
+
+## Survivors and families, one year on
+
+- **A bereaved family (集誌社, 16 Nov 2026):** In a video record titled *"IT'S OK TO BE NOT OK"*, the survivors of a family that lost **four of its seven members** — the grandmother, the father, 15-month-old **"Yan Yan" (欣欣)** and their foreign domestic worker (the [[Wang Tai House family|hong-kong-fire-2025.people]] whose seven-hour rescue call went dead on the 14th floor) — described a year lived through grief: sorting the dead's belongings, psychiatric treatment, and visits to the cemetery. The surviving uncle **李俊豪**, the mother **"Ali"** and the grandfather said the trauma of losing family has never healed, and called for a **memorial monument (紀念碑)** to be raised at Wang Fuk Court so that this "**man-made disaster**" (人禍) warns future generations ([集誌社 The Collective](https://thecollectivehk.com/%E5%BD%B1%E5%83%8F%E8%A8%98%E9%8C%84%EF%BD%9C%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4%E3%80%80its-ok-to-be-not-ok/)).
+
+## Where things stand (one year on)
+
+A year after the fire, the threads run on across the collection:
+
+- **The 168 dead** — remembered by name → [[In Memoriam|hong-kong-fire-2025.victims]].
+- **The report** — the Independent Committee's redacted report, published **29 Oct 2026** → [[hong-kong-fire-2025.report]].
+- **Accountability** — CE John Lee and seven officials bowed in apology; Housing chief **Winnie Ho** resigned, the only official held to account → [[hong-kong-fire-2025.report]].
+- **The criminal case** — 7 people + 2 firms face **25 charges incl. manslaughter**; next hearing **14 Jan 2027** → [[hong-kong-fire-2025.investigation]].
+- **Resettlement** — HK$6.8b buyback; **99.1% accepted, 17 holdouts**; the homeowners'-meeting fight → [[hong-kong-fire-2025.resettlement]].
