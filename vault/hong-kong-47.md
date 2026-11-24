@@ -8,6 +8,10 @@ created: 1789128000000
 
 Related: [[⚖️ Jimmy Lai|faces-of-the-crackdown.jimmy-lai]] | [[Hong Kong Alliance|sites.hka]] | [[🎵 Glory to Hong Kong|glory-to-hong-kong]] | [[📕 Book Censorship under the NSL|book-censorship]]
 
+![Primary organisers promote the pro-democracy "35+" primary, Hong Kong, 11 July 2020](/assets/hong-kong-47/hk47-primary-2020-voa.jpg)
+
+*Primary organisers Andrew Chiu, Au Nok-hin and Benny Tai (left to right) announce the start of voting in the pro-democracy camp's "35+" primary, 11 July 2020 — the unofficial election for which the Hong Kong 47 were later prosecuted. Photo: Iris Tong / VOA Cantonese, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E5%88%9D%E9%81%B8%E5%A4%9A%E5%8D%80%E7%8F%BE%E4%BA%BA%E9%BE%8D.jpg).*
+
 The **Hong Kong 47** (民主派初選案) is the largest single prosecution ever brought under the 2020 **National Security Law** — a case that put nearly the entire front rank of the city's opposition in the dock at once. In the winter of 2021, **47 pro-democracy figures** — former lawmakers, district councillors, unionists, a journalist, students and academics — were charged with **conspiracy to commit subversion** for organising or standing in an **unofficial primary election**. Their alleged crime was to have tried to win a majority in the Legislative Council through the ballot box. By the time the courts were done, **45 of the 47 had been convicted** and jailed for terms of up to **10 years**, in a trial held **without a jury** before judges hand-picked for national-security cases.
 
 ## The "35+" plan

@@ -8,6 +8,10 @@ created: 1790640000000
 
 Related: [[✊ Faces of the Crackdown|faces-of-the-crackdown]] | [[⚖️ Jimmy Lai|faces-of-the-crackdown.jimmy-lai]] | [[📕 Book Censorship under the NSL|book-censorship]] | [[🕯️ Tiananmen Vigil|tiananmen-vigil]]
 
+![Journalists deliver a petition at Hong Kong Police Headquarters, July 2019](/assets/press-freedom/journalists-silent-march-2019-voa.jpg)
+
+*Reporters and press-freedom groups deliver a petition at Hong Kong Police Headquarters at the end of the journalists' silent march, July 2019 — a protest against police violence toward the press, their banners reading "Stop Police Violence, Defend Press Freedom." Photo: VOA Chinese, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:190714%20Journalists%27%20silent%20march.jpg).*
+
 For a generation Hong Kong had one of the **freest presses in Asia** — a noisy, competitive media market protected by the Basic Law's guarantee of press freedom, where Reporters Without Borders once ranked the city **18th in the world** (2002). In the space of five years that was dismantled. The two biggest independent newsrooms were **raided and shut**, their editors jailed; a **colonial-era sedition law** was revived and then sharpened into a weapon carrying years in prison; and by 2025 RSF had dropped Hong Kong to **140th of 180**, into the "**red zone**" of "very serious" repression for the first time, placing it alongside mainland China. This page gathers that record — the outlets destroyed, the journalists prosecuted, and the laws used to do it — and links to the newsrooms this archive has preserved.
 
 > Since 2020 the Hong Kong government has prosecuted **at least 28 journalists**, eight of whom were in custody as of 2025 (Reporters Without Borders). *"At RSF, we have never seen such a sharp and rapid deterioration in the press-freedom record of any country or territory."*
