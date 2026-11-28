@@ -51,6 +51,10 @@ Announced by Deputy Chief Secretary **Warner Cheuk** (卓永興) on 27 March, re
 
 Separate from the buyback, a government-led **Wang Fuk Court Assistance Fund** (~HK$2.3b: ~HK$2b donations + HK$300m government seed) made emergency disbursements: **HK$200,000 condolence** and **HK$50,000 funeral** per fatality, and **HK$50,000 living allowance** per affected household (announced by Secretary for Home and Youth Affairs **Alice Mak**). For the corporate and philanthropic donation roster, see **Donations and Aid** on [[hong-kong-fire-2025.activism]].
 
+## The home they can't return to
+
+The buyout cleared not just flats but a neighbourhood pulled up by the roots. On the eve of the first anniversary, **法庭線 The Witness** asked former residents to send in their own photographs and help rebuild Wang Fuk Court as it was before the fire — an interactive, growing memorial, **[記宏福—回不去的家](https://thewitnesshk.com/wfremembrance/)** ("Remembering Wang Fuk — the home we can't return to"), reconstructing the estate floor by floor from the memories of **99 former residents** and counting (first version, 27 Nov 2026; photos used with residents' permission). As its makers ask: *"when we say we want to remember Wang Fuk, what is it we want to remember?"*
+
 ## See also
 - [[hong-kong-fire-2025.people]] — displaced-resident profiles (Pearl Chow, Kit Chan, Isaac Tam and others).
 - [[hong-kong-fire-2025.activism]] — the homeowners'-meeting fight as civic action, and the donation roster.
