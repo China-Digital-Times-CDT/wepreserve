@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Boom News (爆炸頭) — archived replay</title>
+<style>
+  html, body { margin: 0; padding: 0; height: 100%; background: #111; }
+  replay-web-page { display: block; width: 100%; height: 100vh; }
+  noscript { color: #eee; font-family: system-ui, sans-serif; display: block; padding: 1rem; }
+</style>
+<!-- ReplayWeb.page embed UI (v2.5.3), SELF-HOSTED under ./replay/ so it loads same-origin
+     ('self') and survives strict Content-Security-Policy / CDN outages. The service worker
+     (./replay/sw.js) is the full wabac.js bundle and synthesizes wombat.js etc. internally. -->
+<script src="/assets/boomnews/replay/ui.js"></script>
+</head>
+<body>
+<noscript>This archive viewer needs JavaScript. You can also open the archive directly at
+<a href="https://replayweb.page/">replayweb.page</a> and load the WACZ URL.</noscript>
+<replay-web-page
+  source="https://pub-24ab8cd7de4a4b2fa258f19bdf31e115.r2.dev/boomheadhk/boomheadhk-public.wacz"
+  url="https://www.facebook.com/boomheadhk/"
+  embed="replay-with-info"
+  replayBase="/assets/boomnews/replay/">
+</replay-web-page>
+</body>
+</html>
