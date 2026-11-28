@@ -193,6 +193,10 @@ For months after the fire the government **did not release the victims' names**.
 
 <p style="text-align:center;color:#666;font-size:0.9em;margin-top:1rem;">安息 · Rest in peace</p>
 
+## Their stories
+
+Where this page holds the **names**, the *South China Morning Post* has told some of the **lives** behind them — "stories of love, loss and courage" of the Tai Po fire victims, in a visual memorial: [*The soft stars that shine at night*](https://multimedia.scmp.com/infographics/news/hong-kong/article/3375275/tai-po-fire-memorial/) (SCMP graphics, 2026).
+
 ## About this list
 
 The names are given as they appear in the **prosecution's charge sheet**, read in open court on 10 June 2026 — the first time the full list became public. Because the names were first transcribed by journalists from that record, we cross-checked them across three independent transcriptions (HK01, Sing Tao, and the record kept on Chinese Wikipedia) and reconciled the few differences; a reputable source copy is preserved in the archive. We have deliberately **not** relied on state-media versions. The names are shown in the order of the court record. If you spot an error in a name — the thing that matters most on a page like this — please [tell us](https://github.com/China-Digital-Times-CDT/wepreserve/issues/new?template=04-bug-report.md) so we can correct it.
