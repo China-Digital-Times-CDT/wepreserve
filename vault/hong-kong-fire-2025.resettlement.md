@@ -10,6 +10,8 @@ Parent: [[hong-kong-fire-2025]]
 
 What happens to the ~2,000 flats and their owners after the fire is a story of its own: a government buyback of the seven ruined blocks, a long fight by owners for a statutory meeting with the government-appointed administrator, and the scramble for somewhere to live. This page gathers that thread. For the people living through it, see the displaced-resident profiles on [[hong-kong-fire-2025.people]]; for the dated sequence, [[hong-kong-fire-2025.timeline]].
 
+![The gutted, fire-blackened interior of a Wang Fuk Court flat after the blaze — the home residents were bought out of and cannot return to.](/assets/burnt_house_2.jpg)
+
 ## The buyback scheme
 
 - **The plan (21 Feb 2026).** The government offered to buy back flats in the **seven fire-damaged blocks** at **HK$8,000/sq ft** (without land premium) or **HK$10,500/sq ft** (with), with **flat-for-flat** exchanges available from 10 Home Ownership Scheme / Housing Society projects. **Wang Chi House** — the one block largely spared — was initially excluded. **Redevelopment was ruled out**, the government citing a 9–10-year timeline ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3344228/wang-fuk-court-buyback-plan-disappoints-some-residents-despite-generous-offer)).

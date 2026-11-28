@@ -8,6 +8,8 @@ created: 1764698071435
 
 Parent: [[hong-kong-fire-2025]]
 
+![Wang Fuk Court's gutted towers after the fire: melted green safety netting hangs from the facades while the bamboo scaffolding stands largely intact.](/assets/mesh_and_scaffolding.webp)
+
 **Jump to:** [Pre-2025 Context](#pre-2025-context) | [Timeline](#timeline) ([Phase 1 — Fire](#phase-1--the-fire-nov-2627-2025) · [2 — Recovery](#phase-2--recovery--mourning-nov-28--dec-31-2025) · [3 — Buyback](#phase-3--final-toll--the-buyback-plan-jan--feb-2026) · [4 — Inquiry](#phase-4--inquiry-hearings-belongings--charges-mar--jul-2026) · [5 — Winding down](#phase-5--winding-down--open-threads-aug-2026-)) | [International Response](#international-response) | [Diaspora Vigils](#diaspora-vigils) | [Analysis & Commentary](#analysis--commentary)
 
 ---

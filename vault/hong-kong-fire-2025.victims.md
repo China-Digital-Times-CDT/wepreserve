@@ -10,6 +10,8 @@ Parent: [[🔥 Hong Kong Fire 2025|hong-kong-fire-2025]]
 
 On **26 November 2025**, a fire at Wang Fuk Court in Tai Po killed **168 people** — Hong Kong's deadliest fire since 1948. This page exists to hold their names.
 
+![A wall of handwritten condolence notes for the fire's victims — messages in Chinese, English and Korean, among them "We will never forget," "Thank you firefighters," and "願逝者安息" (may the departed rest).](/assets/morn_1.jpg)
+
 ## Who they were
 
 The dead were **58 men and 110 women**, aged from **six months to 98 years**. Among them were **one firefighter** (senior fireman Ho Wai-ho), **two renovation workers**, **five construction workers**, and **ten foreign domestic helpers** — women from Indonesia and the Philippines who died alongside the families they worked for. **Thirty-seven households lost at least two members.** By 15 January 2026 all 168 had been identified through forensic work, and every missing-person case was resolved.
